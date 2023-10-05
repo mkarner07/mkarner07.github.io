@@ -17,9 +17,9 @@ title: Matthias Karner
 email: matthias.karner@gmx.at
 description: >- # this means to ignore newlines until "baseurl:"
   Stay curious!
-  #Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 twitter_username: #username
 linkedin_username: matthiaskarner
 github_username: mkarner07
@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Matthias Karner"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am into books, productivity and personal finances. In my professional life I work as head of IT and digitalization in an international corporation."
+  bio    : "Stay curious!" # "I am into books, productivity and personal finances. In my professional life I work as head of IT and digitalization in an international corporation."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -76,6 +76,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/matt_renrak"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/matthiaskarner"
 
 footer:
   links:
