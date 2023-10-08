@@ -5,7 +5,7 @@ title: "About"
 
 ## Hi, I'm Matthias!
 
-Good to see you!
+Great that you are here!
 
 I've always been an avid reader, and my reading preferences have evolved over the years. In my childhood, I delved into novels, during my student years, it was textbooks, and as a doctoral student, I immersed myself in scientific articles. Throughout my academic journey, I developed a deep appreciation for well-researched scientific papers and even had the privilege of contributing to this body of work by publishing several articles as part of my dissertation.
 
