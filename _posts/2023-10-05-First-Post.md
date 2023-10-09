@@ -18,7 +18,7 @@ My name is Matthias Karner and what you are reading is my very first post.
 
 I want to briefly tell you, why I created this webpage and started to write.
 
-I've always had a deep passion for reading, which evolved into a profound appreciation for curated content. My academic journey nurtured this love for well-researched material, eventually leading me to venture into the world of scientific article writing during my dissertation. In recent years, my publishing output slowed as my career transitioned into the industry.
+I've always had a deep passion for reading, which evolved into a profound appreciation for curated content. My academic journey nurtured this love for well-researched material, eventually leading me to venture into the world of scientific article writing during my dissertation. In recent years, my publishing output slowed as my career transitioned into the corporate world.
 
 Nevertheless, one thing remained constant — I never stopped reading.
 

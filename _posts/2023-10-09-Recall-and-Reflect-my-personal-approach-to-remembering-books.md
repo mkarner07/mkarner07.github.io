@@ -45,7 +45,7 @@ Once you've turned that final page of a book or reached the end of a lengthy art
 
 **1. Reconnect with Your Notes**
 
-First up, revisit those precious notes you took while immersed in your reading journey. Read your notes and read all the learings you wrote down Let's make sure those gems are fresh in your mind.
+First up, revisit those precious notes you took while immersed in your reading journey. Read your notes and read all the learings you wrote down. Let's make sure those gems are fresh in your mind.
 
 Ask yourself: "Are there additional insights I should add?" If the answer is yes, don't hesitate to curate and expand your notes. Your notes are a dynamic canvas, ready to capture every spark of knowledge.
 
