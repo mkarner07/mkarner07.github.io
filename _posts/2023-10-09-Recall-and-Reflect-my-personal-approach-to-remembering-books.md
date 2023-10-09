@@ -3,6 +3,7 @@ title: "Recall & Reflect: My Personal Approach to Remembering Books"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
+  - Personal Productivity
 tags:
   - Introduction
   - Blog
