@@ -33,7 +33,7 @@ It is important to create a place where the notes will live. You can use pencil 
 
 ### Reading Smart: During and After Your Reading Session
 
-Let's dive into a crucial aspect of each efficient reading session: breaking it down into two key phases - before and after.
+Let's dive into a crucial aspect of each efficient reading session: breaking it down into two key phases - during and after.
 
 **(i) The Power of Reading Mindfully**: When you're in the midst of a captivating reading session, here's a golden rule: always aim to complete a logical block. Why, you ask? Well, by doing so, you keep all those juicy insights neatly bundled together for easy access later. But what happens when you stumble upon a game-changing discovery, a life-altering nugget of wisdom? Two options: (i) mark it for quick reference, or (ii) set the book or article aside for a moment and jot down those fresh, buzzing ideas. Trust me, it's worth the pause!
 
