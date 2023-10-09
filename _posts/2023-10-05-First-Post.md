@@ -11,6 +11,7 @@ tags:
   - Digital Transformation of the Production
 
 ---
+![image](/assets/images/Write_unsplash.jpg)
 
 ## Hi and welcome!
 
