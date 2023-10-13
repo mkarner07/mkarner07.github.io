@@ -58,7 +58,7 @@ When it comes to retaining visual data, note-taking can be a game-changer. Jotti
 ### Dealing with different grades of visualizations
 In today's world, visualizations come in various forms and grades of quality. It's a valuable skill to be able to distinguish the core information from less skillfully crafted visualizations. Sometimes, sifting through poorly executed visuals can be a daunting task, but the rewards are worth it.
 
-For those looking to sharpen their skills in untangling well-crafted information from mediocre visualizations, I recommend the book ![Calling Bullshit: The Art of Skepticism in a Data-Driven World](https://callingbullshit.org/). This insightful resource delves into the art of skepticism in our data-driven era, providing valuable guidance on discerning fact from fiction and quality from mediocrity.
+For those looking to sharpen their skills in untangling well-crafted information from mediocre visualizations, I recommend the book [Calling Bullshit: The Art of Skepticism in a Data-Driven World](https://callingbullshit.org/). This insightful resource delves into the art of skepticism in our data-driven era, providing valuable guidance on discerning fact from fiction and quality from mediocrity.
 
 ## Conclusion
 In our data-driven world, mastering memory is essential. Whether it's written, auditory, or visual information, these strategies empower you to remember, learn, and apply knowledge effectively. Break down written content, embrace digital tools for audio, and explore and question visual data. By honing these skills, you'll navigate the data-driven world with confidence and precision, making the most of every piece of information you encounter.
