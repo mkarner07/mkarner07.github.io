@@ -2,13 +2,15 @@
 title: "First Post"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Personal Productivity
+  - Management and Leadership
+  - Digital Transformation
 tags:
   - Introduction
   - Blog
   - Personal Productivity
   - Management and Leadership
-  - Digital Transformation of the Production
+  - Digital Transformation
 
 ---
 ![image](/assets/images/Write-unsplash.jpg)
