@@ -2,7 +2,6 @@
 title: "Remembering in the Digital Age: Insights for Text, Audio and Visual Info"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
   - Personal Productivity
 tags:
   - Personal Productivity
