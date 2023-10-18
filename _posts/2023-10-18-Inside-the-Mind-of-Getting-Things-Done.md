@@ -1,5 +1,5 @@
 ---
-title: "Remembering in the Digital Age: Insights for Text, Audio and Visual Info"
+title: "Inside the Mind of 'Getting Things Done': The GTD Methodology"
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
