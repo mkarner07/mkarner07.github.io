@@ -46,7 +46,7 @@ Agile projectmanagement started as a (r)evolution on how to plan and execute pro
 
 ![image](/assets/images/SCRUM_Process.jpg)
 
-The Core principles of SCRUM is the sprint. A sprint is fixed timeframe (2-4 weeks) with a defined list of tasks and to dos - the (project) team comes together for the sprint planning at the beginning of the sprint.
+The Core principles of SCRUM is the sprint. A sprint is a fixed timeframe (2-4 weeks) with a defined list of tasks and to dos - the (project) team comes together for the sprint planning at the beginning of the sprint.
 
 SCRUM is a powerful method for doing projects in a shorter leadtime and achieve better results. If you are interested in a comprehensive overview of the method, Jeff Sutherland’s “[Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/46J8WQI)” is a great book.
 
