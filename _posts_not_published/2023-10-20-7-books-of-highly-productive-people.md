@@ -23,7 +23,6 @@ From debunking the relentless pursuit of positivity to the revelation that happi
 Got interested? Check out “[The subtle Art of not giving a f*ck](https://amzn.to/46BoPIR)”.
 
 
-
 ## The Effective Executive
 
 ![image](/assets/images/book_cover_the_effective_executive.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
@@ -32,11 +31,12 @@ This book is a treasure trove of wisdom; many books in the realms of productivit
 
 Drucker's insights unveil the secrets of successful leadership by highlighting eight crucial virtues, from meticulous planning to responsible decision-making and productive communication.
 
-In this riveting exploration, it is discover that, contrary to conventional belief, effectiveness isn't a mystical quality but a skill that can be learned and mastered. Drucker sheds light on the demanding role of leaders, who must juggle their time, balance operational tasks, and ensure their efforts serve the greater organizational good.
+In this riveting exploration, it is discovered that, contrary to conventional belief, effectiveness isn't a mystical quality but a skill that can be learned and mastered. Drucker sheds light on the demanding role of leaders, who must juggle their time, balance operational tasks, and ensure their efforts serve the greater organizational good.
 
 Effective leaders, as Drucker unveils, possess a distinct set of qualities. They excel in time management, prioritize results over methods, harness strengths, establish clear priorities, and, perhaps most crucially, make impactful decisions.
 
 Dive into “[The Effective Executive](https://amzn.to/47g84Tx)” to unlock the secrets of becoming an influential and impactful leader!
+
 
 ## SCRUM: How to do twice the work in half the time
 
@@ -50,11 +50,13 @@ The Core principles of SCRUM is the sprint. A sprint is fixed timeframe (2-4 wee
 
 SCRUM is a powerful method for doing projects in a shorter leadtime and achieve better results. If you are interested in a comprehensive overview of the method, Jeff Sutherland’s “[Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/46J8WQI)” is a great book.
 
+
 ## The Lean Startup
 
 ![image](/assets/images/book_cover_the_lean_startup.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
 URL: https://amzn.to/3Mal2tB
+
 
 ## Getting Things Done
 
@@ -64,11 +66,13 @@ If you want to learn more about the GTD methodology, check out my article “Ins
 
 URL: https://amzn.to/3tM3NbC
 
+
 ## How to win friends and influence people
 
 ![image](/assets/images/book_cover_how_to_win_friends.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
 URL: https://amzn.to/46WyKZ5
+
 
 ## 7 Habits of Highly Effective People
 

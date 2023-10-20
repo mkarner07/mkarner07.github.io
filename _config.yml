@@ -133,3 +133,6 @@ analytics:
   google:
     tracking_id: "G-FBFP6R565J"
     anonymize_ip: false # default
+
+atom_feed:
+  hide: true
