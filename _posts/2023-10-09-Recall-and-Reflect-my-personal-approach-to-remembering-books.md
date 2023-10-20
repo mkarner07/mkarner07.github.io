@@ -3,7 +3,7 @@ title: "Recall & Reflect: My Personal Approach to Remembering Books"
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
-  - Reading
+  
 tags:
   - Personal Productivity
   - Notetaking
