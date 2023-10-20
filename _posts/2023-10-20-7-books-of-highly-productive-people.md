@@ -88,4 +88,4 @@ It all begins with paradigms – those external influences shaping how we percei
 
 The book is sectioned into two victories: private victory (the first three habits) and public victory (the next three habits). The last habit “renewal” is about self-improvement, comprising four elements: physical fitness, spiritual pursuits, continuous mental growth and seeking win-win solutions.
 
-You got unterested? Check out the full book “[7 Habits of Highly Effective People](https://amzn.to/45DhUh0)”.
+You got interested? Check out the full book “[7 Habits of Highly Effective People](https://amzn.to/45DhUh0)”.
