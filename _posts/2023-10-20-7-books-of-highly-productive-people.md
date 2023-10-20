@@ -76,7 +76,7 @@ If you want to learn more about the GTD methodology, check out my article “Ins
 
 ![image](/assets/images/book_cover_how_to_win_friends.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
-Dale Carnegie's timeless classic, "How to Win Friends and Influence People," is your ultimate guide to mastering the art of human connection. Packed with practical wisdom, this book reveals the secrets to building strong relationships and wielding influence in any sphere of life. It teaches the power of genuine interest, active listening, and the art of giving sincere compliments. With an emphasis on empathy and understanding, Carnegie's principles foster cooperation and harmony, both personally and professionally. In a world where social skills and effective communication are paramount, this book remains an essential resource for becoming a true people-person and a force to be reckoned with.
+Dale Carnegie's timeless classic, ["How to Win Friends and Influence People"](https://amzn.to/46WyKZ5) is your ultimate guide to mastering the art of human connection. Packed with practical wisdom, this book reveals the secrets to building strong relationships and wielding influence in any sphere of life. It teaches the power of genuine interest, active listening, and the art of giving sincere compliments. With an emphasis on empathy and understanding, Carnegie's principles foster cooperation and harmony, both personally and professionally. In a world where social skills and effective communication are paramount, this book remains an essential resource for becoming a true people-person and a force to be reckoned with.
 
 ## 7 Habits of Highly Effective People
 
