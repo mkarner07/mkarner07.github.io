@@ -42,13 +42,13 @@ Got interested? Check out “[The subtle Art of not giving a f*ck](https://amzn.
 
 ![image](/assets/images/book_cover_scrum.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
-Agile projectmanagement started as a (r)evolution on how to plan and execute projects in softwaredevlopment with the [agile manifesto](https://agilemanifesto.org/). The SCRUM method, which is a widely used agile method, is introduced in this insightful book by one of the method’s father himself: Jeff Sutherland. The method is not just restricted to softwaredevlopment, but can be applied in fields as construction, personal projects etc.
+Agile projectmanagement started as a (r)evolution on how to plan and execute projects in softwaredevlopment with the [agile manifesto](https://agilemanifesto.org/). The SCRUM method, which is a widely used agile method, is introduced in this insightful book by one of the method’s father himself: Jeff Sutherland. The method is not just restricted to softwaredevlopment, but can be applied in fields such as construction, personal projects etc.
 
 ![image](/assets/images/SCRUM_Process.jpg)
 
-The Core principles of SCRUM is the sprint. A sprint is a fixed timeframe (2-4 weeks) with a defined list of tasks and to dos - the (project) team comes together for the sprint planning at the beginning of the sprint.
+The Core principles of SCRUM is the sprint. A sprint is a fixed timeframe (2-4 weeks) with a defined list of tasks and to dos - the (project) team comes together for the sprint planning at the beginning of the sprint and jointly lays out the task for the upcoming weeks.
 
-SCRUM is a powerful method for doing projects in a shorter leadtime and achieve better results. If you are interested in a comprehensive overview of the method, Jeff Sutherland’s “[Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/46J8WQI)” is a great book.
+SCRUM is a powerful method for doing projects in a shorter leadtime while simultaneously achieve better results. If you are interested in a comprehensive overview of the method, Jeff Sutherland’s “[Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/46J8WQI)” is a great book.
 
 
 ## The Lean Startup
@@ -57,7 +57,7 @@ SCRUM is a powerful method for doing projects in a shorter leadtime and achieve 
 
 In the captivating journey of "The Lean Startup" by Eric Ries, we embark on a quest to uncover the secrets of entrepreneurial success. Ries reveals a revolutionary approach to building thriving businesses, emphasizing five fundamental principles, including the ubiquity of entrepreneurship and the art of validated learning.
 
-We explore the power of Cross-Functional Teams (CFTs) as agents of innovation, understanding that innovation thrives on continuous learning and adaptation. Ries walks us through real-world examples, like Dropbox and Food on the Table, demonstrating how small, cost-effective MVPs and actionable metrics play pivotal roles in the Lean Startup methodology.
+We explore the power of Cross-Functional Teams as agents of innovation, understanding that innovation thrives on continuous learning and adaptation. Ries walks us through real-world examples, like Dropbox and Food on the Table, demonstrating how small, cost-effective MVPs and actionable metrics play pivotal roles in the Lean Startup methodology.
 
 Ries encourages startups to pivot when necessary, adapting to market feedback and testing hypotheses rigorously. He also highlights the importance of rapid learning through efficient processes, much like the Toyota Production System's One-Piece Flow concept. With an emphasis on growth and adaptation, "[The Lean Startup](https://amzn.to/3Mal2tB)" offers a groundbreaking roadmap to entrepreneurial success, making it a must-read for aspiring and seasoned business innovators alike.
 
@@ -88,4 +88,4 @@ It all begins with paradigms – those external influences shaping how we percei
 
 The book is sectioned into two victories: private victory (the first three habits) and public victory (the next three habits). The last habit “renewal” is about self-improvement, comprising four elements: physical fitness, spiritual pursuits, continuous mental growth and seeking win-win solutions.
 
-I can highly recommend the book “[7 Habits of Highly Effective People](https://amzn.to/45DhUh0)”.
+You got unterested? Check out the full book “[7 Habits of Highly Effective People](https://amzn.to/45DhUh0)”.
