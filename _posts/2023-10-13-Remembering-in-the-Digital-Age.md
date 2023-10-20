@@ -21,7 +21,7 @@ In this article, we'll explore techniques to conquer the information overload an
 ## Remembering Written Information
 For most of us, written information is the bedrock of knowledge. Books, articles, and online content provide us with a wealth of insights, but how can we ensure this valuable information doesn't slip through the cracks?
 
-One effective strategy is to divide written content into logical blocks. Before you even think about taking notes, read an entire logical block. This approach is universal and works wonders for texts of all lengths. After absorbing a block of information, take a short break and jot down the key points you want to remember. This not only reinforces your memory but also makes the information readily available when you need it.
+One effective strategy is to divide written content into logical blocks. Before you take notes extensively, read an entire logical block. This approach is universal and works wonders for texts of all lengths. After absorbing a block of information, take a short break and jot down the key points you want to remember. This not only reinforces your memory but also makes the information readily available when you need it.
 
 How to take notes, sort them, and arrange them is something that must suit your note-taking style. If you are interesed in my personal approach that can significantly enhance your recall, consider exploring the article [Recall & Reflect: My Personal Approach to Remembering Books]({% post_url 2023-10-09-Recall-and-Reflect-my-personal-approach-to-remembering-books %}). It offers insights into a strategy designed to boost your ability to remember what you read.
 
