@@ -55,27 +55,37 @@ SCRUM is a powerful method for doing projects in a shorter leadtime and achieve 
 
 ![image](/assets/images/book_cover_the_lean_startup.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
-URL: https://amzn.to/3Mal2tB
+In the captivating journey of "The Lean Startup" by Eric Ries, we embark on a quest to uncover the secrets of entrepreneurial success. Ries reveals a revolutionary approach to building thriving businesses, emphasizing five fundamental principles, including the ubiquity of entrepreneurship and the art of validated learning.
+
+We explore the power of Cross-Functional Teams (CFTs) as agents of innovation, understanding that innovation thrives on continuous learning and adaptation. Ries walks us through real-world examples, like Dropbox and Food on the Table, demonstrating how small, cost-effective MVPs and actionable metrics play pivotal roles in the Lean Startup methodology.
+
+Ries encourages startups to pivot when necessary, adapting to market feedback and testing hypotheses rigorously. He also highlights the importance of rapid learning through efficient processes, much like the Toyota Production System's One-Piece Flow concept. With an emphasis on growth and adaptation, "[The Lean Startup](https://amzn.to/3Mal2tB)" offers a groundbreaking roadmap to entrepreneurial success, making it a must-read for aspiring and seasoned business innovators alike.
 
 
 ## Getting Things Done
 
 ![image](/assets/images/book_cover_getting_things_done.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
+Unlocking your productivity and conquering the chaos of daily life - that's the promise of the 'Getting Things Done' (GTD) method. The key lies in achieving 'flow state,'; this is where productivity soars and stress plummets, starting with the liberating act of 'Mind Dumping.' GTD's five-stage workflow process, from 'Capture' to 'Engage,' forms the foundation for mastering your workflow.
+
+Embracing digital efficiency, the principles can adapt to today's tech-driven world, ensuring every piece of information finds its place in your system. Furthermore GTD provides easy but effective methods such as the 'two-minute rule' and 'next action' – turning vague to-dos into precise, actionable steps. In conclusion, GTD offers easy yet powerful techniques to boost productivity and reclaim control of your life.
+
 If you want to learn more about the GTD methodology, check out my article “Inside the Mind of 'Getting Things Done': The GTD Methodology”. Still want more? Check out the full book [Getting Things Done: The Art of Stress-Free Productivity](https://amzn.to/3tM3NbC).
-
-URL: https://amzn.to/3tM3NbC
-
 
 ## How to win friends and influence people
 
 ![image](/assets/images/book_cover_how_to_win_friends.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
-URL: https://amzn.to/46WyKZ5
-
+Dale Carnegie's timeless classic, "How to Win Friends and Influence People," is your ultimate guide to mastering the art of human connection. Packed with practical wisdom, this book reveals the secrets to building strong relationships and wielding influence in any sphere of life. It teaches the power of genuine interest, active listening, and the art of giving sincere compliments. With an emphasis on empathy and understanding, Carnegie's principles foster cooperation and harmony, both personally and professionally. In a world where social skills and effective communication are paramount, this book remains an essential resource for becoming a true people-person and a force to be reckoned with.
 
 ## 7 Habits of Highly Effective People
 
 ![image](/assets/images/book_cover_7_habits.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
-URL: https://amzn.to/45DhUh0
+You cannot talk about productivity without mentioning this book. This book, consistently perched at the top of management lists, drews you in with its compelling insights.
+
+It all begins with paradigms – those external influences shaping how we perceive the world. These paradigms are stubborn, but a shift in perspective can work wonders, as illustrated by captivating stories. Stephen Covey advocates the "inside-out" approach, urging us to be proactive and self-reliant. He introduces the seven habits, kicking off with moving from independence to interdependence, emphasizing the power of teamwork.
+
+The book is sectioned into two victories: private victory (the first three habits) and public victory (the next three habits). The last habit “renewal” is about self-improvement, comprising four elements: physical fitness, spiritual pursuits, continuous mental growth and seeking win-win solutions.
+
+I can highly recommend the book “[7 Habits of Highly Effective People](https://amzn.to/45DhUh0)”.
