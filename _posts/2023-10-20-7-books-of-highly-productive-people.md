@@ -12,16 +12,7 @@ tags:
 
 ---
 
-## The subtle Art of not giving a f*ck
-
-![image](/assets/images/book_cover_the_subtle_art.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
-
-Written by no one less than the productivty-blogging guru Mark Manson, this book provides you with insights how to prioritize. It's written in an irresistibly engaging manner, making you eager to continue reading; it's brimming with humor and captivating charm.
-
-From debunking the relentless pursuit of positivity to the revelation that happiness is indeed a problem, Manson's raw and thought-provoking insights challenge conventional wisdom. The book explores the paradox of embracing suffering as a path to growth and urges readers to take control of their choices and responsibilities. With each chapter offering a fresh perspective on life's complexities, Manson's unfiltered wisdom promises to ignites ideas and a thirst for applying his insights in productivity.
-
-Got interested? Check out “[The subtle Art of not giving a f*ck](https://amzn.to/46BoPIR)”.
-
+There are tons of books about personal productivity out there. In this article I want to show you my personal top 7.
 
 ## The Effective Executive
 
@@ -37,6 +28,15 @@ Effective leaders, as Drucker unveils, possess a distinct set of qualities. They
 
 Dive into “[The Effective Executive](https://amzn.to/47g84Tx)” to unlock the secrets of becoming an influential and impactful leader!
 
+## The subtle Art of not giving a f*ck
+
+![image](/assets/images/book_cover_the_subtle_art.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+
+Written by no one less than the productivty-blogging guru Mark Manson, this book provides you with insights how to prioritize. It's written in an irresistibly engaging manner, making you eager to continue reading; it's brimming with humor and captivating charm.
+
+From debunking the relentless pursuit of positivity to the revelation that happiness is indeed a problem, Manson's raw and thought-provoking insights challenge conventional wisdom. The book explores the paradox of embracing suffering as a path to growth and urges readers to take control of their choices and responsibilities. With each chapter offering a fresh perspective on life's complexities, Manson's unfiltered wisdom promises to ignites ideas and a thirst for applying his insights in productivity.
+
+Got interested? Check out “[The subtle Art of not giving a f*ck](https://amzn.to/46BoPIR)”.
 
 ## SCRUM: How to do twice the work in half the time
 
@@ -44,7 +44,7 @@ Dive into “[The Effective Executive](https://amzn.to/47g84Tx)” to unlock the
 
 Agile projectmanagement started as a (r)evolution on how to plan and execute projects in softwaredevlopment with the [agile manifesto](https://agilemanifesto.org/). The SCRUM method, which is a widely used agile method, is introduced in this insightful book by one of the method’s father himself: Jeff Sutherland. The method is not just restricted to softwaredevlopment, but can be applied in fields as construction, personal projects etc.
 
-![image](/assets/images/SCRUM_Process.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+![image](/assets/images/SCRUM_Process.jpg)
 
 The Core principles of SCRUM is the sprint. A sprint is fixed timeframe (2-4 weeks) with a defined list of tasks and to dos - the (project) team comes together for the sprint planning at the beginning of the sprint.
 
@@ -82,7 +82,7 @@ Dale Carnegie's timeless classic, "How to Win Friends and Influence People," is 
 
 ![image](/assets/images/book_cover_7_habits.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
-You cannot talk about productivity without mentioning this book. This book, consistently perched at the top of management lists, drews you in with its compelling insights.
+You cannot talk about productivity without mentioning this book. This book, consistently perched at the top of management-literature-lists, drews you in with its compelling insights.
 
 It all begins with paradigms – those external influences shaping how we perceive the world. These paradigms are stubborn, but a shift in perspective can work wonders, as illustrated by captivating stories. Stephen Covey advocates the "inside-out" approach, urging us to be proactive and self-reliant. He introduces the seven habits, kicking off with moving from independence to interdependence, emphasizing the power of teamwork.
 
