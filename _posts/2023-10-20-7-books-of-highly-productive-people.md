@@ -1,5 +1,5 @@
 ---
-title: "7 books of highly productive people"
+title: "7 books for highly productive people"
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
