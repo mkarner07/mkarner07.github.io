@@ -1,5 +1,6 @@
 ---
 title: "First Post"
+date: 2023-10-05
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
