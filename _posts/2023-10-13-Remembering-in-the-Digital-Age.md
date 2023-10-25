@@ -1,5 +1,6 @@
 ---
 title: "Remembering in the Digital Age: Insights for Text, Audio and Visual Info"
+date: 2023-10-13
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
