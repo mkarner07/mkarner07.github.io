@@ -1,5 +1,6 @@
 ---
 title: "Inside the Mind of 'Getting Things Done': The GTD Methodology"
+date: 2023-10-18
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
