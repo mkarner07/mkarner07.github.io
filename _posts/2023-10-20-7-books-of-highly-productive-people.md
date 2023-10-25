@@ -1,5 +1,6 @@
 ---
 title: "7 books for highly productive people"
+date: 2023-10-20
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
