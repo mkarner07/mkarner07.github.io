@@ -1,5 +1,6 @@
 ---
 title: "Recall & Reflect: My Personal Approach to Remembering Books"
+date: 2023-10-09
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
