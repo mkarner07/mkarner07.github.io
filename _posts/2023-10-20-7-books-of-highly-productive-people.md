@@ -71,7 +71,7 @@ Unlocking your productivity and conquering the chaos of daily life - that's the 
 
 Embracing digital efficiency, the principles can adapt to today's tech-driven world, ensuring every piece of information finds its place in your system. Furthermore GTD provides easy but effective methods such as the 'two-minute rule' and 'next action' – turning vague to-dos into precise, actionable steps. In conclusion, GTD offers easy yet powerful techniques to boost productivity and reclaim control of your life.
 
-If you want to learn more about the GTD methodology, check out my article [“Inside the Mind of 'Getting Things Done': The GTD Methodology”]{{ site.baseurl }}{% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %}. Still want more? Check out the full book [Getting Things Done: The Art of Stress-Free Productivity](https://amzn.to/3tM3NbC).
+If you want to learn more about the GTD methodology, check out my article "[Inside the Mind of 'Getting Things Done': The GTD Methodology]({% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %})". Still want more? Check out the full book [Getting Things Done: The Art of Stress-Free Productivity](https://amzn.to/3tM3NbC).
 
 ## How to win friends and influence people
 
