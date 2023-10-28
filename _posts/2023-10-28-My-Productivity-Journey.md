@@ -143,7 +143,7 @@ In the process of post-processing a note, I just have to have a look at this one
 
 Up to this point, I still used my e-mail software’s task-section in combination with jotting down to-dos in my notes as my solution for task management. It was quite OK, but searching different places for my to-dos was not that effective and lead to somewhat redundant lists. 
 
-As I had recently read “Getting Things Done”, I decided to integrate my learnings into my task management strategy:
+As I had recently read "[Getting Things Done]({% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %})", I decided to integrate my learnings into my task management strategy:
 
 I integrated a “Waiting For List” as well as a “Someday Maybe List” and multiple “Next Action Lists” as sections in OneNote. To increase the efficiency, I also incorporated the process of adding a link to the relevant notes to my next actions: This reduces (i) the barrier of starting a task (which does not seem that enjoyable) and (ii) the time before I can get active working on a next action. Hence, keeping me productive.
 
