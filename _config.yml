@@ -82,12 +82,12 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://matthiaskarner.medium.com/"
-    - label: "Buy Me A Coffee"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.buymeacoffee.com/matthiaskarner"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Matthias-Karner-3"
+    - label: "Buy Me A Coffee"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.buymeacoffee.com/matthiaskarner"
 
 footer:
   links:
