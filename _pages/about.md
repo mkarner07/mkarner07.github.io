@@ -16,3 +16,10 @@ Today, I serve as the manager of a department dedicated to digitalization and IT
 With this website, I aim to change that narrative and rekindle my commitment to sharing knowledge and experiences with you, my readers. I'm excited to explore a range of topics that have captured my interest, including personal productivity, management and leadership, and the digital transformation of production processes.
 
 Together, we'll embark on a journey of exploration, learning, and growth.
+
+---
+
+If you enjoy my content, you can ...
+- ✍️ [Follow me on Medium](https://medium.com/@matthiaskarner).
+- ☕ [Buy me a Coffe](https://www.buymeacoffee.com/matthiaskarner).
+- 🌐 [Connect on LinkedIn](https://www.linkedin.com/in/matthiaskarner/).
