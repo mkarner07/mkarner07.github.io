@@ -83,7 +83,7 @@ author:
       icon: "fab fa-fw fa-medium"
       url: "https://matthiaskarner.medium.com/"
     - label: "Buy Me A Coffee"
-      icon: "fab fa-fw fa-buymeacoffee"
+      icon: "fas fa-fw fa-link"
       url: "https://www.buymeacoffee.com/matthiaskarner"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
