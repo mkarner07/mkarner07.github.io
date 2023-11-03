@@ -108,7 +108,7 @@ I always liked the idea of using a system to store / keep and organize all my kn
 
 But I was not sure how to incorporate a Second Brain in my workflow. So, before changing my set-up at work, I started small and created a structure in notion for my personal notetaking. At that time, I had started reading a lot of books and needed a way to “store” this valuable information somewhere anyways.
 
-To create my Second Brain I tried out different structures and ended up following a "[tutorial on Youtube](https://youtu.be/4bxpsvcW2mc?si=GsJM0N5mPjO51HXv)". I thought I had found a good structure for me.
+To create my Second Brain I tried out different structures and ended up following a [tutorial on Youtube](https://youtu.be/4bxpsvcW2mc?si=GsJM0N5mPjO51HXv). I thought I had found a good structure for me.
 
 I did not.
 
@@ -173,7 +173,7 @@ What did I learn?
 
 - **Easy is robust and robustness wins**: As soon as I found myself creating a complex structure of folders and sub-folders or coming up with 100s of tags, I struggled keeping track of them.
 - **You need to trust your system**: This one is from GTD. If you are unsure if your system is complete, it won’t bring you stress-free productivity.
-- **Redundancy is a killer in knowledge management:** Redundancy is similar to completeness. If the information on a certain topic is scattered across multiple lists/tools/etc. you will quickly find yourself having different versions not being sure which one is the current one.
+- **Redundancy is a killer in knowledge management**: Redundancy is similar to completeness. If the information on a certain topic is scattered across multiple lists/tools/etc. you will quickly find yourself having different versions not being sure which one is the current one.
 - **The system should minimize the effort required to initiate an action**: A good system must ensure that notetaking is not only seamless but also enhances your effectiveness by reducing the pre-action effort.
 
 To me, the world of productivity is fascinating, and I am already curious what tools and methods I will stumble across in the future!
