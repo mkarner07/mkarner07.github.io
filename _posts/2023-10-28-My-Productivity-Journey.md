@@ -60,7 +60,7 @@ My method needed improvement.
 
 ## The Zettelkasten
 
-I started reading productivity books and articles and stumbled across the method “Zettelkasten”. This is a method initially developed by the German professor Niklas Luhmann for structuring his research notes.
+I started reading productivity books and articles and stumbled across the method “Zettelkasten”. This is a method initially developed by the German professor Niklas Luhmann for structuring his research notes and made popular by the book "[How to Take Smart Notes](https://amzn.to/3QqimcC)".
 
 The core principle of the “Zettelkasten” method is to create individual, self-contained notes for every idea or piece of information. These notes are then connected with links (or tags) to form an organic structure of notes and most importantly: one note can be linked to more than one topic (folder).
 
