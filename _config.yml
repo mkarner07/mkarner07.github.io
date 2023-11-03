@@ -109,6 +109,9 @@ footer:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Matthias-Karner-3"
+    - label: "Buy Me A Coffee"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.buymeacoffee.com/matthiaskarner"
 
 defaults:
   # _posts
