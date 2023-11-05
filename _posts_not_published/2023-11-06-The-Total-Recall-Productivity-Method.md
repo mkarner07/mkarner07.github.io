@@ -33,7 +33,7 @@ In my job as an IT & Digitalization manager I use OneNote and for my personal pr
 
 TORP in OneNote starts with a Notebook consisting of a handful of sections and section-groups.
 
-![image](/assets/images/OneNote_System.PNG)
+![image](/assets/images/OneNote_System.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 - **Inbox**: This is where all notes written throughout the day go initially (before they are processed).
 - **Tasklist**: This is where to-do lists live.
@@ -55,7 +55,7 @@ It is the most summarized form of all information stored within the system and i
 
 When initiating your PARA Onepager, simply input the projects and areas that are currently on your plate or immediately come to mind. You can always make modifications later. Additional categories will naturally emerge when you can't locate a suitable one while processing a note.
 
-![image](/assets/images/OneNote_PARA_Onepager.PNG)
+![image](/assets/images/OneNote_PARA_Onepager.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 In the "Projects" section, you'll find a bulleted list of all your ongoing projects, just like in the "Areas" section. You can also include additional meta-information on the Onepager. Nonetheless, maintaining tidiness and avoiding excessively long lists is crucial, ensuring that you present the full picture at a single glance.
 
@@ -65,11 +65,11 @@ When you click on a project link, it will take you to another one-page summary d
 
 Another notable aspect of the project page is the ability to incorporate additional meta-information that might not be directly linked within a note or emerge from the content of multiple notes together.
 
-![image](/assets/images/OneNote_PARA_Project.PNG)
+![image](/assets/images/OneNote_PARA_Project.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 A note itself should be atomic and it is also handy to follow a certain naming convention as e.g. starting with the date and following it up with a short and descriptive title.
 
-![image](/assets/images/OneNote_PARA_Note.PNG)
+![image](/assets/images/OneNote_PARA_Note.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 That’s basically the knowledge-management part of TRP: Atomic notes > summary pages > PARA Onepager.
 
@@ -89,11 +89,11 @@ In OneNote it is a 5-step process:
 4. Add a link to the note at the relevant page.
 5. Go back to your inbox and move the note to the permanent storage.
 
-![image](/assets/images/OneNote_PARA_copy_Link_to_Note.PNG)
+![image](/assets/images/OneNote_PARA_copy_Link_to_Note.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
-![image](/assets/images/OneNote_PARA_paste_Link_to_Note.PNG)
+![image](/assets/images/OneNote_PARA_paste_Link_to_Note.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
-![image](/assets/images/OneNote_PARA_add_Note_to_storage.PNG)
+![image](/assets/images/OneNote_PARA_add_Note_to_storage.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Once you gain some experience, you'll find yourself capable of handling 15 notes in just 5 minutes. This makes the task of keeping TORP well-organized and emptying your inbox a breeze.
 
@@ -125,19 +125,19 @@ How did I implement this task management setup in OneNote?
 
 I created a section called „tasklist“. Within this section, I created dedicated pages for each to-do list: in particular 5 different “next action” lists. Due to the categorization of the next actions it is easier to pick up to-dos that suit my current energy level and time constraints. If I have little time to get things done, I can jump to the “quick wins” and use the e.g. 7 minutes, before a meeting starts, productively.
 
-![image](/assets/images/OneNote_Next_Action_List.PNG)
+![image](/assets/images/OneNote_Next_Action_List.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 The "waiting for" list is organized much like a "next action" list, but it includes an additional column for tracking the individuals to whom tasks have been delegated or from whom you are awaiting a response.
 
 To store completed tasks, I've implemented a "done" page. This helps maintain clean and uncluttered to-do lists while ensuring that older to-dos remain accessible if needed in the future. There may be instances where a task is no longer necessary to complete, and in TORP, we differentiate this by using an "x" to mark a task as done and an "o" to mark a task as closed (though not necessarily completed).
 
-![image](/assets/images/OneNote_List_Done.PNG)
+![image](/assets/images/OneNote_List_Done.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 If you have tasks that have lingered on your "next action" lists for an extended period or new tasks with lower priority, consider moving them to the "someday maybe list." This also applies to delegated tasks for which you no longer wish to push for immediate action but are still awaiting results.
 
 In short: the “someday maybe“ list is for to-dos you do not want to close, but shouldn’t clutter your main to-do lists.
 
-![image](/assets/images/OneNote_SomeDayMaybeList.PNG)
+![image](/assets/images/OneNote_SomeDayMaybeList.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Conclusion
 
