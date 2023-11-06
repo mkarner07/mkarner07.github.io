@@ -11,7 +11,7 @@ tags:
   - Guide
 
 ---
-![image](/assets/images/productivity-wall-unsplash.jpg)
+![image](/assets/images/do-more-unsplash.jpg)
 
 Efficiency and effectiveness are becoming more and more important to suceed in today‘s challenging corporate world.
 
