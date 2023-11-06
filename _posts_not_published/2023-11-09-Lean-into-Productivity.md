@@ -10,8 +10,9 @@ tags:
   - Methods
 
 ---
-![image](/assets/images/robot-assembly-unsplash.jpg)
-*Photo by Simon Kadula on Unsplash*
+| ![image](/assets/images/robot-assembly-unsplash.jpg) |
+|:--:|
+| *Photo by Simon Kadula on Unsplash* |
 
 In the recent decades lean manufacturing has established itself as the go-to form of organizing manufacturing. It improves the value for the customer, reduces lead times, waste & scrap and improves product quality.
 

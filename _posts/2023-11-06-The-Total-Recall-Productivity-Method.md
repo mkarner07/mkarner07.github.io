@@ -11,8 +11,9 @@ tags:
   - Guide
 
 ---
-![image](/assets/images/do-more-unsplash.jpg)
-*Photo by Carl Heyerdahl on Unsplash*
+| ![image](/assets/images/do-more-unsplash.jpg) |
+|:--:|
+| *Photo by Carl Heyerdahl on Unsplash* |
 
 Efficiency and effectiveness are becoming more and more important to suceed in today‘s challenging corporate world.
 
