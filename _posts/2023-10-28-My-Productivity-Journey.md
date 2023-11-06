@@ -11,6 +11,7 @@ tags:
 
 ---
 ![image](/assets/images/road-autumn-unsplash.jpg)
+*Photo by Patrick Tomasso on Unsplash*
 
 In this article I want to share my productivity journey with you: starting from my first job in applied science to my current position as a manager in digitalization & IT.
 

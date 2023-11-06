@@ -13,6 +13,7 @@ tags:
 
 ---
 ![image](/assets/images/build-measure-learn-unsplash.jpg)
+*Photo by David Travis on Unsplash*
 
 Agile project management, has reshaped the software development landscape in the past decade.
 
