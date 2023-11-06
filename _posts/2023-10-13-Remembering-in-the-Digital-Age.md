@@ -12,6 +12,7 @@ tags:
 
 ---
 ![image](/assets/images/newspaper-tablet-combination.jpg)
+*Photo by Matthew Guay on Unsplash*
 
 According to The New York Times, the average person consumes a staggering 34 gigabytes of data daily — that's equivalent to 17 billion words or roughly 1,740 ebooks.
 
