@@ -11,15 +11,15 @@ tags:
   - Recall
 
 ---
-| ![image](/assets/images/newspaper-tablet-combination.jpg) |
-|:--:|
-| *Photo by Matthew Guay on Unsplash* |
-
 According to The New York Times, the average person consumes a staggering 34 gigabytes of data daily — that's equivalent to 17 billion words or roughly 1,740 ebooks.
 
 In our fast-paced, data-driven world, the ability to remember and retain information is a skill that can make all the difference. Whether you're dealing with written information, audio information, or visual data, there are strategies that can help you remember what matters most.
 
 In this article, we'll explore techniques to conquer the information overload and enhance your memory in the age of digital information.
+
+| ![image](/assets/images/newspaper-tablet-combination.jpg) |
+|:--:|
+| *Photo by Matthew Guay on Unsplash* |
 
 ## Remembering Written Information
 For most of us, written information is the bedrock of knowledge. Books, articles, and online content provide us with a wealth of insights, but how can we ensure this valuable information doesn't slip through the cracks?

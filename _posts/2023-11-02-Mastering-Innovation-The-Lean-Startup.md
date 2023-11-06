@@ -12,15 +12,15 @@ tags:
   - Book
 
 ---
-| ![image](/assets/images/build-measure-learn-unsplash.jpg) |
-|:--:|
-| *Photo by David Travis on Unsplash* |
-
 Agile project management, has reshaped the software development landscape in the past decade.
 
 In "The Lean Startup," Eric Ries delves into agile methodologies, revealing their universal applicability. These strategies aren't exclusive to startups either; they're your secret weapon for growth in a team-based or customer-centric environment.
 
 In this article we will discover how these methods are revolutionizing the way we work and lead, offering a fresh perspective on project management and self-improvement.
+
+| ![image](/assets/images/build-measure-learn-unsplash.jpg) |
+|:--:|
+| *Photo by David Travis on Unsplash* |
 
 ## Vision: The Birth of the Lean Startup
 

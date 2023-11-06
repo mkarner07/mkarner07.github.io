@@ -13,15 +13,15 @@ tags:
   - Book
 
 ---
-| ![image](/assets/images/to_do_list-unsplash.jpg) |
-|:--:|
-| *Photo by Kelly Sikkema on Unsplash* |
-
 The demands of work and personal life can often feel overwhelming, leading to stress and a sense of being perpetually behind.
 
 If you're looking for a solution to these common challenges, you've likely come across the "Getting Things Done" (GTD) methododlogy: it has the capability for enhancing productivity and reducing stress.
 
 In this blog post, we'll delve into the key principles of "GTD" and explore how you can apply them to your own life for improved efficiency and peace of mind.
+
+| ![image](/assets/images/to_do_list-unsplash.jpg) |
+|:--:|
+| *Photo by Kelly Sikkema on Unsplash* |
 
 ## Unlocking Flow State: The Power of Mind Dumping and Cognitive Freedom
 Imagine embarking on a journey to supercharge your productivity and reclaim control of your life. It starts with a fundamental concept: achieving a state of mind where you're fully absorbed in your work. This state, often called the "flow state," is where peak productivity and minimal stress converge.

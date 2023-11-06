@@ -10,15 +10,15 @@ tags:
   - Methods
 
 ---
-| ![image](/assets/images/robot-assembly-unsplash.jpg) |
-|:--:|
-| *Photo by Simon Kadula on Unsplash* |
-
 In the recent decades lean manufacturing has established itself as the go-to form of organizing manufacturing. It improves the value for the customer, reduces lead times, waste & scrap and improves product quality.
 
 There exist many lean methods. Some of them are tied to manufacturing exclusively, others are more general and applicable in different scenarios. Starting from the early 2000s, lean principles have extended their influence beyond traditional manufacturing and ventured into diverse domains, including software development and the startup sector.
 
 In this article, I aim to draw from my experiences of lean in the manufacturing sector and translate them into the context of personal productivity.
+
+| ![image](/assets/images/robot-assembly-unsplash.jpg) |
+|:--:|
+| *Photo by Simon Kadula on Unsplash* |
 
 ## Avoid Waste
 

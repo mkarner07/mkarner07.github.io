@@ -12,7 +12,6 @@ tags:
   - List of References
 
 ---
-
 There are tons of books about personal productivity out there. In this article I want to show you my personal top 7.
 
 ## The Effective Executive

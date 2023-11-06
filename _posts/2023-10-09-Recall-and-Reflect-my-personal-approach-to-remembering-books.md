@@ -11,13 +11,13 @@ tags:
   - Reading
 
 ---
-| ![image](/assets/images/bookshelf_lights_unsplash.jpg) |
-|:--:|
-| *Photo by Janko Ferlic on Unsplash* |
-
 Reading is fun. You can dive into the minds of great scientists, explore the thoughts of creative minds and learn new things. Reading a non-fiction book is like installing a new operating system on your PC: it changes the way you process information and how you think of certain topics. But there is a catch: in order to benefit from the books you read, you have to remember the core principles and ideas.
 
 Remembering what I read was difficult for me in the past. However, I found a way to remember what I read: In this article I want to share it with you!
+
+| ![image](/assets/images/bookshelf_lights_unsplash.jpg) |
+|:--:|
+| *Photo by Janko Ferlic on Unsplash* |
 
 ## Why your reading-mindset is important.
 When diving into non-fiction, don't be a passive observer; be an active explorer of knowledge. To make your reading truly memorable, start by asking a simple yet potent question: What's worth remembering? Trust me, this mindset shift can be a game-changer.
