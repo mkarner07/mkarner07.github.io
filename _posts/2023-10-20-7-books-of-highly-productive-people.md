@@ -16,7 +16,8 @@ There are tons of books about personal productivity out there. In this article I
 
 ## The Effective Executive
 
-![image](/assets/images/book_cover_the_effective_executive.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"} *The Effective Executive by Peter F. Drucker*
+![image](/assets/images/book_cover_the_effective_executive.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+^The Effective Executive by Peter F. Drucker^ {: .align-caption}
 
 This book is a treasure trove of wisdom; many books in the realms of productivity, management and leadership are inspired by Peter F. Drucker’s masterpiece.
 
