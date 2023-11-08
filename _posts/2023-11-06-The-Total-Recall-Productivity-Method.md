@@ -36,7 +36,8 @@ In my job as an IT & Digitalization manager I use OneNote and for my personal pr
 TORP in OneNote starts with a Notebook consisting of a handful of sections and section-groups.
 
 ![image](/assets/images/OneNote_System.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
-*<sub>Overview of all pages for TORP in OneNote</sub>* {: .text-center}
+*<sub>Overview of all pages for TORP in OneNote</sub>*
+{: .text-center}
 
 - **Inbox**: This is where all notes written throughout the day go initially (before they are processed).
 - **Tasklist**: This is where to-do lists live.
