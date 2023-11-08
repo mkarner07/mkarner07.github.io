@@ -16,7 +16,7 @@ There are tons of books about personal productivity out there. In this article I
 
 ## The Effective Executive
 
-![image](/assets/images/book_cover_the_effective_executive.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+| ![image](/assets/images/book_cover_the_effective_executive.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"} |
 |:--:|
 | *The Effective Executive by Peter F. Drucker* |
 
@@ -32,7 +32,7 @@ Dive into “[The Effective Executive](https://amzn.to/47g84Tx)” to unlock the
 
 ## The subtle Art of not giving a f*ck
 
-![image](/assets/images/book_cover_the_subtle_art.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+| ![image](/assets/images/book_cover_the_subtle_art.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"} |
 |:--:|
 | *The subtle Art of not giving a f*ck by Mark Manson* |
 
@@ -44,13 +44,13 @@ Got interested? Check out “[The subtle Art of not giving a f*ck](https://amzn.
 
 ## SCRUM: How to do twice the work in half the time
 
-![image](/assets/images/book_cover_scrum.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+| ![image](/assets/images/book_cover_scrum.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"} |
 |:--:|
 | *SCRUM: How to do twice the work in half the time by Jeff Sutherland* |
 
 Agile projectmanagement started as a (r)evolution on how to plan and execute projects in softwaredevlopment with the [agile manifesto](https://agilemanifesto.org/). The SCRUM method, which is a widely used agile method, is introduced in this insightful book by one of the method’s father himself: Jeff Sutherland. The method is not just restricted to softwaredevlopment, but can be applied in fields such as construction, personal projects etc.
 
-![image](/assets/images/SCRUM_Process.jpg)
+| ![image](/assets/images/SCRUM_Process.jpg) |
 |:--:|
 | *The SCRUM Process* |
 
@@ -61,7 +61,7 @@ SCRUM is a powerful method for doing projects in a shorter leadtime while simult
 
 ## The Lean Startup
 
-![image](/assets/images/book_cover_the_lean_startup.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+| ![image](/assets/images/book_cover_the_lean_startup.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"} |
 |:--:|
 | *The Lean Startup by Eric Ries* |
 
@@ -74,7 +74,7 @@ Ries encourages startups to pivot when necessary, adapting to market feedback an
 
 ## Getting Things Done
 
-![image](/assets/images/book_cover_getting_things_done.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+| ![image](/assets/images/book_cover_getting_things_done.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"} |
 |:--:|
 | *Getting Things Done by David Allen* |
 
@@ -86,7 +86,7 @@ If you want to learn more about the GTD methodology, check out my article "[Insi
 
 ## How to win friends and influence people
 
-![image](/assets/images/book_cover_how_to_win_friends.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+| ![image](/assets/images/book_cover_how_to_win_friends.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"} |
 |:--:|
 | *How to win friends and influence people by Dale Carnegie* |
 
@@ -94,7 +94,7 @@ Dale Carnegie's timeless classic, ["How to Win Friends and Influence People"](ht
 
 ## 7 Habits of Highly Effective People
 
-![image](/assets/images/book_cover_7_habits.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+| ![image](/assets/images/book_cover_7_habits.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"} |
 |:--:|
 | *7 Habits of Highly Effective People by Stephen R. Covey* |
 
