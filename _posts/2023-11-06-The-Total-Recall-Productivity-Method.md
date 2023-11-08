@@ -35,7 +35,7 @@ In my job as an IT & Digitalization manager I use OneNote and for my personal pr
 
 TORP in OneNote starts with a Notebook consisting of a handful of sections and section-groups.
 
-![image](/assets/images/OneNote_System.PNG){:style="display:block; margin-left:auto; margin-right:auto"}
+![image-center](/assets/images/OneNote_System.PNG){: .align-center}
 *<sub>Overview of all pages for TORP in OneNote</sub>*
 {: .text-center}
 
