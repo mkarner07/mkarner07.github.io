@@ -18,6 +18,7 @@ There are tons of books about personal productivity out there. In this article I
 
 ![image](/assets/images/book_cover_the_effective_executive.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>The Effective Executive by Peter F. Drucker</sub>*
+{: .text-center}
 
 This book is a treasure trove of wisdom; many books in the realms of productivity, management and leadership are inspired by Peter F. Drucker’s masterpiece.
 
@@ -33,6 +34,7 @@ Dive into “[The Effective Executive](https://amzn.to/47g84Tx)” to unlock the
 
 ![image](/assets/images/book_cover_the_subtle_art.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>The subtle Art of not giving a f_ck by Mark Manson</sub>*
+{: .text-center}
 
 Written by no one less than the productivty-blogging guru Mark Manson, this book provides you with insights how to prioritize. It's written in an irresistibly engaging manner, making you eager to continue reading; it's brimming with humor and captivating charm.
 
@@ -44,11 +46,13 @@ Got interested? Check out “[The subtle Art of not giving a f*ck](https://amzn.
 
 ![image](/assets/images/book_cover_scrum.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>SCRUM: How to do twice the work in half the time by Jeff Sutherland</sub>*
+{: .text-center}
 
 Agile projectmanagement started as a (r)evolution on how to plan and execute projects in softwaredevlopment with the [agile manifesto](https://agilemanifesto.org/). The SCRUM method, which is a widely used agile method, is introduced in this insightful book by one of the method’s father himself: Jeff Sutherland. The method is not just restricted to softwaredevlopment, but can be applied in fields such as construction, personal projects etc.
 
 ![image](/assets/images/SCRUM_Process.jpg)
 *<sub>The SCRUM Process</sub>*
+{: .text-center}
 
 The Core principles of SCRUM is the sprint. A sprint is a fixed timeframe (2-4 weeks) with a defined list of tasks and to dos - the (project) team comes together for the sprint planning at the beginning of the sprint and jointly lays out the task for the upcoming weeks.
 
@@ -59,6 +63,7 @@ SCRUM is a powerful method for doing projects in a shorter leadtime while simult
 
 ![image](/assets/images/book_cover_the_lean_startup.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>The Lean Startup by Eric Ries</sub>*
+{: .text-center}
 
 In the captivating journey of "The Lean Startup" by Eric Ries, we embark on a quest to uncover the secrets of entrepreneurial success. Ries reveals a revolutionary approach to building thriving businesses, emphasizing five fundamental principles, including the ubiquity of entrepreneurship and the art of validated learning.
 
@@ -70,6 +75,7 @@ Ries encourages startups to pivot when necessary, adapting to market feedback an
 
 ![image](/assets/images/book_cover_getting_things_done.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>Getting Things Done by David Allen</sub>*
+{: .text-center}
 
 Unlocking your productivity and conquering the chaos of daily life - that's the promise of the 'Getting Things Done' (GTD) method. The key lies in achieving 'flow state,'; this is where productivity soars and stress plummets, starting with the liberating act of 'Mind Dumping.' GTD's five-stage workflow process, from 'Capture' to 'Engage,' forms the foundation for mastering your workflow.
 
@@ -81,6 +87,7 @@ If you want to learn more about the GTD methodology, check out my article "[Insi
 
 ![image](/assets/images/book_cover_how_to_win_friends.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>How to win friends and influence people by Dale Carnegie</sub>*
+{: .text-center}
 
 Dale Carnegie's timeless classic, ["How to Win Friends and Influence People"](https://amzn.to/46WyKZ5) is your ultimate guide to mastering the art of human connection. Packed with practical wisdom, this book reveals the secrets to building strong relationships and wielding influence in any sphere of life. It teaches the power of genuine interest, active listening, and the art of giving sincere compliments. With an emphasis on empathy and understanding, Carnegie's principles foster cooperation and harmony, both personally and professionally. In a world where social skills and effective communication are paramount, this book remains an essential resource for becoming a true people-person and a force to be reckoned with.
 
@@ -88,6 +95,7 @@ Dale Carnegie's timeless classic, ["How to Win Friends and Influence People"](ht
 
 ![image](/assets/images/book_cover_7_habits.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>7 Habits of Highly Effective People by Stephen R. Covey</sub>*
+{: .text-center}
 
 You cannot talk about productivity without mentioning this book. This book, consistently perched at the top of management-literature-lists, drews you in with its compelling insights.
 
