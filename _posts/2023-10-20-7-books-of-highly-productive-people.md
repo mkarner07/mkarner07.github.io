@@ -93,7 +93,7 @@ Dale Carnegie's timeless classic, ["How to Win Friends and Influence People"](ht
 
 ## 7 Habits of Highly Effective People
 
-![image](/assets/images/book_cover_7_habits.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+![image](/assets/images/7_productivity_books_1/book_cover_7_habits.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>7 Habits of Highly Effective People by Stephen R. Covey</sub>*
 {: .text-center}
 
