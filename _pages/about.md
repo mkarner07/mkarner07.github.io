@@ -21,5 +21,6 @@ Together, we'll embark on a journey of exploration, learning, and growth.
 
 If you enjoy my content, you can ...
 - ✍️ [Follow me on Medium](https://medium.com/@matthiaskarner)
+- 📧 [Subscribe](https://matthiaskarner.medium.com/subscribe)
 - ☕ [Buy me a Coffee](https://www.buymeacoffee.com/matthiaskarner)
 - 🌐 [Connect on LinkedIn](https://www.linkedin.com/in/matthiaskarner/)
