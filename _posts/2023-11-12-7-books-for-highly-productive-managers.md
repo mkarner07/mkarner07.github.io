@@ -2,7 +2,6 @@
 title: "7 books for highly productive managers"
 description: "The world of management and leadership literature is expansive. 
 In this piece, I aim to introduce seven captivating books from this realm that I've personally found enjoyable."
-permalink: /books-for-highly-productive-managers/
 date: 2023-11-12
 excerpt_separator: "<!--more-->"
 categories:
@@ -107,3 +106,9 @@ Simon Sinek explores the concept of viewing life and business as an infinite gam
 Sinek argues that many challenges in leadership and business arise from a mindset rooted in finite thinking (e.g. shareholder value), where the goal is to win in the short term. In contrast, an infinite mindset involves playing the game with the goal of perpetuating the game itself, focusing on long-term success and sustainability. The author emphasizes the importance of embracing an infinite mindset in leadership to navigate uncertainties, foster innovation, and build organizations that thrive in the ever-changing landscape.
 
 [The Infinite Game](https://amzn.to/47sYk8e) is a great read for leaders and managers as it provides insights and practical advice for to adopt a mindset for enduring success.
+
+<form action="https://tinyletter.com/matthiaskarner"
+      method="POST">
+    <input type="email" placeholder="Email" name="_replyto" required>
+    <input type="submit" value="Send">
+</form>
