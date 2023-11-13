@@ -110,7 +110,8 @@ Sinek argues that many challenges in leadership and business arise from a mindse
 <form action="https://tinyletter.com/matthiaskarner"
       class="newsletter"
       method="post"
+      title="Subscribe to my Newsletter"
       target="popupwindow">
     <input type="text" name="email" id="tlemail" placeholder="Enter your email address ..."/>
-    <input type="submit" value="Subscribe to my newsletter"/>
+    <input type="submit" value="Subscriber"/>
 </form>
