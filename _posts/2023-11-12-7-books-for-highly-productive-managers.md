@@ -108,7 +108,9 @@ Sinek argues that many challenges in leadership and business arise from a mindse
 [The Infinite Game](https://amzn.to/47sYk8e) is a great read for leaders and managers as it provides insights and practical advice for to adopt a mindset for enduring success.
 
 <form action="https://tinyletter.com/matthiaskarner"
-      method="POST">
-    <input type="email" placeholder="Email" name="_replyto" required>
-    <input type="submit" value="Send">
+      class="newsletter"
+      method="post"
+      target="popupwindow">
+    <input type="text" name="email" id="tlemail" placeholder="Enter your email address ..."/>
+    <input type="submit" value="Subscribe to my newsletter"/>
 </form>
