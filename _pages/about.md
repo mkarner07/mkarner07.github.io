@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 header:
-  image: /assets/images/typewriter-header-unsplash.jpg
+  image: /assets/images/art-lasovsky-pen-title-unsplash.jpg
 ---
 
 ## Hi, I'm Matthias!
