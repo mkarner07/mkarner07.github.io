@@ -1,5 +1,6 @@
 ---
 title: "Notes That Work: How Engagement Drives Retention & Value"
+description: "Notetaking is a crucial step in retaining information, storing valuable concepts and also to spark new ideas. In a world filled with an overwhelming amount of information, our ability to take effective notes has never been more critical. From classroom lectures to business meetings and personal research, we rely on our notes to capture and retain valuable insights. However, simply jotting down words on paper or in a digital notetaking app may not cut it. To truly make your notes work for you, there's a key ingredient: engagement."
 date: 2023-11-09
 excerpt_separator: "<!--more-->"
 categories:
@@ -12,7 +13,7 @@ tags:
 ---
 Notetaking is a crucial step in retaining information, storing valuable concepts and also to spark new ideas.
 
-In a world filled with an overwhelming amount of information, our ability to take effective notes has never been more critical. From classroom lectures to business meetings and personal research, we rely on our notes to capture and retain valuable insights. However, simply jotting down words on paper or in a digital note-taking app may not cut it.
+In a world filled with an overwhelming amount of information, our ability to take effective notes has never been more critical. From classroom lectures to business meetings and personal research, we rely on our notes to capture and retain valuable insights. However, simply jotting down words on paper or in a digital notetaking app may not cut it.
 
 To truly make your notes work for you, there's a key ingredient: engagement.
 

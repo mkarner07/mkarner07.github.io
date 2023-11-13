@@ -1,5 +1,6 @@
 ---
 title: "My Productivity Revolution: A Story of Progress"
+description: "In this article I want to share my productivity journey with you: starting from my first job in applied science to my current position as a manager in digitalization & IT."
 date: 2023-10-28
 excerpt_separator: "<!--more-->"
 categories:

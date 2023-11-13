@@ -1,5 +1,6 @@
 ---
 title: "First Post"
+description: "My name is Matthias Karner and what you are reading is my very first post."
 date: 2023-10-05
 excerpt_separator: "<!--more-->"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Remembering in the Digital Age: Insights for Text, Audio and Visual Info"
+description: "According to The New York Times, the average person consumes a staggering 34 gigabytes of data daily — that's equivalent to 17 billion words or roughly 1,740 ebooks. In our fast-paced, data-driven world, the ability to remember and retain information is a skill that can make all the difference. Whether you're dealing with written information, audio information, or visual data, there are strategies that can help you remember what matters most. In this article, we'll explore techniques to conquer the information overload and enhance your memory in the age of digital information."
 date: 2023-10-13
 excerpt_separator: "<!--more-->"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "7 books for highly productive people"
+description: "There are tons of books about personal productivity out there. In this article I want to show you my personal top 7."
 date: 2023-10-20
 excerpt_separator: "<!--more-->"
 categories:

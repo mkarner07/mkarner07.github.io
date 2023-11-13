@@ -1,5 +1,6 @@
 ---
 title: "Recall & Reflect: My Personal Approach to Remembering Books"
+description: "Reading is fun. You can dive into the minds of great scientists, explore the thoughts of creative minds and learn new things. Reading a non-fiction book is like installing a new operating system on your PC: it changes the way you process information and how you think of certain topics. But there is a catch: in order to benefit from the books you read, you have to remember the core principles and ideas. Remembering what I read was difficult for me in the past. However, I found a way to remember what I read: In this article I want to share it with you!"
 date: 2023-10-09
 excerpt_separator: "<!--more-->"
 categories:

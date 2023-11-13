@@ -1,5 +1,6 @@
 ---
 title: "The Total Recall Productivity Method"
+description: "Efficiency and effectiveness are becoming more and more important to suceed in today‘s challenging corporate world. In my quest to supercharge my personal productivity, I've embarked on a journey filled with page-turning books, self-experimentation, and the pursuit of game-changing insights. There exist many strategies for enhancing your personal productivity, spanning from crafting daily routines, emulating the habits of high achievers, to investing in different software tools. However, in my case, the existing solutions didn't quite cut it, leading me to craft a customized productivity setup by blending elements from various approaches to perfectly match my needs. In this article I want to show you my current productivity system: The Total Recall Productivity Method (TORP)."
 date: 2023-11-06
 excerpt_separator: "<!--more-->"
 categories:
