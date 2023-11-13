@@ -142,7 +142,6 @@ defaults:
 
 header:
   image: /assets/images/typewriter-unsplash.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 category_archive:
   type: liquid
