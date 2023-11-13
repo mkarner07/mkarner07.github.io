@@ -6,7 +6,7 @@ layout: none
 
 {% for post in site.posts limit:5 %}
 <h3>{{post.title}}</h3>
-<p>{{post.description}} <a href="https://matthiaskarner.com/">Read more &raquo;</a></p>
+<p>{{post.description}} <a href={{post.url}}>Read more &raquo;</a></p>
 
 {% endfor %}
 
