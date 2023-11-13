@@ -37,5 +37,3 @@ In the upcoming weeks I plan to post about the topics:
 - Digital Transformation of the Production
 
 Stay curious!
-
-{% include \assets\afterword.html %}
