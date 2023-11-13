@@ -38,4 +38,4 @@ In the upcoming weeks I plan to post about the topics:
 
 Stay curious!
 
-{% include \assets\afterword.html %}
+{% include \assets\afterword.md %}

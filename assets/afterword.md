@@ -1,5 +1,3 @@
----
-
 Thank you for reading!
 
 If you enjoy my content, you can ...
@@ -7,7 +5,7 @@ If you enjoy my content, you can ...
 - ☕ [Buy me a Coffee](https://www.buymeacoffee.com/matthiaskarner)
 - 🌐 [Connect on LinkedIn](https://www.linkedin.com/in/matthiaskarner/)
 
-<h3>If you want to subscribe to my E-Mail Newsletter ...</h3>
+If you want to subscribe to my E-Mail Newsletter ...
 <form action="https://tinyletter.com/matthiaskarner"
       class="newsletter"
       method="post"
