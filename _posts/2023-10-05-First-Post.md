@@ -37,3 +37,11 @@ In the upcoming weeks I plan to post about the topics:
 - Digital Transformation of the Production
 
 Stay curious!
+
+<form action="https://tinyletter.com/matthiaskarner"
+      class="newsletter"
+      method="post"
+      target="popupwindow">
+    <input type="text" name="email" id="tlemail" placeholder="Enter your email address ..."/>
+    <input type="submit" value="Subscribe to my Newsletter"/>
+</form>
