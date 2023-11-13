@@ -2,7 +2,7 @@
 title: "7 books for highly productive managers"
 description: "The world of management and leadership literature is expansive. 
 In this piece, I aim to introduce seven captivating books from this realm that I've personally found enjoyable."
-link: ({% post_url 2023-11-12-7-books-for-highly-productive-managers %})
+link: {% post_url 2023-11-12-7-books-for-highly-productive-managers %}
 date: 2023-11-12
 excerpt_separator: "<!--more-->"
 categories:
