@@ -15,7 +15,9 @@ tags:
   - Digital Transformation
 
 ---
-![image](/assets/images/Write-unsplash.jpg)
+| ![image](/assets/images/typewriter-unsplash.jpg) |
+|:--:|
+| *Photo by Patrick Fore on Unsplash* |
 
 ## Hi and welcome!
 
