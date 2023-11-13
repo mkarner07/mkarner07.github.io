@@ -1,6 +1,6 @@
 ---
 title: "Inside the Mind of 'Getting Things Done': The GTD Methodology"
-description: "The demands of work and personal life can often feel overwhelming, leading to stress and a sense of being perpetually behind. If you're looking for a solution to these common challenges, you've likely come across the 'Getting Things Done' (GTD) methododlogy: it has the capability for enhancing productivity and reducing stress. In this blog post, we'll delve into the key principles of "GTD" and explore how you can apply them to your own life for improved efficiency and peace of mind."
+description: "The demands of work and personal life can often feel overwhelming, leading to stress and a sense of being perpetually behind. If you're looking for a solution to these common challenges, you've likely come across the 'Getting Things Done' (GTD) methododlogy: it has the capability for enhancing productivity and reducing stress. In this blog post, we'll delve into the key principles of 'GTD' and explore how you can apply them to your own life for improved efficiency and peace of mind."
 date: 2023-10-18
 excerpt_separator: "<!--more-->"
 categories:
