@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  image: /assets/images/typewriter-unsplash.jpg
 ---
 
 ## Hi, I'm Matthias!

@@ -1,6 +1,3 @@
-header:
-  image: /assets/images/typewriter-unsplash.jpg
-
 main:
   - title: "Posts"
     url: /posts/
