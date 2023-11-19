@@ -1,5 +1,6 @@
 ---
 title: "Building Success Brick by Brick: The Role of Habits"
+description: "In this article I want to share what I learnt so far about the power of habits from sources like The Infinite Game, Atomic Habits and Leaders Eat Last."
 date: 2023-11-16
 excerpt_separator: "<!--more-->"
 categories:
@@ -12,7 +13,7 @@ tags:
   - Book
 
 ---
-In this article I want to share what I learnt so far about the power of habits from sources like [The Infinite Game](https://amzn.to/47sYk8e),  [Atomic Habits](https://amzn.to/40x9XZN) and [Leaders Eat Last](https://amzn.to/40xUnwM).
+In this article I want to share what I learnt so far about the power of habits from sources like [The Infinite Game](https://amzn.to/47sYk8e), [Atomic Habits](https://amzn.to/40x9XZN) and [Leaders Eat Last](https://amzn.to/40xUnwM).
 
 > Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it. - Albert Einstein
 > 

@@ -1,5 +1,6 @@
 ---
 title: "Learning Journey: My Top 33 Non-Fiction Bookshelf"
+description: "The landscape of non-fiction books is vast. In this post I want to share my top 33 picks accompanied by a brief summary with you."
 date: 2023-11-19
 excerpt_separator: "<!--more-->"
 categories:
@@ -12,7 +13,7 @@ tags:
   - Book
 
 ---
-The landscape of non-fiction books is vast. In this post I want to share my top 33 picks.
+The landscape of non-fiction books is vast. In this post I want to share my top 33 picks accompanied by a brief summary with you.
 
 | ![image](/assets/images/inaki-del-olmo-bookshelf-unsplash.jpg) |
 |:--:|
@@ -27,7 +28,7 @@ The landscape of non-fiction books is vast. In this post I want to share my top 
 7. [How to win friends and influence people](https://amzn.to/46WyKZ5): This is a timeless self-help classic that provides practical principles for building meaningful connections, enhancing interpersonal skills, and positively influencing others.
 8. [Outliers:](https://amzn.to/46XYNQ5) Malcom Gladwell shows stories of successful people and shows how big the influence of chance is.
 9. [21 Lessons for the 21st Century](https://amzn.to/3ucf6dx): The book offers insightful reflections and practical wisdom on navigating the challenges of our rapidly evolving world, addressing issues such as technology, politics, and humanity's future. The author provides a compelling guide for understanding and adapting to the complexities of the present era.
-10. [Meditations](https://www.gutenberg.org/ebooks/2680): The author Marcus Aurelius was Roman emperor from 161 to 180 and a Stoic philosopher. The book is a timeless collection of personal writings and philosophical reflections, offering profound insights on life, virtue, and the pursuit of wisdom.As there does not exist a copyright anymore, the book is available for free (e.g. [here](https://www.gutenberg.org/ebooks/2680)).
+10. [Meditations](https://www.gutenberg.org/ebooks/2680): The author Marcus Aurelius was Roman emperor from 161 to 180 and a Stoic philosopher. The book is a timeless collection of personal writings and philosophical reflections, offering profound insights on life, virtue, and the pursuit of wisdom. As there does not exist a copyright anymore, the book is available for free (e.g. [here](https://www.gutenberg.org/ebooks/2680)).
 11. [Shaolin](https://amzn.to/3FXtvgu): In this book, the author shares his experiences from the time he spent with the Shaolin monks and what he learnt with regards to leadership, self-control and continous improvement.
 12. [The art of war](https://amzn.to/3QRSzvj): It is a classic Chinese book on military strategy and tactics, providing timeless wisdom on leadership, planning, and conflict resolution. This ancient text remains a profound guide for navigating various challenges in strategic decision-making in diverse fields.
 13. [7 Habits of Highly Effective People](https://amzn.to/45DhUh0): Stephen Covey outlines a holistic approach to personal and professional effectiveness through cultivating seven fundamental habits. The book emphasizes principles such as proactivity, prioritization, and synergy to empower individuals to achieve lasting success and fulfillment in their lives.
