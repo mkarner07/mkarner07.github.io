@@ -45,9 +45,11 @@ Malcolm Gladwell explores the factors contributing to individuals' success. He b
 *<sub>Atomic Habits by James Clear</sub>*
 {: .text-center}
 
-Habits can be the seed of success and they can becom especially handy if you are a busy manager as habits automate certain behaviors.
+Habits can be the seed of success and they can become especially handy if you are a busy manager as habits automate certain behaviors.
 
-The book is a practical guide to understanding and changing habits for lasting improvement. The book delves into the science behind habits, offering small, actionable steps to create meaningful change. The author explores the psychology of habit formation, providing insights on cues and strategies for making positive habits stick. With real-life examples and practical advice, it is a valuable resource for those seeking a methodical approach to personal development and sustained success.
+The book is a practical guide to understanding and changing habits for lasting improvement. The book delves into the science behind habits, offering small, actionable steps to create meaningful change. The author explores the psychology of habit formation, providing insights on cues and strategies for making positive habits stick.
+
+With real-life examples and practical advice, it is a valuable resource for those seeking a methodical approach to personal development and sustained success.
 
 If you got interested, check out the full book [Atomic Habits](https://amzn.to/3u7uvfl) by James Clear.
 
@@ -57,15 +59,15 @@ If you got interested, check out the full book [Atomic Habits](https://amzn.to/3
 *<sub>The Art of War by Sun Tzu</sub>*
 {: .text-center}
 
-Sun Tzu’s book [The Art of War](https://amzn.to/3QRSzvj) is an ancient Chinese book about military strategy. It is a timeless classic that incorporates many strategies for historical warfare. Some even account the success of Napoleons first battles to the strategies and methods proposed in this book.
+Sun Tzu’s book [The Art of War](https://amzn.to/3QRSzvj) is an ancient Chinese book about military strategy. It is a timeless classic that incorporates many strategies for historical warfare. Some even account the success of Napoleon's first battles to the strategies and methods proposed in this book.
 
-But why is there a book about warefare in the top management books?
+But why is there a book about warefare in a list of top management books?
 
 In some corporations the daily job might be close to warfare, but this is not what the book is about. Essentially, the book is not about how to fight. It is about strategic planning and leadership - 7 core strategies from the book can be applied to modern management and leadership:
 
 - **Know your environment**: understand the market, competition and industry trends.
 - **Adaptability**: strategies must be based on the circumstances and adapted to them.
-- **Know your team**: understandstrengths, talents and weaknesses of all team members.
+- **Know your team**: understand strengths, talents and weaknesses of all team members.
 - **Lead by example**: effective leaders inspire their team by demonstrating the qualities they expect from others.
 - **Exploit weaknesses**: identify competitors' vulnerabilities.
 - **Assessment of risks**: risk analysis and strategic decision-making to minimize potential negative consequences.
@@ -77,11 +79,11 @@ In some corporations the daily job might be close to warfare, but this is not wh
 *<sub>One Minute Manager Meets The Monkey by Kenneth Blanchard</sub>*
 {: .text-center}
 
-A struggling department manager seeks guidance from the renowned One Minute Manager, known for efficiency.
+In this book, a struggling department manager seeks guidance from the renowned One Minute Manager, known for efficiency.
 
 The narrative unfolds with the concept of "monkey management," where problems are passed from person to person, creating a vicious cycle. The One Minute Manager introduces rules for effective "monkey management," emphasizing clear definition, assigning ownership, implementing insurance policies and scheduling regular check-ins. As the story progresses, the focus shifts to the art of delegation and time management, highlighting the importance of trusting employees, coaching, and balancing different types of work time.
 
-The book offers practical insights into efficient management and effective leadership. If you got interested, check out the full book: [One Minute Manager Meets The Monkey](https://amzn.to/3SAZZ7E). It is a fast read with some really interesting insights!
+The book offers practical insights into efficient management and effective leadership. If you got interested, check out the full book: [One Minute Manager Meets The Monkey](https://amzn.to/3SAZZ7E). It is a fast read with some really interesting insights delivered in a funny way!!
 
 ## Good Strategy Bad Strategy
 
@@ -95,6 +97,8 @@ The author, Richard Rumelt, stresses the importance of simplicity and unexpected
 
 Additionally, Rumelt highlights the strategic importance of leverage, design, and dynamics, urging readers to maintain critical thinking amid uncertainties.
 
+In my opinion it is one of the best books about strategy!
+
 ## The Infinite Game
 
 ![image](/assets/images/7_management_books_1/theinfinitegame.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
@@ -103,6 +107,8 @@ Additionally, Rumelt highlights the strategic importance of leverage, design, an
 
 Simon Sinek explores the concept of viewing life and business as an infinite game rather than a finite one.
 
-Sinek argues that many challenges in leadership and business arise from a mindset rooted in finite thinking (e.g. shareholder value), where the goal is to win in the short term. In contrast, an infinite mindset involves playing the game with the goal of perpetuating the game itself, focusing on long-term success and sustainability. The author emphasizes the importance of embracing an infinite mindset in leadership to navigate uncertainties, foster innovation, and build organizations that thrive in the ever-changing landscape.
+Sinek argues that many challenges in leadership and business arise from a mindset rooted in finite thinking (e.g. shareholder value), where the goal is to win in the short term. In contrast, an infinite mindset involves playing *the game* with the goal of perpetuating the game itself, focusing on long-term success and sustainability.
 
-[The Infinite Game](https://amzn.to/47sYk8e) is a great read for leaders and managers as it provides insights and practical advice for to adopt a mindset for enduring success.
+The author emphasizes the importance of embracing an infinite mindset in leadership to navigate uncertainties, foster innovation, and build organizations that thrive in the ever-changing landscape.
+
+[The Infinite Game](https://amzn.to/47sYk8e) is a great read for leaders and managers as it provides insights and practical advice to adopt a mindset for enduring success.
