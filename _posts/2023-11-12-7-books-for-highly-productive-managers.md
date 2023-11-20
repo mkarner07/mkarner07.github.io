@@ -15,7 +15,7 @@ tags:
   - List of References
 
 ---
-The world of management and leadership literature is expansive. In this piece, I aim to introduce seven captivating books from this realm that I've personally found enjoyable.
+The world of management and leadership literature is expansive. In this piece, I aim to introduce seven captivating books from this realm that I enjoyed personally.
 
 ## Start with Why
 
