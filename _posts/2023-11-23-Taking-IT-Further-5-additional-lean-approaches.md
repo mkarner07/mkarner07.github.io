@@ -75,7 +75,7 @@ A core value of Lean is to continuosly get better. The process for achieving thi
 
 - **Plan**: Set goals and plan for change.
 - **Do**: This step involves executing the plan on a small scale.
-- **Check**: Sssess results against objectives, distinguishing what works.
+- **Check**: Assess results against objectives, distinguishing what works.
 - **Act**: Optimize processes iteratively by implementing necessary changes.
 
 PDCA is a dynamic tool, fostering adaptability and refinement in pursuit of efficiency and excellence.
