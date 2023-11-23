@@ -75,9 +75,12 @@ Habit Stacking involves leveraging an established habit as a cue for the new hab
 > The perfect is the enemy of the good. - Voltaire
 > 
 
-When I think of perfectionism, the following story comes to my mind: A professor divided his class into two groups: one graded on quantity, needing to submit 100 pictures for an A, and the other on quality, requiring just one excellent picture. Surprisingly, the quantity-focused group produced better-quality pictures. The key lesson is that "Learning by Doing" triumphs over passive, theoretical learning.
+When I think of perfectionism, I think of the following story I've read somewhere: A professor divided his class into two groups: one graded on quantity, needing to submit 100 pictures for an A, and the other on quality, requiring just one excellent picture. Surprisingly, the quantity-focused group produced better-quality pictures. The quantity group tried out different things, experimented and learnt a lot. The other group was stuck with theorizing about how to take the perfect picture.
+
+The key lesson is that "Learning by Doing" triumphs over passive, theoretical learning.
 
 How do you apply this to habit-building? Take the leap and don't overanalyze. It's more beneficial to engage in something briefly, like a quick 5-minute workout, than to do nothing at all.
+
 
 ### 2-Minute-Rule
 
