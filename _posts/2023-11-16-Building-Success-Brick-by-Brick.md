@@ -106,8 +106,8 @@ Our brain craves challenge, but only when it's not too overwhelming. Playing ten
 
 ## Conclusion: The Secret to Results That Last
 
-Consistently applying a modest 1% improvement can result in remarkable transformations over time. Notably, improving by 1% each day leads to a staggering 37-fold enhancement.
+Consistently applying a modest 1% improvement can result in remarkable transformations over time. Notably, improving by 1% each day leads to a staggering 37-fold enhancement in one year.
 
 This is how powerful habits can be!
 
-If you find the topic interesting, I can highly recommend the book [Atomic Habits](https://amzn.to/40x9XZN) by James Clear. It already has become a modern classic and a must read non-fiction book for productivity enthusiasts. But also Simon Sinek’s books [The Infinite Game](https://amzn.to/47sYk8e) and [Leaders Eat Last](https://amzn.to/40xUnwM) contain valuable insights in why aand how to build habits.
+If you find the topic interesting, I can highly recommend the book [Atomic Habits](https://amzn.to/40x9XZN) by James Clear. It already has become a modern classic and a must read non-fiction book for productivity enthusiasts. But also Simon Sinek’s books [The Infinite Game](https://amzn.to/47sYk8e) and [Leaders Eat Last](https://amzn.to/40xUnwM) contain valuable insights in why and how to build habits.
