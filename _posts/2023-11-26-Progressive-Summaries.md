@@ -24,7 +24,7 @@ In this article I want to give you a deeper dive into one of the methods you can
 
 Essentially, I see progressive summarization as writing a “summary of a summary”.
 
-When I started my [productivity journey]({% post_url 2023-11-09-My-Productivity-Journey %}), the number of notes I took and with it the amount of information I had quickly grew. It grew to an amount which craves for structurization and techniques for quick review.
+When I started [productivity journey]({% post_url 2023-10-28-My-Productivity-Journey %}), the number of notes I took and with it the amount of information I had quickly grew. It grew to an amount which craves for structurization and techniques for quick review.
 
 When taking notes digitally, they tend to become quite extensive. Once we master 10 finger writing, we can write 60 words per minute and more. This is more than three times faster than fast handwriting (15-20 wpm). As it is easier to capture a lot of information digitally, we tend to do it. During meetings and when taking digital notes from books, we overestimate the information’s value and write down a lot.
 
@@ -51,7 +51,7 @@ To leverage the gathered information effectively, it is essential to integrate i
 
 ### Recall what you read
 
-In [Recall & Reflect]({% post_url 2023-10-09-Recall-and-Reflect-my-personal-approach-to-remembering-books %}) I described my personal techniques to remember what I read. At its core is notetaking.
+In [Recall and Reflect]({% post_url 2023-10-09-Recall-and-Reflect-my-personal-approach-to-remembering-books %}), I described my personal techniques to remember what I read. At its core is notetaking.
 
 You can only utilize information you remember, and you most likely remember those things better if you wrote them down - or at least, you could pick up the information again if you need it.
 
