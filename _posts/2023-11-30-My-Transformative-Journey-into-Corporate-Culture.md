@@ -56,11 +56,11 @@ Once I finished my PhD, I made the transition into the corporate world.
 
 ### The Corporate World
 
-I am working in the corporate world for four years now where I serve as the manager of a department dedicated to digitalization and IT.
+I am working in the corporate world for four years now where I serve as the manager of a department dedicated to Digitalization and IT.
 
 My tasks are managing a portfolio of projects in the realm of digitalization, automation and IT. Even though I am still working on some innovative topics, my altitude has changed: it’s more about keeping the overview of the portfolio and delegating tasks.
 
-Furthermore, I am responsible for solutions (mostly IT systems) used in production running smoothly. Some of the solutions need to perform 24/7/365.
+Furthermore, I am responsible for solutions (mostly IT systems) used in production running smoothly - I manage a team of systemadimistrators. Some of the solutions need to perform 24/7/365.
 
 Most of the time I enjoy my job. However, it is very different when compared to the tasks I had in applied science. Where I would brainstorm complex, novel ideas at the edge of practical feasibility with a highly specialized research-team, I now find myself responsible for the operation of legacy systems. Oftentimes I have to argue with a broad variety of users about how new features could potentially crash an existing solution. Curiosity is not the main factor anymore, but business value is.
 
