@@ -1,5 +1,5 @@
 ---
-title: "7 books for highly productive managers"
+title: "The Productivity Pulse: Uncovering 5 More Books for Succes"
 description: "After the positive reception of my latest piece on productivity literature, I've chosen to continue the momentum by introducing five additional books focused on personal productivity."
 date: 2023-12-03
 excerpt_separator: "<!--more-->"
