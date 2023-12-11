@@ -12,7 +12,7 @@ tags:
   - Guide
 
 ---
-Efficiency and effectiveness are becoming more and more important to suceed in today‘s challenging corporate world.
+Efficiency and effectiveness are becoming more and more important to succeed in today‘s challenging corporate world.
 
 In my quest to supercharge my personal productivity, I've embarked on a journey filled with page-turning books, self-experimentation, and the pursuit of game-changing insights. There exist many strategies for enhancing your personal productivity, spanning from crafting daily routines, emulating the habits of high achievers, to investing in different software tools.
 
