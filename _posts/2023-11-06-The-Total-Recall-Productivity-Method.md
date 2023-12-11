@@ -26,13 +26,13 @@ In this article I want to show you my current productivity system: The Total Rec
 
 ## Overview: Essential Parts of TORP
 
-In a corporate job a productivity system has to fullfill the following needs: communication, task & time management as well as notetaking and knowledge management.
+In a corporate job a productivity system has to fulfill the following needs: communication, task & time management as well as notetaking and knowledge management.
 
 For TORP, I blended Luhmann’s “[Zettelkasten](https://niklas-luhmann-archiv.de/)” with the [PARA](https://fortelabs.com/blog/para/)-Method, David Allen’s “[Getting Things Done](https://amzn.to/3tM3NbC)” and added a bit of my own twist to it.
 
 How did I set it up?
 
-In my job as an IT & Digitalization manager I use OneNote and for my personal projects I use Notion. For both applications I set-up the same system and I am sure the system also works for other softwares out there such as Obsidian, Evernote etc.
+In my job as an IT & Digitalization manager I use OneNote and for my personal projects I use Notion. For both applications I set-up the same system and I am sure the system also works for other software out there such as Obsidian, Evernote etc.
 
 TORP in OneNote starts with a Notebook consisting of a handful of sections and section-groups.
 
@@ -52,7 +52,7 @@ In a corporate setting the amount of different tasks you have to deal with on a 
 > The human brain is very good at having ideas, but terrible at keeping them.
 > 
 
-This can easily result in important information slipping your mind. I, for one, experienced this firsthand. This is why, in my humble opinion, a knowledge management system must be the core of a good productity system - TORP does that. The core of TORP in OneNote is a section called “PARA Onepager”. It is one page with a bunch of links to all your Projects, Areas, Ressources and Archives relevant to you.
+This can easily result in important information slipping your mind. I, for one, experienced this firsthand. This is why, in my humble opinion, a knowledge management system must be the core of a good productity system - TORP does that. The core of TORP in OneNote is a section called “PARA Onepager”. It is one page with a bunch of links to all your Projects, Areas, Resources and Archives relevant to you.
 
 Why is it a Onepager?
 
@@ -130,7 +130,7 @@ In GTD task-management is divided into three categories:
 
 - **Next action list**: This is a to-do list designed with each entry structured as a clear, actionable task, eliminating the need to recall the original intention when jotting down the item.
 - **Waiting for list**: All things you delegated or responses you are waiting for are stored in this list. It should contain the three columns: (i) the delegated task, (ii) the person delegated to and (iii) a date.
-- **Someday maybe list**: All to-dos that are important, but do not need your immidiate (next few weeks) attention are put into this list.
+- **Someday maybe list**: All to-dos that are important, but do not need your immediate (next few weeks) attention are put into this list.
 
 By curating your to-dos into this three different list types you get a good overview. It even comes in handy if you create different “next action” lists - each one dedicated to a specific type of task (e.g. administrative, creative, quick wins, …). To integrate these to-dos well into TORP, adding links to the tasks supercharges productivity.
 
