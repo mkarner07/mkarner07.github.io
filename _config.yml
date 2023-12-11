@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Matthias Karner"
   avatar : "/assets/images/MatthiasKarner.jpg" #https://media.licdn.com/dms/image/C4E03AQG0FoHTWKPRAQ/profile-displayphoto-shrink_800_800/0/1609755145080?e=1701907200&v=beta&t=shIsFNczqT79sE9EfEZ_PxrOWXslkJS8EpbDi8dAmUY #"/assets/images/bio-photo.jpg"
-  bio    : "Digitalization & IT leader. Avid reader. Passionate Writer. Engineering PhD. Productivity enthusiast." #"Stay curious!" # "I am into books, productivity and personal finances. In my professional life I work as head of IT and digitalization in an international corporation."
+  bio    : "Digitalization & IT leader. Avid reader. Dedicated Writer. Engineering PhD. Productivity enthusiast." #"Stay curious!" # "I am into books, productivity and personal finances. In my professional life I work as head of IT and digitalization in an international corporation."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
