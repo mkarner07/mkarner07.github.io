@@ -27,7 +27,7 @@ In the book the Nobel Prize-winning author delves into the intersection of econo
 The book is brimming with insights, and a thorough exploration would take more than twenty minutes to read. To keep the posts concise and engaging, I've opted to divide it into three parts:
 - Part 1: [In the Realm of Thought: A Deep Dive into Thinking, Fast and Slow]({% post_url 2023-12-07-In-the-Realm-of-Thought %})
 - Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})
-- Part 3: 9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life
+- Part 3: [9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
 
 In this initial segment, my goal is to introduce the model Daniel Kahnemann employs to describe our thinking process and provide a condensed summary of the cognitive biases and heuristics outlined in "Thinking, Fast and Slow.”
 
@@ -188,4 +188,4 @@ Thank you for reading!
 This was the first part of my in-depth series exploring "[Thinking, Fast and Slow](https://amzn.to/3uxWBjY)" by Daniel Kahnemann. Check out the entire series here:
 - Part 1: [In the Realm of Thought: A Deep Dive into Thinking, Fast and Slow]({% post_url 2023-12-07-In-the-Realm-of-Thought %})
 - Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})
-- Part 3: 9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life
+- Part 3: [9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
