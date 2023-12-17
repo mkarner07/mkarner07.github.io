@@ -37,7 +37,7 @@ The best time for me to study was before lunch and in the late afternoon. Betwee
 
 Following my university days, I ventured into employment at an institute for applied research. The standard commencement time for the workday fell somewhere between 9 a.m. and 10 a.m. This schedule suited me perfectly, and by beginning my tasks around 8:30 a.m., I found myself among the earliest starters.
 
-Today at my corporate job I work in an office located near to the factory. Some of the white collar workers here start as early as 6:30 a.m. to be more close to the morning-shift (5 a.m. - 1 p.m.). When I start at 8:00 a.m. I am one of the latest ones in the office.
+Today at my corporate job I work at an office located near to a factory. Some of the white collar workers start as early as 6:30 a.m. to be more close to the morning-shift (5 a.m. - 1 p.m.). Fortunately, I'm not bound by such constraints—I have the freedom to structure my workday according to my preferences. Typically, I kick off my workday between 8:00 a.m. and 8:30 a.m., making me one of the later starters in the office. However, I enjoy the working hours in the later afternoon and evening. It's during this time that I often find myself alone in the office, experiencing minimal distractions and achieving a remarkable level of productivity.
 
 ## The Myth of the Early Bird
 
