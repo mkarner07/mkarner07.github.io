@@ -31,7 +31,7 @@ However, the morning shift was an entirely different story. I had to kick-start 
 
 After finishing my workday at 1 p.m., I did not have much energy left. I found myself just lying on the couch and watching TV or some Youtube videos. Also on the evening it was difficult: I had to go to the bed at about 9:15 p.m. to get at least 7 hours of sleep. This did not work very well and I often was wake until after 10 p.m. resulting in way too little sleep.
 
-At university this was easier. I was able to plan my study-sessions myself and was not restricted much by lectures. They started at about 9 a.m. the earliest. Thank god!
+At university this was easier. I was able to plan my study-sessions myself and was not restricted much by lectures. They started at about 9 a.m. the earliest. Thank God!
 
 The best time for me to study was before lunch and in the late afternoon. Between 10 a.m. and 1 p.m. when the morning tiredness was over I did get a lot of studying done. Additionally I thrived in the later afternoon between 4 p.m. and 10 p.m. At that time the ”soup coma” from lunch was finally overcome.
 
