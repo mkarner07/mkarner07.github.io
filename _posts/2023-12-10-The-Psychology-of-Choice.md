@@ -156,6 +156,6 @@ Daniel Kahnemann uses the study’s results to introduce the concept of two selv
 Thank you for reading!
 
 This was the second part of my in-depth series exploring "Thinking, Fast and Slow" by Daniel Kahnemann. Check out the entire series here:
-- Part 1: [In the Realm of Thought: A Deep Dive into Thinking, Fast and Slow]({% post_url 2023-12-07-In-the-Realm-of-Thought %})
+- Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})
 - Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})
 - Part 3: [9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
