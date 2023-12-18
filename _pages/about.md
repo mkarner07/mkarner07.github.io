@@ -1,24 +1,36 @@
 ---
 permalink: /about/
 title: "About"
-header:
-  image: /assets/images/art-lasovsky-pen-title-unsplash.jpg
 ---
 
-## Hi, I'm Matthias!
+Hi there, great that you are here!
+
+My name is, you guessed right, Matthias Karner. Professionally, I am leading a department dedicated to Digitalization & IT.
+I started my Medium Journey in 2023.
 
 Great that you are here!
 
-I’ve always been an avid reader, and my reading preferences have evolved over the years. In my childhood, I delved into novels, during my student years, it was textbooks, and as a doctoral student, I immersed myself in scientific articles. Throughout my academic journey, I developed a deep appreciation for well-researched scientific papers and even had the privilege of contributing to this body of work by publishing several articles as part of my dissertation.
+### Why did I create this website?
+I've always been an avid reader. In my childhood, I delved into novels, during my student years, it was textbooks, and as a doctoral student, I was reading tons of scientific articles. I even had the privilege of contributing to this body of research by publishing several articles as part of my dissertation (cf. [ResearchGate](https://www.researchgate.net/profile/Matthias-Karner-3)). For the last couple of years I have been reading a lot of [non-fiction books]({% post_url 2023-11-19-Learning-Journey-my-top-33-non-fiction-bookshelf %}).
 
-My career path has predominantly been in application-oriented science, which led me to work on industry projects and apply my research findings in practical settings. Consequently, I made the transition from academic research to the corporate world.
+But I also regularly listen to podcasts and audibooks and read online.
 
-Today, I serve as the manager of a department dedicated to digitalization and IT within an international corporation. While my career has taken me in exciting directions, my passion for reading has remained constant. However, due to the demands of my career change, my writing output has declined in the recent years.
+I recently signed up on [Medium](https://matthiaskarner.medium.com/) to have access to one of the best repositories of online articles. My expectations were exceeded: There are so many exciting, educational and humorous posts on the platform!
 
-With creating this website, I aim to change that narrative.
+It was encouraging to see all this great articles. I wanted to contribute too, so I decided to share the insights I picked up so far: on Medium and on my personal website.
 
-I’m excited to share insights I collected from my personal experiences and explore a range of topics, including personal productivity, management and leadership as well as digital transformation.
+### How did I collect these insights?
 
-Thank you for dropping by!
+I did my Bachelor and Master in Industrial & Mechanical Engineering at the Vienna University of Technology. 
+
+My professional carreer started in application-oriented science at the Fraunhofer institute (parallel to my PhD), where I worked on research projects - most of them in cooperation with industrial partners. The topics were mostly in the realm of Industrial Engineering: lean manufacturing, digitalization, maintenance management, product development, cyber-physical-systems and production planning.
+
+During my PhD my interests shifted more and more in the direction of Digitalization and IT: I learned programming (not just theoretically) and delved into methods such as machine learing, meta-heuristics, predictive maintenance, automation, … Luckily, I was able to apply what I learned in the research projects I did.
+
+After finishing my PhD I made the transition to the corporate world and took the job of a "Digital Transformation Manager". I got the chance to build up a team to accelarete the digital transformation of my company. Things worked out pretty well and my team quickly grew.
+For more than two years now, I am responsible for IT systems, digitalization, automation and data science in an international cooperation.
+
+### And what now?
+I am already thrilled what the future holds up for me. But one thing is certain: I will continue to be curious, read & learn and share the insights I'll stumble upon.
 
 {% include afterword.html %}
