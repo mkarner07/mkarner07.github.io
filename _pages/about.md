@@ -6,7 +6,6 @@ title: "About"
 Hi there, great that you are here!
 
 My name is, you guessed right, Matthias Karner. Professionally, I am leading a department dedicated to Digitalization & IT.
-I started my Medium Journey in 2023.
 
 ### Why did I create this website?
 I've always been an avid reader. In my childhood, I delved into novels, during my student years, it was textbooks, and as a doctoral student, I was reading tons of scientific articles. I even had the privilege of contributing to this body of research by publishing several articles as part of my dissertation (cf. [ResearchGate](https://www.researchgate.net/profile/Matthias-Karner-3)). For the last couple of years I have been reading a lot of [non-fiction books]({% post_url 2023-11-19-Learning-Journey-my-top-33-non-fiction-bookshelf %}).
