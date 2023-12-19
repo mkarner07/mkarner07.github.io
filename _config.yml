@@ -116,7 +116,7 @@ footer:
       icon: "fas fa-fw fa-bell"
       url: "https://tinyletter.com/matthiaskarner"
     - label: "Gumroad"
-      icon: "fas fa-fw fa-cloud-download"
+      icon: "fas fa-fw fa-cloud"
       url: "https://matthiaskarner.gumroad.com/"
     - label: "Buy Me A Coffee"
       icon: "fas fa-fw fa-coffee"
