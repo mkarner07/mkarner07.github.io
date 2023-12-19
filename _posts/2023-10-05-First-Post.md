@@ -8,11 +8,10 @@ categories:
   - Management and Leadership
   - Digital Transformation
 tags:
-  - Introduction
-  - Blog
   - Personal Productivity
   - Management and Leadership
   - Digital Transformation
+  - My Journey
 
 ---
 | ![image](/assets/images/typewriter-unsplash.jpg) |
