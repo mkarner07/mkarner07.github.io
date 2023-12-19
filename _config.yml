@@ -91,9 +91,6 @@ author:
     - label: "Buy Me A Coffee"
       icon: "fas fa-fw fa-coffee"
       url: "https://www.buymeacoffee.com/matthiaskarner"
-    - label: "Gumroad"
-      icon: "fas fa-fw fa-link"
-      url: "https://matthiaskarner.gumroad.com/"
 
 footer:
   links:
@@ -118,12 +115,12 @@ footer:
     - label: "Subscribe"
       icon: "fas fa-fw fa-link"
       url: "https://tinyletter.com/matthiaskarner"
-    - label: "Buy Me A Coffee"
-      icon: "fas fa-fw fa-coffee"
-      url: "https://www.buymeacoffee.com/matthiaskarner"
     - label: "Gumroad"
       icon: "fas fa-fw fa-link"
       url: "https://matthiaskarner.gumroad.com/"
+    - label: "Buy Me A Coffee"
+      icon: "fas fa-fw fa-coffee"
+      url: "https://www.buymeacoffee.com/matthiaskarner"
 
 defaults:
   # _posts
