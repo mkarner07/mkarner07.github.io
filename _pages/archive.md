@@ -1,6 +1,7 @@
 ---
 permalink: /archive/
 title: "Post Archive"
+masthead: false
 ---
 Here you can find all my posts sorted by ...
 
