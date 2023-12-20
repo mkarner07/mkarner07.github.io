@@ -1,12 +1,6 @@
 ---
-title: "Post Archive"
+title: "Posts by Year"
 permalink: /posts/
 layout: posts
 author_profile: true
 ---
-
-### [Posts by Categories]("/categories/")
-
-### [Posts by Tags]("/tags/")
-
-### Posts by Years
