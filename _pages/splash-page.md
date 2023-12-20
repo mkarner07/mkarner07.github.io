@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Welcome"
 layout: splash
 permalink: /splash-page/
 header:
@@ -8,5 +8,5 @@ header:
   overlay_image: /assets/splash/MatthiasKarner_SplashImage_Homepage.png
   caption: "Image created by DALL·E 3"
 
-excerpt: "Welcome, great that you are here!"
+excerpt: "great that you are here!"
 ---
