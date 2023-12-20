@@ -1,7 +1,6 @@
 ---
-title: "Post Archive"
 permalink: /archive/
-author_profile: true
+title: "Post Archive"
 ---
 
 ### [Posts by Categories](/categories)
