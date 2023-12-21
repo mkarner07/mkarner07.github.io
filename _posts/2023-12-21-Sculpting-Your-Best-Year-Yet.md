@@ -15,6 +15,10 @@ As the year draws to a close, it's that special time when we pause to ponder the
 
 Yet, despite our best intentions, the journey of New Year's resolutions often encounters a common roadblock – the dreaded drop-off. In fact, [Forbes reports](https://www.forbes.com/health/mind/new-years-resolutions-statistics/) that over 60% of these ambitious goals find themselves abandoned within a mere three months.
 
+| ![image](/assets/images/isaac-smith-goals-unsplash.jpg) |
+|:--:|
+| *Photo by Isaac Smith on Unsplash* |
+
 Resolutions are often linked to habits and goals. But more often than not, the goals are not very actionable, such as "improve fitness," "lose weight," or "improve finances." But how do we want to achieve it? What is the exact number (save X dollars, lose Y kilograms, etc.)?
 
 Books like [Atomic Habits](https://amzn.to/3u7uvfl) suggest that you need to tie your goals to your identity.
@@ -24,10 +28,6 @@ But how to do that?
 This year I read a great book that draws a concrete, actionable plan to shape our identity and design a life we love: [Designing your Life](https://amzn.to/3RxtzK8) a #1 New York Times bestseller by Bill Burnett and Dave Evans.
 
 In this article I want to share the core insights of the book and what I learned from it.
-
-| ![image](/assets/images/isaac-smith-goals-unsplash.jpg) |
-|:--:|
-| *Photo by Isaac Smith on Unsplash* |
 
 ## The 6 Steps of “Designing your Life”
 
