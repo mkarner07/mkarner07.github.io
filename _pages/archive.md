@@ -11,4 +11,4 @@ Here you can find all my posts sorted by ...
 
 | ![image](/assets/images/Thumbnail_Archive.png) |
 |:--:|
-| *Image created by DALL·E 3* |
+| *Image created in cooperation with DALL·E 3* |
