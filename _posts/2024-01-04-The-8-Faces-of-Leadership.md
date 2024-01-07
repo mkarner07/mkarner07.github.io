@@ -11,7 +11,6 @@ tags:
   - Management and Leadership
 
 ---
-{% if page.subtitle %}{{ page.subtitle }}{% endif %}
 The landscape of leadership literature is vast: At Medium alone the topic “Leadership” has 251.000 followers - there is so much advice out there, that it can be hard to get started.
 
 In the past years I read a lot of literature in the realm of leadership and made some experiences myself (if you are interested, you can have a look here). What I found helpful is to identify my personal leadership style.
