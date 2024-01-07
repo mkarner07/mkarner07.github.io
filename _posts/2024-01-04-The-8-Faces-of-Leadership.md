@@ -10,8 +10,6 @@ tags:
   - Management and Leadership
 
 ---
-An overview of different approaches to leadning a team
-{: .page__subtitle}
 The landscape of leadership literature is vast: At Medium alone the topic “Leadership” has 251.000 followers - there is so much advice out there, that it can be hard to get started.
 
 In the past years I read a lot of literature in the realm of leadership and made some experiences myself (if you are interested, you can have a look here). What I found helpful is to identify my personal leadership style.
