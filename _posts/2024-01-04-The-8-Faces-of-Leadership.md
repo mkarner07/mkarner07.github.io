@@ -1,5 +1,6 @@
 ---
 title: "The 8 Faces of Leadership"
+subtitle: "An overview of different approaches to leadning a team"
 description: "The landscape of leadership literature is vast: At Medium alone the topic “Leadership” has 251.000 followers - there is so much advice out there, that it can be hard to get started. In the past years I read a lot of literature in the realm of leadership and made some experiences myself. What I found helpful is to identify my personal leadership style. In this article I want to share the different types of authority and leadership styles so you can choose the one that suits you best!"
 date: 2024-01-04
 excerpt_separator: "<!--more-->"
