@@ -1,6 +1,6 @@
 ---
 title: "Navigating Leadership: 5 Learnings From Becoming a Department Head at 29"
-description: ""
+description: "When I think back, I always had the goal of becoming successful. But what did (professional) success mean to me? I imagined success as being exceptionally good at a particular subject, having a job of high status and earning lots of money. Apart from the entrepreneurial route, achieving this goals meant becoming a manager with personnel responsibility. It meant becoming a leader. I envisioned the skill set of a leader akin to university professors, gaining exceptional expertise (the first part of success) through years of study and numerous publications. I believed all leaders gained their authority for leadership roles solely from their expertise—until reality proved otherwise: There is more than one leadership style."
 date: 2024-01-07
 excerpt_separator: "<!--more-->"
 categories:
