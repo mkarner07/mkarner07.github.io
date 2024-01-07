@@ -106,6 +106,7 @@ The key to team spirit is mutual empathy and trust. If present, one person stand
 The insights for this articles are learnings from my journey. If you are interested in my personal story, please check out my [recent article on my transition from academia to the corporate world]({% post_url 2023-11-30-My-Transformative-Journey-into-Corporate-Culture %}).
 
 Additionally, I used the following sources:
-
 - [Leaders Eat Last](https://amzn.to/3TnSvVQ) by Simon Sinek
 - [One Minute Manager Meets The Monkey](https://amzn.to/3SAZZ7E) by Ken Blanchard
+
+*Short Disclaimer: In this article I've used affiliate links. If you buy a book from the links, I will get a small comission.*
