@@ -109,4 +109,4 @@ Additionally, I used the following sources:
 - [Leaders Eat Last](https://amzn.to/3TnSvVQ) by Simon Sinek
 - [One Minute Manager Meets The Monkey](https://amzn.to/3SAZZ7E) by Ken Blanchard
 
-*Short Disclaimer: In this article I've used affiliate links to books I've personally read. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+*Short Disclaimer: In this article I've used affiliate links to books I've personally read. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
