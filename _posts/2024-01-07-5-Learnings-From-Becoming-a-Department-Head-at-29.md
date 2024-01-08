@@ -17,11 +17,11 @@ Apart from the entrepreneurial route, achieving this goals meant becoming a mana
 
 I envisioned the skill set of a leader akin to university professors, gaining exceptional expertise (the first part of success) through years of study and numerous publications. I believed all leaders gained their authority for leadership roles solely from their expertise—until reality proved otherwise: There is more than one leadership style as I delved into within [this article]({% post_url 2024-01-04-The-8-Faces-of-Leadership %}).
 
+In today's article I unveil 5 leadership lessons I learned after becoming Department Head at the age of 29.
+
 | ![image](/assets/images/MK_Presenting.PNG) |
 |:--:|
 | *Image created in cooperation with DALL·E 3* |
-
-In today's article I unveil 5 leadership lessons I learned after becoming Department Head at the age of 29.
 
 ## 5 Learnings about Leadership
 

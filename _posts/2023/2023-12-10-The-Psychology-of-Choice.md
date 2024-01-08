@@ -18,7 +18,7 @@ tags:
 ---
 Let's dive into the secrets of our minds, especially the part that thinks without us even realizing it. 
 
-Did you know that a huge 90% of what we think is influenced by this sneaky subconscious? Daniel Kahnemann breaks it down in his awesome book "[Thinking, Fast and Slow](https://amzn.to/46iVUs8)". He explains how our brains work in two different ways – one is quick and instinctive, while the other is slow and thoughtful.
+Did you know that a huge 90% of what we think is influenced by this sneaky subconscious? Daniel Kahnemann breaks it down in his awesome book "Thinking, Fast and Slow". He explains how our brains work in two different ways – one is quick and instinctive, while the other is slow and thoughtful.
 
 Get ready for a cool ride exploring how our minds make decisions!
 
@@ -159,3 +159,5 @@ This was the second part of my in-depth series exploring "Thinking, Fast and Slo
 - Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})
 - Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})
 - Part 3: [9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
+
+I also highly recommend reading the whole book "Thinking, Fast and Slow". Please support your local library and buy from them. If you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46iVUs8).

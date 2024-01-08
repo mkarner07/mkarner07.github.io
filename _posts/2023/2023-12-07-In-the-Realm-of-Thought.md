@@ -16,7 +16,7 @@ tags:
   - Series
 
 ---
-In the recent years I read many [non-fiction books]({% post_url 2023-11-19-Learning-Journey-my-top-33-non-fiction-bookshelf %}), but one truly stands out: [Thinking, Fast and Slow](https://amzn.to/46iVUs8) by Daniel Kahnemann.
+In the recent years I read many [non-fiction books]({% post_url 2023-11-19-Learning-Journey-my-top-33-non-fiction-bookshelf %}), but one truly stands out: Thinking, Fast and Slow by Daniel Kahnemann.
 
 In the book the Nobel Prize-winning author delves into the intersection of economics and psychology, debunking the concept of the homo economicus and revealing how human decisions are shaped by psychological biases and distortions.
 
@@ -185,7 +185,9 @@ This phenomenon is closely tied to the "New Expectancy Theory", a concept I'll e
 
 Thank you for reading!
 
-This was the first part of my in-depth series exploring "[Thinking, Fast and Slow](https://amzn.to/3uxWBjY)" by Daniel Kahnemann. Check out the entire series here:
+This was the first part of my in-depth series exploring "Thinking, Fast and Slow" by Daniel Kahnemann. Check out the entire series here:
 - Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})
 - Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})
 - Part 3: [9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
+
+I also highly recommend reading the whole book "Thinking, Fast and Slow". Please support your local library and buy from them. If you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46iVUs8).

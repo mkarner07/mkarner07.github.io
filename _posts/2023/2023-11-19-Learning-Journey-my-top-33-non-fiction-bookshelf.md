@@ -52,3 +52,7 @@ The landscape of non-fiction books is vast. In this post I want to share my top 
 31. [Rich Dad Poor Dad](https://amzn.to/40Bt5FT): The narrative contrasts two contrasting approaches to financial management, offering insights into the mindset and strategies that contribute to sustainable wealth creation.
 32. [Atomic Habits](https://amzn.to/3u7uvfl): James Clear delves into the transformative power of tiny habits, illustrating how small changes can lead to remarkable results in personal development and achievement. For a deeper dive, you can check out [my post about habits]({% post_url 2023-11-16-Building-Success-Brick-by-Brick %}).
 33. [How to take smart notes](https://amzn.to/474bCIC): This book provides a comprehensive exploration of Prof. Niklas Luhmann's highly effective method of note-taking.
+
+---
+
+*Short Disclaimer: With the links I aim to give you a direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*

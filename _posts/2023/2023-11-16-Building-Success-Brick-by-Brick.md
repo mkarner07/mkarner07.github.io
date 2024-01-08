@@ -112,3 +112,9 @@ Consistently applying a modest 1% improvement can result in remarkable transform
 This is how powerful habits can be!
 
 If you find the topic interesting, I can highly recommend the book [Atomic Habits](https://amzn.to/40x9XZN) by James Clear. It already has become a modern classic and a must read non-fiction book for productivity enthusiasts. But also Simon Sinek’s books [The Infinite Game](https://amzn.to/47sYk8e) and [Leaders Eat Last](https://amzn.to/40xUnwM) contain valuable insights in why and how to build habits.
+
+---
+
+Thank you for reading, I hope you've enjoyed my article!
+
+*Short Disclaimer: With the provided links I aim to give you a direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*

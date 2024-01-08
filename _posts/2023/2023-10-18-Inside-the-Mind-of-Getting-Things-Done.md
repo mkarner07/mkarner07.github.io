@@ -74,5 +74,8 @@ But there's more to it. The idea put forward here is that your to-do lists shoul
 Tasks like "Research suitable tire dealers" can be seamlessly tackled during those brief, unconventional time intervals that frequently appear in your day, such as the 10 minutes before a meeting or when your energy levels are on the lower side. It's all about making tasks not just doable but also seamlessly fitting into your daily routine, ultimately resulting in significant gains in productivity.
 
 ## Conclusion
-GTD offers a lot of easy but powerful techniques you can easily implement in your daily life and become more productive by doing it. In the blog post I showed you some of the methods I personally use and that are helping me improve my personal productivity. If you want to learn more, check out the full book: 
-["Getting Things Done" by David Allen](https://amzn.to/3tM3NbC).
+GTD offers a lot of easy but powerful techniques you can easily implement in your daily life and become more productive by doing it. In the blog post I showed you some of the methods I personally use and that are helping me improve my personal productivity. If you want to learn more, check out the full book: "Getting Things Done" by David Allen.
+
+---
+
+*If you want to purchase the full book, please feel free to use [this affiliate link](https://amzn.to/3tM3NbC). When you make a purchase using this link, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*

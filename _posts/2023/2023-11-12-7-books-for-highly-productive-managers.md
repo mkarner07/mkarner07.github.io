@@ -112,3 +112,9 @@ Sinek argues that many challenges in leadership and business arise from a mindse
 The author emphasizes the importance of embracing an infinite mindset in leadership to navigate uncertainties, foster innovation, and build organizations that thrive in the ever-changing landscape.
 
 [The Infinite Game](https://amzn.to/47sYk8e) is a great read for leaders and managers as it provides insights and practical advice to adopt a mindset for enduring success.
+
+---
+
+Thank you for reading, I hope you've enjoyed my picks!
+
+*Short Disclaimer: With the provided links I aim to give you a direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*

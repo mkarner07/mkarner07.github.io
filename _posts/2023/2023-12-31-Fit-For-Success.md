@@ -63,3 +63,5 @@ For this article I used the following sources:
 - [Designing Your Life by Bill Burnett and Dave Evans](https://amzn.to/3RxtzK8)
 
 If you are interested in a deep dive into Life Design, have a look at [this article]({% post_url 2023-12-21-Sculpting-Your-Best-Year-Yet %}).
+
+*Short Disclaimer: The links above are affiliate links. If you buy a book from the links, I will get a small comission.*

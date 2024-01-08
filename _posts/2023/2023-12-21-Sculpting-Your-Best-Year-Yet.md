@@ -184,3 +184,5 @@ Thank you for reading!
 For me personally, Life Design is an actionable method that pinpoint the activities that ignite my energy and enthusiasm and also serves as a playbook on how to amplify their impact in my life.
 
 If you are interested in the topic and need more information about Life Design check out the [full book](https://amzn.to/3RxtzK8) or the [Designing Your Life webpage](https://designingyour.life/).
+
+*Short Disclaimer: The book-links are Amazon affiliate links. If you buy a book via the links, I will get a small comission.*

@@ -48,7 +48,7 @@ And how do you continously improve personally? By learning.
 
 Learning is the cradle of innovation.
 
-To foster a conducive learning environment, Cross-Functional Teams are an excellent starting point as e.g. Eric Ries notes in ”[The Lean Startup](https://amzn.to/3Mal2tB)”. When individuals venture into areas beyond their primary expertise, they inevitably encounter a learning curve: once they conquer the initial challenges, the learning process begins.
+To foster a conducive learning environment, Cross-Functional Teams are an excellent starting point as e.g. Eric Ries notes in [The Lean Startup]({% post_url 2023-11-02-Mastering-Innovation-The-Lean-Startup %}). When individuals venture into areas beyond their primary expertise, they inevitably encounter a learning curve: once they conquer the initial challenges, the learning process begins.
 
 This principle holds true within a team context, but the concept of constructing a learning-oriented atmosphere can also be applied to personal productivity.
 
@@ -94,7 +94,7 @@ So, it is much more efficient to work on one task at a time.
 
 ## Just-in-time
 
-Just-In-Time (JIT) is possibly one of the most renowned concepts in lean manufacturing, popularized by the influential lean book, "[The Machine That Changed the World](https://amzn.to/47fvRmv)".
+Just-In-Time (JIT) is possibly one of the most renowned concepts in lean manufacturing, popularized by the influential lean book, "The Machine That Changed the World".
 
 It is a production and inventory management strategy that ensures that materials, components, and products are delivered or produced exactly when they are needed and not a moment sooner. This minimizes waste and eliminates excess inventory thereby reducing storage costs. JIT requires effective supply chain management, close collaboration with suppliers, and robust processes to function effectively.
 

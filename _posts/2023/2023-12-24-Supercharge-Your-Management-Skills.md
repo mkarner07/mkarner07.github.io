@@ -81,3 +81,9 @@ The book intertwines values and self-worth within Shalom H. Schwartz's framework
 Reinhard Haller identifies topics such as humiliation, silence's destructive potential, narcissism as well as lack of empathy in our modern area. He highlights that praise and gratitude are important psychological factors and can lead to a sharp increase in motivation and productivity.
 
 The German book can be seen a bit controversial, but to me “[The Miracle of Appreciation](https://amzn.to/3RIdbqz)” served as great alternative literature source in the realm of management and leadership literature.
+
+---
+
+Thank you for reading, I hope you’ve enjoyed my picks! 
+
+*Short Disclaimer: With the links I aim to give you a direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*

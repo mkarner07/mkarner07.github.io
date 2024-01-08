@@ -31,7 +31,7 @@ In personal productivity, embracing Genchi Genbutsu means immersing yourself dir
 
 ## Make use of the Minimum Viable Product
 
-The MVP (Minimum Viable Product) is a rather new concept within the realm of Lean Thinking and goes back to Eric Ries who is the famous author of [The Lean Startup](https://amzn.to/3Mal2tB).
+The MVP (Minimum Viable Product) is a rather new concept within the realm of Lean Thinking and goes back to Eric Ries who is the famous author of [The Lean Startup]({% post_url 2023-11-02-Mastering-Innovation-The-Lean-Startup %}).
 
 In the dynamic world of software development, the MVP (Minimum Viable Product) stands as a swift and cost-effective gateway to innovation. It's the compact, essential version of a finished product. Its compact design facilitates easy iterations, transforming it into a learning tool that enables customers to explore functionality. Meanwhile, developers can collect vital feedback for continuous enhancements.
 

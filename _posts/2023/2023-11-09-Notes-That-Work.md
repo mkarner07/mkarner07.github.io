@@ -47,7 +47,7 @@ In the corporate realm, notes serve as the guardians of crucial meeting insights
 
 Meanwhile, in the academic arena, notes play a different role – they act as vaults for reference materials, stashed away for future research endeavors.
 
-Remarkably, the art of notetaking and its subsequent journey can be a supercharger for creativity and productivity. Enter the "Zettelkasten" method, brilliantly expounded upon in the book ["How to Take Smart Notes"](https://amzn.to/3SvWVtm). This method was the secret sauce behind the academic triumphs of Prof. Niklas Luhmann, a maestro of scholarly publishing.
+Remarkably, the art of notetaking and its subsequent journey can be a supercharger for creativity and productivity. Enter the "Zettelkasten" method, brilliantly expounded upon in the book "How to Take Smart Notes". This method was the secret sauce behind the academic triumphs of Prof. Niklas Luhmann, a maestro of scholarly publishing.
 
 But what's at the heart of his remarkable success?
 

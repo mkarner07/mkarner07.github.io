@@ -94,3 +94,9 @@ The book serves as a call to arms against the proliferation of misleading inform
 Through engaging examples and case studies, the authors empower readers to question the credibility of information, encouraging a deeper understanding of how data can be weaponized or distorted.
 
 I really enjoyed the book and have learned a lot on how to interpret visualizations and debunk bullshit in a data driven world. If you got interested, check out the [full book](https://amzn.to/49TynRr).
+
+---
+
+Thank you for reading, I hope you’ve enjoyed my picks! 
+
+*Short Disclaimer: In this article I've used affiliate links. If you buy a book from the links, I will get a small comission.*

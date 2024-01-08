@@ -28,7 +28,7 @@ In this article I want to show you my current productivity system: The Total Rec
 
 In a corporate job a productivity system has to fulfill the following needs: communication, task & time management as well as notetaking and knowledge management.
 
-For TORP, I blended Luhmann’s “[Zettelkasten](https://niklas-luhmann-archiv.de/)” with the [PARA](https://fortelabs.com/blog/para/)-Method, David Allen’s “[Getting Things Done](https://amzn.to/3tM3NbC)” and added a bit of my own twist to it.
+For TORP, I blended Luhmann’s "[Zettelkasten](https://niklas-luhmann-archiv.de/)" with the [PARA](https://fortelabs.com/blog/para/)-Method, David Allen’s "[Getting Things Done]({% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %})" and added a bit of my own twist to it.
 
 How did I set it up?
 
@@ -124,7 +124,7 @@ To-do lists are a common part of every productivity system and there exists a to
 
 I tried out many of them, but most of the time I found my to-dos scattered across different applications, leading to some effort reviewing them regularly and keeping them up-to-date. This initial barrier requires you to invest at least some energy to get started. On a stressful day, this can mean that you don't make good use of your time (e.g. the 15 minutes between meetings) and procrastinate instead of crossing off things from your to-do lists - productivity suffers.
 
-To me, this changed once I read “[Getting Things Done](https://amzn.to/3tM3NbC)” (GTD). I discovered a method to integrate all my to-do lists in one place - exactly where all my notes are.
+To me, this changed once I read "[Getting Things Done]({% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %})" (GTD). I discovered a method to integrate all my to-do lists in one place - exactly where all my notes are.
 
 In GTD task-management is divided into three categories:
 
