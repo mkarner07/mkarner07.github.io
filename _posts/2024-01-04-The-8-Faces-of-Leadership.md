@@ -13,7 +13,7 @@ tags:
 ---
 The landscape of leadership literature is vast: At Medium alone the topic [“Leadership” has 2.2M followers](https://medium.com/tag/leadership) - there is so much advice out there, that it can be hard to get started.
 
-In the past years I read a lot of literature in the realm of leadership and made some experiences myself (if you are interested, you can have a look here). What I found helpful is to identify my personal leadership style.
+In the past years I read a lot of literature in the realm of leadership and made some experiences myself (if you are interested, you can have a look [here]({% 2024-01-07-5-Learnings-From-Becoming-a-Department-Head-at-29 %})). What I found helpful is to identify my personal leadership style.
 
 In this article I want to share the different types of authority and leadership styles so you can choose the one that suits you best!
 
