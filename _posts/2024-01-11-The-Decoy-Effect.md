@@ -1,5 +1,5 @@
 ---
-title: "The Decoy Effect: How the industry tricks you into buying more expensive products."
+title: "The Decoy Effect: How the industry tricks you into buying more expensive products"
 description: "There are many cognitive biases we have to watch out for - in a recent article, I unveiled 11 of them. Some days ago I stumbled upon another one: the Decoy Effect. It’s a powerful strategy to increase the sales for a product."
 date: 2024-01-11
 excerpt_separator: "<!--more-->"
