@@ -15,7 +15,7 @@ tags:
 
 ---
 
-There are many cognitive biases we have to watch out for - in a [recent article](https://www.notion.so/a1075978a81547a4ad7aef80e63b0e5b?pvs=21), I unveiled 11 of them.
+There are many cognitive biases we have to watch out for - in a [recent article]({% post_url 2023-12-07-In-the-Realm-of-Thought %}), I unveiled 11 of them.
 
 Some days ago I stumbled upon another one: the Decoy Effect. It’s a powerful strategy to increase the sales for a product.
 
