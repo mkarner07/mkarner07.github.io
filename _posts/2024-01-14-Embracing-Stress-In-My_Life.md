@@ -55,7 +55,7 @@ I started to work on all different kinds of tasks because I knew that I had to. 
 
 Whenever I feel stressed in the future I will think back on this and embrace it: it is my chance to get a boost in motivation and productivity.
 
-But I also made some changes to my productivity toolset to overcome those situations with low external pressure in the feature.
+But I also made some changes to my productivity toolset to overcome those situations with low external pressure in the future.
 
 ## 5 methods to stay productive in times of low pressure
 
