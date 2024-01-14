@@ -1,5 +1,5 @@
 ---
-title: "9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life"
+title: "9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life"
 description: "The workings of the human mind can be quite mysterious, particularly when considering our subconscious thoughts. Daniel Kahnemann dissects this phenomenon in his fantastic book, Thinking, Fast and Slow, elucidating the dual nature of our brains. In this article, I'll be sharing nine key insights that I've gleaned from the book."
 date: 2023-12-14
 excerpt_separator: "<!--more-->"
@@ -128,6 +128,6 @@ Thank you for reading!
 This was the the third part of my comprehensive series delving into "Thinking, Fast and Slow" by Daniel Kahnemann. Check out the entire series here:
 - Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})
 - Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})
-- Part 3: [9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
+- Part 3: [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
 
 I also highly recommend reading the whole book "Thinking, Fast and Slow". Please support your local library and buy from them. If you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46iVUs8).

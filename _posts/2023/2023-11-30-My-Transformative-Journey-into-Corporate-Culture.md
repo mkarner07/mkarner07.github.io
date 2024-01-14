@@ -1,5 +1,5 @@
 ---
-title: "From Ivory Tower to Corporate Tower: 9 Learnings from my transition to the corporate world"
+title: "From Ivory Tower to Corporate Tower: 9 Learnings from My Transition to the Corporate World"
 description: "Academia and the corporate world can vary significantly across various dimensions such as project execution, cultural dynamics, and task management approaches. In this article I want to share my personal learnings from my transition from academia to the corporate world."
 date: 2023-11-30
 excerpt_separator: "<!--more-->"

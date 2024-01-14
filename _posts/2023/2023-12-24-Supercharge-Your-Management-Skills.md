@@ -1,5 +1,5 @@
 ---
-title: "Supercharge Your Management Skills: 5 more Books to Maximize Productivity"
+title: "Supercharge Your Management Skills: 5 More Books to Maximize Productivity"
 description: "After the positive reception of my latest piece on management literature, I've chosen to continue the momentum by introducing five additional books focused on productivity for managers."
 date: 2023-12-24
 excerpt_separator: "<!--more-->"
@@ -86,4 +86,4 @@ The German book can be seen a bit controversial, but to me “[The Miracle of Ap
 
 Thank you for reading, I hope you’ve enjoyed my picks! 
 
-*Short Disclaimer: With the links I aim to give you a direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+*Short Disclaimer: With the links I aim to give you direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
