@@ -9,6 +9,7 @@ categories:
 tags:
   - Personal Productivity
   - Designing Your Life
+  - Guide
 
 ---
 As the year draws to a close, it's that special time when we pause to ponder the events of the past twelve months and envision the possibilities that lie ahead.

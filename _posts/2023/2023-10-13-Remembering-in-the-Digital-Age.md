@@ -8,6 +8,7 @@ categories:
 tags:
   - Personal Productivity
   - Notetaking
+  - Second Brain
   - Reading
   - Recall
 

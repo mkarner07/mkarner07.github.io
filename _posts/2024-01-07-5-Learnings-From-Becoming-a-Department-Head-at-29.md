@@ -5,9 +5,11 @@ date: 2024-01-07
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
+  - Digital Transformation
 tags:
   - Personal Productivity
   - Management and Leadership
+  - My Journey
 
 ---
 

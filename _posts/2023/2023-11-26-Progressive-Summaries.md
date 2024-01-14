@@ -8,6 +8,7 @@ categories:
 tags:
   - Personal Productivity
   - Notetaking
+  - Writing
   - Second Brain
   - Methods
 
