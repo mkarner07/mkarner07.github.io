@@ -15,7 +15,7 @@ tags:
 ---
 In our fast-paced world stress is often perceived as a badge of honor, although we are taught that stress is something negative.
 
-Stress leads to the production of cortisol and if the hormone is not broken down again (e.g. by running away from an aggressive mammoth), it can cause damage to your health. Therefore, my mindset always has been: that stress is something bad.
+Stress leads to the production of cortisol and if the neurotransmitter is not broken down again (e.g. by running away from an aggressive mammoth), it can cause damage to your health. Therefore, my mindset always has been: that stress is something bad.
 
 But this mindset changed recently and since I embrace stress in my life.
 
