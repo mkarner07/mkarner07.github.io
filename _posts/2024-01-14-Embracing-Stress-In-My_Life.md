@@ -139,8 +139,8 @@ Motivation might just follow suit.
 
 ---
 
-Embracing stress once it is there and having the right systems in place for those situations where it isn’t is continuing my productivity journey.
+*Embracing stress once it is there and having the right systems in place for those situations where it isn’t is continuing my productivity journey.*
 
-Thank you for reading!
+*Thank you for reading!*
 
-What is your take on stress? Do you need stress for maximum-level motivation or does it hinder your progress? Please let me know in the comments. I am already thrilled to hear your thoughts!
+*What is your take on stress? Do you need stress for maximum-level motivation or does it hinder your progress? Please let me know in the comments. I am already thrilled to hear your thoughts!*
