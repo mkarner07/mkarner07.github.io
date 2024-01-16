@@ -115,6 +115,6 @@ If you find the topic interesting, I can highly recommend the book [Atomic Habit
 
 ---
 
-Thank you for reading, I hope you've enjoyed my article!
+*Thank you for reading, I hope you've enjoyed my article!*
 
 *Short Disclaimer: With the provided links I aim to give you a direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*

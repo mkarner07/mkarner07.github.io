@@ -123,11 +123,11 @@ This rule is easy, but can be powerful if you apply it correctly: end your conve
 
 ---
 
-Thank you for reading!
+*Thank you for reading!*
 
-This was the the third part of my comprehensive series delving into "Thinking, Fast and Slow" by Daniel Kahnemann. Check out the entire series here:
-- Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})
-- Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})
-- Part 3: [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
+*This was the the third part of my comprehensive series delving into "Thinking, Fast and Slow" by Daniel Kahnemann. Check out the entire series here:*
+- *Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})*
+- *Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})*
+- *Part 3: [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})*
 
-I also highly recommend reading the whole book "Thinking, Fast and Slow". Please support your local library and buy from them. If you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46iVUs8).
+*I also highly recommend reading the whole book "Thinking, Fast and Slow". Please support your local library and buy from them. If you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46iVUs8).*

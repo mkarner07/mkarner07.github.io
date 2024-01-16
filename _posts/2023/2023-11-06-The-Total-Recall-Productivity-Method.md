@@ -174,8 +174,8 @@ To me, TORP supports my daily workflow where I need it to. It took me a while to
 
 ---
 
-If you are interested in personal productivity, management & leadership or the TORP method in particular, stay tuned!
+*If you are interested in personal productivity, management & leadership or the TORP method in particular, stay tuned!*
 
-If you want to dive straight into TORP, you can use my [OneNote template](https://matthiaskarner.gumroad.com/l/TORP_Starter_Pack).
+*If you want to dive straight into TORP, you can use my [OneNote template](https://matthiaskarner.gumroad.com/l/TORP_Starter_Pack).*
 
-Thank you for reading and have a good one!
+*Thank you for reading and have a good one!*

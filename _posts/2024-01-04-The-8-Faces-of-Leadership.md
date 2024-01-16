@@ -116,11 +116,11 @@ Nevertheless, the 8 leadership styles offer a reference point for selecting an e
 
 ---
 
-Thank you for reading! I hope you found my article helpful.
+*Thank you for reading! I hope you found my article helpful.*
 
-For this article I used the following sources:
+*For this article I used the following sources:*
 
-- [Article](https://www.betterup.com/blog/types-of-authority) on betterup
-- [Article](https://open.lib.umn.edu/sociology/chapter/14-1-power-and-authority/) on open.lib
-- [Article](http://classroommanagementdiscipline.weebly.com/authorityleadership.html) on classroommanagementdiscipline
-- [Article](https://businessleadershiptoday.com/what-are-the-8-types-of-leadership/#:~:text=The%20eight%20types%20of%20leadership,members%2C%20and%20the%20organization's%20goals.) on businessleadershiptoday
+- *[Article](https://www.betterup.com/blog/types-of-authority) on betterup*
+- *[Article](https://open.lib.umn.edu/sociology/chapter/14-1-power-and-authority/) on open.lib*
+- *[Article](http://classroommanagementdiscipline.weebly.com/authorityleadership.html) on classroommanagementdiscipline*
+- *[Article](https://businessleadershiptoday.com/what-are-the-8-types-of-leadership/#:~:text=The%20eight%20types%20of%20leadership,members%2C%20and%20the%20organization's%20goals.) on businessleadershiptoday*

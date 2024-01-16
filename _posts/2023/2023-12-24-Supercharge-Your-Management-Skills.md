@@ -84,6 +84,6 @@ The German book can be seen a bit controversial, but to me “[The Miracle of Ap
 
 ---
 
-Thank you for reading, I hope you’ve enjoyed my picks! 
+*Thank you for reading, I hope you’ve enjoyed my picks!*
 
 *Short Disclaimer: With the links I aim to give you direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
