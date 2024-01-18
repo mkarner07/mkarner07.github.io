@@ -25,7 +25,7 @@ Picture this: You've got a garage, untouched, a relic of non-car ownership. It's
 
 This is what an Anchor Problem is.
 
-Anchor Problems come in different forms: it might be writing a book, de-cluttering, a project, or starting a business.
+Anchor Problems come in different forms: it might be writing a book, decluttering, a project, or starting a business.
 
 ## How can you get past Anchor Problems?
 
