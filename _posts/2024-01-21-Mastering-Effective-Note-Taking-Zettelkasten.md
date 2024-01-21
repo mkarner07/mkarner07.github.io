@@ -136,4 +136,4 @@ This is the power of thinking externally!
 - *Why you need to [engage with your notes]({% post_url 2023-11-09-Notes-That-Work %}) to truly utilize them.*
 - *[Progressive summaries]({% post_url 2023-11-26-Progressive-Summaries %}) can leverage your notes to the next level.*
 
-*For this article, I’ve used the book “How to Take Smart Notes” by Sönke Ahrens as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them. However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/3sIWoKo). If you use the link the costs are the same as if you don’t, but I get a small commission.*
+*For this article, I’ve used the book “How to Take Smart Notes” by Sönke Ahrens as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them. However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/3sIWoKo). If you use the link the costs for you are the same, but I get a small commission.*
