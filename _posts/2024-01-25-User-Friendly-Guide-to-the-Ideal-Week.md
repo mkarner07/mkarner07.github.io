@@ -1,7 +1,7 @@
 ---
 title: "Craft Your Ideal Week: a User-Friendly Guide"
 description: "A key element of personal productivity is managing our time efficiently. By making the most out of our energy levels throughout the day we can get more things done and stay motivated for longer. At the beginning of this year, I experienced a week of low motivation and tried out different methods to get my productivity back to where it was. One method that helped me was drafting my ideal week. In this article, I want to share my experiences and shed light on how you can craft your ideal week too."
-date: 2024-01-21
+date: 2024-01-25
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
