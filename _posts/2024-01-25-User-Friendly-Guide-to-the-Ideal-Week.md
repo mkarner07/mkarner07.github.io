@@ -155,3 +155,9 @@ When applying the ideal week, think of the following guidelines:
 
 ---
 
+*Thank you for reading! If you are interested in reading on: in the past weeks I’ve written some related articles:*
+
+- *In a [recent article]({% post_url 2024-01-14-Embracing-Stress-In-My_Life %}), I delved into the topic “stress” and how it can be a productivity booster.*
+- *You [do not have to become a morning lark]({% post_url 2023-12-17-Why-the-early-bird-mentality-is-wrong %}) to operate at peak productivity.*
+
+*For this article, I’ve mostly used my personal experiences using the “ideal week”. Initially, I heard about it by Ali Abdaal in his [Trident Calendar System](https://youtu.be/6o2tm00Ar8A?si=90BVo9It1EO4QLd1).*
