@@ -97,6 +97,7 @@ Then add all other activities, but ensure that you leave some “unplanned time�
 | *Example of time allocated to activities by the author* |
 
 Once you’ve allocated all 168 hours of the week, the next step is to plan the activities in a calendar. I've personally tested using 60-minute, 30-minute, and 15-minute blocks. Planning with 60 minutes is too broad, while a 15-minute grid makes the overview too large. So, in my view, a 30-minute grid works best.
+
 You can use any calendar app you like, but I suggest using a spreadsheet. It lets you test different schedules, and the spreadsheet makes sure the times add up correctly.
 
 | ![image](/assets/images/ideal_week/ideal_week_example.PNG) |
@@ -104,7 +105,9 @@ You can use any calendar app you like, but I suggest using a spreadsheet. It let
 | *Example of activities added to a 30-minute grid by the author* |
 
 Take your time adding the activities to the calendar and don’t hesitate to go back to your time allocation and tweak it. I had to move back and forth for about 10 times until I was happy with the result.
+
 For fast morning routines (like the one in the example) a 30-minute grid can still be too rough. However, you can assign multiple activities to a single block of time.
+
 There you have it: your ideal week. As a next step, you can plan your ideal work week in more detail.
 
 ### Craft your ideal work week
@@ -132,8 +135,11 @@ As a manager, a big portion of work is sitting in meetings and often it’s the 
 | *Example of activities added to the ideal work week grid by the author* |
 
 In the example, I began with the most important kind of work, called deep work. To boost motivation on Mondays, it's great to start the week with deep work and make progress on big and important projects right away. It's crucial to schedule deep work when you have the most energy during the day—early if you're a morning lark and later if you're a night owl.
+
 As a manager, another significant part of work is, unfortunately, shallow work—small tasks that don't require deep focus but still need time and attention (like signing an order, checking budget figures, or preparing for a meeting).
+
 It's also helpful to plan when you'll plan your work and your team's work. I find it very useful to end the workweek on Friday with half an hour of planning for the tasks in the next week. This ensures that I can clear my mind before heading into the weekend. Similarly, I schedule half an hour on Sundays to plan the upcoming week - this ensures that I can start right away with deep work on Monday mornings.
+
 You can plan your ideal (work) week with as many details as you like, but remember: the more activities you plan in advance, the less likely it is that your ideal week will actually happen.
 
 ### Apply ideal week
@@ -152,6 +158,6 @@ When applying the ideal week, think of the following guidelines:
 *Thank you for reading! If you are interested in reading on: in the past weeks I’ve written some related articles:*
 
 - *In a [recent article]({% 2024-01-14-Embracing-Stress-In-My_Life %}), I delved into the topic “stress” and how it can be a productivity booster.*
-- *You [don’t have to become a morning lark]({% 2023-12-17-Why-the-early-bird-mentality-is-wrong %}) to operate at peak productivity.*
+- *You [do not have to become a morning lark]({% 2023-12-17-Why-the-early-bird-mentality-is-wrong %}) to operate at peak productivity.*
 
 *For this article, I’ve mostly used my personal experiences using the “ideal week”. Initially, I heard about it by Ali Abdaal in his [Trident Calendar System](https://youtu.be/6o2tm00Ar8A?si=90BVo9It1EO4QLd1).*
