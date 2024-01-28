@@ -99,16 +99,17 @@ On the other hand, I found that articles with only plain facts (without a person
 
 My most successful articles are:
 
-- [Why the Early Bird Mentality is Wrong](https://medium.com/illumination/why-the-early-bird-mentality-is-wrong-e8742353e12f)
-- [Top 7 Books for 2024](https://medium.com/illumination/top-7-books-for-2024-7759c4add046), [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life](https://medium.com/illumination/9-learnings-from-thinking-fast-and-slow-you-can-apply-in-your-day-to-day-life-6beaaa9fc8a2)
-- [Taking It Further: 5 Additional Lean Approaches for Personal Productivity](https://medium.com/illumination/taking-it-further-5-additional-lean-approaches-for-personal-productivity-6ecda0dfb01e)
-- [From Ivory Tower to Corporate Tower: 9 Learnings from My Transition to the Corporate World](https://medium.com/illumination/from-ivory-tower-to-corporate-tower-9-learnings-from-my-transition-to-the-corporate-world-6d07ad36bef8).
+- [Why the Early Bird Mentality is Wrong]({% post_url 2023-12-17-Why-the-early-bird-mentality-is-wrong %})
+- [Top 7 Books for 2024]({% post_url 2023-11-12-7-books-for-highly-productive-managers %})
+- [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
+- [Taking It Further: 5 Additional Lean Approaches for Personal Productivity]({% post_url 2023-11-23-Taking-IT-Further-5-additional-lean-approaches %})
+- [From Ivory Tower to Corporate Tower: 9 Learnings from My Transition to the Corporate World]({% post_url 2023-11-30-My-Transformative-Journey-into-Corporate-Culture %}).
 
 My least successful articles are:
 
-- [Remembering in the Digital Age: Insights for Text, Audio and Visual Info](https://medium.com/illumination/remembering-in-the-digital-age-insights-for-text-audio-and-visual-info-3ff893ed5d4a)
-- [The 8 Faces of Leadership](https://medium.com/illumination/the-8-faces-of-leadership-4b6c5dbb8199)
-- [The Decoy Effect](https://medium.com/short-sweet-valuable/the-decoy-effect-783e720352f9)
+- [Remembering in the Digital Age: Insights for Text, Audio and Visual Info]({% post_url 2023-10-13-Remembering-in-the-Digital-Age %})
+- [The 8 Faces of Leadership]({% post_url 2024-01-04-The-8-Faces-of-Leadership %})
+- [The Decoy Effect]({% post_url 2024-01-11-The-Decoy-Effect %})
 
 ### Metrics
 
