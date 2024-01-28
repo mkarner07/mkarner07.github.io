@@ -62,10 +62,10 @@ While writing about the learnings I made during my reading was great for getting
 
 Writing can be a great outlet for your thoughts and even be some form of meditation. I very much enjoy sharing bits and pieces of my personal story in my online writing:
 
-- I started sharing my personal story within the productivity realm: [what I’ve learned about productivity](https://matthiaskarner.medium.com/my-productivity-revolution-a-story-of-progress-d26025c55654) and which methods I use.
+- I started sharing my personal story within the productivity realm: [what I’ve learned about productivity]({% post_url 2023-10-28-My-Productivity-Journey %}) and which methods I use.
 - At Medium I had the opportunity to [introduce myself](https://medium.com/about-me-stories/about-me-matthias-karner-40099d453354) in an “About Me” article.
-- In my career, I had the opportunity to see both worlds: academia and the corporate world. In an article, I summarized [my 9 core learnings](https://medium.com/illumination/from-ivory-tower-to-corporate-tower-9-learnings-from-my-transition-to-the-corporate-world-6d07ad36bef8) from transitioning from academia to the corporate world.
-- After I transitioned to the corporate world I had the opportunity to take over the responsibility of [leading a team at the young age of 29](https://medium.com/illumination/5-learnings-from-becoming-a-department-head-at-29-72444a05c5e7). Leading a team means taking on (and crafting) your role as a leader. What helped me was learning more about the [different types of authority and leadership](https://medium.com/illumination/the-8-faces-of-leadership-4b6c5dbb8199).
+- In my career, I had the opportunity to see both worlds: academia and the corporate world. In an article, I summarized [my 9 core learnings]({% post_url 2023-11-30-My-Transformative-Journey-into-Corporate-Culture %}) from transitioning from academia to the corporate world.
+- After I transitioned to the corporate world I had the opportunity to take over the responsibility of [leading a team at the young age of 29]({% post_url 2024-01-07-5-Learnings-From-Becoming-a-Department-Head-at-29 %}). Leading a team means taking on (and crafting) your role as a leader. What helped me was learning more about the [different types of authority and leadership]({% post_url 2024-01-04-The-8-Faces-of-Leadership %}).
 
 ## My learnings after publishing 33 articles
 
