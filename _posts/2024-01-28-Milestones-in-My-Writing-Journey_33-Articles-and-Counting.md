@@ -111,6 +111,8 @@ My least successful articles are:
 - [The 8 Faces of Leadership]({% post_url 2024-01-04-The-8-Faces-of-Leadership %})
 - [The Decoy Effect]({% post_url 2024-01-11-The-Decoy-Effect %})
 
+In my upcoming articles, I'll concentrate on sharing personal stories that are shorter (around 3-6 minutes) and I'll ensure the titles are clear.
+
 ### Metrics
 
 Metrics are like a guide to see which articles people like and where they spend the most time. They help me choose what topics to write about. Without metrics, I wouldn't know which articles were the "best" or "worst."
