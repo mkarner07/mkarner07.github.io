@@ -111,7 +111,7 @@ My least successful articles are:
 - [The 8 Faces of Leadership]({% post_url 2024-01-04-The-8-Faces-of-Leadership %})
 - [The Decoy Effect]({% post_url 2024-01-11-The-Decoy-Effect %})
 
-In my upcoming articles, I'll concentrate on sharing personal stories that are shorter (around 3-6 minutes) and I'll ensure the titles are clear.
+In my upcoming articles, I'll concentrate on sharing personal stories that are shorter (around 3-6 minutes) and I'll ensure the titles are as clear as possbile.
 
 ### Metrics
 
