@@ -107,5 +107,3 @@ I decided to go with GitHub for my projects. As for the framework, I opted for 
 …
 
 Thank you for reading! If you want to read more about my writing journey, check out [this article]({% post_url 2024-01-28-Milestones-in-My-Writing-Journey_33-Articles-and-Counting %}).
-
-I’d also be interested where you publish your articles (if you are a writer) or where you read articles online (as a reader): is it mainly platforms such as Medium, or do you do blogs as well?
