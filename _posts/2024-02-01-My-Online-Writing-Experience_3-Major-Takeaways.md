@@ -104,6 +104,6 @@ GitHub Pages offers free hosting for static web pages, making it ideal for docum
 
 I decided to go with GitHub for my projects. As for the framework, I opted for [Jekyll](https://jekyllrb.com/), a well-documented and free-to-use library. There are also numerous templates available for use in projects.
 
-…
+---
 
 Thank you for reading! If you want to read more about my writing journey, check out [this article]({% post_url 2024-01-28-Milestones-in-My-Writing-Journey_33-Articles-and-Counting %}).
