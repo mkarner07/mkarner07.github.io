@@ -186,4 +186,5 @@ If that's not feasible, conducting "prototype interviews" serves as an effective
 
 *If you are interested in the topic and need more information about Life Design check out the full book "Designing Your Life" or the [Designing Your Life webpage](https://designingyour.life/).*
 
+
 *If you want to purchase the full book, please feel free to use [this affiliate link](https://amzn.to/3RxtzK8). When you make a purchase using this link, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*

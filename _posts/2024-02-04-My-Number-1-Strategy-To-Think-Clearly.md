@@ -1,7 +1,7 @@
 ---
 title: "My Number 1 Strategy to Think Clearly"
 description: "An elaboration why writing is a great strategy to think clearly."
-date: 2024-02-01
+date: 2024-02-04
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
