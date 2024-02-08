@@ -1,6 +1,6 @@
 ---
 title: "Literary Treasures at No Cost: 7 Exceptional Free Books"
-description: "..."
+description: "A great thing about books is that there are so many treasures available - enticing novels, insightful non-fiction books, and great literature. You can read some of the greatest books of all time even for free because they are in the "public domain". A public-domain book is a book that doesn't have a copyright. This could be because it was made without special permission, or its copyrights expired or were given up. In many countries, copyright protection usually ends 70 years after the author passes away. I curated a list of 7 books that are in the public domain and are very much worth reading."
 date: 2024-02-08
 excerpt_separator: "<!--more-->"
 categories:
@@ -42,7 +42,11 @@ Overall, "Meditations" is like a guide to living a good and balanced life, fille
 
 ## Don Quijote
 
-This Spanish masterpiece actually consists of two books and they were published in the early 1600s, telling the story of Alonso Quijano, an avid reader of chivalric novels.
+![image](/assets/images/7_Exceptional_Free Books/victor-martin-windmill-unsplash.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+*<sub>Windmills - the arch enemy of Don Quijote, photo by Victor Martin on Unsplash </sub>*
+{: .text-center}
+
+This Spanish by Miguel de Cervantes masterpiece actually consists of two books and they were published in the early 1600s, telling the story of Alonso Quijano, an avid reader of chivalric novels.
 
 Consumed by his readings, Alonso becomes delusional and decides to take on the persona of Don Quijote, a self-styled knight-errant, and sets out on a quest to revive chivalry.
 
@@ -68,7 +72,7 @@ The book teaches these principles with simple, parable-like tales. It is a quick
 
 ## War and Peace
 
-![image](/assets/images/7_Exceptional_Free Books/warandpeace.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+![image](/assets/images/7_Exceptional_Free Books/warandpeace.webp){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>War and Peace by Leo Tolstoy, Original Cover</sub>*
 {: .text-center}
 
