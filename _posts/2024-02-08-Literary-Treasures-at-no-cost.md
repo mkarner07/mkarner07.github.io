@@ -2,7 +2,7 @@
 title: "Literary Treasures at No Cost: 7 Exceptional Free Books"
 description: "A great thing about books is that there are so many treasures available - enticing novels, insightful non-fiction books, and great literature. You can read some of the greatest books of all time even for free because they are in the public domain. A public-domain book is a book that doesn't have a copyright. This could be because it was made without special permission, or its copyrights expired or were given up. In many countries, copyright protection usually ends 70 years after the author passes away. I curated a list of 7 books that are in the public domain and are very much worth reading."
 date: 2024-02-08
-excerpt: "A great thing about books is that there are so many treasures available - enticing novels, insightful non-fiction books, and great literature. You can read some of the greatest books of all time even for free because they are in the public domain. ABCS"
+excerpt: "ABCShgjkhjklhjk"
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
