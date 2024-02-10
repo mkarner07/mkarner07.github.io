@@ -4,8 +4,6 @@ main:
     url: "/"
   - title: "Archive"
     url: /archive/
-  - title: "Favourites"
-    url: /favourites/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
