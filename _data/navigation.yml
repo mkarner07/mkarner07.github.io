@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: /about/
   - title: "Archive"
     url: /archive/
+  - title: "Favourites"
+    url: /favourites/
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
