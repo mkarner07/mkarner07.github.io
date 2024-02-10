@@ -133,3 +133,6 @@ There are many addresses on the internet where you can access books in the publi
 
 Another great site is [Feedbooks](https://www.feedbooks.com/catalog/public_domain): it is not non-profit but offers a good repository of public domain books.
 
+---
+
+Thank you for reading!
