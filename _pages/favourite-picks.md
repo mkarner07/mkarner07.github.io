@@ -1,5 +1,5 @@
 ---
-permalink: /favourites/
+permalink: /favourite-picks/
 title: "My Favourite Picks"
 ---
 
