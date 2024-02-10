@@ -92,5 +92,7 @@ My favourite fiction books
 ## Other bits and pieces
 
 - [Blender](https://amzn.to/3Ow1Zvc): Everyone needs a good blender, either for milkshakes, smoothies or soups. This is the one I am using.
+- [Vacuum Cleaner](https://amzn.to/3usH31k): I am a big fan of wireless vacuum cleaners.
+
 
 *Short Disclaimer: With the links I aim to give you direct and easy access to the books and products online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However if you buy a book, I strongly urge you to prioritize supporting your local store whenever you decide to buy a book.*
