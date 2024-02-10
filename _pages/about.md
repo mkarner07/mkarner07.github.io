@@ -33,5 +33,3 @@ For more than two years now, I am responsible for IT systems, digitalization, au
 
 ### And what now?
 I am already thrilled what the future holds up for me. But one thing is certain: I will continue to be curious, read & learn and share the insights I'll stumble upon.
-
-{% include afterword.html %}
