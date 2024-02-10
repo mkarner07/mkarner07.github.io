@@ -38,7 +38,7 @@ You can dive into the minds of great scientists, explore the thoughts of creativ
 - [Leaders eat last](https://amzn.to/40xUnwM): This was one of the most interesting books about leadership I’ve read in the past years.
 - [Meditations](https://www.gutenberg.org/ebooks/2680): A true classic about stoic principles in leadership written by the Roman emperor of his time: Marcus Aurelius.
 - [One Minute Manager Meets The Monkey](https://amzn.to/3SAZZ7E). This one is about how to delegate properly.
-- [Outliers](https://amzn.to/46XYNQ5):
+- [Outliers](https://amzn.to/46XYNQ5)
 - [Shaolin](https://amzn.to/3FXtvgu)
 - [Start with Why](https://amzn.to/49v2Ncj)
 - [The Art of War](https://amzn.to/3QRSzvj)
