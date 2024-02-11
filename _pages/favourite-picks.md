@@ -98,4 +98,4 @@ You can dive into the minds of great scientists, explore the thoughts of creativ
 - [Vacuum Cleaner](https://amzn.to/3usH31k): I am a big fan of wireless vacuum cleaners.
 - [Vacuum Robot](https://amzn.to/3IfCg6N): I am even a bigger fan of robot vacuums.
 
-*Short Disclaimer: With the links I aim to give you direct and easy access to the books and products online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However if you buy a book, I strongly urge you to prioritize supporting your local store whenever you decide to buy a book.*
+*Short Disclaimer: With the links I aim to give you direct and easy access to the books and products online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission.*
