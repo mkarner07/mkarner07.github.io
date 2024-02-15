@@ -68,7 +68,7 @@ The book teaches these principles with simple, parable-like tales. It is a quick
 
 ## War and Peace
 
-![image](/assets/images/7_Exceptional_Free Books/warandpeace.jpg){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
+![image](/assets/images/7_Exceptional_Free Books/warandpeace.webp){:width="50%"}{:style="display:block; margin-left:auto; margin-right:auto"}
 *<sub>War and Peace by Leo Tolstoy, Original Cover</sub>*
 {: .text-center}
 
