@@ -1,5 +1,5 @@
 ---
-title: "The Power of Persistence"
+title: "Making the Most of Meetings - 4 Easy Rules"
 description: "According to Forbes there are 55 million meetings each day - and half of them are a waste of time. I mean yes, some meetings are really important for us to share ideas, move things forward, or come together and create momentum in a project. But, meetings can be a big waste of time."
 date: 2024-02-15
 excerpt: "According to Forbes there are 55 million meetings each day - and half of them are a waste of time."
