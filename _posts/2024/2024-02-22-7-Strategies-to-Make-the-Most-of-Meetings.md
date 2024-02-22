@@ -22,7 +22,7 @@ But why?
 |:--:|
 | *Photo by Sean Pollock on Unsplash* |
 
-Since I am working in a corporate environment, I’ve experienced a lot of meetings - roughly estimated, that I attended about 3.000 meetings in the past 4 years.
+Since I am working in a corporate environment, I’ve experienced a lot of meetings - roughly estimated, I attended about 3.000 meetings in the past 4 years.
 
 Some were awesome, but some were total duds.
 
