@@ -1,6 +1,6 @@
 ---
 title: "Gravity Problems: How to Deal with Unsolvable Challenges in Your Life"
-description: ""
+description: "On the roots of gravity problems and which strategies to apply to overcome them once and for all"
 date: 2024-02-25
 excerpt_separator: "<!--more-->"
 categories:
