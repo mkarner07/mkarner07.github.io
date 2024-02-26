@@ -1,7 +1,7 @@
 ---
-title: "10 Effective Approaches to Calling Out Bullshit and Fake News"
-description: "..."
-date: 2024-02-22
+title: "10 Effective Approaches to Calling Bullshit and Fake News"
+description: "The term fake news has become a common term in todays information-overloaded world. During and after the election of Donald Trump he often called news fake. Even if it oftentimes was candor information. But how can you identify false information effectively?"
+date: 2024-03-03
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
@@ -15,6 +15,7 @@ tags:
 ---
 
 The term “fake news” has become a common term in today’s information-overloaded world. During and after the election of Donald Trump he often called news fake. Even if it oftentimes was candor information.
+
 But how can you identify false information effectively?
 
 Generative AI is becoming more and more powerful and so are deep fakes. They are realistic to a point where it is hard to distinguish fact from fiction.
@@ -91,7 +92,7 @@ However, there are many downfalls when working with data. Again, some are caused
 
 | ![image](/assets/images/10_Effective_Approaches_Calling_Bullshit/Underground_Map_of_Elements.png) |
 |:--:|
-| *Source: Calling Bullshit by Carl Bergstrom and Jevin West. This visualization is a particular perversity: the very good way of arranging the data of the periodic table is abandoned in favor of a particularly creative data representation* |
+| *Source: Calling Bullshit by Carl Bergstrom and Jevin West. This visualization is a particular perversity: the very good way of arranging the data of the periodic table is abandoned in favor of a particularly creative data representation.* |
 
 - **Misused bar charts**: It is important to remember that bar charts exist to compare absolute values. To make this clear, they should always contain the value 0. Otherwise, the principle of "proportional color" is disregarded (the areas in a chart should always be proportional to the data).
 - **Line charts with two vertical axes**: They should also often be viewed with caution - depending on the scaling of the axes, different stories can be told. If several vertical axes are shown in the same diagram, it often makes sense to include the 0 in both diagrams to create a clear picture.
