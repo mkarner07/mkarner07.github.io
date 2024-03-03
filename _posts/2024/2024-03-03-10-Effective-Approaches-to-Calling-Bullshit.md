@@ -24,7 +24,7 @@ Generative AI is becoming more and more powerful and so are deep fakes. They are
 |:--:|
 | *Photo by Nijwam Swargiary on Unsplash* |
 
-After my last article on the prosecutor’s fallacy, I want to shed some more light on the topic of misinformation and share some strategies with you to identify and refute bullshit and fake news.
+After my last article on the prosecutor’s fallacy, I want to shed some more light on the topic of misinformation and share some strategies with you to identify and refute bullshit and fake news I've learned and picked up in [Calling Bullshit](https://amzn.to/46b8DNd) by Carl T. Bergstrom and Jevin West.
 
 ## **Navigating the Landscape of Misinformation**
 
