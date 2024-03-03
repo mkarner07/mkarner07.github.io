@@ -24,7 +24,7 @@ Generative AI is becoming more and more powerful and so are deep fakes. They are
 |:--:|
 | *Photo by Nijwam Swargiary on Unsplash* |
 
-After my last article on the prosecutor’s fallacy, I want to shed some more light on the topic of misinformation and share some strategies with you to identify and refute bullshit and fake news I've learned and picked up in [Calling Bullshit](https://amzn.to/46b8DNd) by Carl T. Bergstrom and Jevin West.
+After my last article on the prosecutor’s fallacy, I want to shed some more light on the topic of misinformation and share some strategies with you to identify and refute bullshit and fake news I've learned and picked up in [Calling Bullshit](https://amzn.to/3uWPjH4) by Carl T. Bergstrom and Jevin West.
 
 ## **Navigating the Landscape of Misinformation**
 
@@ -191,4 +191,4 @@ Continue honing your critical thinking skills and be vigilant in evaluating info
 
 Thank you for reading until the end! I hope you’ve enjoyed my article and learned something.
 
-For this article, I’ve used the book “Calling Bullshit” by Carl T. Bergstrom and Jevin West as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them. *However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46b8DNd). If you use the link the costs are the same as if you don’t, but I get a small commission.*
+For this article, I’ve used the book “Calling Bullshit” by Carl T. Bergstrom and Jevin West as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them. *However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/3uWPjH4). If you use the link the costs are the same as if you don’t, but I get a small commission.*
