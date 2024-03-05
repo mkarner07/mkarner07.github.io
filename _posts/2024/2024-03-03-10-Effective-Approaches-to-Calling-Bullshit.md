@@ -1,5 +1,5 @@
 ---
-title: "10 Effective Approaches to Calling Bullshit and Fake News"
+title: "10 Effective Approaches to identify false information and refute it effectively"
 description: "The term fake news has become a common term in todays information-overloaded world. During and after the election of Donald Trump he often called news fake. Even if it oftentimes was candor information. But how can you identify false information effectively?"
 date: 2024-03-03
 excerpt_separator: "<!--more-->"
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-The term “fake news” has become a common term in today’s information-overloaded world. During and after the election of Donald Trump he often called news fake. Even if it oftentimes was candor information.
+The term “fake news” has become a common term in today’s information-overloaded world. During and after the election of Donald Trump he often called news fake. Even if it was candor information.
 
 But how can you identify false information effectively?
 
@@ -24,17 +24,17 @@ Generative AI is becoming more and more powerful and so are deep fakes. They are
 |:--:|
 | *Photo by Nijwam Swargiary on Unsplash* |
 
-After my last article on the prosecutor’s fallacy, I want to shed some more light on the topic of misinformation and share some strategies with you to identify and refute bullshit and fake news I've learned and picked up in [Calling Bullshit](https://amzn.to/3uWPjH4) by Carl T. Bergstrom and Jevin West.
+After my last article on the [prosecutor’s fallacy]({% post_url 2024-02-29-The-Critical-Factor-in-Identifying-False-Information %}), I want to shed some more light on the topic of misinformation and share some strategies with you to identify and refute it. As a main resource for this article, I've used [Calling Bullshit](https://amzn.to/3uWPjH4) by Carl T. Bergstrom and Jevin West.
 
-## **Navigating the Landscape of Misinformation**
+## Navigating the Landscape of Misinformation
 
 Why has “fake news” become so common?
 
-The key-word here is **engagement**. On social media platforms engagement can be directly translated to more eyeballs, hence, more revenue from ads. There are some phrases, that lead to more engagement:
+The key-word here is **engagement**. On social media platforms engagement can be directly translated to more views, hence, more revenue from ads. There are some phrases that lead to more engagement:
 
-- "will make you"
-- "This is why"
-- "we can guess"
+- *"… will make you …"*
+- *"This is why …"*
+- *"… we can guess …"*
 
 These phrases are often used in posts and clickbait articles - the titles offer a lot but don’t deliver once you engage with them.
 
@@ -52,11 +52,11 @@ Think of metrics.
 
 As soon as a metric becomes a target, it is no longer a good metric. This is Goodhart's law.
 
-People are very creative in achieving goals and exploiting system errors. "gaps" are quickly found in the system, which are then exploited to achieve the target figure. One example the authors mention is in car sales:
+People are very creative in achieving goals and exploiting system errors. "Gaps" are quickly found in the system, which are then exploited to achieve the target figure. One example Carl T. Bergstrom and Jevin D. West mention is in car sales:
 
 Setting the number of cars sold as a target for sales staff seems logical because it's linked to the dealership's turnover and profit.
 
-However, pushing salespeople to sell as many cars as quickly as possible might lead to giving discounts and unsustainable sales practices, which could ultimately harm the dealership's profit rather than improve it.
+However, pushing salespeople to sell as many cars as quickly as possible might lead to giving discounts and to unsustainable sales practices, which could ultimately harm the dealership's profit rather than improve it.
 
 ### Data Quality also Matters
 
@@ -74,9 +74,9 @@ This is best summarized in a visualization.
 |:--:|
 | *Source: Calling Bullshit by Carl Bergstrom and Jevin West. The visualization shows the selection bias in dating.* |
 
-If you just look on the selected data (people who you would data and people who also would date you) it seems like there is a negative correlation between attractiveness and niceness. But, it is caused by the selection of the data. The whole data set has a normal-distribution.
+If you just look on the selected data (people who you would date and people who also would date you), it seems like there is a negative correlation between attractiveness and niceness. But it is caused by the selection of the data. The whole data set has a normal-distribution.
 
-Visualizations can really help us understand patterns in data better. But, they can also be used in a sneaky way to convey different stories.
+Visualizations can really help us understand patterns in data better. But they can also be used in a sneaky way to convey different stories.
 
 Let’s have a look.
 
@@ -143,7 +143,7 @@ To use this approach, simplify a statement to such an extent that it becomes alm
 
 ### 5. Provide counter-evidence
 
-This is a common strategy used in science (e.g. mathematics) to prove that a statement is wrong. But, you can use this strategy in different contexts too.
+This is a common strategy used in science (e.g. mathematics) to prove that a statement is wrong. But you can use this strategy in different contexts too.
 
 Do you know of articles, posts, news, etc. that say otherwise?
 
@@ -169,7 +169,7 @@ If the null model already shows similar behavior to the data-based model, then i
 
 ---
 
-If you are calling bullshit on something, someone is passionate about, things can become ugly. To avoid that use these two rules.
+If you are calling bullshit on something someone is passionate about, things can become ugly. To avoid this, use these two rules.
 
 ### 9. Separate the Issue from Identity
 
@@ -191,4 +191,4 @@ Continue honing your critical thinking skills and be vigilant in evaluating info
 
 Thank you for reading until the end! I hope you’ve enjoyed my article and learned something.
 
-For this article, I’ve used the book “Calling Bullshit” by Carl T. Bergstrom and Jevin West as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them. *However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/3uWPjH4). If you use the link the costs are the same as if you don’t, but I get a small commission.*
+For this article, I’ve used the book “Calling Bullshit” by Carl T. Bergstrom and Jevin West as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them. *However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46b8DNd). If you use the link the costs are the same as if you don’t, but I get a small commission.*
