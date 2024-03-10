@@ -17,6 +17,7 @@ The digital world is fascinating. Think about how the world looked like just som
 Difficult, right?
 
 In this article, I will tell about how I became Head of Digital Transformation Management and what I learned along the way.
+
 | ![image](/assets/images/ricardo-rocha-digital-journey-unsplash.jpg) |
 |:--:|
 | *Photo by Ricardo Rocha on Unsplash* |
