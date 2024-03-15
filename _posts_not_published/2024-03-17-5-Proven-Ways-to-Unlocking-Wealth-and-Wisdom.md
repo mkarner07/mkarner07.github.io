@@ -39,6 +39,8 @@ His 4 core principles of wealth creation can be summarized:
 3. You become rich by giving something to society that it needs and that scales.
 4. You have to learn two things: Learn to sell. Learn to create (build, develop, ...).
 
+## 2. Use Leverage and Acquire Knowledge
+
 In his interviews and tweets Naval also mentions the use of leverage. He speaks of two different types of leverage:
 
 1. permissoned leverage: capital and employees
@@ -57,7 +59,7 @@ Naval advocates for the acquisition of specific knowledge across various domains
 
 Furthermore, it is important to be better than others in one or two areas. To achieve that, it is important to be intellectually curious and learn perpetually.
 
-## 2. Playing Long-Term Games with Long-Term People
+## 3. Playing Long-Term Games with Long-Term People
 
 In a world obsessed with instant gratification, we should focus on playing long-term games with long-term people.
 
@@ -67,8 +69,7 @@ If you play long-term games, the probability of you getting lucky is also higher
 
 1. Hope that luck finds you.
 2. Hustle until you stumble upon luck.
-
-## 3. Preparing your mind to recognize opportunities (that others miss).
+3. Preparing your mind to recognize opportunities (that others miss).
 
 I agree with him on the last point. Luck isn’t something that just crosses your way. Luck is when opportunity meets preparedness (credits to a fellow author at Medium for [their article](https://medium.com/long-sweet-valuable/why-are-some-people-so-lucky-this-is-the-reason-ae566ada23e1)).
 
