@@ -24,7 +24,7 @@ Essentially it is a collection of tweetstorms, interviews, and articles from, wi
 |:--:|
 | *Photo by Anik Mandal on Unsplash* |
 
-In this article, I want to share 5 of Naval's proven ways to unlocking wealth and wisdom fso you can choose on your own if you’ll find his teachings helpful or not.
+In this article, I want to share 5 of Naval's proven ways to unlocking wealth and wisdom so you can choose on your own if you’ll find his teachings helpful or not.
 
 ## 1. Understanding the Essence of Wealth Creation
 
