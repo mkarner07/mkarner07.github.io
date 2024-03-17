@@ -79,7 +79,7 @@ Understanding the long-term consequences of our actions and cultivating clarity 
 But how to think clearly?
 
 - According to Naval Ravikant, you need "empty" blocks of time in your calendar with the sole aim of thinking. You only have great ideas when you are bored. I agree with him on that and [tried it out myself]({% post_url 2024-02-18-Let-Your-Thoughts-Wander-and-Unleash-Your-Creativity %}).
-- A personal strategy for me to [think clearly is to write]({% post_url 2024-02-04-My-Number-1-Strategy-To-Think-Clearly %}).
+- A personal strategy for me to think clearly is to write.
 
 ## 5. Embracing Reading and Continuous Improvement
 
