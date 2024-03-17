@@ -99,4 +99,4 @@ It is much more concrete than books like *The Richest Man in Babylon* and stil
 
 *Thank you for reading until the end! I hope you’ve enjoyed my article and learned something. What do you think of Naval Ravikant and the reading? Please let me know in the comments!*
 
-*For this article, I’ve used the book “The Almanack of Naval Ravikant” by* Eric Jorgenson, *as a main resource. I can highly recommend the whole book. It was written and published openly and is available completely for free [here](https://www.navalmanack.com/).*
+*For this article, I’ve used the book “The Almanack of Naval Ravikant” by Eric Jorgenson, as a main resource. I can highly recommend the whole book. It was written and published openly and is available completely for free [here](https://www.navalmanack.com/).*
