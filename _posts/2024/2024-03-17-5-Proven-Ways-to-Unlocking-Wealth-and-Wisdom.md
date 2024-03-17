@@ -1,6 +1,6 @@
 ---
 title: "5 Proven Ways to Unlocking Wealth and Wisdom"
-description: "In the past few years, I’ve been reading a lot of books on the topics of happiness and wealth. One book that is often seen on best book lists on those topics is The Almanack of Naval Ravikant. Essentially it is a collection of tweetstorms, interviews, and articles from, with, and about the entrepreneur Naval Ravikant. His lessons aren’t for everyone - they are discussed controversially. Some love him, others hate him. In this article, I want to share 5 of Naval's proven ways to unlocking wealth and wisdom fso you can choose on your own if you’ll find his teachings helpful or not."
+description: "In the past few years, I have been reading a lot of books on the topics of happiness and wealth. One book that is often seen on best book lists on those topics is The Almanack of Naval Ravikant. Essentially it is a collection of tweetstorms, interviews, and articles from, with, and about the entrepreneur Naval Ravikant. His lessons aren’t for everyone - they are discussed controversially. Some love him, others hate him. In this article, I want to share 5 of Naval's proven ways to unlocking wealth and wisdom fso you can choose on your own if you’ll find his teachings helpful or not."
 date: 2024-03-17
 excerpt_separator: "<!--more-->"
 categories:
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-In the past few years, I’ve been reading a lot of books on the topics of happiness and wealth. One book that is often seen on “best book lists” on those topics is *The Almanack of Naval Ravikant*.
+In the past few years, I’ve been reading a lot of books on the topics of happiness and wealth. One book that is often seen on "best book lists" on those topics is *The Almanack of Naval Ravikant*.
 
 Essentially it is a collection of tweetstorms, interviews, and articles from, with, and about the entrepreneur Naval Ravikant. His lessons aren’t for everyone - they are discussed controversially. Some love him, others hate him.
 
@@ -41,13 +41,11 @@ His 4 core principles of wealth creation can be summarized:
 ## 2. Use Leverage and Acquire Knowledge
 
 In his interviews and tweets Naval also mentions the use of leverage. He speaks of two different types of leverage:
-
 1. permissoned leverage: capital and employees
 2. permissionless leverage: products with a reproduction cost of 0
 3. Acquiring Specific Knowledge
 
 Naval advocates for the acquisition of specific knowledge across various domains:
-
 - Microeconomics
 - Game Theory
 - Psychology
@@ -81,7 +79,7 @@ Understanding the long-term consequences of our actions and cultivating clarity 
 But how to think clearly?
 
 - According to Naval Ravikant, you need "empty" blocks of time in your calendar with the sole aim of thinking. You only have great ideas when you are bored. I agree with him on that and [tried it out myself]({% post_url 2024-02-18-Let-Your-Thoughts-Wander-and-Unleash-Your-Creativity %}).
-- A personal strategy for me to [think clearly is to write]({% post_url 2024-02-04-My-Number-1-Strategy-To-Think-Clearly %}).
+- A personal strategy for me to [think clearly is to write]({% post_url 2024-02-04-My-Number-1-Strategy-To-Think-Clearly %})
 
 ## 5. Embracing Reading and Continuous Improvement
 
