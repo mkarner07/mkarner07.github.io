@@ -61,7 +61,7 @@ By questioning sources, analyzing data, and using logical reasoning, we can navi
 
 Keep honing your critical thinking skills, and don't let fake news fool you.
 
-…
+---
 
 *Thank you for reading! I hope you’ve enjoyed my article and learned something. If the topic is interesting to you, I recommend you read [this article]({% post_url 2024-03-03-10-Effective-Approaches-to-Calling-Bullshit %}).*
 
