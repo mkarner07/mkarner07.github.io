@@ -11,7 +11,7 @@ tags:
   - Management and Leadership
 
 ---
-For more than four years now, I've been in responsible for [Digital Transformation Management]({% post_url 2024-03-10-Unveiling-My-Journey-in-Digital-Transformation-Management %}) at my company.
+For more than four years now, I've been responsible for [Digital Transformation Management]({% post_url 2024-03-10-Unveiling-My-Journey-in-Digital-Transformation-Management %}) at my company.
 
 In this article I want to share some of my learnings with you.
 
