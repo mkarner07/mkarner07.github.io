@@ -111,5 +111,5 @@ By following Naval's advice and focusing on the simple things that bring us joy,
 
 *I hope you’ve enjoyed it! What are your strategies for creating happiness for yourself? Please let me know in the comments!*
 
-*For this article, I’ve used the book “The Almanack of Naval Ravikant” by* Eric Jorgenson, *as a main resource. I can highly recommend the whole book. It was written and published openly and is available completely for free [here](https://www.navalmanack.com/).*
+*For this article, I’ve used the book “The Almanack of Naval Ravikant” by Eric Jorgenson, as a main resource. I can highly recommend the whole book. It was written and published openly and is available completely for free [here](https://www.navalmanack.com/).*
 
