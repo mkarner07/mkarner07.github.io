@@ -19,7 +19,7 @@ Happiness is something we all want, but sometimes it feels like it's just out of
 
 But what does happiness actually mean?
 
-| ![image](/assets/images/stan-b-happy-unsplash.jpg) |
+| ![image](/assets/images/happy-stan-b-unsplash.jpg) |
 |:--:|
 | *Photo by Stan B on Unsplash* |
 
