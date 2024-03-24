@@ -1,6 +1,6 @@
 ---
 title: "6 Simple Strategies to Identify and Refute Misinformation"
-description: "In today's world, it's hard to escape the term "fake news." It became even more common during and after the election of Donald Trump, who often labeled news as fake, even if it was true."
+description: "In today's world, it's hard to escape the term fake news. It became even more common during and after the election of Donald Trump, who often labeled news as fake, even if it was true."
 date: 2024-03-24
 excerpt_separator: "<!--more-->"
 categories:
