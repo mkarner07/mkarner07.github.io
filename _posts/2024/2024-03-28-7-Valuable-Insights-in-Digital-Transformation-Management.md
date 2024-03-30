@@ -104,7 +104,7 @@ If you are in industrial production and you are developing a solution for a mach
 
 On the other hand, if you develop a solution that should collect data from your whole shop floor and connect it to calculate KPIs on a factory level, you need to focus on connectivity. Hence, you sacrifice robustness.
 
-…
+---
 
 *Thank you for reading!*
 
