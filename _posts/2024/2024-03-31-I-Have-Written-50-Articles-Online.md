@@ -13,16 +13,15 @@ tags:
   - Management and Leadership
 
 ---
-
-| ![image](/assets/images/ian-schneider-passion-unsplash.jpg) |
-|:--:|
-| *Photo by Ian Schneider on Unsplash* |
-
 It's amazing how quickly time flies.
 
 It seems like just a few weeks ago I started writing online at [Medium](https://medium.com/@matthiaskarner) and [matthiaskarner.com](http://matthiaskarner.com/) but now half a year has passed and I've written more than 50 articles.
 
 In this article, I'd like to take stock of my writing journey: what went well, what was challenging, and what I learned.
+
+| ![image](/assets/images/ian-schneider-passion-unsplash.jpg) |
+|:--:|
+| *Photo by Ian Schneider on Unsplash* |
 
 ## What went well
 
