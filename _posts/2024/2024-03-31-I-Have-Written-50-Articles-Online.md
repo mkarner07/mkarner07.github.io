@@ -35,7 +35,7 @@ But length alone is not the whole story - there is much more to it like topic, h
 - [Why the Early Bird mentality is wrong]({% post_url 2023-12-17-Why-the-early-bird-mentality-is-wrong %})
 - [My Top 7 books for 2024]({% post_url 2023-12-28-My-top-7-books-for-2024 %})
 - [9 Learnings from Thinking, Fast and Slow you can apply in your day-to-day life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
-- [My Number 1 Strategy To Think Clearly]({% post_url 2024-02-04-My-Number-1-Strategy-To-Think-Clearly %})
+- [My Number 1 Strategy To Think Clearly](https://medium.com/practice-in-public/my-number-1-strategy-to-think-clearly-54d15a2e7395)
 - [From Ivory Tower to Corporate Tower: 9 Learnings from my transition to the corporate world]({% post_url 2023-11-30-My-Transformative-Journey-into-Corporate-Culture %})
 
 ### Writing mindset
