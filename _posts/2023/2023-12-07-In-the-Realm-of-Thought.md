@@ -1,6 +1,6 @@
 ---
 title: "In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled"
-description: "In the recent years I read many non-fiction books, but one truly stands out: Thinking, Fast and Slow by Daniel Kahnemann. In the book the Nobel Prize-winning author delves into the intersection of economics and psychology, debunking the concept of the homo economicus and revealing how human decisions are shaped by psychological biases and distortions."
+description: "In the recent years I read many non-fiction books, but one truly stands out: Thinking, Fast and Slow by Daniel Kahneman. In the book the Nobel Prize-winning author delves into the intersection of economics and psychology, debunking the concept of the homo economicus and revealing how human decisions are shaped by psychological biases and distortions."
 date: 2023-12-07
 excerpt_separator: "<!--more-->"
 categories:
@@ -16,7 +16,7 @@ tags:
   - Series
 
 ---
-In the recent years I read many [non-fiction books]({% post_url 2023-11-19-Learning-Journey-my-top-33-non-fiction-bookshelf %}), but one truly stands out: Thinking, Fast and Slow by Daniel Kahnemann.
+In the recent years I read many [non-fiction books]({% post_url 2023-11-19-Learning-Journey-my-top-33-non-fiction-bookshelf %}), but one truly stands out: Thinking, Fast and Slow by Daniel Kahneman.
 
 In the book the Nobel Prize-winning author delves into the intersection of economics and psychology, debunking the concept of the homo economicus and revealing how human decisions are shaped by psychological biases and distortions.
 
@@ -29,18 +29,18 @@ The book is brimming with insights, and a thorough exploration would take more t
 - Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})
 - Part 3: [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
 
-In this initial segment, my goal is to introduce the model Daniel Kahnemann employs to describe our thinking process and provide a condensed summary of the cognitive biases and heuristics outlined in "Thinking, Fast and Slow.”
+In this initial segment, my goal is to introduce the model Daniel Kahneman employs to describe our thinking process and provide a condensed summary of the cognitive biases and heuristics outlined in "Thinking, Fast and Slow.”
 
-In this initial segment, my goal is to introduce the model Daniel Kahnemann employs to describe our thinking process and provide a condensed summary of the cognitive biases and heuristics outlined in "Thinking, Fast and Slow.”
+In this initial segment, my goal is to introduce the model Daniel Kahneman employs to describe our thinking process and provide a condensed summary of the cognitive biases and heuristics outlined in "Thinking, Fast and Slow.”
 
 ## The Two Systems: Fast & Slow
 
-Daniel Kahnemann distinguishes System 1 and System 2 - both used in different circumstances.
+Daniel Kahneman distinguishes System 1 and System 2 - both used in different circumstances.
 
 - System 1 is the fast system (intuition, automated actions, ...).
 - System 2 is the slow system (causal thinking, method applications, arithmetic, ...).
 
-We need both systems. While System 1 is fast, it is not very accurate and leads us to make cognitive errors. Daniel Kahnemann mentions one example to showcase this effect. If you want to try it yourself, try not to think too much and just answer intuitively:
+We need both systems. While System 1 is fast, it is not very accurate and leads us to make cognitive errors. Daniel Kahneman mentions one example to showcase this effect. If you want to try it yourself, try not to think too much and just answer intuitively:
 
 > A tennis racket and a ball together cost 110. The tennis racket costs 100 more than the ball. How much does the ball cost?
 > 
@@ -87,7 +87,7 @@ The priming effect describes how words can impact our behavior, often on a subco
 
 When exposed to specific words linked to particular characteristics, our actions tend to align with those associations.
 
-Kahnemann references a study in which students were primed with words generally associated with age. The researchers measured the time it took for these students to walk from one room to another. Those primed with age-related words took significantly longer compared to their counterparts in the control group.
+Kahneman references a study in which students were primed with words generally associated with age. The researchers measured the time it took for these students to walk from one room to another. Those primed with age-related words took significantly longer compared to their counterparts in the control group.
 
 This is our subconscious falling for priming.
 
@@ -145,7 +145,7 @@ The learning? You have to distinguish between causal base rates (base rates that
 
 ### 8. Regression to the Mean
 
-Let’s start this with an example of military flight teachers: When Daniel Kahnemann tries to teach them that praise works better than criticizing, they disagree.
+Let’s start this with an example of military flight teachers: When Daniel Kahneman tries to teach them that praise works better than criticizing, they disagree.
 
 One officer says that whenever he praises his students, they are significantly worse afterwards. If, on the other hand, he criticizes them, they are usually better afterwards.
 
@@ -167,9 +167,9 @@ The "Result Effect" is of a similar nature - the influencing variables of (from 
 
 People are overly optimistic about their own plans - external views are sometimes deliberately ignored.
 
-We are all prone to fall for this fallacy. Even Daniel Kahnemann did fall for it.
+We are all prone to fall for this fallacy. Even Daniel Kahneman did fall for it.
 
-Daniel Kahnemann and a group of researchers embarked on creating a curriculum. Upon initiating the project, they sought an expert's evaluation of their progress and an estimate of the time needed to complete the curriculum. Despite the team's optimistic perception of their subjective advancements and their belief in a swift finalization of the project, the expert projected a significantly longer timeframe, averaging around 7 years in total. The team believed that they could do much better and went on. However, the reality unfolded differently, with the curriculum ultimately taking a total of 8 years to complete. This discrepancy illustrates the planning fallacy stemming from an internal perspective.
+Daniel Kahneman and a group of researchers embarked on creating a curriculum. Upon initiating the project, they sought an expert's evaluation of their progress and an estimate of the time needed to complete the curriculum. Despite the team's optimistic perception of their subjective advancements and their belief in a swift finalization of the project, the expert projected a significantly longer timeframe, averaging around 7 years in total. The team believed that they could do much better and went on. However, the reality unfolded differently, with the curriculum ultimately taking a total of 8 years to complete. This discrepancy illustrates the planning fallacy stemming from an internal perspective.
 
 ### 11. The Endowment Effect
 
@@ -185,7 +185,7 @@ This phenomenon is closely tied to the "New Expectancy Theory", a concept I'll e
 
 *Thank you for reading!*
 
-*This was the first part of my in-depth series exploring "Thinking, Fast and Slow" by Daniel Kahnemann. Check out the entire series here:*
+*This was the first part of my in-depth series exploring "Thinking, Fast and Slow" by Daniel Kahneman. Check out the entire series here:*
 - *Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})*
 - *Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})*
 - *Part 3: [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})*

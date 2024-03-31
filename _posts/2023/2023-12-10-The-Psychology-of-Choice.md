@@ -1,6 +1,6 @@
 ---
 title: "The Psychology of Choice: Understanding How Heuristics Shape Decision-Making"
-description: "Let's dive into the secrets of our minds, especially the part that thinks without us even realizing it. Did you know that a huge 90% of what we think is influenced by this sneaky subconscious? Daniel Kahnemann breaks it down in his awesome book Thinking, Fast and Slow. He explains how our brains work in two different ways – one is quick and instinctive, while the other is slow and thoughtful. Get ready for a cool ride exploring how our minds make decisions! In this article, I aim to shed light on how our thinking processes and the hidden shortcuts called heuristics play a crucial role in shaping our decision-making."
+description: "Let's dive into the secrets of our minds, especially the part that thinks without us even realizing it. Did you know that a huge 90% of what we think is influenced by this sneaky subconscious? Daniel Kahneman breaks it down in his awesome book Thinking, Fast and Slow. He explains how our brains work in two different ways – one is quick and instinctive, while the other is slow and thoughtful. Get ready for a cool ride exploring how our minds make decisions! In this article, I aim to shed light on how our thinking processes and the hidden shortcuts called heuristics play a crucial role in shaping our decision-making."
 date: 2023-12-10
 excerpt_separator: "<!--more-->"
 categories:
@@ -18,7 +18,7 @@ tags:
 ---
 Let's dive into the secrets of our minds, especially the part that thinks without us even realizing it. 
 
-Did you know that a huge 90% of what we think is influenced by this sneaky subconscious? Daniel Kahnemann breaks it down in his awesome book "Thinking, Fast and Slow". He explains how our brains work in two different ways – one is quick and instinctive, while the other is slow and thoughtful.
+Did you know that a huge 90% of what we think is influenced by this sneaky subconscious? Daniel Kahneman breaks it down in his awesome book "Thinking, Fast and Slow". He explains how our brains work in two different ways – one is quick and instinctive, while the other is slow and thoughtful.
 
 Get ready for a cool ride exploring how our minds make decisions!
 
@@ -46,9 +46,9 @@ Formulas are in many cases (especially in an environment of high variability) mo
 
 But is experts’ intuition always worse than pure statistics?
 
-The researcher Gary Klein does not think so. He is an advocate of a school that assumes that expert opinions based on intuition are better than predictions made by algorithms. This contradicts the standpoint of Daniel Kahnemann and the studies shown above.
+The researcher Gary Klein does not think so. He is an advocate of a school that assumes that expert opinions based on intuition are better than predictions made by algorithms. This contradicts the standpoint of Daniel Kahneman and the studies shown above.
 
-Nevertheless, Gary Klein and Daniel Kahnemann collaborated on the topic “experts’ intuition”. 
+Nevertheless, Gary Klein and Daniel Kahneman collaborated on the topic “experts’ intuition”. 
 
 The results suggest that experts can certainly have good intuitions and that they can even outperform algorithms. However, whether experts can really acquire true expertise depends on the field:
 
@@ -69,13 +69,13 @@ However, optimism can be counterproductive when it comes to forecasts: estimates
 
 ## The New Expectancy Theory
 
-The work on this topic was part of why Daniel Kahnemann earned the Nobel Prize in Economics.
+The work on this topic was part of why Daniel Kahneman earned the Nobel Prize in Economics.
 
 For a long time (and still today in simple models), the "homo economicus" is used as a model for a person. It is a person who always makes rational decisions with complete information.
 
 However, this has little to do with reality.
 
-The first work on the subject of incompletely rational economic decisions goes back to Daniel Bernoulli. His theorem explains why people tend to make a lower-risk decision in a lottery or even pay a premium for the low-risk alternative. Daniel Kahnemann and his fellow researcher Amos Tversky criticize Bernoulli's work for not taking the reference point into account: someone who is wealthy is willing to make decisions with higher risk than someone who is not wealthy.
+The first work on the subject of incompletely rational economic decisions goes back to Daniel Bernoulli. His theorem explains why people tend to make a lower-risk decision in a lottery or even pay a premium for the low-risk alternative. Daniel Kahneman and his fellow researcher Amos Tversky criticize Bernoulli's work for not taking the reference point into account: someone who is wealthy is willing to make decisions with higher risk than someone who is not wealthy.
 
 A main factors of the New Expectancy Theory is the loss aversion. It describes the fact that we weigh losses more heavily than gains. This can be seen, for example, in two-sided lotteries. Would you take the following lottery:
 
@@ -128,7 +128,7 @@ A mental distortion in this context is the "sunk costs" (cf. [article about the 
 
 Preference reversal describes the fact that decisions depend in part on the context in which they are made.
 
-As an example, Kahnemann cites a study in which donations are collected for (i) dolphins and (ii) farm workers.
+As an example, Kahneman cites a study in which donations are collected for (i) dolphins and (ii) farm workers.
 
 Viewed independently of each other, people are willing to donate more for dolphins. However, when the questions are asked simultaneously, this is reversed: people tend to donate more for farm workres than to dolphins.
 
@@ -136,7 +136,7 @@ The explanation is that the moral component is taken into account - morally spea
 
 ## We have two Selves
 
-To describe what our two selves are I want to share an experiment from Daniel Kahnemann involving cold water exposure. Participants had to place their right hand in a container of unpleasantly cold water and record how unpleasant it felt with their left hand using arrow keys.
+To describe what our two selves are I want to share an experiment from Daniel Kahneman involving cold water exposure. Participants had to place their right hand in a container of unpleasantly cold water and record how unpleasant it felt with their left hand using arrow keys.
 
 - The first experiment lasted 60 seconds with 14°C cold water. Afterwards, the participants were allowed to dry their hands with a warm towel.
 - The experiment was then repeated: this time a valve was opened after 60 seconds and warm water was added - but only enough to raise the temperature to 15°C. The participants then had to keep their hand inside for another 30 seconds.
@@ -149,13 +149,13 @@ Objectively, this does not make sense.
 
 This can be explained by the fact that memories are stored differently than we experience them and the duration is not taken into account. In our memories the maximum value (pain or pleasure) and the final value are averaged. As the end of the second experiment was somewhat more pleasant, most people opted for it.
 
-Daniel Kahnemann uses the study’s results to introduce the concept of two selves: the experiencing self and the remembering self. Despite experiencing well-being differently, decisions often favor the remembering self. We are willing to let our experiencing-self suffer to form good memories.
+Daniel Kahneman uses the study’s results to introduce the concept of two selves: the experiencing self and the remembering self. Despite experiencing well-being differently, decisions often favor the remembering self. We are willing to let our experiencing-self suffer to form good memories.
 
 ---
 
 *Thank you for reading!*
 
-*This was the second part of my in-depth series exploring "Thinking, Fast and Slow" by Daniel Kahnemann. Check out the entire series here:*
+*This was the second part of my in-depth series exploring "Thinking, Fast and Slow" by Daniel Kahneman. Check out the entire series here:*
 - *Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})*
 - *Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})*
 - *Part 3: [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})*

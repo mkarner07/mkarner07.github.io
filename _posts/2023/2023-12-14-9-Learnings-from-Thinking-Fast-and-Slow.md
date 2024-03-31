@@ -1,6 +1,6 @@
 ---
 title: "9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life"
-description: "The workings of the human mind can be quite mysterious, particularly when considering our subconscious thoughts. Daniel Kahnemann dissects this phenomenon in his fantastic book, Thinking, Fast and Slow, elucidating the dual nature of our brains. In this article, I'll be sharing nine key insights that I've gleaned from the book."
+description: "The workings of the human mind can be quite mysterious, particularly when considering our subconscious thoughts. Daniel Kahneman dissects this phenomenon in his fantastic book, Thinking, Fast and Slow, elucidating the dual nature of our brains. In this article, I'll be sharing nine key insights that I've gleaned from the book."
 date: 2023-12-14
 excerpt_separator: "<!--more-->"
 categories:
@@ -18,7 +18,7 @@ tags:
 ---
 The workings of the human mind can be quite mysterious, particularly when considering our subconscious thoughts.
 
-Daniel Kahnemann dissects this phenomenon in his fantastic book, Thinking, Fast and Slow", elucidating the dual nature of our brains.
+Daniel Kahneman dissects this phenomenon in his fantastic book, Thinking, Fast and Slow", elucidating the dual nature of our brains.
 
 In this article, I'll be sharing nine key insights that I've gleaned from the book.
 
@@ -60,7 +60,7 @@ Humans are poor intuitive statisticians and we tend to underestimate the role of
 
 We recognize patterns everywhere, even if they are just there by chance. This is best explained with one example:
 
-When Daniel Kahnemann tries to teach military flight pilots that praise works better than criticizing, they disagree.
+When Daniel Kahneman tries to teach military flight pilots that praise works better than criticizing, they disagree.
 
 > One officer says that whenever he praises his students, they are significantly worse afterwards. If, on the other hand, he criticizes them, they are usually better afterwards.
 > 
@@ -86,9 +86,9 @@ Combine your estimates with base rates (take the regression to the mean into acc
 
 People are overly optimistic about their own plans - external views are sometimes deliberately ignored. This is the planning fallacy
 
-We are all prone to fall for this fallacy. Even Daniel Kahnemann did fall for it.
+We are all prone to fall for this fallacy. Even Daniel Kahneman did fall for it.
 
-> Daniel Kahnemann and a group of researchers embarked on creating a curriculum. Upon initiating the project, they sought an expert's evaluation of their progress and an estimate of the time needed to complete the curriculum. Despite the team's optimistic perception of their advancements and their belief in a swift finalization of the project, the expert projected a significantly longer timeframe, of around 7 years in total. The team believed that they could do much better and went on. However, the reality unfolded differently, with the curriculum ultimately taking a total of 8 years to complete.
+> Daniel Kahneman and a group of researchers embarked on creating a curriculum. Upon initiating the project, they sought an expert's evaluation of their progress and an estimate of the time needed to complete the curriculum. Despite the team's optimistic perception of their advancements and their belief in a swift finalization of the project, the expert projected a significantly longer timeframe, of around 7 years in total. The team believed that they could do much better and went on. However, the reality unfolded differently, with the curriculum ultimately taking a total of 8 years to complete.
 > 
 
 To overcome this cognitive bias, the “Reference Class Forecast” is a great method.
@@ -125,7 +125,7 @@ This rule is easy, but can be powerful if you apply it correctly: end your conve
 
 *Thank you for reading!*
 
-*This was the the third part of my comprehensive series delving into "Thinking, Fast and Slow" by Daniel Kahnemann. Check out the entire series here:*
+*This was the the third part of my comprehensive series delving into "Thinking, Fast and Slow" by Daniel Kahneman. Check out the entire series here:*
 - *Part 1: [In the Realm of Thought: 11 Cognitive Biases and Heuristics Unveiled]({% post_url 2023-12-07-In-the-Realm-of-Thought %})*
 - *Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})*
 - *Part 3: [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})*
