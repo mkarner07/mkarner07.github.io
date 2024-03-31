@@ -13,8 +13,8 @@ tags:
 ---
 ...
 
-| ![image](/assets/images/Career_Choice_dalle3.jfif) |
+| ![image](/assets/images/warren-tunnel-unsplash.jpg) |
 |:--:|
-| *Image created in cooperation with DALL·E 3* |
+| *Photo by Warrren on Unsplash* |
 
 ...
