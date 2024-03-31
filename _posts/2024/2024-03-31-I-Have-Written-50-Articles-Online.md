@@ -32,11 +32,11 @@ I’ve noticed that in general there is a sweet spot in the length of online art
 
 But length alone is not the whole story - there is much more to it like topic, headlines, clarity, etc. But more on that later. At the end of March, my 5 best-performing articles were:
 
-- [Why the Early Bird mentality is wrong](https://medium.com/illumination/why-the-early-bird-mentality-is-wrong-e8742353e12f)
-- [Top 7 books for 2024](https://medium.com/illumination/top-7-books-for-2024-7759c4add046)
-- [9 Learnings from “Thinking, Fast and Slow” you can apply in your day-to-day life](https://medium.com/illumination/9-learnings-from-thinking-fast-and-slow-you-can-apply-in-your-day-to-day-life-6beaaa9fc8a2)
-- [My Number 1 Strategy To Think Clearly](https://medium.com/practice-in-public/my-number-1-strategy-to-think-clearly-54d15a2e7395)
-- [From Ivory Tower to Corporate Tower: 9 Learnings from my transition to the corporate world](https://medium.com/illumination/from-ivory-tower-to-corporate-tower-9-learnings-from-my-transition-to-the-corporate-world-6d07ad36bef8)
+- [Why the Early Bird mentality is wrong]({% post_url 2023-12-17-Why-the-early-bird-mentality-is-wrong %})
+- [My Top 7 books for 2024]({% post_url 2023-12-28-My-top-7-books-for-2024 %})
+- [9 Learnings from Thinking, Fast and Slow you can apply in your day-to-day life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})
+- [My Number 1 Strategy To Think Clearly]({% post_url 2024-02-04-My-Number-1-Strategy-To-Think-Clearly %})
+- [From Ivory Tower to Corporate Tower: 9 Learnings from my transition to the corporate world]({% post_url 2023-11-30-My-Transformative-Journey-into-Corporate-Culture %})
 
 ### Writing mindset
 
@@ -64,15 +64,15 @@ Furthermore, the headline is very important. Clarity is king here.
 
 My 5 worst articles at the end of March are:
 
-- [Craft Your Ideal Week: a User-Friendly Guide](https://medium.com/long-sweet-valuable/craft-your-ideal-week-a-user-friendly-guide-2f02c3348597)
-- [Fit for Success: 5 Quick Tips to Choosing Your Career](https://medium.com/illuminations-mirror/fit-for-success-5-quick-tips-to-choosing-your-career-eb8a1b3b3c7d)
-- [Lean into Productivity: 5 Methods for Personal Efficiency](https://medium.com/illumination/lean-into-productivity-5-methods-for-personal-efficiency-768c1b162ff1)
-- [Remembering in the Digital Age: Insights for Text, Audio and Visual Info](https://medium.com/illumination/remembering-in-the-digital-age-insights-for-text-audio-and-visual-info-3ff893ed5d4a)
-- [10 Effective Approaches to identify false information and refute it effectively](https://medium.com/long-sweet-valuable/10-effective-approaches-to-calling-bullshit-and-fake-news-612eb85f6002)
+- [Craft Your Ideal Week: a User-Friendly Guide]({% post_url 2024-01-25-User-Friendly-Guide-to-the-Ideal-Week %})
+- [Fit for Success: 5 Quick Tips to Choosing Your Career]({% post_url 2023-12-31-Fit-For-Success %})
+- [Lean into Productivity: 5 Methods for Personal Efficiency]({% post_url 2023-11-09-Lean-into-Productivity %})
+- [Remembering in the Digital Age: Insights for Text, Audio and Visual Info]({% post_url 2023-10-13-Remembering-in-the-Digital-Age %})
+- [10 Effective Approaches to identify false information and refute it effectively]({% post_url 2024-03-03-10-Effective-Approaches-to-Calling-Bullshit %})
 
 ### Consistency while working in a aemanding job
 
-Already at the beginning, I decided to write consistently. Writing daily just wasn’t an option, because my day job as a [Head of Digital Transformation Management](https://medium.com/practice-in-public/unveiling-my-journey-in-digital-transformation-management-bdf19a4230c5) demands a lot of attention.
+Already at the beginning, I decided to write consistently. Writing daily just wasn’t an option, because my day job as a [Head of Digital Transformation Management]({% post_url 2024-03-10-Unveiling-My-Journey-in-Digital-Transformation-Management %}) demands a lot of attention.
 
 So, I decided to publish two times a week. This still seemed like a stretch, but it didn’t seem impossible. Until now, I was able to keep it up.
 
@@ -115,7 +115,7 @@ However, I see that as a good sign. To me, it shows two things:
 
 ### Following-up topics from engagement with other articles
 
-I think this is the reason why [this article](https://medium.com/illumination/why-the-early-bird-mentality-is-wrong-e8742353e12f) performed well.
+I think this is the reason why [this article]({% post_url 2023-12-17-Why-the-early-bird-mentality-is-wrong %}) performed well.
 
 I had read a lot of articles on productivity that suggest to stand-up early in the day. I’ve commented on many of them that I think that this is wrong and that you should follow your circadian rhythms instead of forcing yourself to wake up early.
 
