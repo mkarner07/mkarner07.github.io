@@ -23,6 +23,7 @@ He died on the 27th of March.
 | ![image](/assets/images/Daniel_Kahneman.jpg) |
 |:--:|
 | *Daniel Kahnemann in 2009, Image source: Wikipedia under Creative Commons Attribution-Share Alike 3.0 Norway License* |
+
 ### Why I am writing this article
 
 I’ve never written a tribute article before and actually, I don’t know how to write it. But the moment I read about Daniel’s death, I wanted to write down my thoughts and say thank you for his contributions to humanity.
