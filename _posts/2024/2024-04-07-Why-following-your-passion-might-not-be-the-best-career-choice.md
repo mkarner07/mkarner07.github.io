@@ -1,7 +1,7 @@
 ---
 title: "Why following your passion might not be the best career choice"
 description: "..."
-date: 2024-04-09
+date: 2024-04-07
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
