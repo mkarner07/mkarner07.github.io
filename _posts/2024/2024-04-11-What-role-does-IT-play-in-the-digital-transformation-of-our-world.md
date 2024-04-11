@@ -1,6 +1,6 @@
 ---
 title: "What role does IT play in the digital transformation of our world?"
-description: "..."
+description: "In some of my recent article, I unveiled my journey in becoming head of digital transformation management. But what does digitalization have to do with IT? In the groups I'm around, it looks like digitalization is where brand-new, groundbreaking solutions are made that can change how things work. Meanwhile, IT seems a bit old-fashioned. It's like IT just lays the groundwork for the cool new ideas in digitalization. I know both worlds as I am both: Head of Digitalization and Head of IT-Systems in my company. Are you interested in how these two topics are interconnected?"
 date: 2024-04-11
 excerpt_separator: "<!--more-->"
 categories:
