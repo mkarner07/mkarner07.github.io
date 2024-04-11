@@ -124,6 +124,6 @@ There are many more similarities, but I'll leave it at that - I might continue i
 
 *Thank you for reading!*
 
-In this article, I’ve put together my personal opinions and learnings in my role as Head of Digitalization and Head of IT Systems in my company. There exist dozens if not hundreds of definitions of Digitalization and IT online - I’ve used those that underline my personal opinion of the topics. If you have different opinions, please share them in the comments. I’d be very interested in your thoughts!
+*In this article, I’ve put together my personal opinions and learnings in my role as Head of Digitalization and Head of IT Systems in my company. There exist dozens if not hundreds of definitions of Digitalization and IT online - I’ve used those that underline my personal opinion of the topics. If you have different opinions, please share them in the comments. I’d be very interested in your thoughts!*
 
 *If you are interested in my journey into this job, [this article]({% post_url 2024-03-10-Unveiling-My-Journey-in-Digital-Transformation-Management %}) might be interesting to you.*
