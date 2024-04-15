@@ -1,7 +1,7 @@
 ---
 title: "The Tech Trinity: IT, OT, and Digitalization Skills"
 description: "Digitalization and IT are similar but not the same as I’ve explored in one of my recent articles where I’ve defined the tech trinity and analyzed their differences. In this quick read, I'll break down the different skills you need for the three areas drawing from my experience as a Head of Digitalization, IT, and OT in my company."
-date: 2024-04-21
+date: 2024-04-18
 excerpt_separator: "<!--more-->"
 categories:
   - Digital Transformation
