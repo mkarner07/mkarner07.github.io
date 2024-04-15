@@ -91,7 +91,7 @@ Digitalization, IT, and OT have different objectives. Let’s break them down
 ### IT
 
 - **Scalable**: I’d say that scalability is the main objective of IT. As an IT manager, you don’t want a linear correlation between several systems and the effort to maintain them. Instead, the goal is to reduce the operations effort per system for each additional system you include. It shouldn’t matter if an IT system serves 10 or 100 people - the operations effort should be similar. If this is the case, the solution is truly scalable.
-- **Safety and Security**: According to [Astra](https://www.notion.so/What-role-does-IT-play-in-the-digital-transformation-of-our-world-dd738f5b068f48a8a356f64bb3a1b854?pvs=21), 4,000 new cyber attacks occur every day and every 14 seconds a new company falls victim to a ransomware attack. These attacks cost billions and there is a way of reducing the odds of falling victim to them: cybersecurity, or more classically speaking IT safety and security.
+- **Safety and Security**: According to [Astra](https://www.getastra.com/blog/security-audit/how-many-cyber-attacks-per-day/#:~:text=from%20these%20threats.-,How%20Many%20Cyber%20Attacks%20Happen%20Per%20Day%20In%20The%20World,malware%20are%20detected%20every%20day.), 4,000 new cyber attacks occur every day and every 14 seconds a new company falls victim to a ransomware attack. These attacks cost billions and there is a way of reducing the odds of falling victim to them: cybersecurity, or more classically speaking IT safety and security.
 - **Cost efficiency**: This one is linked to scalability to a certain extent. The objective of an IT manager (as it is for every manager) is to reduce the overall costs for the managed systems.
 
 ### OT
