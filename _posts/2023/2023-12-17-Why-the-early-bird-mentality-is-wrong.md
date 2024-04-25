@@ -8,6 +8,7 @@ categories:
 
 tags:
   - Personal Productivity
+  - Opinion
   - My Journey
 
 ---

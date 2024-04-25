@@ -8,6 +8,8 @@ categories:
 
 tags:
   - Personal Productivity
+  - Opinion
+  - Money
   - Designing Your Life
 
 ---
