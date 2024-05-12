@@ -25,8 +25,6 @@ Everybody has lucky moments, but can you influence your luck?
 
 Yes, you can!
 
-Yes, you can!
-
 > Luck is what happens when preparation meets opportunity. – Seneca
 > 
 
