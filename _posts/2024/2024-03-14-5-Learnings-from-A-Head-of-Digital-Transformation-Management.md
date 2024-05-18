@@ -8,7 +8,10 @@ categories:
   - Management and Leadership
 tags:
   - Digital Transformation
+  - Digitalization
   - Management and Leadership
+  - Leadership
+  - Business
 
 ---
 For more than four years now, I've been responsible for [Digital Transformation Management]({% post_url 2024-03-10-Unveiling-My-Journey-in-Digital-Transformation-Management %}) at my company.

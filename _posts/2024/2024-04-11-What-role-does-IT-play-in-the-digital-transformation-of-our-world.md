@@ -8,7 +8,10 @@ categories:
   - Management and Leadership
 tags:
   - Digital Transformation
+  - Digitalization
   - Management and Leadership
+  - Leadership
+  - Business
 
 ---
 In some of my recent article, I unveiled [my journey in becoming head of digital transformation management]({% post_url 2024-03-10-Unveiling-My-Journey-in-Digital-Transformation-Management %}).

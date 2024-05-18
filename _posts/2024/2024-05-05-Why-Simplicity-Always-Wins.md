@@ -8,6 +8,8 @@ categories:
 
 tags:
   - Management and Leadership
+  - Leadership
+  - Business
   - Methods
   - Opinion
 

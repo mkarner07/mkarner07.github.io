@@ -9,6 +9,8 @@ categories:
 tags:
   - Personal Productivity
   - Management and Leadership
+  - Leadership
+  - Business
   - Notetaking
   - My Journey
 

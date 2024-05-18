@@ -11,9 +11,9 @@ tags:
   - Psychology
   - Personal Productivity
   - Management and Leadership
+  - Leadership
   - Reading
   - Book
-  - Series
 
 ---
 The workings of the human mind can be quite mysterious, particularly when considering our subconscious thoughts.

@@ -9,9 +9,9 @@ categories:
 tags:
   - Personal Productivity
   - Designing Your Life
+  - Career Advice
   - Guide
   - Book
-  - Series
 
 ---
 In the past years, I’ve read many books on career advice. Some focus on [building small habits]({% post_url 2023-11-16-Building-Success-Brick-by-Brick %}) to gradually transform your life, while others focus on the [power of persistence]({% post_url 2024-02-11-The-Power-of-Persistence %}). Another approach is to [build up rare and valuable skills]({% post_url 2024-04-07-Why-following-your-passion-might-not-be-the-best-career-choice %}) and trade them for a desirable career.

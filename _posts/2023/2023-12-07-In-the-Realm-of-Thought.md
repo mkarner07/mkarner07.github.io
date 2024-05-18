@@ -11,9 +11,9 @@ tags:
   - Psychology
   - Personal Productivity
   - Management and Leadership
+  - Leadership
   - Reading
   - Book
-  - Series
 
 ---
 In the recent years I read many [non-fiction books]({% post_url 2023-11-19-Learning-Journey-my-top-33-non-fiction-bookshelf %}), but one truly stands out: Thinking, Fast and Slow by Daniel Kahneman.

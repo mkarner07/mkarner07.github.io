@@ -11,6 +11,8 @@ categories:
 tags:
   - Personal Productivity
   - Management and Leadership
+  - Leadership
+  - Business
   - Lean
   - Meetings
 ---

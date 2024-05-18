@@ -8,7 +8,10 @@ categories:
   - Management and Leadership
 tags:
   - Digital Transformation
+  - Digitalization
   - Management and Leadership
+  - Leadership
+  - Business
 
 ---
 Digitalization and IT are similar but not the same as I’ve explored in one of my [recent articles]({% post_url 2024-04-11-What-role-does-IT-play-in-the-digital-transformation-of-our-world %}) where I’ve defined the tech trinity and analyzed their differences.

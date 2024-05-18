@@ -8,6 +8,7 @@ categories:
 
 tags:
   - Management and Leadership
+  - Leadership
   - Designing Your Life
   - Reading
   - Happiness

@@ -9,6 +9,7 @@ categories:
 tags:
   - Personal Productivity
   - Designing Your Life
+  - Career Advice
 
 ---
 In the fast-paced world of career development, we can find ourselves stuck in jobs that drain our energy and leave us feeling unfulfilled.

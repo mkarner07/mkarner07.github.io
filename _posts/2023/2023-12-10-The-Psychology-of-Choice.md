@@ -11,9 +11,9 @@ tags:
   - Psychology
   - Personal Productivity
   - Management and Leadership
+  - Leadership
   - Reading
   - Book
-  - Series
 
 ---
 Let's dive into the secrets of our minds, especially the part that thinks without us even realizing it. 

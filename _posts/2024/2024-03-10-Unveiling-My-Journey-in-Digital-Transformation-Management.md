@@ -8,7 +8,10 @@ categories:
   - Management and Leadership
 tags:
   - Digital Transformation
+  - Digitalization
   - Management and Leadership
+  - Leadership
+  - Business
   - My Journey
 
 ---

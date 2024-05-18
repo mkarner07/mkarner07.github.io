@@ -9,6 +9,8 @@ categories:
 tags:
   - Personal Productivity
   - Designing Your Life
+  - Career Advice
+  - Book
 
 ---
 

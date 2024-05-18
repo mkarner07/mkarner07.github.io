@@ -8,7 +8,10 @@ categories:
   - Management and Leadership
 tags:
   - Digital Transformation
+  - Digitalization
   - Management and Leadership
+  - Leadership
+  - Business
 
 ---
 The ever-evolving landscape of the digital realm never fails to captivate me.

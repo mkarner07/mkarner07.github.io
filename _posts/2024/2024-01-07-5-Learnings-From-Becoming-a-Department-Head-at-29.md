@@ -9,6 +9,10 @@ categories:
 tags:
   - Personal Productivity
   - Management and Leadership
+  - Digital Transformation
+  - Digitalization
+  - Leadership
+  - Business
   - My Journey
 
 ---

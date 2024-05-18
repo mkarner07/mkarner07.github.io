@@ -10,6 +10,8 @@ categories:
 tags:
   - Personal Productivity
   - Management and Leadership
+  - Leadership
+  - Management
   - Reading
   - Book
   - List of References

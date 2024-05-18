@@ -10,7 +10,10 @@ categories:
 tags:
   - Personal Productivity
   - Management and Leadership
+  - Leadership
+  - Business
   - Reading
+  - Career Advice
   - Book
 
 ---

@@ -9,6 +9,8 @@ categories:
 tags:
   - Personal Productivity
   - Management and Leadership
+  - Leadership
+  - Business
 
 ---
 The landscape of leadership literature is vast: At Medium alone the topic [“Leadership” has 2.2M followers](https://medium.com/tag/leadership) - there is so much advice out there, that it can be hard to get started.

@@ -8,6 +8,7 @@ categories:
 
 tags:
   - Management and Leadership
+  - Leadership
   - Psychology
   - Entrepreneurship
   - Money

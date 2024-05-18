@@ -9,6 +9,7 @@ categories:
 tags:
   - Personal Productivity
   - Management and Leadership
+  - Leadership
   - Designing Your Life
   - Methods
 
