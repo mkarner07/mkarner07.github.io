@@ -1,7 +1,7 @@
 ---
 title: "Leadership Lessons From a Parenting Book"
 description: "This sounds awkward, right? How can you draw lessons for leadership from a book about parenting? And yes, this had been my first thought as well after reading about it in an article by Ryan Holiday.  It seems wrong to compare grown-up team members to kids. But I thought: as a fresh parent and a manager of a team, there might be something to it and read Good Inside by Dr. Becky. In this article, I want to share my learnings with you."
-date: 2024-04-07
+date: 2024-05-19
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
