@@ -29,7 +29,7 @@ In this riveting exploration, it is discovered that, contrary to conventional be
 
 Effective leaders, as Drucker unveils, possess a distinct set of qualities. They excel in time management, prioritize results over methods, harness strengths, establish clear priorities, and, perhaps most crucially, make impactful decisions.
 
-Dive into “[The Effective Executive](https://amzn.to/47g84Tx)” to unlock the secrets of becoming an influential and impactful leader!
+Dive into “[The Effective Executive](https://www.google.com/search?q=The+Effective+Executive)” to unlock the secrets of becoming an influential and impactful leader!
 
 ## The subtle Art of not giving a f*ck
 
@@ -41,7 +41,7 @@ Written by no one less than the productivty-blogging guru Mark Manson, this book
 
 From debunking the relentless pursuit of positivity to the revelation that happiness is indeed a problem, Manson's raw and thought-provoking insights challenge conventional wisdom. The book explores the paradox of embracing suffering as a path to growth and urges readers to take control of their choices and responsibilities. With each chapter offering a fresh perspective on life's complexities, Manson's unfiltered wisdom ignites ideas and a thirst for applying his insights in productivity.
 
-Got interested? Check out “[The subtle Art of not giving a f*ck](https://amzn.to/46BoPIR)”.
+Got interested? Check out “[The subtle Art of not giving a f*ck](https://www.google.com/search?q=The+subtle+Art+of+not+giving+a+f*ck)”.
 
 ## SCRUM: How to do twice the work in half the time
 
@@ -57,7 +57,7 @@ Agile projectmanagement started as a (r)evolution on how to plan and execute pro
 
 The Core principles of SCRUM is the sprint. A sprint is a fixed timeframe (2-4 weeks) with a defined list of tasks and to dos - the (project) team comes together for the sprint planning at the beginning of the sprint and jointly lays out the task for the upcoming weeks.
 
-SCRUM is a powerful method for doing projects in a shorter leadtime while simultaneously achieve better results. If you are interested in a comprehensive overview of the method, Jeff Sutherland’s “[Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/46J8WQI)” is a great book.
+SCRUM is a powerful method for doing projects in a shorter leadtime while simultaneously achieve better results. If you are interested in a comprehensive overview of the method, Jeff Sutherland’s “[Scrum: The Art of Doing Twice the Work in Half the Time](https://www.google.com/search?q=Scrum%3A+The+Art+of+Doing+Twice+the+Work+in+Half+the+Time)” is a great book.
 
 
 ## The Lean Startup
@@ -70,7 +70,7 @@ In the captivating journey of "The Lean Startup" by Eric Ries, we embark on a qu
 
 We explore the power of Cross-Functional Teams as agents of innovation, understanding that innovation thrives on continuous learning and adaptation. Ries walks us through real-world examples, like Dropbox and Food on the Table, demonstrating how small, cost-effective MVPs and actionable metrics play pivotal roles in the Lean Startup methodology.
 
-Ries encourages startups to pivot when necessary, adapting to market feedback and testing hypotheses rigorously. He also highlights the importance of rapid learning through efficient processes, much like the Toyota Production System's One-Piece Flow concept. With an emphasis on growth and adaptation, "[The Lean Startup](https://amzn.to/3Mal2tB)" offers a groundbreaking roadmap to entrepreneurial success, making it a must-read for aspiring and seasoned business innovators alike. If you want a deeper dive into the valuable learnings from the book, check out my article "[Mastering Innovation: A Deep Dive into 'The Lean Startup']({% post_url 2023-11-02-Mastering-Innovation-The-Lean-Startup %})"
+Ries encourages startups to pivot when necessary, adapting to market feedback and testing hypotheses rigorously. He also highlights the importance of rapid learning through efficient processes, much like the Toyota Production System's One-Piece Flow concept. With an emphasis on growth and adaptation, "[The Lean Startup](https://www.google.com/search?q=The+Lean+Startup)" offers a groundbreaking roadmap to entrepreneurial success, making it a must-read for aspiring and seasoned business innovators alike. If you want a deeper dive into the valuable learnings from the book, check out my article "[Mastering Innovation: A Deep Dive into 'The Lean Startup']({% post_url 2023-11-02-Mastering-Innovation-The-Lean-Startup %})"
 
 ## Getting Things Done
 
@@ -82,7 +82,7 @@ Unlocking your productivity and conquering the chaos of daily life - that's the 
 
 Embracing digital efficiency, the principles can adapt to today's tech-driven world, ensuring every piece of information finds its place in your system. Furthermore GTD provides easy but effective methods such as the 'two-minute rule' and 'next action' – turning vague to-dos into precise, actionable steps. In conclusion, GTD offers easy yet powerful techniques to boost productivity and reclaim control of your life.
 
-If you want to learn more about the GTD methodology, check out my article "[Inside the Mind of 'Getting Things Done': The GTD Methodology]({% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %})". Still want more? Check out the full book [Getting Things Done: The Art of Stress-Free Productivity](https://amzn.to/3tM3NbC).
+If you want to learn more about the GTD methodology, check out my article "[Inside the Mind of 'Getting Things Done': The GTD Methodology]({% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %})". Still want more? Check out the full book [Getting Things Done: The Art of Stress-Free Productivity](https://www.google.com/search?q=Getting+Things+Done%3A+The+Art+of+Stress-Free+Productivity).
 
 ## How to win friends and influence people
 
@@ -90,7 +90,7 @@ If you want to learn more about the GTD methodology, check out my article "[Insi
 *<sub>How to win friends and influence people by Dale Carnegie</sub>*
 {: .text-center}
 
-Dale Carnegie's timeless classic, ["How to Win Friends and Influence People"](https://amzn.to/46WyKZ5) is your ultimate guide to mastering the art of human connection. Packed with practical wisdom, this book reveals the secrets to building strong relationships and wielding influence in any sphere of life. It teaches the power of genuine interest, active listening, and the art of giving sincere compliments. With an emphasis on empathy and understanding, Carnegie's principles foster cooperation and harmony, both personally and professionally. In a world where social skills and effective communication are paramount, this book remains an essential resource for becoming a true people-person and a force to be reckoned with.
+Dale Carnegie's timeless classic, ["How to Win Friends and Influence People"](https://www.google.com/search?q=How+to+Win+Friends+and+Influence+People) is your ultimate guide to mastering the art of human connection. Packed with practical wisdom, this book reveals the secrets to building strong relationships and wielding influence in any sphere of life. It teaches the power of genuine interest, active listening, and the art of giving sincere compliments. With an emphasis on empathy and understanding, Carnegie's principles foster cooperation and harmony, both personally and professionally. In a world where social skills and effective communication are paramount, this book remains an essential resource for becoming a true people-person and a force to be reckoned with.
 
 ## 7 Habits of Highly Effective People
 
@@ -104,10 +104,10 @@ It all begins with paradigms – those external influences shaping how we percei
 
 The book is sectioned into two victories: private victory (the first three habits) and public victory (the next three habits). The last habit “renewal” is about self-improvement, comprising four elements: physical fitness, spiritual pursuits, continuous mental growth and seeking win-win solutions.
 
-You got interested? Check out the full book “[7 Habits of Highly Effective People](https://amzn.to/45DhUh0)”.
+You got interested? Check out the full book “[7 Habits of Highly Effective People](https://www.google.com/search?q=7+Habits+of+Highly+Effective+People)”.
 
 ---
 
 *Thank you for reading, I hope you’ve enjoyed my picks!*
 
-*Short Disclaimer: With the links I aim to give you direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+<!-- *Short Disclaimer: With the links I aim to give you direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*-->

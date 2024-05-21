@@ -78,4 +78,4 @@ GTD offers a lot of easy but powerful techniques you can easily implement in you
 
 ---
 
-*If you want to purchase the full book, please feel free to use [this affiliate link](https://amzn.to/3tM3NbC). When you make a purchase using this link, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+<!--- *If you want to purchase the full book, please feel free to use [this affiliate link](https://amzn.to/3tM3NbC). When you make a purchase using this link, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*--->
