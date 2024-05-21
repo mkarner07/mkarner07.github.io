@@ -26,7 +26,7 @@ How to Take Smart Notes by Sönke Ahrens is a comprehensive guide that revolutio
 
 Ahrens introduces the concept of the "Zettelkasten" method, a systematized approach to notetaking that encourages active engagement with information. The essence of this method lies in the creation of interconnected notes that capture insights, ideas, and references. By crafting these atomic, standalone notes, you can build a dynamic web of knowledge, facilitating a deeper understanding.
 
-In essence, [How to Take Smart Notes](https://amzn.to/3sIWoKo) is not just a guide on notetaking. It's a transformative approach to learning and knowledge management. It empowers you to become a more engaged and proactive learner by fostering a continuous cycle of idea generation, connection, and refinement.
+In essence, [How to Take Smart Notes](https://www.google.com/search?q=How+to+Take+Smart+Notes) is not just a guide on notetaking. It's a transformative approach to learning and knowledge management. It empowers you to become a more engaged and proactive learner by fostering a continuous cycle of idea generation, connection, and refinement.
 
 ## Atomic Habits
 
@@ -47,7 +47,7 @@ It doesn't just dwell on theory; instead, it equips you with small, practical st
 
 With real-life examples and practical advice, it is a valuable resource for those seeking a methodical approach to personal development and sustained success.
 
-If you got interested, check out my [deep dive]({% post_url 2023-11-16-Building-Success-Brick-by-Brick %}) or the [full book](https://amzn.to/3u7uvfl).
+If you got interested, check out my [deep dive]({% post_url 2023-11-16-Building-Success-Brick-by-Brick %}) or the [full book](https://www.google.com/search?q=Atomic+Habits).
 
 ## Thinking Fast and Slow
 
@@ -66,7 +66,7 @@ He also debunks why a homo oeconomicus does not exist.
 
 The book provides a comprehensive exploration of behavioral economics and psychology, delving into real-world applications and implications. Kahneman's work has had a profound influence on fields ranging from economics to public policy, and his accessible writing style makes complex psychological concepts understandable for a broad audience.
 
-[Thinking Fast and Slow](https://amzn.to/3uxWBjY) is among the best non-fiction books I’ve ever read and I can highly recommend it!
+[Thinking Fast and Slow](https://www.google.com/search?q=Thinking+Fast+and+Slow) is among the best non-fiction books I’ve ever read and I can highly recommend it!
 
 ## The Infinite Game
 
@@ -80,7 +80,7 @@ Sinek contends that numerous challenges in leadership and business stem from a m
 
 Sinek's argument extends beyond theoretical discourse, as he highlights the practical implications of an infinite mindset in leadership. By embracing this approach, leaders can effectively steer their organizations through the complexities of the ever-changing landscape. The emphasis on long-term goals and a commitment to the ongoing nature of the game becomes a catalyst for innovation, resilience, and the establishment of organizations that not only endure but thrive amid the challenges of the evolving business environment. Sinek's insights offer a compelling blueprint for cultivating enduring success in leadership and business.
 
-[The Infinite Game](https://amzn.to/47sYk8e) is a great read for (thought) leaders as it provides insights and practical advice to adopt a mindset for enduring success.
+[The Infinite Game](https://www.google.com/search?q=The+Infinite+Game) is a great read for (thought) leaders as it provides insights and practical advice to adopt a mindset for enduring success.
 
 ## Calling Bullshit
 
@@ -94,10 +94,10 @@ The book serves as a call to arms against the proliferation of misleading inform
 
 Through engaging examples and case studies, the authors empower readers to question the credibility of information, encouraging a deeper understanding of how data can be weaponized or distorted.
 
-I really enjoyed the book and have learned a lot on how to interpret visualizations and debunk bullshit in a data driven world. If you got interested, check out the [full book](https://amzn.to/49TynRr).
+I really enjoyed the book and have learned a lot on how to interpret visualizations and debunk bullshit in a data driven world. If you got interested, check out the [full book](https://www.google.com/search?q=Calling+Bullshit).
 
 ---
 
 *Thank you for reading, I hope you’ve enjoyed my picks!*
 
-*Short Disclaimer: With the links I aim to give you direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+<!--*Short Disclaimer: With the links I aim to give you direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*-->

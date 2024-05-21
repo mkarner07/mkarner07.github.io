@@ -97,4 +97,4 @@ If you got interested in the Lean Startup, check out the full book "The Lean Sta
 
 ---
 
-*If you want to purchase the full book, please feel free to use [this affiliate link](https://amzn.to/3Mal2tB). When you make a purchase using this link, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+<!--*If you want to purchase the full book, please feel free to use [this affiliate link](https://amzn.to/3Mal2tB). When you make a purchase using this link, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*-->

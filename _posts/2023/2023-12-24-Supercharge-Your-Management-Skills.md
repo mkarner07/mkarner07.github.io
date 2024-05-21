@@ -30,7 +30,7 @@ Sinek argues that great leaders prioritize the well-being of their teams, embody
 
 The title itself encapsulates a key theme – leaders who prioritize the needs of their team, putting their well-being ahead of personal gain, ultimately foster loyalty and dedication. Sinek emphasizes the significance of providing a sense of purpose and belonging to employees, creating an environment where individuals feel secure and valued. By examining the neurochemical aspects of human interaction, the book underscores the biological basis for trust and cooperation.
 
-The book goes beyond traditional leadership paradigms, urging readers to consider the impact of leadership on the overall well-being of individuals and organizations. [Leaders Eat Last](https://amzn.to/3TnSvVQ) is a great book for new and established managers.
+The book goes beyond traditional leadership paradigms, urging readers to consider the impact of leadership on the overall well-being of individuals and organizations. [Leaders Eat Last](https://www.google.com/search?q=leaders+eat+last) is a great book for new and established managers.
 
 ## How to Fail
 
@@ -44,7 +44,7 @@ Through a series of insightful anecdotes, Day shares her own failures and reflec
 
 Elizabeth Day encourages readers to redefine their relationship with failure, fostering a mindset that allows for experimentation, learning, and ultimately, success. With wit and wisdom, she inspires individuals to view setbacks not as roadblocks, but as stepping stones towards a more authentic and fulfilling life.
 
-To me, [How to Fail](https://amzn.to/3RIn1Zy) is a great book about how to deal with failure.
+To me, [How to Fail](https://www.google.com/search?q=How+to+Fail) is a great book about how to deal with failure.
 
 ## SCRUM: How to do twice the work in half the time
 
@@ -54,7 +54,7 @@ To me, [How to Fail](https://amzn.to/3RIn1Zy) is a great book about how to deal 
 
 Agile project management is a revolutionary shift in the planning and execution of projects, particularly in software development, as outlined in the [Agile Manifesto](https://agilemanifesto.org/). This insightful book introduces the widely embraced SCRUM method, authored by one of its founders, Jeff Sutherland. While initially tailored for software development, SCRUM's adaptability extends to diverse fields such as construction and personal projects.
 
-At the core of SCRUM are its principles, notably the sprint – a fixed timeframe spanning 2 to 4 weeks, during which a project team collaboratively engages in sprint planning to define tasks and to-dos. This method transcends its original domain, proving to be a potent approach for expediting projects and enhancing outcomes. Jeff Sutherland's book, [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/46J8WQI), offers an in-depth exploration of SCRUM, making it an invaluable resource for those seeking a comprehensive understanding of this effective project management methodology.
+At the core of SCRUM are its principles, notably the sprint – a fixed timeframe spanning 2 to 4 weeks, during which a project team collaboratively engages in sprint planning to define tasks and to-dos. This method transcends its original domain, proving to be a potent approach for expediting projects and enhancing outcomes. Jeff Sutherland's book, [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.google.com/search?q=Scrum%3A+The+Art+of+Doing+Twice+the+Work+in+Half+the+Time), offers an in-depth exploration of SCRUM, making it an invaluable resource for those seeking a comprehensive understanding of this effective project management methodology.
 
 ## 7 Habits of Highly Effective People
 
@@ -68,7 +68,7 @@ At its core, the narrative explores paradigms – the external influences shapin
 
 Structured around two victories, the book describes the private victory (comprising the first three habits) and the public victory (encompassing the next three habits). The final habit, "renewal," encapsulates self-improvement, encompassing physical fitness, spiritual pursuits, continuous mental growth, and the pursuit of win-win solutions.
 
-Stephen Covey's teachings offer a roadmap for personal and professional growth, making this book an essential read in the realm of productivity and effective leadership. I can highly recommend the [7 Habits of Highly Effective People](https://amzn.to/45DhUh0) to everyone interested in how to become more productive
+Stephen Covey's teachings offer a roadmap for personal and professional growth, making this book an essential read in the realm of productivity and effective leadership. I can highly recommend the [7 Habits of Highly Effective People](https://www.google.com/search?q=7+Habits+of+Highly+Effective+People) to everyone interested in how to become more productive
 
 ## The Miracle of Appreciation
 
@@ -82,10 +82,10 @@ The book intertwines values and self-worth within Shalom H. Schwartz's framework
 
 Reinhard Haller identifies topics such as humiliation, silence's destructive potential, narcissism as well as lack of empathy in our modern area. He highlights that praise and gratitude are important psychological factors and can lead to a sharp increase in motivation and productivity.
 
-The German book can be seen a bit controversial, but to me “[The Miracle of Appreciation](https://amzn.to/3RIdbqz)” served as great alternative literature source in the realm of management and leadership literature.
+The German book can be seen a bit controversial, but to me “[The Miracle of Appreciation](https://www.google.com/search?q=das+wunder+der+wertsch%C3%A4tzung)” served as great alternative literature source in the realm of management and leadership literature.
 
 ---
 
 *Thank you for reading, I hope you’ve enjoyed my picks!*
 
-*Short Disclaimer: With the links I aim to give you direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+<!--*Short Disclaimer: With the links I aim to give you direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*-->

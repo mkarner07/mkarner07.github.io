@@ -75,7 +75,7 @@ Our System 2 very often trusts these stories (because they sound plausible and i
 
 ### 3. The Law of Small Numbers
 
-The problem with very small numbers in statistical tests is that extreme values are more likely to occur. This is a statistical fact well described in books such as [Calling Bullshit](https://amzn.to/49TynRr). However, even experienced scientists often find that the number of samples in their studies is too small.
+The problem with very small numbers in statistical tests is that extreme values are more likely to occur. This is a statistical fact well described in books such as [Calling Bullshit](https://www.google.com/search?q=Calling+Bullshit). However, even experienced scientists often find that the number of samples in their studies is too small.
 
 How does this lead to cognitive biases?
 
@@ -190,4 +190,4 @@ This phenomenon is closely tied to the "New Expectancy Theory", a concept I'll e
 - *Part 2: [The Psychology of Choice: Understanding How Heuristics Shape Decision-Making]({% post_url 2023-12-10-The-Psychology-of-Choice %})*
 - *Part 3: [9 Learnings from “Thinking, Fast and Slow” You Can Apply in Your Day-to-Day Life]({% post_url 2023-12-14-9-Learnings-from-Thinking-Fast-and-Slow %})*
 
-*I also highly recommend reading the whole book "Thinking, Fast and Slow". Please support your local library and buy from them. If you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46iVUs8).*
+<!--*I also highly recommend reading the whole book "Thinking, Fast and Slow". Please support your local library and buy from them. If you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46iVUs8).*-->

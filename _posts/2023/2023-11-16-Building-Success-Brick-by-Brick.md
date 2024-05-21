@@ -17,7 +17,7 @@ tags:
   - Book
 
 ---
-In this article I want to share what I learnt so far about the power of habits from sources like [The Infinite Game](https://amzn.to/47sYk8e), [Atomic Habits](https://amzn.to/40x9XZN) and [Leaders Eat Last](https://amzn.to/40xUnwM).
+In this article I want to share what I learnt so far about the power of habits from sources like [The Infinite Game](https://www.google.com/search?q=The+Infinite+Game), [Atomic Habits](https://www.google.com/search?q=Atomic+Habits) and [Leaders Eat Last](https://www.google.com/search?q=leaders+eat+last).
 
 > Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it. - Albert Einstein
 > 
@@ -43,7 +43,7 @@ Don’t get me wrong. Certainly, setting goals is crucial as they provide us wit
 
 ## How to build good habits or break bad ones
 
-According to [James Clear](https://amzn.to/40x9XZN), habits form when four conditions are present:
+According to [James Clear](https://www.google.com/search?q=Atomic+Habits), habits form when four conditions are present:
 
 1. **Cue:** At the beginning there is a trigger. This can be a certain situation, a smell or visual.
 2. **Craving:** A cue usually triggers a craving.
@@ -62,7 +62,7 @@ However, armed with the understanding of these four components, one can intentio
 
 ### Change your environment
 
-This can benefit two of [James Clear](https://amzn.to/40x9XZN)’s Laws: it makes cues for habits more obvious (e.g. put your running shoes somewhere visible) and can make starting them easier (most of what you need to start is already prepared).
+This can benefit two of [James Clear](https://www.google.com/search?q=Atomic+Habits)’s Laws: it makes cues for habits more obvious (e.g. put your running shoes somewhere visible) and can make starting them easier (most of what you need to start is already prepared).
 
 ### Prepare for the next time
 
@@ -114,10 +114,10 @@ Consistently applying a modest 1% improvement can result in remarkable transform
 
 This is how powerful habits can be!
 
-If you find the topic interesting, I can highly recommend the book [Atomic Habits](https://amzn.to/40x9XZN) by James Clear. It already has become a modern classic and a must read non-fiction book for productivity enthusiasts. But also Simon Sinek’s books [The Infinite Game](https://amzn.to/47sYk8e) and [Leaders Eat Last](https://amzn.to/40xUnwM) contain valuable insights in why and how to build habits.
+If you find the topic interesting, I can highly recommend the book [Atomic Habits](https://www.google.com/search?q=Atomic+Habits) by James Clear. It already has become a modern classic and a must read non-fiction book for productivity enthusiasts. But also Simon Sinek’s books [The Infinite Game](https://www.google.com/search?q=The+Infinite+Game) and [Leaders Eat Last](https://www.google.com/search?q=leaders+eat+last) contain valuable insights in why and how to build habits.
 
 ---
 
 *Thank you for reading, I hope you've enjoyed my article!*
 
-*Short Disclaimer: With the provided links I aim to give you a direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+<!--*Short Disclaimer: With the provided links I aim to give you a direct and easy access to the books online, utilizing affiliate links for this purpose. When you make a purchase using these links, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*-->

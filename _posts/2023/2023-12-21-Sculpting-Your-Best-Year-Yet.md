@@ -23,11 +23,11 @@ Yet, despite our best intentions, the journey of New Year's resolutions often en
 
 Resolutions are often linked to habits and goals. But more often than not, the goals are not very actionable, such as "improve fitness," "lose weight," or "improve finances." But how do we want to achieve it? What is the exact number (save X dollars, lose Y kilograms, etc.)?
 
-Books like [Atomic Habits](https://amzn.to/3u7uvfl) suggest that you need to tie your goals to your identity.
+Books like [Atomic Habits](https://www.google.com/search?q=Atomic+Habits) suggest that you need to tie your goals to your identity.
 
 But how to do that?
 
-This year I read a great book that draws a concrete, actionable plan to shape our identity and design a life we love: [Designing your Life](https://amzn.to/3RxtzK8) a #1 New York Times bestseller by Bill Burnett and Dave Evans.
+This year I read a great book that draws a concrete, actionable plan to shape our identity and design a life we love: [Designing your Life](https://www.google.com/search?q=designing+your+life) a #1 New York Times bestseller by Bill Burnett and Dave Evans.
 
 In this article I want to share the core insights of the book and what I learned from it.
 
@@ -187,4 +187,4 @@ If that's not feasible, conducting "prototype interviews" serves as an effective
 
 *If you are interested in the topic and need more information about Life Design check out the full book "Designing Your Life" or the [Designing Your Life webpage](https://designingyour.life/).*
 
-*If you want to purchase the full book, please feel free to use [this affiliate link](https://amzn.to/3RxtzK8). When you make a purchase using this link, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+<!--*If you want to purchase the full book, please feel free to use [this affiliate link](https://amzn.to/3RxtzK8). When you make a purchase using this link, I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*-->
