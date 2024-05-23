@@ -156,4 +156,6 @@ Still, grit is good in general. If we boost our grit, we can find success—even
 
 ---
 
-For this article, I’ve used the book “Grit” by Angela Ducksworth as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them. *However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/3NwV04z). If you use the link the costs are the same as if you don’t, but I get a small commission.*
+For this article, I’ve used the book “Grit” by Angela Ducksworth as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them.
+
+<!--*However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/3NwV04z). If you use the link the costs are the same as if you don’t, but I get a small commission.*-->

@@ -67,4 +67,6 @@ Keep honing your critical thinking skills, and don't let fake news fool you.
 
 *Thank you for reading! I hope you’ve enjoyed my article and learned something. If the topic is interesting to you, I recommend you read [this article]({% post_url 2024-03-03-10-Effective-Approaches-to-Calling-Bullshit %}).*
 
-*For this article, I’ve used the book “Calling Bullshit” by Carl T. Bergstrom and Jevin West as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them. However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46b8DNd). If you use the link the costs are the same as if you don’t, but I get a small commission.*
+*For this article, I’ve used the book “Calling Bullshit” by Carl T. Bergstrom and Jevin West as a main resource. I can highly recommend reading the whole book. Please support your local library and buy from them.*
+
+<!--*However, if you want to purchase it online, please feel free to use [this affiliate link](https://amzn.to/46b8DNd). If you use the link the costs are the same as if you don’t, but I get a small commission.*-->

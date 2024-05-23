@@ -52,6 +52,6 @@ You might find the following tactics effective in avoiding the decoy effect:
 ---
 
 *I used the following sources for this article:*
-- *[Thinking, Fast and Slow](https://amzn.to/46iVUs8) by Daniel Kahnemann*
+- *[Thinking, Fast and Slow](https://www.google.com/search?q=Thinking%2C+Fast+and+Slow) by Daniel Kahnemann*
 - *[Article](https://www.linkedin.com/posts/bjoern-habenschaden_behavioraleconomics-activity-7143135824098885633-olqa/?utm_source=share&utm_medium=member_desktop) on LinkedIn*
 - *[Article](https://insidebe.com/articles/the-decoy-effect/) on insidebe*

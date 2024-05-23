@@ -106,7 +106,7 @@ To find a good mission, there is no single "leap". Rather, it is a series of sma
 
 You also have to market your mission - Cal Newport summarizes this with the Law of Remarkability.
 
-- You have to do/create something that is "remarkable" (a [Purple Cow](https://www.amazon.de/Purple-Cow-Transform-Business-Remarkable/dp/014101640X)).
+- You have to do/create something that is "remarkable" (a [Purple Cow](https://www.google.com/search?q=purple+cow)).
 - You have to market it in an environment that recognizes it and can serve as a multiplier. In the context of programming, for example, this is the open-source community or, in the world of science, peer-reviewed publications.
 
 ### Prototype
@@ -134,4 +134,6 @@ When your special skills meet what society is looking for, that's when you'll fi
 
 *Thank you for reading until the end! I hope you’ve enjoyed my article and learned something.*
 
-*For this article, I’ve used the books (1) “So Good They Can’t Ignore You” by Cal Newport, (2) “Designing Your Life” by Bill Burnett and Dave Evans, and (3) “Grit” by Angela Ducksworth as resources. I can highly recommend reading the books. Please support your local library and buy from them. However, if you want to purchase it online, please feel free to use these affiliate links [(1)](https://amzn.to/3JfmWXX), [(2)](https://amzn.to/3RxtzK8) & [(3)](https://amzn.to/3NwV04z). If you use the link the costs are the same as if you don’t, but I get a small commission.*
+*For this article, I’ve used the books (1) “So Good They Can’t Ignore You” by Cal Newport, (2) “Designing Your Life” by Bill Burnett and Dave Evans, and (3) “Grit” by Angela Ducksworth as resources. I can highly recommend reading the books. Please support your local library and buy from them.*
+
+<!--*However, if you want to purchase it online, please feel free to use these affiliate links [(1)](https://amzn.to/3JfmWXX), [(2)](https://amzn.to/3RxtzK8) & [(3)](https://amzn.to/3NwV04z). If you use the link the costs are the same as if you don’t, but I get a small commission.*-->

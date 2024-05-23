@@ -13,7 +13,7 @@ tags:
 ---
 As a confessed productivity enthusiast I’ve tried out many different productivity methods & techniques.
 
-But there is one technique I am not very fond of the Pomodoro technique.
+But there is one technique I am not very fond of: **the Pomodoro technique**.
 
 | ![image](/assets/images/age-barros-IWC-unsplash.jpg) |
 |:--:|

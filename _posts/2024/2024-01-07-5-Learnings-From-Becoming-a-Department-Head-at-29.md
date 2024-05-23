@@ -58,7 +58,7 @@ I was not very good at delegating first, but I found out that delegation is a sk
 
 Actually, delegating is the highest class of management. Delegating does not mean handing over just one action, it means handing over a collection of tasks (entire projects for example).
 
-Delegation would deserve its own article and there already exist many books about how to delegate effectively. I found the rules from [One Minute Manager Meets The Monkey](https://amzn.to/3SAZZ7E) by Ken Blanchard helpful. He suggests that in order to delegate successfully, you have to trust your team and ensure that they have all the necessary skills they need to carry out the delegated tasks.
+Delegation would deserve its own article and there already exist many books about how to delegate effectively. I found the rules from [One Minute Manager Meets The Monkey](https://www.google.com/search?q=One+Minute+Manager+Meets+The+Monkey) by Ken Blanchard helpful. He suggests that in order to delegate successfully, you have to trust your team and ensure that they have all the necessary skills they need to carry out the delegated tasks.
 
 Your tasks as a manager are the following:
 
@@ -104,7 +104,7 @@ Listening is a first step each leader needs to learn. Listening actively and bei
 The key to team spirit is mutual empathy and trust. If present, one person stands up for the other and extraordinary results can be achieved. To trigger this mutual empathy, you have to start as a manager:
 
 - **Give your team self-determination**: The more people feel they have control over their tasks, the higher their job satisfaction and the lower their stress levels.
-- **Making decisions based on more than just numbers**: As Simon Sinek shows in [Leaders Eat Last](https://amzn.to/3TnSvVQ), abstraction kills. Be as close to your team as possible and not just make decisions based on numbers. If this happens and employees lose their sense of security, their motivation and ability to innovate suffer greatly.
+- **Making decisions based on more than just numbers**: As Simon Sinek shows in [Leaders Eat Last](https://www.google.com/search?q=Leaders+eat+last), abstraction kills. Be as close to your team as possible and not just make decisions based on numbers. If this happens and employees lose their sense of security, their motivation and ability to innovate suffer greatly.
 - **Corporate culture of collaboration**: People work better in teams and it is the task of you as a leader to create a culture in which employees enjoy working together. It is even better if they feel confident enough to improvise - this creates extraordinary solutions and innovations.
 
 ---
@@ -112,7 +112,7 @@ The key to team spirit is mutual empathy and trust. If present, one person stand
 *The insights for this articles are learnings from my journey. If you are interested in my personal story, please check out my [recent article on my transition from academia to the corporate world]({% post_url 2023-11-30-My-Transformative-Journey-into-Corporate-Culture %}).*
 
 *Additionally, I used the following sources:*
-- *[Leaders Eat Last](https://amzn.to/3TnSvVQ) by Simon Sinek*
-- *[One Minute Manager Meets The Monkey](https://amzn.to/3SAZZ7E) by Ken Blanchard*
+- *[Leaders Eat Last](https://www.google.com/search?q=Leaders+eat+last) by Simon Sinek*
+- *[One Minute Manager Meets The Monkey](https://www.google.com/search?q=One+Minute+Manager+Meets+The+Monkey) by Ken Blanchard*
 
-*Short Disclaimer: In this article I've used affiliate links to books I've personally read. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*
+<!--*Short Disclaimer: In this article I've used affiliate links to books I've personally read. When you make a purchase using these links, the price for you stays the same, but I receive a small commission. However, I strongly urge you to prioritize supporting your local bookstore whenever you decide to buy a book.*-->
