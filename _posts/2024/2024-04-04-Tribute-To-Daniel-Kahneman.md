@@ -16,7 +16,7 @@ tags:
 ---
 One of the greatest psychology researchers just died.
 
-Daniel Kahneman received the Nobel Prize for his work in behavioral economics in 2002. Besides his scientific success, he was also keen on sharing his insights with a broader audience and published the influential book “Thinking, Fast and Slow” in 2011.
+Daniel Kahneman received the Nobel Prize for his work in behavioral economics in 2002. Besides his scientific success, he was also keen on sharing his insights with a broader audience and published the influential book [Thinking, Fast and Slow](https://www.google.com/search?q=Thinking%2C+Fast+and+Slow) in 2011.
 
 He died on the 27th of March.
 
