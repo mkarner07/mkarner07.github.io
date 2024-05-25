@@ -1,5 +1,5 @@
 ---
-title: "11 Challenges that Will Make You Mentally Invicible"
+title: "10 Challenges that Will Make You Mentally Invicible"
 description: "..."
 date: 2024-05-26
 excerpt_separator: "<!--more-->"
