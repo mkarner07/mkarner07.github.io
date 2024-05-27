@@ -11,6 +11,7 @@ tags:
   - Effective
   - Notetaking
   - Methods
+  - Book
 
 ---
 
