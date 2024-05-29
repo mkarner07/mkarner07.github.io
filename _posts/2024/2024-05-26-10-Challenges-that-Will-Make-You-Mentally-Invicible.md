@@ -133,4 +133,4 @@ But it goes beyond motivation, I’ve found myself thinking about techniques l
 
 *Thank you for reading until the end! I hope you’ve enjoyed my article and learned something.*
 
-*For this article, I’ve used the book (Can't Hurt Me)[https://www.google.com/search?q=Can%E2%80%99t+Hurt+Me&rlz] by David Goggins as the main resource.*
+*For this article, I’ve used the book [Can't Hurt Me](https://www.google.com/search?q=Can%E2%80%99t+Hurt+Me&rlz) by David Goggins as the main resource.*
