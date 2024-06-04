@@ -1,5 +1,5 @@
 ---
-title: "10 Challenges that Will Make You Mentally Invicible"
+title: "10 Challenges that Will Make You Mentally Invincible"
 description: "A book that ranked particularly high on my reading list this year was “Can’t Hurt Me” by David Goggins. It’s a motivational book where David Goggins tells his life story and how he managed to develop his full potential from a traumatized childhood to become a Navy Seal, Army Ranger, and well-known ultra runner. He attributes his success to his calloused mind and shares 10 challenges to increase mental resilience."
 date: 2024-05-26
 excerpt_separator: "<!--more-->"
