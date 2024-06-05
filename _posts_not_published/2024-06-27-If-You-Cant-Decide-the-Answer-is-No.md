@@ -4,14 +4,15 @@ description: "Improve your Decision Making"
 date: 2024-06-27
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Productivity
 
 tags:
+  - Productivity
   - Management and Leadership
   - Leadership
   - Business
   - Methods
-  - Decision
+  - Decision Making
 
 ---
 
