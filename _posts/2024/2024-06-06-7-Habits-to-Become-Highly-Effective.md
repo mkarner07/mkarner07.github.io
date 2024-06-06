@@ -1,6 +1,6 @@
 ---
 title: "7 Habits to Become Highly Effective"
-description: "In the past four years, I’ve read well over 50 books on the topic and some are truly remarkable. One of them is "The 7 Habits of Highly Effective People" by Stephen Covey. It has long been celebrated as a cornerstone in the realm of productivity, personal development, and management literature. In this blog post, I’ll delve into the key takeaways from this influential book."
+description: "In the past four years, I’ve read well over 50 books on the topic and some are truly remarkable. One of them is The 7 Habits of Highly Effective People by Stephen Covey. It has long been celebrated as a cornerstone in the realm of productivity, personal development, and management literature. In this blog post, I’ll delve into the key takeaways from this influential book."
 date: 2024-06-06
 excerpt_separator: "<!--more-->"
 categories:
