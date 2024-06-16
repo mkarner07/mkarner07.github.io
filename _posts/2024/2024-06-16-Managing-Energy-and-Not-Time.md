@@ -1,5 +1,5 @@
 ---
-title: "Why Simplicity Always Wins"
+title: "Managing Energy, Not Time"
 description: "There is a limit to how efficiently you can use your time: your energy!"
 date: 2024-06-16
 excerpt_separator: "<!--more-->"
