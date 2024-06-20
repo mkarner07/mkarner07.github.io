@@ -1,6 +1,6 @@
 ---
 title: "Elon Musk's 3 Strategic Principles"
-description: "These days, any article with "Elon Musk" in the title feels like it's just trying to get attention (this article won’t). But there's a reason for that - he has been one of the top 10 richest people in the world for a while now. Clearly, he's doing something right. So, why not try to learn from him to boost your own chances of success?"
+description: "These days, any article with Elon Musk in the title feels like it's just trying to get attention (this article won’t). But there's a reason for that - he has been one of the top 10 richest people in the world for a while now. Clearly, he's doing something right. So, why not try to learn from him to boost your own chances of success?"
 date: 2024-06-20
 excerpt_separator: "<!--more-->"
 categories:
