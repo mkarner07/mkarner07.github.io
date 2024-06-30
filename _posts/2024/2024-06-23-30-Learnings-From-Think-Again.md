@@ -16,7 +16,7 @@ tags:
 
 ---
 
-[Think Again](https://www.google.com/search?q=think+again+adam+grant) is a best-selling book by Adam Grant about the power of critical thinking and why our intuition sometimes can fool us.
+Think Again is a best-selling book by Adam Grant about the power of critical thinking and why our intuition sometimes can fool us.
 
 | ![image](/assets/images/diego-ph-lightbulb-unsplash.jpg) |
 |:--:|
