@@ -16,9 +16,7 @@ tags:
 
 ---
 
-Think Again is a best-selling book by Adam Grant about the power of critical thinking and why our intuition sometimes can fool us.
-
-The book is packed with valuable insights and in this article, I aim to summarize them in a short format for you.
+[Think Again](https://www.google.com/search?q=think+again+adam+grant) is a best-selling book by Adam Grant about the power of critical thinking and why our intuition sometimes can fool us.
 
 | ![image](/assets/images/diego-ph-lightbulb-unsplash.jpg) |
 |:--:|
@@ -57,4 +55,4 @@ The book is packed with valuable insights and in this article, I aim to summariz
 
 ---
 
-*Thank you for reading! I hope you’ve enjoyed my article summarizing 30 learnings from [Think Again](https://www.google.com/search?q=think+again+adam+grant) by Adam Grant. If you are interested, I can highly recommend the full book!*
+*Thank you for reading! I hope you’ve enjoyed my article summarizing 30 learnings from Think Again by Adam Grant. If you are looking for a more in-depth summary of the book, please check out [this article]({% post_url 2024-06-13-Why-Rethinking-Is-Powerful %}). I also can highly recommend the [full book](https://www.google.com/search?q=think+again+adam+grant)!*
