@@ -1,6 +1,6 @@
 ---
 title: "A Summary of Feel-Good Productivity"
-description: "..."
+description: "Getting more done in less time is a big topic these days. It's called personal productivity. There are many guides to help, like the GTD method, Peter Drucker's book The Effective Executive, and the role of habits, among many others. I discovered the world of productivity on YouTube when I started watching the videos by Ali Abdaal. Not only did he summarize well-renowned productivity literature but he also condensed different methods in a short, actionable format. End of 2023 he published his first book Feel-Good Productivity. At first, the reviews I read were rather mixed, but I wanted to check it out myself and read it last month. In this article I summarize what I’ve learned from the book."
 date: 2024-06-30
 excerpt_separator: "<!--more-->"
 categories:
