@@ -16,16 +16,15 @@ tags:
 
 ---
 
-
-| ![image](/assets/images/mark-adriane-good-vibes-only-unsplash.jpg) |
-|:--:|
-| *Photo by Mark Adriane on Unsplash* |
-
 Getting more done in less time is a big topic these days.
 
 It's called personal productivity.
 
 There are many guides to help, like the [GTD]({% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %}) method, Peter Drucker's book [The Effective Executive](https://www.google.com/search?q=The+Effective+Executive), and the [role of habits]({% post_url 2023-11-16-Building-Success-Brick-by-Brick %}), among many others.
+
+| ![image](/assets/images/mark-adriane-good-vibes-only-unsplash.jpg) |
+|:--:|
+| *Photo by Mark Adriane on Unsplash* |
 
 I discovered the world of productivity on YouTube when I started watching the videos by Ali Abdaal. Not only did he summarize well-renowned productivity literature but he also condensed different methods in a short, actionable format.
 
