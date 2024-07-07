@@ -4,7 +4,7 @@ description: "Think Again is a best-selling book by Adam Grant about the power o
 date: 2024-06-23
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Productivity
   - Management and Leadership
 tags:
   - Personal Productivity

@@ -4,7 +4,7 @@ description: "Last month, I read Feel-Good Productivity by Ali Abdaal. One idea 
 date: 2024-07-07
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Productivity
 
 tags:
   - Personal Productivity
