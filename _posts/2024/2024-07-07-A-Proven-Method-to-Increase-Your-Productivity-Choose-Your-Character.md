@@ -12,6 +12,7 @@ tags:
   - Management
   - Effective
   - Methods
+  - Gamification
 
 ---
 
