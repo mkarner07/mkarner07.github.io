@@ -57,7 +57,8 @@ Bill Burnett and Dave Evans share the story of one of their students who didn't 
 
 Even if chances are good that you will get a job offer in a good prototype interview, this is not guaranteed. However, there is a trick to lead the conversation in the right direction:
 
-"The more I learn about company/department/… XYZ and the more people I meet here, the more fascinating it becomes. I wonder: what steps would be involved in exploring how someone like me could become a part of this organization." - Bill Burnett and Dave Evans
+> "The more I learn about company/department/… XYZ and the more people I meet here, the more fascinating it becomes. I wonder: what steps would be involved in exploring how someone like me could become a part of this organization." - Bill Burnett and Dave Evans
+>
 
 But let’s go back to the start: how do you get to a prototype interview with an interesting person?
 
