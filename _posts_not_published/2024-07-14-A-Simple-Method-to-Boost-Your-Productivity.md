@@ -16,9 +16,9 @@ tags:
 
 ---
 
-There are many strategies, methods, and guidelines to increase your productivity (the [GTD](https://medium.com/@matthiaskarner/inside-the-mind-of-getting-things-done-the-gtd-methodology-6f250251b421) method, Peter Drucker's [The Effective Executive](https://www.google.com/search?q=The+Effective+Executive), the [role of habits](https://medium.com/illumination/building-success-brick-by-brick-the-role-of-habits-1835e3033f52), …).
+There are many strategies, methods, and guidelines to increase your productivity (the [GTD]({% post_url 2023-10-18-Inside-the-Mind-of-Getting-Things-Done %}) method, Peter Drucker's [The Effective Executive](https://www.google.com/search?q=The+Effective+Executive), the [role of habits]({% post_url 2023-11-16-Building-Success-Brick-by-Brick %}), …).
 
-Recently I tried some methods I’ve picked up in  [Feel-Good Productivity](https://www.google.at/search?q=Feel-Good+Productivity) by Ali Abdaal.
+Recently I tried some methods I’ve picked up in  [Feel-Good Productivity]({% post_url 2024-06-30-A-Summary-of-Feel-Good-Productivity %}) by Ali Abdaal.
 
 | ![image](/assets/images/karsten-winegeart-fun_waterfall-unsplash.jpg) |
 |:--:|

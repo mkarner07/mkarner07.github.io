@@ -153,7 +153,7 @@ Alternatively, you can use:
 
 You now have everything you need to start creating a life you love.
 
-But this does not mean that you should quit your job tomorrow and do a 90° pivot. Prototyping means that you should start small and iterate from there:: again, just as a professional designer would do it.
+But this does not mean that you should quit your job tomorrow and do a 90° pivot. Prototyping means that you should start small and iterate from there: again, just as a professional designer would do it.
 
 Creating prototypes is not a thought experiment but something that you really (physically) must do. A first step is talking to people. Seek out individuals who are already in the role you aspire for (in your Odyssey Plans).
 
