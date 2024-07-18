@@ -136,7 +136,7 @@ However, it is only the infinite mindset that guarantees long-term success. A po
 
 ## My conclusion and learnings
 
-To me, the book was very interesting - especially the core idea of thinking very long term stuck with me. Why decid just for the next 1-3 years? Think big and have a vision for longer than that.
+To me, the book was very interesting - especially the core idea of thinking very long term stuck with me. Why decide just for the next 1-3 years? Think big and have a vision for longer than that.
 
 Additionally, I noted some key learnings I want to remember and incorporate into my daily work:
 
