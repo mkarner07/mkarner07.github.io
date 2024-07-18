@@ -21,7 +21,7 @@ There is the classic way: applying to dozens of job advertisements, hoping you g
 
 But there is another way: According to the two Standford professors and bestselling authors Bill Burnett and Dave Evans the best way to get a job you really want is by "prototyping".
 
-| ![image](/assets/images/jacqueline-munguia-smile-arrow-unsplash) |
+| ![image](/assets/images/jacqueline-munguia-smile-arrow-unsplash.jpg) |
 |:--:|
 | *Photo by Jacqueline Munguia on Unsplash* |
 
