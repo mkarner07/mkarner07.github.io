@@ -1,7 +1,7 @@
 ---
 title: "My Top 21 Productivity Books"
 description: "As an avid reader and productivity enthusiast I’ve curated a list of my favorite productivity books I’ve read so far - their rank has no underlying meaning (it’s just the date I’ve finished them)."
-date: 2024-07-21
+date: 2024-07-25
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
