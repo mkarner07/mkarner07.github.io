@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Matthias Karner"
 title_separator          : "-"
-subtitle: blogging about Productivity, Management & Leadership
+subtitle: writing about Productivity, Management & Leadership
 name                     : "Matthias Karner"
 description: >- # this means to ignore newlines until "baseurl:"
   Productivity, Personal Productivity, Management, Leadership, Digitlization,
