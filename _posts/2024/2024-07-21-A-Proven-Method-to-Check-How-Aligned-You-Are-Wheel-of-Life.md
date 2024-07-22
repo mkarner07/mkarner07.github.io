@@ -25,7 +25,7 @@ It’s a difficult question.
 |:--:|
 | *Photo by Slav Romanov on Unsplash* |
 
-But there exists a method, I’ve picked up in [Feel-Good Productivity](https://medium.com/illumination/a-summary-of-feel-good-productivity-493cbcbb6e3b), that supports you.
+But there exists a method, I’ve picked up in [Feel-Good Productivity]({% post_url 2024-06-30-A-Summary-of-Feel-Good-Productivity %}), that supports you.
 
 The Wheel of Life helps you see how well your actions match your goals and how satisfied you are in different areas of your life.
 
@@ -44,7 +44,7 @@ The Wheel of Life consists of the following dimensions. The first three are rela
 
 | ![image](/assets/images/Wheel-of-Life.PNG) |
 |:--:|
-| *Wheel of Life - work and relationshiphs have been mixed up in the original, Image-Source: Feel-Good Productivity by Ali Abdaal* |
+| *Wheel of Life - work and relationships have been mixed up in the original, Image-Source: Feel-Good Productivity by Ali Abdaal* |
 
 ## How does it work?
 
