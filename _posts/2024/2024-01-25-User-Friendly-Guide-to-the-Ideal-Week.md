@@ -10,6 +10,7 @@ tags:
   - Notetaking
   - Time-Management
   - Methods
+  - Guide
 
 ---
 

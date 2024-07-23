@@ -14,7 +14,7 @@ tags:
   - Business
   - Lean
   - Meetings
-  - Strategy
+  - Guide
   - Time-Management
 ---
 
