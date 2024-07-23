@@ -5,6 +5,8 @@ date: 2024-01-21
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
+  - Book Summary
+  
 tags:
   - Personal Productivity
   - Notetaking

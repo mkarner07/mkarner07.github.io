@@ -5,7 +5,8 @@ date: 2024-07-11
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership 
-
+  - Book Summary
+  
 tags:
   - Leadership
   - Personal Productivity

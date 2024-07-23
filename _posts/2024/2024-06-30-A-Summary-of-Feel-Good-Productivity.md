@@ -5,6 +5,7 @@ date: 2024-06-30
 excerpt_separator: "<!--more-->"
 categories:
   - Productivity
+  - Book Summary
 
 tags:
   - Personal Productivity

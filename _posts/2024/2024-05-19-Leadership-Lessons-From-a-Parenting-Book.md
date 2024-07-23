@@ -6,6 +6,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
   - Management and Leadership
+  - Book Summary
 
 tags:
   - Personal Productivity
