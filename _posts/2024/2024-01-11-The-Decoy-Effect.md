@@ -12,7 +12,7 @@ tags:
   - Personal Productivity
   - Management and Leadership
   - Leadership
-  - Reading
+  - Methods
 
 ---
 

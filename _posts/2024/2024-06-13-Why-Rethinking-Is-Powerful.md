@@ -7,13 +7,14 @@ categories:
   - Productivity
   - Management and Leadership
   - Book Summary
-  
+
 tags:
   - Personal Productivity
   - Leadership
   - Management
   - Effective
   - Methods
+  - Decision Making
   - Book
 
 ---

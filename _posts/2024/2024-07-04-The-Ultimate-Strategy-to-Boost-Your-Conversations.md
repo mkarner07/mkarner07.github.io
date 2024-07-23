@@ -11,6 +11,7 @@ tags:
   - Leadership
   - Communication
   - Psychology
+  - Strategy
 
 ---
 

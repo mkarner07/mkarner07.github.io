@@ -8,6 +8,7 @@ categories:
 tags:
   - Personal Productivity
   - Notetaking
+  - Time-Management
   - Methods
 
 ---

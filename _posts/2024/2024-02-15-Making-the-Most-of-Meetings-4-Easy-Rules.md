@@ -14,7 +14,9 @@ tags:
   - Leadership
   - Business
   - Lean
+  - Communication
   - Meetings
+  - Time-Management
 ---
 
 According to [Forbes](https://www.forbes.com/sites/peterhigh/2019/11/25/half-of-all-meetings-are-a-waste-of-timeheres-how-to-improve-them/) there are 55 million meetings each day - and half of them are a waste of time.

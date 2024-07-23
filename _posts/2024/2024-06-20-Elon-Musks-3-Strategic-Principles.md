@@ -8,7 +8,6 @@ categories:
 
 tags:
   - Personal Productivity
-  - Mangement
   - Leadership
   - Strategy
   - Business

@@ -12,6 +12,8 @@ tags:
   - Designing Your Life
   - Career Advice
   - Guide
+  - Methods
+  - Decision Making
   - Book
 
 ---
