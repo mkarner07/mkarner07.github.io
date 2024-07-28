@@ -1,6 +1,6 @@
 ---
 title: "A Simple 3-Step Framework to Give Valuable Feedback"
-description: "Feedback is a powerful tool for leaders. Positive and constructive feedback sparks growth, boosts performance, and strengthens trust within the team. By sharing clear and constructive insights as a leader, you can inspire your team to reach new heights. But how to do it? In this short article, I summarize the PPI-framework for providing feedback."
+description: "Feedback is a powerful tool for leaders. Positive and constructive feedback sparks growth, boosts performance, and strengthens trust within the team. By sharing clear and constructive insights as a leader, you can inspire your team to reach new heights. But how to do it? In this short article, I summarize the PBI-framework for providing feedback."
 date: 2024-07-28
 excerpt_separator: "<!--more-->"
 categories:
@@ -24,7 +24,7 @@ But how to do it?
 |:--:|
 | *Photo by Amy Hirschi on Unsplash* |
 
-Recently I’ve learned about the PPI-Framework. PPI stands for "**P**urpose of feedback", "**P**erceived behavior" and "**I**mpact".
+Recently I’ve learned about the PPI-Framework. PPI stands for "**P**urpose of feedback", "perceived **B**ehavior" and "**I**mpact".
 
 It is a simple but powerful framework for how to structure a feedback session.
 
@@ -34,7 +34,7 @@ Start by outlining the purpose of your feedback.
 
 This sets the stage and helps the recipient understand why you are having this conversation. By explaining the reason behind the feedback, you ensure that it’s seen as a valuable opportunity for growth rather than pure criticism.
 
-## P - perceived behavior
+## B - Behavior
 
 It’s crucial to focus on concrete actions and facts rather than a subjective interpretation.
 
