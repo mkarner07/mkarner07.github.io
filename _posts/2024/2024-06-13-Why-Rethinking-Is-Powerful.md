@@ -25,9 +25,9 @@ Essentially it is about change and why rethinking has become an important ab
 
 In this article, I'm excited to share what I've learned from the book and pass it on to you!
 
-| ![image](/assets/images/christopher-sardegna-rethinking-unsplash.jpg) |
+| ![image](/assets/images/jehyun-sung-leadership-unsplash.jpg) |
 |:--:|
-| *Photo by Christopher Sardegna on Unsplash* |
+| *Photo by Jehyun Sung on Unsplash* |
 
 ## Individual Rethinking
 
