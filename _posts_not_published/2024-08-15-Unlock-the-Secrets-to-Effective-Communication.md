@@ -33,7 +33,7 @@ In essence, the DISC model categorizes human behavior into four personality type
 
 | ![image](/assets/images/DISC/DISC.PNG) |
 |:--:|
-| *DISC, Source: Leadership Seminar based on the [insights-mdi](https://www.scheelen-institut.com/en/profiling-tools/insights-mdi)* |
+| *DISC, Source: Leadership seminar based on the [insights-mdi](https://www.scheelen-institut.com/en/profiling-tools/insights-mdi)* |
 
 The great thing about the DISC model is its simplicity.
 
