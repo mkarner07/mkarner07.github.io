@@ -13,6 +13,7 @@ tags:
   - Business
   - Designing Your Life
   - Methods
+  - 300 words
 
 ---
 In life there are challenges - some are easy to deal with, some are more daunting and there are those challenges that seem so huge you think you won't be able to overcome them at all: **Anchor Problems**.

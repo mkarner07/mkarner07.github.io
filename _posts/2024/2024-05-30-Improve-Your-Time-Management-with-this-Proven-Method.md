@@ -10,6 +10,7 @@ tags:
   - Notetaking
   - Methods
   - Time-Management
+  - 300 words
 
 ---
 

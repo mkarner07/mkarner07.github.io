@@ -12,6 +12,7 @@ tags:
   - Money
   - Career Advice
   - Designing Your Life
+  - 150 words
 
 ---
 Why do we work?

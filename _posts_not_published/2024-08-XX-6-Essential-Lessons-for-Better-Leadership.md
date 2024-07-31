@@ -1,6 +1,6 @@
 ---
 title: "6 Essential Lessons for Better Leadership"
-description: ""
+description: "There are countless leadership lessons to help you become a better leader. In this brief article, I’ve gathered some key insights from my leadership journey."
 date: 2024-08-xx
 excerpt_separator: "<!--more-->"
 categories:
@@ -12,17 +12,16 @@ tags:
   - Management
   - Business
   - Entrepreneurship
-  - Book
 
 ---
 
-
+There are countless leadership lessons to help you become a better leader. In this brief article, I’ve gathered some key insights from my leadership journey.
 
 | ![image](/assets/images/jeshoots-com-chess-unsplash.jpg) |
 |:--:|
 | *Photo by Jeehots.com on Unsplash* |
 
-There are countless leadership lessons to help you become a better leader. In this brief article, I’ve gathered some key insights from my leadership journey.
+
 
 ## Empathy
 

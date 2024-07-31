@@ -9,6 +9,7 @@ categories:
 tags:
   - Personal Productivity
   - Designing Your Life
+  - 300 words
 
 ---
 

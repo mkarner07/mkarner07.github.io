@@ -11,6 +11,7 @@ tags:
   - Leadership
   - Team
   - Business
+  - 300 words
 
 ---
 

@@ -10,6 +10,7 @@ tags:
   - Personal Productivity
   - Opinion
   - My Journey
+  - 300 words
 
 ---
 A common theme among productivity enthusiasts seems to be the “waking up early” mentality.

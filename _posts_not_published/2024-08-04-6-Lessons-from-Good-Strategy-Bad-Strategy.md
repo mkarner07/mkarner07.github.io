@@ -13,6 +13,7 @@ tags:
   - Business
   - Methods
   - Entrepreneurship
+  - 300 words
   - My Journey
 
 ---

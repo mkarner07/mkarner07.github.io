@@ -13,6 +13,7 @@ tags:
   - Business
   - Methods
   - Writing
+  - 300 words
 
 ---
 

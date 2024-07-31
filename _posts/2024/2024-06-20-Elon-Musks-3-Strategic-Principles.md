@@ -12,6 +12,7 @@ tags:
   - Strategy
   - Business
   - Methods
+  - 300 words
 
 ---
 

@@ -12,6 +12,7 @@ tags:
   - Business
   - Methods
   - Opinion
+  - 150 words
 
 ---
 We live in a complex world.

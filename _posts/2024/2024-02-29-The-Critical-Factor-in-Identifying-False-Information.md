@@ -13,6 +13,7 @@ tags:
   - Business
   - Psychology
   - Methods
+  - 300 words
 
 ---
 We work with a lot of data each day - according to [Forbes](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/), 2.5 quintillion bytes of data are created each day.

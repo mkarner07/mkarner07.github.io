@@ -12,7 +12,8 @@ tags:
   - Communication
   - Psychology
   - Strategy
-
+  - 150 words
+  
 ---
 
 Our mindset is important.

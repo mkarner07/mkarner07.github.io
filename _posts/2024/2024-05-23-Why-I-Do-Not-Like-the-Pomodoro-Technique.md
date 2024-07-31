@@ -9,6 +9,7 @@ tags:
   - Personal Productivity
   - Opinion
   - Methods
+  - 150 words
 
 ---
 As a confessed productivity enthusiast I’ve tried out many different productivity methods & techniques.

@@ -13,6 +13,7 @@ tags:
   - Effective
   - Methods
   - Gamification
+  - 300 words
 
 ---
 

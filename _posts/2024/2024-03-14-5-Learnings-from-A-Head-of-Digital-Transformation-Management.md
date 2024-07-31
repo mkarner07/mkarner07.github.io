@@ -12,6 +12,7 @@ tags:
   - Management and Leadership
   - Leadership
   - Business
+  - 300 words
 
 ---
 For more than four years now, I've been responsible for [Digital Transformation Management]({% post_url 2024-03-10-Unveiling-My-Journey-in-Digital-Transformation-Management %}) at my company.

@@ -12,6 +12,7 @@ tags:
   - Leadership
   - Designing Your Life
   - Methods
+  - 300 words
 
 ---
 Life consists of many challenges: some are easy to deal with, some are more daunting and there are some problems you could solve, but just seem almost too overwhelming to deal with (Anchor Problems).
