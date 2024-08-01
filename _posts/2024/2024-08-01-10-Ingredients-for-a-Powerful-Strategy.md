@@ -154,7 +154,7 @@ In the context of strategy entropy is the tendency of companies to drift into ch
 
 Developing a good strategy or business model is similar to scientific reasoning. You work with the unknown, formulate hypotheses and carry out experiments - this is how science and its inductive part have worked for a long time.
 
-This is also true for creating strategies (cf. also [The Lean Startup]({% post_url 2023-11-02-Mastering-Innovation-The-Lean-Startup %})): creating a strategy is always working with uncertainty.
+This is also true for creating strategies (cf. also The Lean Startup): creating a strategy is always working with uncertainty.
 
 The history of Starbucks is a great example of that.
 
