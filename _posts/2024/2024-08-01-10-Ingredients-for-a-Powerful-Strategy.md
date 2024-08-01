@@ -89,7 +89,7 @@ Like explorers using nearby landmarks to navigate unknown terrain, proximate obj
 
 A strategy is often seen as a decision from existing alternatives.
 
-However, a good strategy is more than that - it is a design (cf. [Designing Your Life]({% post_url 2024-03-14-2024-04-25-Design-a-Life-You-Love %})). Strategy development is a creative process where different ideas are blended to create the best overall solution.
+However, a good strategy is more than that - it is a design (cf. [Designing Your Life]({% post_url 2024-04-25-Design-a-Life-You-Love %})). Strategy development is a creative process where different ideas are blended to create the best overall solution.
 
 ### (5) Focus and growth
 
@@ -154,7 +154,7 @@ In the context of strategy entropy is the tendency of companies to drift into ch
 
 Developing a good strategy or business model is similar to scientific reasoning. You work with the unknown, formulate hypotheses and carry out experiments - this is how science and its inductive part have worked for a long time.
 
-This is also true for creating strategies (cf. also The Lean Startup): creating a strategy is always working with uncertainty.
+This is also true for creating strategies (cf. also [The Lean Startup]({% post_url 2023-11-02-Mastering-Innovation-The-Lean-Startup %})): creating a strategy is always working with uncertainty.
 
 The history of Starbucks is a great example of that.
 
