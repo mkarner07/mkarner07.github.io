@@ -1,7 +1,7 @@
 ---
 title: "6 Essential Lessons for Better Leadership"
 description: "There are countless leadership lessons to help you become a better leader. In this brief article, I’ve gathered some key insights from my leadership journey."
-date: 2024-08-xx
+date: 2024-09-05
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership

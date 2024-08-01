@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive into Leaders Eat Last"
 description: "Have you ever wondered what sets great leaders apart? I did. And for the last couple of years, I’ve read many books on leadership. Some simply summarize common knowledge, others propose new frameworks (that can be tough to implement), and so forth. Out of all the leadership books I've read, one stood out: Leaders Eat Last by Simon Sinek. He uncovers the secrets to inspiring teams and building trust. I liked it so much that I decided to do an in-depth book summary based on my reading notes."
-date: 2024-08-22
+date: 2024-09-05
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
@@ -107,7 +107,11 @@ Simon Sinek explains that in the Stone Age, having a hierarchy was crucial for s
 
 An alpha was allowed to eat first. This, however, also came with expectations: alphas were the first to go into battle (after all, they were the best fed).
 
-Hierarchies have continued to this day.
+This contradicts the book title, right?
+
+However, leaders eating last means that they actively decide to eat last when it is the best for the team. It means making sure that your staff are cared for before you take care of yourself.
+
+Hierarchies are not just a Stone Age thing, they have continued to this day.
 
 We treat alpha people with wealth and a serotonin boost. But this does not come without a price. In return, we expect leaders to stand up for us: we expect them to stand up for the team and protect them (e.g. from other departments, upper management, etc.).
 
