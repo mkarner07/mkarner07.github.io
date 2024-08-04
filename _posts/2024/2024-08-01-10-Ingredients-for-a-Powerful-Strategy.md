@@ -186,4 +186,4 @@ These simple steps can make a big difference.
 
 ---
 
-These were my key insights from [Good Strategy, Bad Strategy](https://www.google.com/search?q=Good+Strategy%2C+Bad+Strategy). I've started using some of these insights in my daily work. If you're curious, stick around - I’ll share my personal experiences in my next post!
+These were my key insights from [Good Strategy, Bad Strategy](https://www.google.com/search?q=Good+Strategy%2C+Bad+Strategy). I've started using some of these insights in my daily work. If you're curious, stick around - I’ll share my personal experiences in my [next post]({% post_url 2024-08-04-6-Lessons-from-Good-Strategy-Bad-Strategy %})!
