@@ -25,7 +25,7 @@ But how to do it?
 |:--:|
 | *Photo by Amy Hirschi on Unsplash* |
 
-Recently I’ve learned about the PPI-Framework. PPI stands for "**P**urpose of feedback", "perceived **B**ehavior" and "**I**mpact".
+Recently I’ve learned about the PBI-Framework. PBI stands for "**P**urpose of feedback", "perceived **B**ehavior" and "**I**mpact".
 
 It is a simple but powerful framework for how to structure a feedback session.
 
