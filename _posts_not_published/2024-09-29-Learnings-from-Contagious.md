@@ -1,7 +1,7 @@
 ---
 title: "Learings from Contagious: Why Things Catch On"
 description: "..."
-date: 2024-09-26
+date: 2024-09-29
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
