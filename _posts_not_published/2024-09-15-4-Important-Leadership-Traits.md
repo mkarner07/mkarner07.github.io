@@ -15,13 +15,9 @@ tags:
 
 ---
 
-
-
 | ![image](/assets/images/shane-rounce-together-unsplash.jpg) |
 |:--:|
 | *Photo by Shane Rounce on Unsplash* |
-
-
 
 ## Empathy
 
