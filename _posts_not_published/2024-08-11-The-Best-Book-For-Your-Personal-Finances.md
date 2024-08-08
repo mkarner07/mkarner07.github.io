@@ -18,9 +18,9 @@ tags:
 
 There are many books about money, investing, financial success, … and I’ve read many of them. However, there has been one book that stood out for its practical recommendations without fluff and with realistic suggestions: Psychology of Money by Morgan Housel.
 
-| ![image](/assets/images/alexander-grey-Dollars-unsplash.jpg) |
+| ![image](/assets/images/morgan-housel-money-and-time-unsplash.jpg) |
 |:--:|
-| *Photo by Alexander Grey on Unsplash* |
+| *Photo by Morgan Housel on Unsplash* |
 
 Essentially the book consists of 21 principles about investing and money. In this article, I’ll summarize the essence of these principles.
 
