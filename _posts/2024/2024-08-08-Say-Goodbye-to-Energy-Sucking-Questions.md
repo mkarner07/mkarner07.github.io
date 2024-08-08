@@ -27,7 +27,7 @@ There exists a similar concept with questions: Energy-Sucking-Questions - let’
 
 What are ESQs?
 
-Essentially, these are questions from which (i) you cannot define or (ii) you cannot derive actions. You are stuck with the question.
+Essentially, these are questions (i) you cannot define or (ii) from which you cannot derive actions. You are stuck with the question.
 
 An example of an ESQ is: *“What is the meaning of life?”* This might be a philosophically interesting question, but you cannot derive an action from it.
 
