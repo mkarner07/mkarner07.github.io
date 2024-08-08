@@ -4,7 +4,7 @@ description: "This year, I've learned a lot about mental models and systems. Usi
 date: 2024-06-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Productivity
+  - Personal Productivity
 
 tags:
   - Productivity

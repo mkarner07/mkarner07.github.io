@@ -4,7 +4,7 @@ description: "Somehow this year I’ve read a lot on motivation, mental mode
 date: 2024-06-13
 excerpt_separator: "<!--more-->"
 categories:
-  - Productivity
+  - Personal Productivity
   - Management and Leadership
   - Book Summary
 

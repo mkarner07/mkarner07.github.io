@@ -4,7 +4,7 @@ description: "Have you ever asked yourself how aligned your life is with your va
 date: 2024-07-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Productivity
+  - Personal Productivity
 
 tags:
   - Personal Productivity

@@ -4,7 +4,7 @@ description: "Improve your Decision Making"
 date: 2024-06-27
 excerpt_separator: "<!--more-->"
 categories:
-  - Productivity
+  - Personal Productivity
 
 tags:
   - Productivity

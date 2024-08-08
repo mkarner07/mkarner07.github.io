@@ -4,7 +4,7 @@ description: "There is a limit to how efficiently you can use your time: your en
 date: 2024-06-16
 excerpt_separator: "<!--more-->"
 categories:
-  - Productivity
+  - Personal Productivity
 
 tags:
   - Productivity

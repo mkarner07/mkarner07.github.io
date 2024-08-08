@@ -4,7 +4,7 @@ description: "-"
 date: 2024-07-14
 excerpt_separator: "<!--more-->"
 categories:
-  - Productivity
+  - Personal Productivity
 
 tags:
   - Personal Productivity

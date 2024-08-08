@@ -4,7 +4,7 @@ description: "We need energy to function. We can increase our productivity to ge
 date: 2024-08-18
 excerpt_separator: "<!--more-->"
 categories:
-  - Productivity
+  - Personal Productivity
 
 tags:
   - Productivity
