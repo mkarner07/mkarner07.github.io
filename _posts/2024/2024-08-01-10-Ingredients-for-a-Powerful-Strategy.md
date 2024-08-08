@@ -17,7 +17,7 @@ tags:
 
 ---
 
-What Does a Good Strategy Look Like?
+What does a good strategy look like?
 
 Is a good strategy a detailed plan crafted based on a vision, is it a set of guiding rules to keep you on the right path or is it just a collection of goals?
 
