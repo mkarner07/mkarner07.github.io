@@ -35,7 +35,7 @@ But how should you deal with these kind of questions?
 
 Awareness is a first step. If a question seems odd, check if either (i) or (ii) is true before you dive deeply into it. The next step is the re-framing and reformulation of a question.
 
-The goal is to keep them actionable. If you want to do that, check out [this article](https://medium.com/short-sweet-valuable/gravity-problems-how-to-deal-with-unsolvable-challenges-in-your-life-26a41597e37d).
+The goal is to keep them actionable. If you want to do that, check out [this article]({% post_url 2024-02-25-Gravity-Problems-How-to-Deal-with-Unsolvable-Challenges-in-Your-Life %}).
 
 But what if a question cannot be reformulated in an actionable way?
 
