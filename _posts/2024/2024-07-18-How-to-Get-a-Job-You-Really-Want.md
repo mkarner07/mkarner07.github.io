@@ -1,6 +1,6 @@
 ---
 title: "How to Get a Job You Really Want"
-description: "..."
+description: "How do you find or design your dream job? There is the classic way: applying to dozens of job advertisements, hoping you get to the next stage and win them over in a personal interview. But there is another way: According to the two Standford professors and bestselling authors Bill Burnett and Dave Evans the best way to get a job you really want is by prototyping."
 date: 2024-07-18
 excerpt_separator: "<!--more-->"
 categories:
