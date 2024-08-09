@@ -23,7 +23,7 @@ As I outlined in [this article](https://www.notion.so/The-Best-Book-For-Your-Per
 |:--:|
 | *Photo by Alexander Grey on Unsplash* |
 
-### (1) Luck and risk
+### 1. Luck and risk
 
 Luck and risk are closely intertwined and one cannot exist without the other. The price for investments and their profit is volatile.
 
@@ -31,13 +31,13 @@ This is not a new learning at all, but a confirmation of common knowledge.
 
 The fact that there can also be large extremes in normally distributed environments is emphasized very well in [Calling Bullshit]({% post_url 2024-03-03-10-Effective-Approaches-to-Calling-Bullshit %}). A good example is the success story of Bill Gates as outlined in the book [Outliers](https://www.google.com/search?q=outliers+book) - he was in the right place at the right time.
 
-### (2) There is no goal
+### 2. There is no goal
 
 Money has no goal - if you reach a certain level of wealth, the default mode is to strive for even more.
 
 However, it is important not to take any risks that threaten your existence, or to paraphrase Warren Buffet: *you should never risk something you need to gain something you don't need.*
 
-### (3) Room for error
+### 3. Room for error
 
 You shouldn’t threaten your existence with your investments.
 
@@ -45,7 +45,7 @@ You also shouldn’t calculate with over-optimistic assumptions. If you plan on 
 
 You should have room for errors. A personal strategy of the author, Morgan Housel, is the following: he starts from historical returns and deducts 1/3 of the return as "room for error".
 
-### (4) Compound interest
+### 4. Compound interest
 
 *Compound interest is the eighth wonder of the world. He who understands it earns it. He who doesn't pays it.*” - Albert Einstein
 
@@ -55,7 +55,7 @@ However, the compound interest effect is challenging to understand for us humans
 
 To visualize the potential of the compound interest effect, calculations as well as tables and visualizations are good tools.
 
-### (5) Tails (or black swans)
+### 5. Tails (or black swans)
 
 The extreme values ("tails") bring the greatest success.
 
@@ -63,7 +63,7 @@ How can you take advantage of this?
 
 If you invest during a recession, you can outshine 10 "normal" investment years or, to put it another way, a quote from Napoleon: *"In war, those who do ordinary things are the most successful, while the majority go crazy."*
 
-### (6) Freedom
+### 6. Freedom
 
 On the subject of freedom: in a work context, it is important to create an environment in which people can control their actions (or at least believe they can). Because even if you do something that you enjoy doing under someone else's instructions or schedule, it can feel like something you hate.
 

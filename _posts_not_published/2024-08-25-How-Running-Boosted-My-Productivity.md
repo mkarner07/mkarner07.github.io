@@ -100,7 +100,7 @@ Watching your progress releases dopamine which in turn leads to increased motiva
 
 Running has proven to be great for my health, but I also realized that it increases my productivity on different levels.
 
-### (1) Increased energy
+### 1. Increased energy
 
 I want to highlight this one first as it seems counterintuitive: exercise needs energy, right?
 
@@ -120,14 +120,14 @@ Here physical exercise comes into play.
 
 Working out helps us break down cortisol (”run away”). Furthermore, it produces endorphins (the feel-good hormones) and dopamine (the hormone of progress) that increase our mood. This effect on the hormones leads to an increased mood and motivation level after a run.
 
-### (2) Motivation
+### 2. Motivation
 
 In my experience running has a two-way effect on motivation:
 
 - If we go for a run, we’ll be more energized afterward. Our mood is better and we are more motivated after a run.
 - We can use “going for a run” as a reward as well. I do that sometimes: *If I am productive, I reward myself with a run in the evening.*
 
-### (3) Creativity
+### 3. Creativity
 
 It is a fact that we think better when we walk, as e.g. the [New York Times](https://www.nytimes.com/2023/03/25/opinion/walking-hiking-spring.html) addresses.
 
@@ -139,7 +139,7 @@ When you run at an easy pace, your mind and body are slightly occupied with cont
 
 I’ve personally had some epiphanies while running at an easy pace. It is hard to describe, but I just think differently while I am running. It's good that I have something to take notes with me on my longer runs!
 
-### (4) Mental clarity and focus
+### 4. Mental clarity and focus
 
 Running regularly has long-term benefits on mental clarity and focus.
 
@@ -151,7 +151,7 @@ This is not only true if you are struggling with a decision, but also if you nee
 
 ## Tips for incorporating running into your routine
 
-### (1) Time management
+### 1. Time management
 
 Finding time to run regularly can be hard.
 
@@ -169,7 +169,7 @@ I applied the [ideal week method]({% 2024-01-25-User-Friendly-Guide-to-the-Ideal
 
 However, it's rare to stick to an ideal week because life can be unpredictable. When that happens, I move my workouts to other days but make sure to fit in all three training sessions with at least one rest day in between.
 
-### (2) Start small and gradually increase intensity
+### 2. Start small and gradually increase intensity
 
 After you’ve overcome the initial hurdle of getting started, often big motivation hits.
 
@@ -183,7 +183,7 @@ I did some stretching (about 1-2 minutes before each run), but I should’ve don
 
 So my recommendation is: don’t overdo it. Start small, gradually increase the intensity, and incorporate some stretching as well.
 
-### (3) Find a training plan
+### 3. Find a training plan
 
 Get yourself a training plan.
 
@@ -199,7 +199,7 @@ However, I don’t think the specific plan you use is the most important thing.
 
 What matters is having a plan that includes both interval training and long runs. Plus, having a structured plan helps with time management.
 
-### (4) Track your progress and celebrate
+### 4. Track your progress and celebrate
 
 This is a given if you are using a running watch and/or app. They track dozens of metrics and help you keep an eye on your progress.
 

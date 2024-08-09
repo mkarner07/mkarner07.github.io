@@ -24,7 +24,7 @@ There are many books about money, investing, financial success, … and I’ve r
 
 Essentially the book consists of 21 principles about investing and money. In this article, I’ll summarize the essence of these principles.
 
-## (1) No One's Crazy
+## 1. No One's Crazy
 
 Everyone has grown up with different environmental conditions and has been shaped by them in the area of finance.
 
@@ -32,7 +32,7 @@ Someone who lived through the Great Depression or was damaged by the financial c
 
 The essence is: that everyone is only as crazy as the environment they grew up in.
 
-## (2) Luck & Risk
+## 2. Luck & Risk
 
 It is common knowledge that luck and risk are closely intertwined.
 
@@ -40,7 +40,7 @@ This can be explained with e.g., the success story of Bill Gates: Bill Gates and
 
 But there was a third computer geek in the group with them: Kent Evans. However, he died in a mountain accident in his youth. This is a risk that also has a probability of 1:1,000,000.
 
-## (3) Never Enough
+## 3. Never Enough
 
 This is about wanting “more”.
 
@@ -50,7 +50,7 @@ A story that underlines that is that of Rajat Gupta, a former McKinsey CEO who h
 
 The essence: think of how “enough” looks like for you.
 
-## (4) Confounding Compounding
+## 4. Confounding Compounding
 
 Compounding interest is powerful.
 
@@ -60,7 +60,7 @@ By investing in the stock market for almost 75 years, he has been able to make g
 
 So in essence: time is working for you!
 
-## (5) Getting Wealthy vs. Staying Wealthy
+## 5. Getting Wealthy vs. Staying Wealthy
 
 Becoming wealthy and staying wealthy are two very different tasks.
 
@@ -71,7 +71,7 @@ There are two basic rules for staying wealthy:
 1. Live as frugally as possible.
 2. Have a certain amount of paranoia.
 
-## (6) Tails, You Win
+## 6. Tails, You Win
 
 Tails are extreme values/events.
 
@@ -81,7 +81,7 @@ Warren Buffet and Charlie Munger also say that Berkshire Hathaway's great succes
 
 In the case of investing such extreme events can be a market crash. A good strategy here is to keep calm, or in the words of Napoleon: *"In war, those who do ordinary things are the most successful, while the majority goes mad."*
 
-## (7) Freedom
+## 7. Freedom
 
 Freedom is the best dividend that money pays and studies show that freedom has a tremendous impact on our happiness.
 
@@ -93,7 +93,7 @@ While inflation-adjusted prosperity in the West has grown in recent decades, hap
 
 The essence: It is not the shiny object we should be after, but the freedom money can buy us!
 
-## (8) Man in the Car Paradox
+## 8. Man in the Car Paradox
 
 The "Man in the car paradox" means that we believe we appear successful to others when we are sitting in an expensive car.
 
@@ -101,7 +101,7 @@ But the reality is that others don't even notice the person in the car. On the c
 
 This underlines (7) even more: don’t chase shiny objects!
 
-## (9) Wealth is What You Don't See
+## 9. Wealth is What You Don't See
 
 Being wealthy and being rich are two very different things:
 
@@ -112,13 +112,13 @@ Ultimately, however, it is wealth that pays the biggest dividend: freedom (and f
 
 If you do everything you can to look rich, this can have the opposite effect: you are stuck in a situation (e.g. in an unloved job) to be able to afford the "rich lifestyle".
 
-## (10) Save Money
+## 10. Save Money
 
 Saving is what makes you wealthy, not owning expensive luxury goods. At best, it makes you look rich, but this leads to the "Man in the Car Paradox".
 
 If you save consistently, this has one of the greatest effects on your wealth. As already discussed in (6), it is the "tails" that win, and the longer you are in the game, the higher the probability that you will catch one or more of the tails.
 
-## (11) Reasonable > Rational
+## 11. Reasonable > Rational
 
 When investing, it is more important to be reasonable than purely rational.
 
@@ -128,7 +128,7 @@ As shown in the previous principles, consistency and time are the most important
 
 The essence: Stay reasonable in your decision-making.
 
-## (12) Surprise!
+## 12. Surprise!
 
 The bottom line is that surprising events occur more often than you think.
 
@@ -138,7 +138,7 @@ It is crucial to be prepared for these surprises: e.g. by having liquid funds th
 
 The essence: Don’t be over-pessimistic and also don’t be over-optimistic.
 
-## (13) Room for error
+## 13. Room for error
 
 Especially in finance, it is always assumed that the past is a good predictor of the future.
 
@@ -150,7 +150,7 @@ In this context I like the following quote:
 
 *The best plan is to plan for the plan not going according to plan.*
 
-## (14) You'll Change
+## 14. You'll Change
 
 People change and so do attitudes to finance and investing. We find it hard to imagine where we will be in 10 years: emotionally and physically.
 
@@ -160,11 +160,11 @@ If you only accept "mediocre" things, it is more likely that they will still fit
 
 The essence: never accept extreme circumstances.
 
-## (15) Nothing's Free
+## 15. Nothing's Free
 
 This is a short, but important one: The price of investing is volatility. If you don’t accept some risk, you won’t have many growth opportunities.
 
-## (16) You & Me
+## 16. You & Me
 
 A bubble in the stock market is not caused by everyone pricing a stock above its value but is usually influenced by a specific group of investors: day traders.
 
@@ -172,23 +172,23 @@ They don't look at the long-term success of companies, but trade based on trends
 
 The lesson is that whether a stock is overvalued or undervalued always depends on the individual and their investment strategy.
 
-## (17) The Seduction of Pessimism
+## 17. The Seduction of Pessimism
 
 We give more credence to overly pessimistic assessments (e.g. crisis prophets) than to exuberantly optimistic assessments. This is, in the terms of Daniel Kahneman, the loss aversion (cf. [Thinking, Fast and Slow]({% post_url 2023-12-07-In-the-Realm-of-Thought %})).
 
-## (18) When You'll Believe Anything
+## 18. When You'll Believe Anything
 
 *You just don't know, what you don't know. - Donald Rumsfeld*
 
 Markets are not precise and finance is not an exact science (like physics) - it is driven by human attitudes and we are all different as underlined in (16).
 
-## (19) All Together Now
+## 19. All Together Now
 
 This section of Morgan Housel’s book summarizes the principles 1-18.
 
 One key learning that is emphasized on: **you don't have to have a goal to save for** (a car, a down payment on a house, etc.). You can simply save for future risks, ideas, and freedom.
 
-## (20) Confessions
+## 20. Confessions
 
 This is a personal section where Morgan Housel shares how he and his family invest.
 
@@ -206,7 +206,7 @@ In addition to funds for their children's education and the American "retirement
 1. Optimism that the international economy will be successful and profitable in the long term.
 2. Living below one's means and saving the surplus.
 
-## (21) A Brief History of Why the U.S. Consumers Think the Way They Do
+## 21. A Brief History of Why the U.S. Consumers Think the Way They Do
 
 In this postscript, Morgan Housel tells the story of U.S. consumers and how their behavior came to be.
 

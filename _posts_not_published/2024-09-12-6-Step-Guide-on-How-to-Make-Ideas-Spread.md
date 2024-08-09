@@ -45,7 +45,7 @@ No this isn’t a typo.
 
 It is the acronym for the 6 steps or dimensions for viral content.
 
-### Social Currency
+### 1. Social Currency
 
 We humans like to talk about ourselves.
 
@@ -61,7 +61,7 @@ There are three variants of Social Currency:
 - **Leverage game mechanics**: Humans are competitive and want to "be better" than others. To use gamification, there must be a measurable variable that we proudly & voluntarily report on (flyer miles, golf handicap, ...). For example, many people are proud of their frequent flyer miles - especially when they achieve a status (e.g. Senator) that is reserved for only a few.
 - **Make people feel like insiders**: People want to feel special. When we are insiders in a group (where not everyone has easy access), we feel special. It is so special that we like to talk about it (and the product).
 
-### Triggers
+### 2. Triggers
 
 People already talk a lot about products and services in everyday life.
 
@@ -71,13 +71,13 @@ It is often the conversations we have to avoid awkward silences. We talk about w
 - The song Friday and the day Friday
 - The NASA probe on Mars and the chocolate bar (unspoken, but effective)
 
-### Emotions
+### 3. Emotions
 
 *When we care we share. - Jonah Berger*
 
 We are more likely to share emotional articles or information with others. Particularly interesting is information that amazes us (the “Ah” moments). This is why scientific articles are often very successful: they show us new information we wouldn’t have thought would be possible.
 
-### Public
+### 4. Public
 
 People imitate what other people do.
 
@@ -87,7 +87,7 @@ Thoughts are private and actions are public.
 
 One common example is the awkward silence when you ask questions after presentations. There must be at least some questions, but nobody wants to be the only one asking. Once the first one starts asking a question, however, the ice is broken and others are asking questions too.
 
-### Practical Value
+### 5. Practical Value
 
 Practical value can be a great opportunity to make an idea or product contagious.
 
@@ -97,7 +97,7 @@ However, with practical value, it is not the Social Currency we are after. We ar
 
 Discounts, for example, have a special place in the dimension of practical value. But it is important to keep in mind that we humans are not completely rational when it comes to prices and discounts (as Daniel Kahneman laid out in [Thinking, Fast and Slow]({% post_url 2023-12-07-In-the-Realm-of-Thought %})).
 
-### Stories
+### 6. Stories
 
 Stories have always been an effective way of passing on information.
 
