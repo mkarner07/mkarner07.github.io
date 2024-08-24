@@ -1,5 +1,5 @@
 ---
-title: "..."
+title: "I Ran My First Half Marathon"
 description: "..."
 date: 2024-09-26
 excerpt_separator: "<!--more-->"

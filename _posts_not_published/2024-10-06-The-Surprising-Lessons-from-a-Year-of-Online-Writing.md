@@ -1,7 +1,7 @@
 ---
-title: "My 100th Blogpost"
-description: "This is My 100th Post"
-date: 2024-09-22
+title: "The Surprising Lessons from a Year of Online Writing"
+description: "..."
+date: 2024-10-06
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity

@@ -48,8 +48,8 @@ As Robert Waldinger, currently leading the study, I want to end my article with 
 > *“There isn't time, so brief is life, for bickerings, apologies, heartburnings, callings to account. There is only time for loving, and but an instant, so to speak, for that.”* - Mark Twain
 >
 
-…
+---
 
-Thank you for reading my article! What do you think about happiness? Let me know in the comments!
+Thank you for reading my article! What do you think about [happiness]({% post_url 2024-03-07-A-Definition-of-Happiness %})? Let me know in the comments at Medium!
 
 For this article, I’ve used “The Longest Study on Happiness” led by Robert Waldinger. If you are interested in more details, check out [his TED talk](https://www.youtube.com/watch?v=8KkKuTCFvzI).
