@@ -1,7 +1,7 @@
 ---
 title: "4 Important Leadership Traits in Less Than 150 Words"
-description: "..."
-date: 2024-08-xx
+description: "A short article on important leadership traits."
+date: 2024-09-15
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
@@ -12,6 +12,7 @@ tags:
   - Management
   - Business
   - Entrepreneurship
+  - 300 words
 
 ---
 
@@ -61,4 +62,4 @@ To earn and keep your team’s trust, it's important to stick to your decisions 
 
 ---
 
-Thank you for reading! For this article, I’ve used “Leaders Eat Last” as a main resource. If you are interested in the book, check out my [in-depth book summary](https://www.notion.so/A-Summary-of-Leaders-Eat-Last-55636adc8da14b85ad575f23618c1417?pvs=21).
+Thank you for reading! For this article, I’ve used “Leaders Eat Last” as a main resource. If you are interested in the book, check out my [in-depth book summary]({% post_url 2024-08-22-A-Deep-Dive-Into-Leaders-Eat-Last %}).
