@@ -15,6 +15,6 @@ tags:
 ---
 
 
-| ![image](/assets/images/ian-schneider-passion-unsplash.jpg) |
+| ![image](/assets/images/florian-klauer-typewriter-unsplash.jpg) |
 |:--:|
-| *Photo by Ian Schneider on Unsplash* |
+| *Photo by Florian Klauer on Unsplash* |
