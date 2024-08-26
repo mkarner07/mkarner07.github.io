@@ -38,7 +38,7 @@ Somehow this year in May, three things came together: motivation, a goal, and th
 
 ### (1) Initial motivation
 
-I had just finished reading [Can’t Hurt Me]({% post_url 2024-07-11-The-Infinite-Mindset %}) by David Goggins, a powerful book about building inner strength and resilience. It sparked the idea to start exercising more regularly.
+I had just finished reading [Can’t Hurt Me] by David Goggins, a powerful book about building inner strength and resilience. It sparked the idea to start exercising more regularly.
 
 I always thought running was a great exercise because it’s easy to start and doesn’t require much preparation: just put on your running shoes and go!
 
