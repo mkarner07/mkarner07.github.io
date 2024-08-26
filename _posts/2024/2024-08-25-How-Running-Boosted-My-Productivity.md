@@ -38,7 +38,7 @@ Somehow this year in May, three things came together: motivation, a goal, and th
 
 ### (1) Initial motivation
 
-I had just finished reading [Can’t Hurt Me] by David Goggins, a powerful book about building inner strength and resilience. It sparked the idea to start exercising more regularly.
+I had just finished reading [Can’t Hurt Me]({% post_url 2024-07-11-The-Infinite-Mindset %}) by David Goggins, a powerful book about building inner strength and resilience. It sparked the idea to start exercising more regularly.
 
 I always thought running was a great exercise because it’s easy to start and doesn’t require much preparation: just put on your running shoes and go!
 
@@ -165,7 +165,7 @@ As explained, running isn’t energy-negative, it actually is energy-positive. H
 
 If you have to juggle work & productivity, family, and writing online and still want to go for at least 3 runs per week, you need to have proper time management.
 
-I applied the [ideal week method]({% 2024-01-25-User-Friendly-Guide-to-the-Ideal-Week %}) and blocked time in my calendar for when I was planning to go for a run. Usually, I do my long run (≥ 1.5 hours) on the weekend as there is just no time for that during the week. Additionally, I do two shorter trainings during the week (about 1 hour each). In my ideal week, this would be Tuesday, Thursday, and Saturday.
+I applied the [ideal week method]({% post_url 2024-01-25-User-Friendly-Guide-to-the-Ideal-Week %}) and blocked time in my calendar for when I was planning to go for a run. Usually, I do my long run (≥ 1.5 hours) on the weekend as there is just no time for that during the week. Additionally, I do two shorter trainings during the week (about 1 hour each). In my ideal week, this would be Tuesday, Thursday, and Saturday.
 
 However, it's rare to stick to an ideal week because life can be unpredictable. When that happens, I move my workouts to other days but make sure to fit in all three training sessions with at least one rest day in between.
 
