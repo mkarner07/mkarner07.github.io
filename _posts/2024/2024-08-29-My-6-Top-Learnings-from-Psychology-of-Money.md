@@ -17,7 +17,7 @@ tags:
 
 I’ve read many books about investing, personal finance, and money. Some focus on creating valuable businesses (The Millionaire Fastlane, Million Dollar Weekend) others focus on automating your job (The 4-Hour Workweek) and others focus on the investment side (The Intelligent Investor, Psychology of Money).
 
-As I outlined in [this article](https://www.notion.so/The-Best-Book-For-Your-Personal-Finances-Psychology-of-Money-1af309b54c77431e83845e1024dd0d5d?pvs=21), one of the best books about the topic is Psychology of Money by Morgan Housel. In this article, I want to share my top 6 learnings from the book.
+As I outlined in [this article]({% post_url 2024-08-11-The-Best-Book-For-Your-Personal-Finances %}), one of the best books about the topic is Psychology of Money by Morgan Housel. In this article, I want to share my top 6 learnings from the book.
 
 | ![image](/assets/images/alexander-grey-Dollars-unsplash.jpg) |
 |:--:|
