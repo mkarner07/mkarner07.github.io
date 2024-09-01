@@ -24,7 +24,7 @@ That's why it’s crucial to manage your energy, not just your time.
 |:--:|
 | *Photo by Miguel Bruna on Unsplash* |
 
-In a [recent article](https://medium.com/the-shortform/managing-energy-and-not-time-d9203a59eb8b), I discussed how to plan your week by not only scheduling time blocks but also considering energy blocks. If you want a long-term perspective on planning your energy, this handy method exists: *The Energy Investment Portfolio*.
+In a [recent article]({% post_url 2024-06-16-Managing-Energy-and-Not-Time %}), I discussed how to plan your week by not only scheduling time blocks but also considering energy blocks. If you want a long-term perspective on planning your energy, this handy method exists: *The Energy Investment Portfolio*.
 
 Think of managing your energy like managing investments – there are two types:
 
@@ -37,4 +37,4 @@ It's crucial to prioritize.
 
 ---
 
-The Energy Investment Portfolio is a strategy I’ve learned from Ali Abdaal's productivity strategies he shows in [Feel-Good Productivity](https://medium.com/illumination/a-summary-of-feel-good-productivity-493cbcbb6e3b).
+The Energy Investment Portfolio is a strategy I’ve learned from Ali Abdaal's productivity strategies he shows in [Feel-Good Productivity]({% post_url 2024-06-30-A-Summary-of-Feel-Good-Productivity %}).
