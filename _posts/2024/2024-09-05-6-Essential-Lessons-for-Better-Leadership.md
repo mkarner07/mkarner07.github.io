@@ -12,6 +12,7 @@ tags:
   - Management
   - Business
   - Entrepreneurship
+  - 300 words
 
 ---
 
