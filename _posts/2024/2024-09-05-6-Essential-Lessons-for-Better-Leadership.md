@@ -65,4 +65,4 @@ To earn and keep your team’s trust, it's important to stick to your decisions 
 
 ---
 
-Thank you for reading! For this article, I’ve used “Leaders Eat Last” as a main resource. If you are interested in the book, check out my [in-depth book summary](https://www.notion.so/A-Summary-of-Leaders-Eat-Last-55636adc8da14b85ad575f23618c1417?pvs=21).
+Thank you for reading! For this article, I’ve used “Leaders Eat Last” as a main resource. If you are interested in the book, check out my [in-depth book summary]({% post_url 2024-08-22-A-Deep-Dive-Into-Leaders-Eat-Last %}).
