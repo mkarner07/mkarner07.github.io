@@ -11,6 +11,7 @@ tags:
   - Strategy
   - Management
   - Business
+  - Book
 
 ---
 
