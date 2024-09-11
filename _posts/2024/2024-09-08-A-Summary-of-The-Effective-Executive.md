@@ -159,7 +159,7 @@ Drucker presents a five-step approach for an effective decision-making process
 1. Is it a generic situation, or an exceptional situation?
     - If it is generic, apply a rule or a principle, and don’t drain your decision capacity too much.
     - If it is an exception, deal with it on an individual level.
-2. Make a clear specification of what the decision is intended to achieve. This consists of (i) an exact definition of the boundary conditions as well as (ii) the solution approach must fulfill.
+2. Make a clear specification of what the decision is intended to achieve. This consists of (i) an exact definition of the boundary conditions as well as (ii) the solution the approach must fulfill.
 3. You must always start with what is right and not what is still acceptable. Provisional solutions often remain longer than you think at the beginning.
 4. Transform decisions into actions
 5. Build feedback into the decision.
