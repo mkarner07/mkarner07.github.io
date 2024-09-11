@@ -1,6 +1,6 @@
 ---
-title: "A Deep Dive into The Art and Business of Online Writing"
-description: "..."
+title: "The 6 Stages of Online Writing"
+description: "When I started writing online, I saw it as an experiment at first. My primary goal was to learn. I wanted to improve my English (not my mother’s tongue). I wanted to learn how to build an audience. I wanted to learn how to create and host a web page. And yes, over the past 100 posts, I did learn a lot. In this article I'll share the story how I've leveled-up my writing-game."
 date: 2024-10-13
 excerpt_separator: "<!--more-->"
 categories:
@@ -13,9 +13,9 @@ tags:
 
 ---
 
-| ![image](/assets/images/jess-bailey-pens-unsplash.jpg) |
+| ![image](/assets/images/kanhaiya-sharma-level-up-unsplash.jpg) |
 |:--:|
-| *Photo by Jess Bailey Kosinska on Unsplash* |
+| *Photo by Kanhaiya Sharma on Unsplash* |
 
 When I started writing online, I saw it as an experiment at first. My primary goal was to learn.
 
