@@ -118,7 +118,12 @@ Use one, several, or all of the 6 STEPPS.
 
 Just answer a few key questions to enhance your content and get your message across!
 
-- **Social Currency**Does talking about your product or your idea make people look good?Can you find the inner remarkability?Leverage game mechanics.Make people feel like insiders.**Triggers**Consider the context: what cues make people think about your product or idea?How can you grow the habitat and make it come to mind more often?**Emotion**Focus on feelings.Does talking about your product or idea generate emotion?How can you kindle the fire?**Public**Does your product or idea advertise itself?Can people see when others are using it? If not: how can you make the private public?Can you create a behavioral residue that even sticks around after people use it?**Practical Value**Does talking about your idea or your product help people help others?How can you highlight incredible value, packaging your knowledge or expertise in useful information others will want to talk about?**Stories**What is your Trojan Horse?Is your product or idea embedded in a broader narrative people want to share?Is the story not only viral but also valuable?
+- **Social Currency**:Does talking about your product or your idea make people look good?Can you find the inner remarkability?Leverage game mechanics.Make people feel like insiders.
+- **Triggers**: Consider the context: what cues make people think about your product or idea?How can you grow the habitat and make it come to mind more often?
+- **Emotion**: Focus on feelings.Does talking about your product or idea generate emotion?How can you kindle the fire?
+- **Public**: Does your product or idea advertise itself?Can people see when others are using it? If not: how can you make the private public?Can you create a behavioral residue that even sticks around after people use it?
+- **Practical Value**: Does talking about your idea or your product help people help others?How can you highlight incredible value, packaging your knowledge or expertise in useful information others will want to talk about?
+- **Stories**: What is your Trojan Horse?Is your product or idea embedded in a broader narrative people want to share?Is the story not only viral but also valuable?
 
 ---
 
