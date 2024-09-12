@@ -1,7 +1,7 @@
 ---
 title: "6 Step Guide on How to Make Ideas Spread"
 description: "Have you ever wondered why certain ideas are shared more than others? Word of mouth and sharing are indeed powerful ways to spread information. Actually, it is 10 times more effective than other forms of marketing. If you have an amazing idea to share, or you are an entrepreneur and want to spread the word about your great product, this article is here to help."
-date: 2024-09-26
+date: 2024-09-12
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
