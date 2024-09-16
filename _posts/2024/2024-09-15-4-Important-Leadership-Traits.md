@@ -1,5 +1,5 @@
 ---
-title: "4 Important Leadership Traits in Less Than 150 Words"
+title: "4 Important Leadership Traits in Less Than 300 Words"
 description: "A short article on important leadership traits."
 date: 2024-09-15
 excerpt_separator: "<!--more-->"
