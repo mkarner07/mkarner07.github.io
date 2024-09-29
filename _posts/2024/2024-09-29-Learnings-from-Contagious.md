@@ -1,5 +1,5 @@
 ---
-title: "Learings from Contagious: Why Things Catch On"
+title: "Learnings from Contagious: Why Things Catch On"
 description: "Some weeks ago I published an article on the STEPPS framework, summarizing the content of the book Contagious: Why Things Catch On. It was well received and so I decided to create a brief follow-up article where I put down my learnings from the book."
 date: 2024-09-29
 excerpt_separator: "<!--more-->"
