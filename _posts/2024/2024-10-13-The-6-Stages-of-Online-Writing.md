@@ -53,7 +53,7 @@ After I’ve published about 30 articles I started to write short-form as well o
 
 Some of my articles were published in the Medium publications [The Shortform](https://medium.com/the-shortform) & [Short. Sweet. Valuable](https://short.sweet.pub/). Publishing there taught me to be more precise. If you just have 150 words you can work with, you must cut the fluff.
 
-At that time I also [found three pillars]({% post_url 2024-01-28-Milestones-in-My-Writing-Journey_33-Articles-and-Counting %}) within my niche to write about:
+At that time I also found three pillars within my niche to write about:
 - Sharing methods & approaches I’ve picked up
 - Summaries of my reading (book deep-dives, quick summaries of concepts & ideas, …)
 - Personal stories
