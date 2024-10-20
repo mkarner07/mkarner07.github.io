@@ -152,7 +152,7 @@ However, it is still showing the configuration (name, title, …) from the templ
 
 Another great thing about Jekyll is, that you find all the important configurations neatly packed into one file: the “_config.yml”.
 
-| ![image](/assets/images/github-pages-guide/_config.PNG) |
+| ![image](/assets/images/github-pages-guide/config.PNG) |
 |:--:|
 | *Configuration file, upper section. Source: Screenshot from https://github.com* |
 
@@ -167,7 +167,7 @@ Open the configuration file and take a few minutes to walk through the file. It 
 - **links**: This is a larger section and you can customize it a lot. The text next to *“label”* is what is written below your bio. The *“icon”* uses *Font Awesome* icons. There are hundreds of options you can choose from (see [here](https://fontawesome.com/search?q=linked&o=r&m=free)) including icons from platforms such as Instagram, LinkedIn, and many more. To link to your other website, Instagram, or LinkedIn page, put the link next to *“url”*. You can use as many links as you’d like - just follow the template.
 - **footer**: This section is similar to the links section and uses the same logic. You can either use the same links as before or use different ones.
 
-| ![image](/assets/images/github-pages-guide/_config2.PNG) |
+| ![image](/assets/images/github-pages-guide/config2.PNG) |
 |:--:|
 | *Configuration file, lower section. Source: Screenshot from https://github.com* |
 
