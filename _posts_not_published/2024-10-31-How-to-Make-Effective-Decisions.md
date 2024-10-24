@@ -1,7 +1,7 @@
 ---
 title: "How to Make Effective Decisions According to Peter Drucker"
 description: "Making effective decisions is one of the most important things a leader has to do. There are dozens of frameworks on how to approach decision-making: one that works particularly well is the 5-step framework famous economist Peter F. Drucker proposed."
-date: 2024-10-27
+date: 2024-10-31
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership

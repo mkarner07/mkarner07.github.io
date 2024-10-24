@@ -32,7 +32,7 @@ The last couple of weeks have been quite intense. There were a lot of things goi
 
 But, my article backlog is now running dry and there are still some more intense months to come. As I don’t want to endanger the positive feeling I have when it comes to writing, I don’t want to over-commit, burn out and stop writing altogether.
 
-Therefore, I decided to change my article pace: I’ll transition to publishing once per week and I’ll start with it next Sunday.
+Therefore, I decided to change my article pace: I’ll transition to publishing once per week.
 
 Dear readers, I hope you’ll understand as I shift to publishing a bit less frequently, but rest assured, I’m not stopping! Your support means the world to me. Thank you for being here!
 
