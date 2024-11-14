@@ -27,4 +27,4 @@ According to [Nicolas Cole](https://medium.com/@nicolascole77), a very successfu
 2. **Own opinion**: This is among the largest categories of online articles. It is a very competitive field.
 3. **Curated list**: Lists seem uncreative at first. However, when implemented correctly, they are an excellent way of providing readers with information quickly.
 4. **Story**: Telling a story is not limited to fiction alone!
-5. **Credible "talking head"**: This is not about a single article. It is more about being seen as a credible resource for the reader (*”This article was written by someone who has experience and knowledge of the topic”*).
+5. **Credible "talking head"**: This is not about a single article. It is more about being seen as a credible resource for the reader (*This article was written by someone who has experience and knowledge of the topic*).
