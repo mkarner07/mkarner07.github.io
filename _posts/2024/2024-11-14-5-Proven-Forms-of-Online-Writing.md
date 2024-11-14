@@ -1,7 +1,7 @@
 ---
 title: "5 Proven Forms of Online Writing"
 description: "Writing online can take different forms. According to Nicolas Cole, a very successful online writer, there are 5 proven forms of online writing."
-date: 2024-10-10
+date: 2024-11-14
 excerpt_separator: "<!--more-->"
 categories:
   - Writing
