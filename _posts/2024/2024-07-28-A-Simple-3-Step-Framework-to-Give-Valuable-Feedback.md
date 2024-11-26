@@ -9,7 +9,6 @@ categories:
 tags:
   - Management and Leadership
   - Leadership
-  - Team
   - Business
   - 300 words
 
