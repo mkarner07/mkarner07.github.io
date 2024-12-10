@@ -1,7 +1,7 @@
 ---
 title: "Steal like an artist"
 description: "..."
-date: 2024-12-26
+date: 2025-01-16
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
