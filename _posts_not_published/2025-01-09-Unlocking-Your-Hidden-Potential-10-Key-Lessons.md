@@ -1,5 +1,5 @@
 ---
-title: "A Deep Dive Into HiddenPotential"
+title: "Unlocking Your Hidden Potential: 10 Key Lessons from Hidden Potential "
 description: "Recently I’ve read Hidden Potential by Adam Grant. The book offers profound insights into how we can grow, learn, and lead more effectively. In this article I summarize my key lessons from the book."
 date: 2025-01-09
 excerpt_separator: "<!--more-->"
