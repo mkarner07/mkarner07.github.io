@@ -1,7 +1,7 @@
 ---
 title: "Balancing Your Article Publishing Schedule"
 description: "What is the right amount of articles to publish per week? I’ve asked myself this question quite a lot and in this article, I’ll try to answer it."
-date: 2024-01-02
+date: 2025-01-02
 excerpt_separator: "<!--more-->"
 categories:
   - Writing
