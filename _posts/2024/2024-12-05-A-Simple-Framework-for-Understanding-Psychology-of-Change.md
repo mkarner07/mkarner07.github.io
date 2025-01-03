@@ -56,7 +56,7 @@ The 4 Rooms of Change form, when the diagram is separated into 4 distinct rooms:
 
 | ![image](/assets/images/4_Rooms_of_Change/4_Rooms_of_Change.PNG) |
 |:--:|
-| *4 Rooms of Change: Habit -> Resistance -> Adaptation -> Renewal, by the author* |
+| *The 4 Rooms of Change: Habit -> Resistance -> Adaptation -> Renewal, by the author* |
 
 Everybody facing a change process moves through all 4 rooms.
 

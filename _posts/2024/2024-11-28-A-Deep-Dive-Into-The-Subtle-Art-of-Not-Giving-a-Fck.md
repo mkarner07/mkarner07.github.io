@@ -1,6 +1,6 @@
 ---
 title: "A Deep Dive into The Subtle Art of Not Giving a F*ck"
-description: "One of the aspiring online writers/bloggers I personally look up to is Marc Manson.
+description: "One of the aspiring online writers/bloggers I personally look up to is Mark Manson.
 
 With his articles, he created a big following. However, his major leap was his book The Subtle Art of Not Giving a F*ck, in which he packs the core message >>set the right priorities<< in a great package: the book has tons of humor but also includes some easy-to-implement methods to increase productivity. In this article I want to share my insights from the book."
 date: 2024-11-28
@@ -18,7 +18,7 @@ tags:
 
 ---
 
-One of the aspiring online writers/bloggers I personally look up to is [Marc Manson](https://markmanson.medium.com/).
+One of the aspiring online writers/bloggers I personally look up to is [Mark Manson](https://markmanson.medium.com/).
 
 With his articles, he created a big following. However, his major leap was his book *“The Subtle Art of Not Giving a F*ck,”* in which he packs the core message **“set the right priorities“**in a great package: the book has tons of humor but also includes some easy-to-implement methods to increase productivity
 
