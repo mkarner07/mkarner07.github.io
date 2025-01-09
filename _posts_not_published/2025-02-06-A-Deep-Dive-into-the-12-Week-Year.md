@@ -15,8 +15,8 @@ tags:
 
 ---
 
-| ![image](/assets/images/avi-richards-working_on_the_roof-unsplash.jpg) |
+| ![image](/assets/images/fab-lentz-go-up-unsplash.jpg) |
 |:--:|
-| *Photo by Avi Richards on Unsplash* |
+| *Photo by Fab Lentz on Unsplash* |
 
 ...
