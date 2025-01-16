@@ -1,5 +1,5 @@
 ---
-title: "Why Comfort is Bad: "
+title: "Why Comfort is Bad"
 description: "Have you ever set a New Year’s resolution, like learning a new skill or starting a workout routine, but never followed through? I’m sure many of us have. I have. Trying something new often feels uncomfortable, so we default to what’s familiar: our fixed mindset. The comfort mindset. Here’s the truth: comfort feels good, but it’s also a trap."
 date: 2025-01-23
 excerpt_separator: "<!--more-->"

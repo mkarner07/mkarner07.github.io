@@ -1,5 +1,5 @@
 ---
-title: "Read More"
+title: "Read More and Make it Stick"
 description: "Reading is great. You can stand on the shoulders of giants, dive into the thinking of others, or explore new worlds. However, in today's fast-paced world, finding time (or motivation) to read can be challenging. I’ve always loved reading, but if a book didn’t grab my attention, getting myself to sit down and start was tough. Sometimes I’d feel stuck and read less than I wanted—just a handful of books a year. Luckily that change some years ago."
 date: 2025-01-16
 excerpt_separator: "<!--more-->"
