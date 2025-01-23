@@ -94,7 +94,7 @@ I’m not a big fan of audiobooks for most novels (they are great for longer cla
 
 This is related to setting reading goals, but it goes further. It helps you to answer the question: *What book should I read next?*
 
-Back in 2021, I had one big "books to read" list with over 40 entries, filled with recommendations from friends, peers, and seminars. While that list was helpful, I found that curating a reading list specifically for the year works even better. I did this for 2023 and [2024]({% post_url 2023-12-28-My-top-7-books-for-2024 %}), and it helped me read more than before because the goal was much clearer (here is my list for [2025]({% 2024-12-26-My-top-7-books-for-2025 %})).
+Back in 2021, I had one big "books to read" list with over 40 entries, filled with recommendations from friends, peers, and seminars. While that list was helpful, I found that curating a reading list specifically for the year works even better. I did this for 2023 and [2024]({% post_url 2023-12-28-My-top-7-books-for-2024 %}), and it helped me read more than before because the goal was much clearer (here is my list for [2025]({% post_url 2024-12-26-My-top-7-books-for-2025 %})).
 
 If you want to curate your personal reading list, I’d recommend the following strategies:
 
@@ -162,4 +162,4 @@ For the past few years, I’ve been adding action tasks from books to my to-do l
 
 Thank you so much for reading my article. I hope you’ve found it helpful and I got you motivated to read more in 2025!
 
-If you need inspirations for your reading list, feel free to check out my [2025 reading list]({% 2024-12-26-My-top-7-books-for-2025 %}).
+If you need inspirations for your reading list, feel free to check out my [2025 reading list]({% post_url 2024-12-26-My-top-7-books-for-2025 %}).
