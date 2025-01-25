@@ -32,7 +32,7 @@ Having a reading goal in mind helps.
 
 But, reading isn’t just about counting how many books you finish. When it comes to non-fiction, you’re probably reading to learn something new, right? You want it to stick.
 
-In this article, I wan to share the strategies that helped me to read more and to remember what I’ve read better.
+In this article, I want to share the strategies that helped me to read more and to remember what I’ve read better.
 
 ## Read more
 
