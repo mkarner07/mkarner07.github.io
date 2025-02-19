@@ -1,6 +1,6 @@
 ---
 title: "Good Power: Leading with Purpose"
-description: "When you hear the word "power," what comes to mind? Many people think of control, authority, or even fear. But power doesn’t have to be about dominance - it can be about inspiration, influence, and creating something meaningful. This is what is called good power."
+description: "When you hear the word power, what comes to mind? Many people think of control, authority, or even fear. But power doesn’t have to be about dominance - it can be about inspiration, influence, and creating something meaningful. This is what is called good power."
 date: 2025-03-06
 excerpt_separator: "<!--more-->"
 categories:
