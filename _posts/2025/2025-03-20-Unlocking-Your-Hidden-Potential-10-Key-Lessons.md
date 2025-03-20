@@ -59,7 +59,7 @@ You can enhance your EQ by working on the 4 factors: self-awareness, self-regula
   - **Practice mindfulness:** Meditation or deep breathing (e.g. with this [breathing technique]({% post_url 2024-12-12-6-Proven-Breathing-Techniques-to-Increase-Focus %})) can help you be aware of your emotions.
 - **Self-regulation**
   - **Pause before reacting:** This is simple and actionable: When you are upset, take a deep breath and give yourself a moment before you respond.
-  - **Reframe:** This is difficult, but can be very helpful: Try to reframe your mindset and focus on solutions instead of problems. It’s a great way to overcome Anchor Problems.
+  - **Reframe:** This is difficult, but can be very helpful: Try to reframe your mindset and focus on solutions instead of problems. It’s a great way to overcome [Anchor Problems]({% post_url 2024-01-18-Anchor-Problems-How-to-Overcome-Huge-Challenges %}).
 - **Empathy**
   - **Active listening:** Focus on the speaker, avoid interrupting, and repeat what you hear.
   - **Ask open-ended questions:** Keep the conversations going and even deepen them by asking questions like “How did that make you feel?” or “What was that experience like for you?”.
