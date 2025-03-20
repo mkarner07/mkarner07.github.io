@@ -56,7 +56,7 @@ You can enhance your EQ by working on the 4 factors: self-awareness, self-regula
 
 - **Self-awareness**
   - **Keep a journal:** Journaling is great for learning about yourself, your emotions, and even where they might originate.
-  - **Practice mindfulness:** Meditation or deep breathing (e.g. with this [breathing technique]({% post_url 2024-12-12-6-Proven-Breathing-Techniques-to-Increase-Focus %})) can help you be aware of your emotions.
+  - **Practice mindfulness:** Meditation or deep breathing (e.g. with this breathing technique) can help you be aware of your emotions.
 - **Self-regulation**
   - **Pause before reacting:** This is simple and actionable: When you are upset, take a deep breath and give yourself a moment before you respond.
   - **Reframe:** This is difficult, but can be very helpful: Try to reframe your mindset and focus on solutions instead of problems. It’s a great way to overcome [Anchor Problems]({% post_url 2024-01-18-Anchor-Problems-How-to-Overcome-Huge-Challenges %}).
