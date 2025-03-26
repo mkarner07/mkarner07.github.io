@@ -15,7 +15,7 @@ tags:
 
 ---
 
-Negotiation isn’t just for business deals- It’s a skill we use every day, from asking for a raise to deciding where to eat with friends.
+Negotiation isn’t just for business deals - It’s a skill we use every day, from asking for a raise to deciding where to eat with friends.
 
 The ability to communicate clearly, find common ground, and confidently ask for what you want can make a huge difference in your success and happiness. When you know how to negotiate well, you don’t just settle: you create better opportunities.
 
@@ -122,7 +122,7 @@ For a long time, it has been the must-read book #1 in the field of negotiation. 
 
 Despite these criticisms, the book remains a cornerstone in negotiation theory and practice.
 
-…
+---
 
 *Thank you for reading my article on [Getting to Yes](https://www.google.com/search?q=getting+to+yes). Next week I’ll publish my thoughts on another popular but quite different negotiation book: [Never Split the Difference](https://www.google.com/search?q=never+split+the+difference). If you are interested, stay tuned!*
 
