@@ -27,7 +27,7 @@ But what if I told you that splitting the difference often means leaving value o
 
 Chris Voss, a former FBI hostage negotiator, breaks down the art of negotiation in his book *Never Split the Difference*. His insights are not just for high-stakes scenarios. They can help anyone get more of what they want in both professional and personal life.
 
-In this article, I’ll follow up last week’s article on principled negotiation ([*Getting to Yes*](https://www.google.com/search?q=getting+to+yes)) with an approach the FBI uses in hostage negotiations popularized by Chris Voss in his book [*Never Split the Difference](https://www.google.com/search?q=never+split+the+difference).*
+In this article, I’ll follow up last week’s article on principled negotiation ([Getting to Yes](https://www.google.com/search?q=getting+to+yes)) with an approach the FBI uses in hostage negotiations popularized by Chris Voss in his book [Never Split the Difference](https://www.google.com/search?q=never+split+the+difference).
 
 ## Quick Summary for those in a hurry
 
