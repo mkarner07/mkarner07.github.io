@@ -41,7 +41,7 @@ Both offer powerful tools, but their underlying philosophies are quite different
 
 Let’s break down how they compare, where they diverge, and how you can take the best of both.
 
-Let me briefly summarize the essence of the two approaches (for deeper dives, please check out my last two articles: [1]({% post_url 2025-04-03-Getting-to-Yes-Explained %}) & [2]({% post_url 2025-04-10-Never-Split-the-Difference-Explained %})).
+Let me briefly summarize the essence of the two approaches (for deeper dives, please check out my last two articles).
 
 ### Getting to Yes
 
@@ -130,7 +130,6 @@ After finishing both books, I’m excited to start using more of the techniques 
 
 ---
 
-*Thank you for reading my article! If you are interested in the topic of negotiation, you can also check out my last two articles on 
-[Getting to Yes]({% post_url 2025-04-03-Getting-to-Yes-Explained %}) and [Never Split the Difference]({% post_url 2025-04-10-Never-Split-the-Difference-Explained %}).*
+*Thank you for reading my article! If you are interested in the topic of negotiation, you can also check out my last two articles.*
 
 *Disclaimer: For this article, I used generative AI support. As a basis, I used my notes back from when I initially read the book. I used AI specifically for creating a first draft of an article based on these notes and then edited it manually.*
