@@ -28,7 +28,6 @@ You work to get everyone on the same page.
 But it’s not just about boardrooms or business deals. You negotiate when you split chores with a partner, decide where to go for dinner, buy a car, or plan a family trip.
 
 Sometimes you say yes.
-
 Sometimes no.
 
 And sometimes, you just need a little more time.
