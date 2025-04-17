@@ -28,6 +28,7 @@ You work to get everyone on the same page.
 But it’s not just about boardrooms or business deals. You negotiate when you split chores with a partner, decide where to go for dinner, buy a car, or plan a family trip.
 
 Sometimes you say yes.
+
 Sometimes no.
 
 And sometimes, you just need a little more time.
@@ -127,7 +128,7 @@ That’s when the methods Voss advocates for in *Never Split the Difference* com
 
 After finishing both books, I’m excited to start using more of the techniques in my daily work. One big thing that stood out to me is how important emotions are — even in negotiations — and how I can handle them better.
 
-…
+---
 
 *Thank you for reading my article! If you are interested in the topic of negotiation, you can also check out my last two articles on 
 [Getting to Yes]({% post_url 2025-04-03-Getting-to-Yes-Explained %}) and [Never Split the Difference]({% post_url 2025-04-10-Never-Split-the-Difference-Explained %}).*
