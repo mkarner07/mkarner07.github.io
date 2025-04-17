@@ -130,6 +130,7 @@ After finishing both books, I’m excited to start using more of the techniques 
 
 ---
 
-*Thank you for reading my article! If you are interested in the topic of negotiation, you can also check out my last two articles.*
+*Thank you for reading my article! If you are interested in the topic of negotiation, you can also check out my last two articles on 
+[Getting to Yes]({% post_url 2025-04-03-Getting-to-Yes-Explained %}) and [Never Split the Difference].*
 
 *Disclaimer: For this article, I used generative AI support. As a basis, I used my notes back from when I initially read the book. I used AI specifically for creating a first draft of an article based on these notes and then edited it manually.*
