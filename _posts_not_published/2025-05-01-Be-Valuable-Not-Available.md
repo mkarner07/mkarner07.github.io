@@ -1,7 +1,7 @@
 ---
-title: "The AI Loop: Will AI End Up Summarizing Its Own Work?"
+title: "Be Valuable, Not Available"
 description: "In the world of personal productivity, it is nothing new that emails and meetings are time wasters. Yet, there are dozens of meetings per week (executives spend more than 20 hours per week in meetings), and we spend roughly 30 % of our workdays on email. And yes meetings and emails both can be valuable. However, many of them aren’t."
-date: 2025-04-30
+date: 2025-05-01
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
