@@ -5,6 +5,7 @@ date: 2025-02-06
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
+  - Book Summary
 
 tags:
   - Productivity

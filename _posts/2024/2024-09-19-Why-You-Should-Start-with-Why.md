@@ -5,6 +5,7 @@ date: 2024-09-19
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
+  - Book Summary
 
 tags:
   - Leadership

@@ -5,6 +5,7 @@ date: 2025-04-03
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
+  - Book Summary
 
 tags:
   - Management

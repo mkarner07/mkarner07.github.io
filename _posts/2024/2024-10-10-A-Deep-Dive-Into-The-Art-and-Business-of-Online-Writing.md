@@ -6,6 +6,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Writing
   - Management and Leadership
+  - Book Summary
 
 tags:
   - Writing

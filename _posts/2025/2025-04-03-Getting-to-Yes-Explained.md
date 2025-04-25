@@ -5,6 +5,7 @@ date: 2025-04-03
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
+  - Book Summary
 
 tags:
   - Management
@@ -27,7 +28,7 @@ In this article, I dig into the core insights from *Getting to Yes* - a book dev
 
 If you are interested in improving your negotiation skills, grab a cup of coffee, and let’s get started.
 
-## **Quick Summary for those in a hurry**
+## Quick Summary for those in a hurry
 
 The fundamental concept of *Getting to Yes* is the concept of principled negotiation with the following core elements:
 
@@ -108,7 +109,7 @@ Not all negotiations occur under ideal circumstances, and some counterparts may 
 - **Using negotiation jujitsu**: Redirecting the opponent’s aggression by asking questions and using neutral, non-defensive language.
 - **Employing a third-party mediator**: Bringing in a neutral mediator can help facilitate discussions and break deadlocks.
 
-### The One-Text Procedure
+### The one-text procedure
 
 When negotiations become gridlocked, Roger Fisher and William Ury suggest using a single draft text to encourage collaboration.
 

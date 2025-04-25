@@ -5,6 +5,7 @@ date: 2025-02-20
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
+  - Book Summary
 
 tags:
   - Productivity

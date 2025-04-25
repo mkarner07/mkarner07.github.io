@@ -7,6 +7,7 @@ date: 2024-11-28
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
+  - Book Summary
 
 tags:
   - Leadership
