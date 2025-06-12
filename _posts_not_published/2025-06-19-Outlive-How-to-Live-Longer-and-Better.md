@@ -1,6 +1,6 @@
 ---
 title: "Outlive: How to Live Longer and Better"
-description: "As you might’ve noticed if you’ve read some of my previous posts, I’m big into leadership and productivity literature. But now and then, I like to branch out and read something that sits just outside that lane - books that might not be labeled “productivity,” but still have a lot to say about how we live and work. Recently, I picked up Outlive by Dr. Peter Attia. It is a book that focuses on health, longevity, and how we can shape our future well-being through the choices we make today. Now, you might be thinking: What does that have todo with productivity or leadership? Check out this article to find out what the connection is."
+description: "As you might’ve noticed if you’ve read some of my previous posts, I’m big into leadership and productivity literature. But now and then, I like to branch out and read something that sits just outside that lane - books that might not be labeled “productivity,” but still have a lot to say about how we live and work. Recently, I picked up Outlive by Dr. Peter Attia. It is a book that focuses on health, longevity, and how we can shape our future well-being through the choices we make today. Now, you might be thinking: What does that have to do with productivity or leadership? Check out this article to find out what the connection is."
 date: 2025-06-19
 excerpt_separator: "<!--more-->"
 categories:
@@ -19,7 +19,7 @@ As you might’ve noticed if you’ve read some of my previous posts, I’m big 
 
 Recently, I picked up [*Outlive*](https://www.google.com/search?q=outlive%3A+the+science+and+art+of+longevity) by Dr. Peter Attia. It is a book that focuses on health, longevity, and how we can shape our future well-being through the choices we make today.
 
-Now, you might be thinking: *What does that have todo with productivity or leadership?*
+Now, you might be thinking: *What does that have to do with productivity or leadership?*
 
 | ![image](/assets/images/mary-blackwey-young-and-old-unsplash.jpg) |
 |:--:|
