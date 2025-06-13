@@ -42,7 +42,7 @@ Time for parental leave is paid and parents can take off multiple months. In the
 
 During this time social security pays the parent staying at home a monthly income (depending on the income of the last couple of years).
 
-But unlike in the Nordic countries, there is no big incentive (there is a small one though) that time for parental leave is split evenly between mum and dad. Therefore, still mostly women are still going on parental leave.
+But unlike in the Nordic countries, there is no big incentive (there is a small one though) that time for parental leave is split evenly between mum and dad. Therefore, mostly women are going on parental leave.
 
 Still, I consider myself very fortunate living in Europe as the decision to go on parental leave wasn't an economic one at all.
 
@@ -56,7 +56,7 @@ I didn't stop working altogether during that time. I worked a couple of hours ea
 
 So now that you know my framework conditions, let me share my experiences.
 
-## More intense than I thought
+## What surprised me: more intense than I thought
 
 Being the main caregiver for my one-year-old was more intense than I thought: in both directions emotionally and physically.
 
@@ -68,7 +68,7 @@ From an emotional point of view, there was the whole spectrum: from having outbu
 
 And being there for her in all these moments was actually the greatest experience during my whole parental leave.
 
-From a physical point of view, I’ve to admit that it was significantly more strenuous than I’d first imagined doing all the cooking, stroller-driving, and diaper-changing. And all while being slightly sleep-deprived.
+From a physical point of view, I’ve to admit that it was significantly more intense than I’d first imagined doing all the cooking, stroller-driving, and diaper-changing. And all while being slightly sleep-deprived.
 
 But, don't get me wrong.
 
@@ -76,13 +76,13 @@ I did all this also during the time my wife has been on parental leave. However,
 
 And I am so happy I experienced it.
 
-Not only can I better understand now what my wife accomplishes every day (and that’s very impressive), but it also increased the bond between my daughter and me a lot as she learned: *”Also dad can manage my daily needs.”*
+Not only can I better understand now what my wife accomplishes every day (and that’s very impressive), but it also increased the bond between my daughter and me a lot as she learned: „*Also dad can manage my daily needs.”*
 
 ### Stats of 1 work-week in parental leave
 
 To give the physical intensity more clarity I want to share some stats:
 
-- For the first 6 weeks, my daughter just slept in the stroller and she had two naps a day. That meant going for a walk with the stroller twice per day for about 1.5 hours / 10.000 steps. Within a workweek, I accumulated about 15 hours and 100.000 steps of stroller-driving.
+- For the first 6 weeks, my daughter just slept in the stroller and she had two naps a day. That meant going for a walk with the stroller twice per day for about 1.5 hours / 10.000 steps each. Within a workweek, I accumulated about 15 hours and 100.000 steps of stroller-driving.
 - 10 meals cooked and 30+ snacks prepared.
 - About 40-50 diapers changed.
 - 15-20 outfit changes.
@@ -96,7 +96,7 @@ Sometimes I am a perfectionist. And I have a competitive mindset. These two trai
 
 But transitions need time.
 
-I was fortunate that my daughter made it quite easy for me in my first week home alone with her. She missed her mum, but she didn't have many crying outbreaks and most of the time I could comfort her easily.
+I was fortunate that my daughter made it quite easy for me in my first week at home with her. She missed her mum, but she didn't have many crying outbreaks and most of the time I could comfort her easily.
 
 But there were a couple of days with my wife in home office where my daughter just didn't want to stay with me. She recognized that her mum was there, but didn't understand that she had to work and couldn't spend time with her.
 
@@ -104,9 +104,9 @@ At first, it was frustrating to me as I felt like a failure (why doesn't she wan
 
 But the frustration was more about me and not so much about her. At this moment she just needed her mum and that’s ok. I learned that after some time.
 
-At the beginning, I couldn't read her that well, but after a couple of weeks, I learned to understand her much better.
+At the beginning, I couldn't read her that well, but after a couple of weeks, I learned to understand her much better. It just took some time to get to know her on this new level.
 
-It just took some time to get to know her on this new level.
+But things changed after the first weeks. We really grew together and she didn‘t miss her mum as much anymore. I am not sure if I became the best stay-at-home dad, but I think I did a decent job and my daughter and I had a really great time together.
 
 ### Multitasking
 
@@ -116,7 +116,7 @@ I have to admit: I am terrible at it.
 
 I do much better when I focus on one thing at a time.
 
-However, with a one-year-old, this isn't possible. There are moments when you have to carry the laundry in one hand, open a door, and simultaneously have to watch out that she doesn't grab the vase on the board or make a backflip in your arms.
+However, with a one-year-old, this isn't possible. There are moments when you have to carry the laundry in one hand, open a door, and simultaneously have to watch out that she doesn't grab the vase on the board or does a backflip in your arms.
 
 Also, diaper changing needs you to multitask (more than I thought). Especially if the child suddenly decides to stand up on the changing table while you are unpacking a new tube of balm.
 
@@ -136,7 +136,7 @@ Still, I think that it is important to have some me-time. I appreciate it when m
 
 Caring for someone also means recognizing their needs, even if they cannot (or don't want to) tell you. In that sense, I think that giving care to a baby or a toddler teaches you more empathy.
 
-As communication isn't as easy with grown-ups you somehow need to read their facial expression or their minds.
+As communication isn't as easy as with grown-ups you somehow need to read their facial expression or their minds or just try to put yourself into their shoes.
 
 ### Anticipate future needs
 
@@ -190,6 +190,6 @@ Would I do it differently?
 
 Yes.
 
-If I could do it again, I’d take more time at the beginning to ease the transition between my wife and me as the main caregiver. And I’d make my parental leave a little longer—time passed so quickly.
+If I could do it again, I’d take more time at the beginning to ease the transition between my wife and me as the main caregiver. And I’d make my parental leave a little longer — time passed so quickly.
 
-A colleague of mine said something that stuck with me: “No one can take the time you’ve spent with your daughter.” And this is so true. I’ll be forever grateful for having spent this time with her - I learned a lot and it was great for our relationship.
+A colleague of mine said something that stuck with me: “No one can take away the time you’ve spent with your daughter.” And this is so true. I’ll be forever grateful for having spent this time with her.
