@@ -229,4 +229,4 @@ And that choice starts now.
 
 ---
 
-*Thank you for reading my book summary on Freiheit. I’ve really enjoyed the book. While reading, I wrote down tons of notes which then ended up in this book summary (with a little support of generative AI - cheers for that).*
+*Thank you for reading my book summary. I’ve really enjoyed the book. While reading, I wrote down tons of notes which then ended up in this book summary (with a little support of generative AI - cheers for that).*
