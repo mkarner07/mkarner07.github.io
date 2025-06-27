@@ -1,5 +1,5 @@
 ---
-title: "Book Summary: Anleitung zur Selbstüberlistung"
+title: "How to Outsmart Yourself and Finally Get Stuff Done"
 description: "..."
 date: 2025-06-26
 excerpt_separator: "<!--more-->"
