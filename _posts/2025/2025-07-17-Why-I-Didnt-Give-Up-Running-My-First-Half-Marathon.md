@@ -4,9 +4,10 @@ description: "I did it. I just ran my first half marathon. Ever since I started 
 date: 2025-07-17
 excerpt_separator: "<!--more-->"
 categories:
-  - Productivity
+  - Personal Productivity
 
 tags:
+  - Personal Productivity
   - Productivity
   - Energy
   - Health
