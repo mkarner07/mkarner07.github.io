@@ -29,7 +29,7 @@ My professional carreer started in application-oriented science at the Fraunhofe
 During my PhD my interests shifted more and more in the direction of Digitalization and IT: I learned programming (not just theoretically) and delved into methods such as machine learing, meta-heuristics, predictive maintenance, automation, … Luckily, I was able to apply what I learned in the research projects I did.
 
 After finishing my PhD I made the transition to the corporate world and took the job of a "Digital Transformation Manager". I got the chance to build up a team to accelarete the digital transformation of my company. Things worked out pretty well and my team quickly grew.
-For more than two years now, I am responsible for IT systems, digitalization, automation and data science in an international cooperation.
+For more than four years now, I am responsible for IT systems, digitalization, automation and data science in an international cooperation.
 
 ### And what now?
 I am already thrilled what the future holds up for me. But one thing is certain: I will continue to be curious, read & learn and share the insights I'll stumble upon.
