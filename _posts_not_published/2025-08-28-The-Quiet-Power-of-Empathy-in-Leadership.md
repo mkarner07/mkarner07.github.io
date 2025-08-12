@@ -4,7 +4,7 @@ description: "In the world of leadership, we often celebrate traits like decisiv
 date: 2025-08-28
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Management and Leadership
 
 tags:
   - Personal Productivity
