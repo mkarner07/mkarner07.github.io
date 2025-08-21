@@ -17,7 +17,7 @@ tags:
 
 ---
 
-Over the past few years, I’ve consistently taken on a reading challenge. For 2025, I set a goal to read 20 books, with 7 of them preselected at the end of 2024 (see [this article](https://matthiaskarner.com/2024/12/My-top-7-books-for-2025/)). Now that we’re past the halfway mark of the year, let’s take a quick look at what I’ve read so far.
+Over the past few years, I’ve consistently taken on a reading challenge. For 2025, I set a goal to read 20 books, with 7 of them preselected at the end of 2024 (see [this article]({% post_url 2024-12-My-top-7-books-for-2025 %})). Now that we’re past the halfway mark of the year, let’s take a quick look at what I’ve read so far.
 
 1. [Hidden Potential](https://www.google.com/search?q=Hidden+Potential) (2023): A great book from Adam Grant on how you can uncover potential in people - a great read for all leaders. I wrote a summary of my [10 key lessons](https://matthiaskarner.com/2025/01/Unlocking-Your-Hidden-Potential-10-Key-Lessons) of the book, if you are interested.
 2. [Rødstrupe](https://www.google.com/search?q=r%C3%B8dstrupe+jo+nesb%C3%B8) (2000): This novel from Norwegian author Jo Nesbø continues the story of the detective Harry Hole on his quest to fight the bad guys. Compared to the first two books in the series, this one is set in Norway and is significantly longer. Still, the pacing remains excellent, and it's an exciting read from start to finish.
