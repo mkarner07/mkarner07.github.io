@@ -1,6 +1,6 @@
 ---
 title: "How to Talk to Anyone: 90 Tiny Tricks That Make a Big Impact"
-description: "..."
+description: "We learn how to speak, but not how to *spark* interest, build trust, or leave a lasting impression. That’s where How to Talk to Anyone by Leil Lowndes comes in. It’s packed with 90 practical techniques that help you become more confident, likable, and persuasive in any social situation. In this article I want to share my main learnings."
 date: 2025-10-16
 excerpt_separator: "<!--more-->"
 categories:
@@ -21,11 +21,16 @@ Let’s be honest, most of us weren’t taught how to truly connect with people.
 |:--:|
 | *Photo by Brooke Cagle on Unsplash* |
 
-We learn how to speak, but not how to *spark* interest, build trust, or leave a lasting impression. That’s where *How to Talk to Anyone* by Leil Lowndes comes in. It’s packed with 90 practical techniques that help you become more confident, likable, and persuasive in any social situation.
+We learn how to speak, but not how to *spark* interest, build trust, or leave a lasting impression. That’s where [How to Talk to Anyone](https://www.google.com/search?q=how+to+talk+to+anyone+92+little+tricks) by Leil Lowndes comes in. It’s packed with 90 practical techniques that help you become more confident, likable, and persuasive in any social situation.
 
 It was an interesting book an so I wanted to curate my favorite takeaways in an article.
 
 So, please grab a cup of coffee, and let’s get into it.
+
+## Quick summary for those in a hurry
+The book lists 92 techniques that can be used to improve communication skills. Although the book was published back in 1999, there are some very interesting ideas that can be easily integrated to improve your communication skills and overall likability. The following points particularly stuck in my mind:
+- Whenever you walk through a door, pay attention to your posture. Then it will become a habit.
+- You should be prepared for the question "What do you do?" (including situation-dependent variations).
 
 ## Make a strong first impression, without saying a word
 
