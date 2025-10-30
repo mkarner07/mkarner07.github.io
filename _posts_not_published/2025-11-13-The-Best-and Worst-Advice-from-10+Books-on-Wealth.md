@@ -96,7 +96,7 @@ Owning your home can save you rent, which effectively reduces your monthly expen
 | Theme | Best Books | Why It Matters |
 | --- | --- | --- |
 | **Leverage** | The Almanack of Naval Ravikant, The Millionaire Fastlane, The 4-Hour Workweek | Use systems, media, and automation to scale. |
-| **Cashflow Focus** | Rich Dad, Poor Dad, The 1x1 of the Real Rstate Millionaire, Psychology of Money | Invest in assets that pay you regularly. |
+| **Cashflow Focus** | Rich Dad, Poor Dad, The 1x1 of the Real Estate Millionaire, Psychology of Money | Invest in assets that pay you regularly. |
 | **Start Fast** | Million Dollar Weekend, The 4-Hour-Startup, The 4-Hour Workweek | Don’t wait. Validate early. Learn by doing. |
 | **Mindset & Ownership** | The Almanack of Naval Ravikant, Psychology of Money, Millionaire Fastlane | Own your decisions. Think long-term. |
 | **Content & Authority** | The Art and Business of Online Writing | Write online, build trust, monetize later. |
