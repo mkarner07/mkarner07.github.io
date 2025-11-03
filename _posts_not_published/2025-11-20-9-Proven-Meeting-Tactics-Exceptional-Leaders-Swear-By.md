@@ -22,9 +22,9 @@ Whether you’re building a business, launching a project, or just trying to get
 
 That’s why meeting and exchanging ideas (both at work and in private life) is so important.
 
-| ![image](/assets/images/jonathan-cooper-meetingroom-unsplash.jpg) |
+| ![image](/assets/images/dane-deaner-meetingroom-unsplash.jpg) |
 |:--:|
-| *Photo by Jonathan Cooper on Unsplash* |
+| *Photo by Dane Deaner on Unsplash* |
 
 But let’s be honest: the way we do meetings in business isn’t always great.
 
