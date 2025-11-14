@@ -20,7 +20,7 @@ Some were eye-opening.
 
 Others were… let’s just say, not worth the hype at all.
 
-| ![image](/assets/images/morgan-housel-time-wealth-unsplash) |
+| ![image](/assets/images/morgan-housel-time-wealth-unsplash.jpg) |
 |:--:|
 | *Photo by Morgan Housel on Unsplash* |
 
