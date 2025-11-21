@@ -1,7 +1,7 @@
 ---
 title: "9 Proven Meeting Tactics Exceptional Leaders Swear By"
 description: "Good communication is one of the biggest keys to success. Whether you’re building a business, launching a project, or just trying to get things done. You might have a brilliant idea, but unless you share it and improve it with others, it’ll never reach its full potential. That’s why meeting and exchanging ideas (both at work and in private life) is so important. But let’s be honest: the way we do meetings in business isn’t always great."
-date: 2025-05-01
+date: 2025-11-20
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
