@@ -112,7 +112,7 @@ It didn’t just organize my ideas. It helped me reflect, challenged my assumpti
 
 Writing will always be powerful tool for structuring thoughts, but pairing it with AI? That can become next-level thinking.
 
-### Idea Generation & Problem-Solving
+### Idea generation & Problem solving
 
 AI isn’t inherently creative. It doesn’t invent ideas from scratch. It recombines what already exists. 
 

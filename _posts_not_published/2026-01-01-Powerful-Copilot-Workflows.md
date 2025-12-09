@@ -1,7 +1,7 @@
 ---
-title: "Proven Ways Generative AI Can Boost Your Productivity as a Knowledge Worker"
+title: "Powerful Copilot Workflows That Save Me Hours as a Department Head"
 description: "..."
-date: 2025-12-18
+date: 2026-01-01
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Productivity
