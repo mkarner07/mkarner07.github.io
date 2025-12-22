@@ -67,24 +67,24 @@ Recent policy steps (like the AI Act) aim to pair responsibility with competitiv
 
 High quality of life and trust institutions are strengths you can leverage while adapting to a more competitive, tech‑intensive economy. Here’s how the macro ties to your micro:
 
-### 1) Your buying power and costs
+### 1. Your buying power and costs
 
 - **Energy & inflation**: The acute energy shock has eased, but price levels remain higher than the 2010s. Budget with a conservative baseline and build energy efficiency into decisions. Macros point to lower inflation but slower growth in advanced Europe ([IMF WEO Oct 2025](https://www.imf.org/en/publications/weo/issues/2025/10/14/world-economic-outlook-october-2025)).
 - **Housing & commuting**: Quality‑of‑life indices show affordability and commute time matter materially to well-being. Local trade‑offs (rent vs. transport) will dominate everyone’s personal inflation basket. You can optimize for shorter commutes or hybrid work where possible ([Numbeo 2025, EU subindices](https://www.numbeo.com/quality-of-life/rankings_by_country.jsp?title=2025)).
 
-### 2) Your job and career resilience
+### 2. Your job and career resilience
 
 - **Skill bar is rising**: AI‑enabled workflows are becoming standard in high‑productivity firms. The adoption gap hurts smaller companies. Invest in *transferable* skills: data literacy, critical thinking, and process automation. These skills map directly onto productivity differentials highlighted by the OECD ([OECD AI adoption brief](https://www.oecd.org/en/publications/fostering-an-inclusive-digital-transformation-as-ai-spreads-among-firms_5876200c-en.html)).
 - **Sector realities**: If you’re in auto or advanced manufacturing, expect continued supply‑chain reconfiguration and EV‑centric competition. Follow ACEA updates to anticipate demand and talent needs in electrification, charging infrastructure and software ([ACEA Pocket Guide](https://www.acea.auto/files/ACEA-Pocket-Guide-2024-2025.pdf), [ACEA Market Report](https://www.acea.auto/publication/economic-and-market-report-global-and-eu-auto-industry-full-year-2024/)).
 - **Leadership takeaway**: In a low-growth environment, *management quality* becomes your edge. You should focus on clarity of priorities, operating cadence, and talent development. These out‑perform blunt cost cutting. The IMF and OECD repeatedly flag structural reform and productivity uplift as decisive ([IMF REO Europe](https://www.imf.org/en/publications/reo/eu/issues/2025/10/17/regional-economic-outlook-europe-october-2025), [OECD Productivity Indicators](https://www.oecd.org/en/publications/oecd-compendium-of-productivity-indicators-2024_b96cd88a-en.html)).
 
-### 3) Your company’s strategy
+### 3. Your company’s strategy
 
 - **Compete on speed and trust**: Pair responsible AI with faster decision cycles. Europe’s regulatory baseline is a trust dividend if you can still ship quickly. Use “guardrail‑first” product design, but kill internal latency: shorter approval chains, clearer risk criteria, empowered teams ([WEF Europe AI adoption insights](https://www.weforum.org/stories/2025/09/europe-ai-adoption-lag/)).
 - **De‑risk supply chains**: The Commission’s EV duties signal a tougher trade stance. You should expect more rule changes at the border. Diversify suppliers, build dual sourcing and scenario-plan tariffs/countermeasures ([EC EV duties press materials](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf)).
 - **Finance & capex**: With growth modest, ROI scrutiny intensifies. Prioritise projects that raise *per-employee* output (automation, analytics, quality systems). OECD data on ICT investment share of GDP helps benchmark where to lean in ([OECD ICT investment indicator](https://goingdigital.oecd.org/en/indicator/30)).
 
-### 4) Your civic lens
+### 4. Your civic lens
 
 - **Policy matters to your day‑to‑day**: Political fragmentation can slow market integration and capital mobility, feeding uncertainty that shows up in prices, job prospects, and retirement savings. Track credible outlooks (IMF, World Bank) and vote for policy agendas that reduce friction and reward innovation ([IMF WEO & Europe REO](https://www.imf.org/en/publications/weo/issues/2025/10/14/world-economic-outlook-october-2025)).
 - **Guardrails you can trust**: Whatever the noise, Europe’s data‑protection regime continues to protect consumer rights and enforce against abuse. This truly is an everyday quality‑of‑life anchor for digital citizens ([EDPB materials](https://www.edpb.europa.eu/our-work-tools/our-documents/topic/gdpr_en)).
