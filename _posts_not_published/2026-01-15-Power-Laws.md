@@ -62,13 +62,13 @@ But if you’re in a power law world (like startups, creative work, or investing
 
 Power law systems are “scale-free” and “critical.”
 
-In plain terms, there’s no typical size or outcome: small actions can trigger massive effects. A single spark can ignite a forest fire; a tiny shift underground can unleash a devastating earthquake. In these systems, unpredictability isn’t a bug.
+In plain terms, there’s no typical size or outcome: small actions can trigger massive effects. A single spark can ignite a forest fire and a tiny shift underground can unleash a devastating earthquake. In these systems, unpredictability isn’t a bug.
 
 It’s a feature. Past performance offers no guarantees about what comes next.
 
 This reality may feel unsettling, but it’s essential if you’re aiming high.
 
-Extraordinary results rarely come from playing it safe in a predictable world. If you want average outcomes, stick to the familiar. But if you’re chasing outsized impact, recognize when you’re in a power law environment. Here, bold moves and a willingness to accept uncertainty aren’t just recommended. They’re required.
+Extraordinary results rarely come from playing it safe in a predictable world. If you want average outcomes, stick to the familiar. But if you’re chasing impact, recognize when you’re in a power law environment. Here, bold moves and a willingness to accept uncertainty aren’t just recommended. They’re required.
 
 Because in a world shaped by power laws, one idea, one connection, or one action truly can transform your entire life.
 
