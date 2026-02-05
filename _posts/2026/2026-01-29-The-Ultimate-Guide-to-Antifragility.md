@@ -5,10 +5,10 @@ date: 2026-01-29
 excerpt_separator: "<!--more-->"
 categories:
   - Book Summary
-  - Leadership
+  - Management and Leadership
 
 tags:
-  - Leadership
+  - Management and Leadership
   - Philosophy
   - Books
 
