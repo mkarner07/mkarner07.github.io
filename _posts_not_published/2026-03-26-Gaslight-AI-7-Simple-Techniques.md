@@ -123,11 +123,11 @@ The limitation forces the AI to look for unexpected connections. The results are
 - Movie plots
 - Nature analogies
 
-## 6. “Let’s bet $100”
+## 6. “Let’s bet EUR 100”
 
 Adding imaginary stakes also changes behavior.
 
-> “Let’s bet $100—is this code efficient?”
+> “Let’s bet EUR 100: is this code efficient?”
 > 
 
 The AI often becomes more cautious. It double‑checks assumptions and considers edge cases. There’s something about *stakes* (even fake ones) that pushes it toward more careful reasoning.
