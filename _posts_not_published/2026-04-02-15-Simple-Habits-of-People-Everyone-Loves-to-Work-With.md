@@ -1,6 +1,6 @@
 ---
 title: "15 Simple Habits of People Everyone Loves to Work With"
-description: "..."
+description: "There are certain people everyone loves working with. When they walk into a meeting, the energy shifts. The room feels lighter, clearer, more focused, …"
 date: 2026-04-02
 excerpt_separator: "<!--more-->"
 categories:
