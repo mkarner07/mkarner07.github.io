@@ -1,6 +1,6 @@
 ---
 title: "From Management to Leadership: 7 Myths Worth Letting Go"
-description: "..."
+description: "Currently, I am reading Strong Ground by Brene Brown and stumbled upon a section where she discusses the difference between management and leadership. At first, she argues that managers might just be underdeveloped leaders, but are they?"
 date: 2026-02-19
 excerpt_separator: "<!--more-->"
 categories:
