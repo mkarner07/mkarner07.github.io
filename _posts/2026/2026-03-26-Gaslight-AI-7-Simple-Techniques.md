@@ -21,7 +21,7 @@ I am. And honestly, it’s become part of my daily routine.
 
 What I’ve noticed is that AI doesn’t always respond the same way. Over the past few months, terms like *“prompt engineering”* have started popping up everywhere. Personally, I think *“engineering”* sounds a bit over the top, but there’s no denying that *how* you talk to AI makes a difference.
 
-| ![image](/assets/images/peyton-clough-gaslighting-unsplash) |
+| ![image](/assets/images/peyton-clough-gaslighting-unsplash.jpg) |
 |:--:|
 | *Photo by Peyton Clough on Unsplash* |
 
