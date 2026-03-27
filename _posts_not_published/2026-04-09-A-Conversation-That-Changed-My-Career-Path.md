@@ -1,7 +1,7 @@
 ---
 title: "A Conversation That Changed My Career Path"
 description: "Career changes don’t happen in a single moment. They start quietly. They start with a question you can’t ignore anymore. Mine began in 2025, long before I realized I was ready for something new. But let me start at the beginning ..."
-date: 2026-04-16
+date: 2026-04-09
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership
