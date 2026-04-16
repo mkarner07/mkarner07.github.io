@@ -1,7 +1,7 @@
 ---
 title: "Don't Start With Sorry"
 description: "Many of us say sorry far more often than we realize. It finds its way into messages, meetings and conversations - even when there’s nothing to apologize for. Over time, this constant self‑minimizing language chips away at how confidently we show up at work."
-date: 2026-02-05
+date: 2026-04-16
 excerpt_separator: "<!--more-->"
 categories:
   - Management and Leadership

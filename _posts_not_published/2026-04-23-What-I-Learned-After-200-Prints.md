@@ -1,7 +1,7 @@
 ---
 title: "What I Learned After 200 Prints: The Real Value of 3D Printing"
 description: "..."
-date: 2026-04-16
+date: 2026-04-23
 excerpt_separator: "<!--more-->"
 categories:
   - Digital Transformation
