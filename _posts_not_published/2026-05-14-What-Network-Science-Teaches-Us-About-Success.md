@@ -24,9 +24,9 @@ At least that’s the story we tell ourselves.
 
 In [The Formula](https://www.google.com/search?q=The+Formula+Albert%E2%80%91L%C3%A1szl%C3%B3+Barab%C3%A1si), Albert‑László Barabási challenges this idea from a scientific perspective.
 
-| ![image](/assets/images/miguel-bruna-powerandenergy-unsplash.jpg) |
+| ![image](/assets/images/MS_Copilot_What-Network-Science-Teaches-Us-About-Success-1.png) |
 |:--:|
-| *Photo by Miguel Bruna on Unsplash* |
+| *Image created in cooperation with MS Copilot* |
 
 He draws on years of research in network science and analyzes success across different domains such as science, sports, art and business. He arrives at a set of surprisingly consistent patterns. His core message is uncomfortable, but also oddly liberating: **success is rarely just about individual performance**. It is deeply shaped by networks, timing, and collective perception.
 
