@@ -106,7 +106,11 @@ We’ve already had one or two discussions about some of the not‑so‑useful p
 
 ## Guest comment (by my wife)
 
-My husband has found a passion in his 3D printer - it hums, smells faintly of melted plastic, and occasionally produces something useful. Especially at first, I felt he spent rather too much time with it and asked a bit too often what else I might like printed. While I appreciate the thought, my taste leans more toward decorative pieces made of wood or clay. Still, perhaps one day his creative journey will lead him from plastic filament to woodworking or pottery.
+My husband has found a passion in his 3D printer - it hums, smells faintly of melted plastic, and occasionally produces something useful.
+
+Especially at first, I felt he spent rather too much time with it and asked a bit too often what else I might like printed. While I appreciate the thought, my taste leans more toward decorative pieces made of wood or clay.
+
+Still, perhaps one day his creative journey will lead him from plastic filament to woodworking or pottery.
 
 ## Outlook
 
