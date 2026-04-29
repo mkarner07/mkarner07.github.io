@@ -20,10 +20,10 @@ They start quietly. They start with a question you can’t ignore anymore. Mine 
 
 But let me start at the beginning.
 
-For a long time, I definitely belonged to the second group.
 | ![image](/assets/images/markus-spiske-cahnge-unsplash.jpg) |
 |:--:|
 | *Photo by Markus Spiske on Unsplash* |
+
 
 After finishing my PhD in 2019, I stayed with my company and made a few internal career moves. I started in a staff position as digitalization manager without a team. Over time, I built a small team, and eventually I became head of the staff for IT, OT and digitalization.
 

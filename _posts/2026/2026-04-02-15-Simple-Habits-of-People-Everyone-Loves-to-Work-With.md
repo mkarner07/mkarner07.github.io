@@ -15,7 +15,7 @@ tags:
 ---
 
 
-| ![image](/assets/images/priscilla-du-preez-Teamwork-unsplash) |
+| ![image](/assets/images/priscilla-du-preez-Teamwork-unsplash.jpg) |
 |:--:|
 | *Photo by Priscilla Du Preez on Unsplash* |
 
