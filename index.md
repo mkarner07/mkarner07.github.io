@@ -1,12 +1,13 @@
 ---
 permalink: /
+layout: single
 title: "matthiaskarner.com"
 author_profile: true
 ---
 
-**I write about Productivity, Leadership and Digitalization from the perspective of someone who has to make systems work in real organizations.**
+I write about Productivity, Leadership and Digitalization from the perspective of someone who has to make systems work in real organizations.
 
-Drawing on experience from applied research and leading digital and IT teams, I explore how work actually gets done once ideas meet reality.
+*Drawing on experience from applied research and leading digital and IT teams, I explore how work actually gets done once ideas meet reality.*
 
 ### Start here
 Most advice breaks once it meets real constraints. I write about what holds up in practice.
