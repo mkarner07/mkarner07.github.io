@@ -5,7 +5,7 @@ title: "Making systems work: in theory and in practice"
 author_profile: true
 ---
 
-Most advice breaks once it meets real constraints. I've spent years learning that the hard way - first in applied research, then as a department head for IT and digital transformation in a complex international organization. The five articles below are the distilled version of what actually works.
+Most advice breaks once it meets real constraints. I've spent years learning that the hard way: first in applied research, then as a department head for IT and digital transformation in a complex international organization. The five articles below are the distilled version of what actually works.
 
 [The Unexpected Impact of Handing Your Decisions to AI (It’s Not What You Think)](https://matthiaskarner.com/2026/03/The-Unexpected-Impact-of-Handing-Your-Decisions-to-AI/): How I use AI as a thinking tool (structure, clarity, reflection) without outsourcing judgment or responsibility.
 
@@ -26,7 +26,7 @@ If you prefer browsing, you can explore the full archive [here](https://matthias
 
 
 ## That's me
-I am Matthias. I lead IT and digitalization in an international organization, hold a PhD in engineering and have spent years figuring out where good ideas go to die in real organizations. This site is where I think out loud. [Read more about me](https://matthiaskarner.com/about/)
+I am Matthias. I lead IT and digitalization in an international organization, hold a PhD in engineering and have spent years figuring out why good ideas so rarely survive contact with real organizations. This site is where I think out loud. [Read more about me](https://matthiaskarner.com/about/)
 
 {% comment %}
 I write about Productivity, Leadership and Digitalization from the perspective of someone who has to make systems work in real organizations.
