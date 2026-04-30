@@ -9,7 +9,7 @@ categories:
 
 tags:
   - Leadership as a System
-  - Philosophy
+  - Opinion
   - Books
 
 ---

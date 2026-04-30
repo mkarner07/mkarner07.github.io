@@ -7,7 +7,7 @@ categories:
   - Leadership as a System
   - Tools in the Real World
 tags:
-  - Personal Operating Systems
+  - Productivity
   - Leadership as a System
   - Tools in the Real World
   - Digitalization

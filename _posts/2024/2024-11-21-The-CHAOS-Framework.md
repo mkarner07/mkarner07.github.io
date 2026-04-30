@@ -10,7 +10,6 @@ tags:
   - Personal Operating Systems
   - Entrepreneurship
   - Business
-  - Leadership
   - Methods
 
 ---

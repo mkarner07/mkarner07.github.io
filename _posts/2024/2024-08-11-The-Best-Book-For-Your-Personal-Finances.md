@@ -12,7 +12,6 @@ tags:
   - Business
   - Psychology
   - Money
-  - Investing
   - Book
 
 ---

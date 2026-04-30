@@ -7,7 +7,7 @@ categories:
   - Leadership as a System
 
 tags:
-  - Personal Operating Systems
+  - Productivity
   - Leadership as a System
   - Strategy
   - Business

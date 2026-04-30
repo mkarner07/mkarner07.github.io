@@ -7,7 +7,7 @@ categories:
   - Tools in the Real World
 
 tags:
-  - Personal Operating Systems
+  - Productivity
   - Tools in the Real World
   - Artificial Intelligence
 

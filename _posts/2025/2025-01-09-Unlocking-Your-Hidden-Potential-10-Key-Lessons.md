@@ -8,7 +8,7 @@ categories:
   - Book Summary
 
 tags:
-  - Personal Operating Systems
+  - Productivity
   - Leadership as a System
   - Strategy
   - Business

@@ -11,7 +11,6 @@ tags:
   - Personal Operating Systems
   - Productivity
   - Psychology
-  - Leadership
   - Books
 
 

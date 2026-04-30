@@ -11,7 +11,6 @@ tags:
   - Leadership as a System
   - Business
   - Methods
-  - Models
   - 150 words
 
 ---
