@@ -4,11 +4,12 @@ description: "Did you ever think about how many weeks you’ve got in a lifetime
 date: 2025-08-14
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Productivity
   - Time-Management
   - Happiness
   - Motivation

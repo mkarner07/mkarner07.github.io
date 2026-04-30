@@ -4,11 +4,10 @@ description: "I used to think negotiation was about compromise (as it’s taught
 date: 2025-09-18
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management
-  - Leadership
+  - Leadership as a System
   - Negotiation
   - Business
 

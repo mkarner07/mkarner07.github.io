@@ -4,11 +4,10 @@ description: "Career changes don’t happen in a single moment. They start quiet
 date: 2026-04-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Career Advice
   - My Journey
 

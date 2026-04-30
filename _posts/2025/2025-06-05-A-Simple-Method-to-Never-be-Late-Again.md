@@ -4,12 +4,11 @@ description: "Have you ever been so deep into something that time flies by? If y
 date: 2025-06-05
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Psychology
-  - Leadership
   - 300 Words
 
 

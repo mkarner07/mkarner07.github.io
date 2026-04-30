@@ -4,15 +4,17 @@ description: "Now I've been writing online for 734 days"
 date: 2025-10-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
+  - Tools in the Real World
   - Writing
 
 tags:
   - My Journey
   - Writing
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
+  - Tools in the Real World
 
 ---
 

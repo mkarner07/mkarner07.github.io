@@ -4,11 +4,11 @@ description: "In the world of leadership, we often celebrate traits like decisiv
 date: 2025-08-28
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Leadership as a System
+  - Business
   - Communication
   - 300 words
 

@@ -4,11 +4,10 @@ description: "For months now, headlines and social media have been buzzing about
 date: 2026-01-08
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management
-  - Leadership
+  - Leadership as a System
   - Politics
   - Business
   - Book

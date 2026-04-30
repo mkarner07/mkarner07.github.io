@@ -4,14 +4,14 @@ description: "If you work in an office environment, chances are you spend a lot 
 date: 2026-02-05
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Time-Management
   - Meetings
-  - Management and Leadership
   - 300 words
 
 

@@ -4,14 +4,12 @@ description: "I’ve been 3D printing since the beginning of 2026, and after mor
 date: 2026-04-23
 excerpt_separator: "<!--more-->"
 categories:
-  - Digital Transformation
-  - Tech
+  - Tools in the Real World
 
 tags:
-  - Digital Transformation
+  - Tools in the Real World
   - My Journey
   - Digitalization
-  - Personal Productivity
   - 3D Printing
   - Tech
 

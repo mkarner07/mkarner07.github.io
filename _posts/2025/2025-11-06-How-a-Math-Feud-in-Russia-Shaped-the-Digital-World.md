@@ -4,12 +4,11 @@ description: "What do nuclear bombs, Google search, and Solitaire have in common
 date: 2025-11-06
 excerpt_separator: "<!--more-->"
 categories:
-  - Digital Transformation
+  - Tools in the Real World
 
 tags:
   - Productivity
-  - Leadership
-  - Digital Transformation
+  - Tools in the Real World
   - Digitalization
   - Artificial Intelligence
   - Methods

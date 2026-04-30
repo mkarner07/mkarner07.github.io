@@ -4,14 +4,13 @@ description: "Good communication is one of the biggest keys to success. Whether 
 date: 2025-11-20
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Time-Management
   - Meetings
-  - Management and Leadership
 
 
 ---

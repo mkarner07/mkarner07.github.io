@@ -4,12 +4,12 @@ description: "When we think about the world, we often expect things to be “nor
 date: 2026-01-15
 excerpt_separator: "<!--more-->"
 categories:
-  - Digital Transformation
+  - Tools in the Real World
 
 tags:
   - Productivity
-  - Leadership
-  - Digital Transformation
+  - Personal Operating Systems
+  - Tools in the Real World
   - Digitalization
   - Artificial Intelligence
   - Methods

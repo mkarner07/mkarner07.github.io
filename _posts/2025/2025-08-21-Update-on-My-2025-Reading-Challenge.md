@@ -4,13 +4,12 @@ description: "Over the past few years, I’ve consistently taken on a reading ch
 date: 2025-08-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
   - List of References

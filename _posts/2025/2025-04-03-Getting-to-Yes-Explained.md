@@ -4,12 +4,11 @@ description: "Negotiation isn’t just for business deals- It’s a skill we use
 date: 2025-04-03
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Management
-  - Leadership
+  - Leadership as a System
   - Negotiation
   - Business
   - Book

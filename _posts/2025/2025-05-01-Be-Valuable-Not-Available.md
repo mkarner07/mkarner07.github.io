@@ -4,11 +4,11 @@ description: "In the world of personal productivity, it is nothing new that emai
 date: 2025-05-01
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Productivity
   - Time-Management
   - Meetings
   - Management and Leadership

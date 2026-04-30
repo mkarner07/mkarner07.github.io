@@ -4,10 +4,10 @@ description: "Reading is great. You can stand on the shoulders of giants, dive 
 date: 2025-01-16
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Reading
   - Time-Management
   - My Journey

@@ -4,13 +4,13 @@ description: "Last week, I shared my takeaways from How to Talk to Anyone, a boo
 date: 2025-10-23
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
   - Psychology
   - Productivity
-  - Leadership
+  - Leadership as a System
   - Books
 
 ---

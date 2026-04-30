@@ -4,15 +4,15 @@ description: "What does it take to be creative? And more importantly, how do you
 date: 2025-01-30
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Psychology
   - Marketing
   - Entrepreneurship
-  - Management
   - Business
   - Book
 

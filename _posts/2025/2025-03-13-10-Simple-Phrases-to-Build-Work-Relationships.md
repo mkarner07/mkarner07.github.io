@@ -4,11 +4,10 @@ description: "Improve your communication at work by substituting these 10 common
 date: 2025-03-13
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Communication
   - 150 words
 

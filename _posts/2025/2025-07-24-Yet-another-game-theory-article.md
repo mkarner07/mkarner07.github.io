@@ -4,11 +4,12 @@ description: "Lately, I’ve been diving into books and articles on Game Theory,
 date: 2025-07-24
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Productivity
   - Psychology
   - Leadership
   - Books

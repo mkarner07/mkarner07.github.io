@@ -4,13 +4,13 @@ description: "As a productivity enthusiast, I'm always on the hunt for new metho
 date: 2025-02-06
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 
 tags:
+  - Personal Operating Systems
   - Productivity
-  - Management
-  - Leadership
+  - Leadership as a System
   - Business
   - Book
 

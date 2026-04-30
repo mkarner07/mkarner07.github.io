@@ -4,15 +4,15 @@ description: "If you are a productivity enthusiast like me and you didn’t live
 date: 2025-12-18
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Tools in the Real World
 
 tags:
-  - Personal Productivity
-  - Digital Transformation
+  - Personal Operating Systems
+  - Tools in the Real World
   - Digitalization
   - generative AI
   - Psychology
-  - Leadership
 
 
 ---

@@ -4,13 +4,14 @@ description: "We learn how to speak, but not how to *spark* interest, build tr
 date: 2025-10-16
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Personal Operating Systems
+
   - Book Summary
 
 tags:
   - Psychology
-  - Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Books
 
 ---

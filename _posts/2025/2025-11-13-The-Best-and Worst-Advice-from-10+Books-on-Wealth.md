@@ -4,7 +4,7 @@ description: "Not too long ago, I’ve read Million Dollar Weekend by Noah Kag
 date: 2025-11-13
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership 
+  - Leadership as a System
 
 tags:
   - Business

@@ -4,12 +4,13 @@ description: "Have you ever set a New Year’s resolution, like learning a new s
 date: 2025-01-23
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
+  - Productivity
   - Psychology
-  - Leadership
   - Opinion
   - Motivation
 

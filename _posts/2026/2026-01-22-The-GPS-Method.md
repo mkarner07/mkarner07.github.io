@@ -4,12 +4,12 @@ description: "Ever set a goal, big or small, only to watch it fade into the back
 date: 2026-01-22
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
   - Productivity
-  - Management
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 
 ---
 

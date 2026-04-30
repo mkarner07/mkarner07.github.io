@@ -4,11 +4,10 @@ description: "..."
 date: 2025-04-24
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
   - Communication
   - 150 words
 

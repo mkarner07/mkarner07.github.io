@@ -4,11 +4,12 @@ description: "How subtle prompt framing can dramatically change the quality of A
 date: 2026-03-26
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Tools in the Real World
 
 tags:
-  - Personal Productivity
-  - Digital Transformation
+  - Personal Operating Systems
+  - Tools in the Real World
   - Digitalization
   - generative AI
   - Methods

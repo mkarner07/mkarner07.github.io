@@ -4,15 +4,15 @@ description: "Generative AI isn’t just hype. It’s a tool that can save hours
 date: 2026-01-01
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Tools in the Real World
 
 tags:
-  - Personal Productivity
-  - Digital Transformation
+  - Personal Operating Systems
+  - Tools in the Real World
   - Digitalization
   - generative AI
   - Psychology
-  - Leadership
 
 
 ---

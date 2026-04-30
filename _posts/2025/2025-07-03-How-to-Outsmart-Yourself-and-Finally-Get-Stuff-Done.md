@@ -4,13 +4,13 @@ description: "What if the biggest obstacle to your productivity wasn’t your bo
 date: 2025-07-03
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Productivity
   - Psychology
-  - Leadership
   - Books
 
 

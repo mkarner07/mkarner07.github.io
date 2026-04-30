@@ -4,14 +4,13 @@ description: "Many of us say sorry far more often than we realize. It finds its 
 date: 2026-04-16
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Time-Management
   - Meetings
-  - Management and Leadership
   - 300 words
 
 

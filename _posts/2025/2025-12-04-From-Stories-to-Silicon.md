@@ -4,12 +4,12 @@ description: "Yuval Noah Harari has become one of the most influential voices of
 date: 2025-12-04
 excerpt_separator: "<!--more-->"
 categories:
-  - Digital Transformation
+  - Tools in the Real World
 
 tags:
-  - Digital Transformation
+  - Leadership as a System
+  - Tools in the Real World
   - Digitalization
-  - Leadership
   - Books
 
 ---

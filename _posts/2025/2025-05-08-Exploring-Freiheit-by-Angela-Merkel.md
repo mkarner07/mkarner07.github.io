@@ -4,12 +4,11 @@ description: "In November 2024 Angela Merkel published her autobiography Freihei
 date: 2025-05-08
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Management
-  - Leadership
+  - Leadership as a System
   - Politics
   - Business
   - Book

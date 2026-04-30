@@ -4,11 +4,11 @@ description: "When you look at the top non-fiction book lists, one name stands o
 date: 2026-01-29
 excerpt_separator: "<!--more-->"
 categories:
+  - Leadership as a System
   - Book Summary
-  - Management and Leadership
 
 tags:
-  - Management and Leadership
+  - Leadership as a System
   - Philosophy
   - Books
 

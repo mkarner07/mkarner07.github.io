@@ -4,12 +4,14 @@ description: "Recently, I’ve been enjoying reading content and books related t
 date: 2025-07-10
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
+  - Tools in the Real World
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Productivity
   - Psychology
-  - Leadership
   - 300 Words
 
 

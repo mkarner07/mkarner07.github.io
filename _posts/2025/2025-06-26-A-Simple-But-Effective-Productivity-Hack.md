@@ -4,12 +4,11 @@ description: "I always thought there are two types of people: those who finish t
 date: 2025-06-26
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Psychology
-  - Leadership
   - 300 Words
 
 

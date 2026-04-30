@@ -4,11 +4,9 @@ description: "Life is a series of negotiations, at least if you believe Harvard 
 date: 2025-04-17
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-
+  - Leadership as a System
 tags:
-  - Management
-  - Leadership
+  - Leadership as a System
   - Negotiation
   - Business
   - Book

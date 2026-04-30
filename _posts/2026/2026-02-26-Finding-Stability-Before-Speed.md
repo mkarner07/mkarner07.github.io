@@ -4,12 +4,11 @@ description: "Lately, many leaders feel like they’re running on moving ground.
 date: 2026-02-26
 excerpt_separator: "<!--more-->"
 categories:
+  - Leadership as a System
   - Book Summary
-  - Management and Leadership
 
 tags:
-  - Leadership
-  - Management and Leadership
+  - Leadership as a System
   - Books
 
 ---

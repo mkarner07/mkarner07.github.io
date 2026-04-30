@@ -4,12 +4,11 @@ description: "Negotiation is everywhere. Whether you’re closing a business dea
 date: 2025-04-03
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Management
-  - Leadership
+  - Leadership as a System
   - Negotiation
   - Business
   - Book

@@ -4,12 +4,11 @@ description: "In this article I share why I didn't enjoy selling in the past and
 date: 2025-02-13
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
-  - Leadership
-  - Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Marketing
   - Entrepreneurship
   - 300 words

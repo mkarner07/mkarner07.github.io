@@ -4,14 +4,13 @@ description: "This article brings together all book summaries I've written so fa
 date: 2025-09-04
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
   - List of References

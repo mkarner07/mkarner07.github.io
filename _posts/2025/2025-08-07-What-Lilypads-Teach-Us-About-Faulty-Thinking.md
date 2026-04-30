@@ -4,12 +4,12 @@ description: "Ever since I first read Thinking, Fast and Slow a few years ago, I
 date: 2025-08-07
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
   - Psychology
   - Productivity
-  - Leadership
+  - Leadership as a System
 
 ---
 

@@ -4,15 +4,14 @@ description: "There are hundreds of potential use cases for AI. But would you tr
 date: 2026-03-19
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Digital Transformation
+  - Personal Operating Systems
+  - Leadership as a System
   - Digitalization
   - generative AI
   - Decisions
-  - Leadership
 
 
 ---

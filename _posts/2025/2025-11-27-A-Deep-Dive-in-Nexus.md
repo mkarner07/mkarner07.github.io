@@ -4,13 +4,14 @@ description: "If you’ve ever wondered why humans dominate the planet (or why w
 date: 2025-11-27
 excerpt_separator: "<!--more-->"
 categories:
+  - Tools in the Real World
   - Book Summary
-  - Digital Transformation
+
 
 tags:
-  - Digital Transformation
+  - Tools in the Real World
   - Digitalization
-  - Leadership
+  - Leadership as a System
   - Books
 
 ---

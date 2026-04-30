@@ -4,11 +4,11 @@ description: "As you might’ve noticed if you’ve read some of my previous pos
 date: 2025-06-19
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 
 tags:
-  - Productivity
+  - Personal Operating Systems
   - Energy
   - Health
   - Books

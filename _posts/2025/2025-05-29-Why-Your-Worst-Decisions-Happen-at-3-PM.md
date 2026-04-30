@@ -4,11 +4,10 @@ description: "Have you ever made a lazy choice late in the day - ordering takeou
 date: 2025-05-29
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Leadership
-  - Management
+  - Leadership as a System
   - Productivity
   - Business
 

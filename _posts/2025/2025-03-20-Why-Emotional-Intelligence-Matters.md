@@ -4,12 +4,10 @@ description: "In today’s world, success is often measured by intelligence—ho
 date: 2025-03-20
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Leadership
-  - Management
-  - Productivity
+  - Leadership as a System
   - Business
   - Book
 

@@ -4,10 +4,11 @@ description: "In today’s fast-paced world, being busy is a sign of success. We
 date: 2025-02-20
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Personal Operating Systems
   - Book Summary
 
 tags:
+  - Personal Operating Systems
   - Productivity
   - Psychology
   - Book

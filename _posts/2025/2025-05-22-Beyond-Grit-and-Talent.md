@@ -4,16 +4,15 @@ description: "Why you should be weird, selfish, shameless, obsessed, nosy, manip
 date: 2025-05-22
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Leadership
   - Strategy
-  - Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Career Advice
-  - Management
   - Business
   - Book
 

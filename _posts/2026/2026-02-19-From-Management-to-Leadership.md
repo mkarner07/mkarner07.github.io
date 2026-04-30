@@ -4,11 +4,10 @@ description: "Currently, I am reading Strong Ground by Brene Brown and stumbled 
 date: 2026-02-19
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Leadership as a System
   - Communication
   - 300 words
 

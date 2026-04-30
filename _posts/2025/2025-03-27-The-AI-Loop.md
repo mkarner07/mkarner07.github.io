@@ -4,12 +4,11 @@ description: "Lately, generative AI has been making its mark in many areas. In t
 date: 2025-03-27
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Tools in the Real World
 
 tags:
-  - Personal Productivity
-  - Digital Transformation
-  - Digitalization
+  - Personal Operating Systems
+  - Tools in the Real World
   - Artificial Intelligence
 
 

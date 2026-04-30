@@ -4,11 +4,10 @@ description: "What if math isn’t just a subject, but the hidden code powering 
 date: 2026-03-12
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Productivity
-  - Leadership
+  - Leadership as a System
   - Artificial Intelligence
   - Methods
 

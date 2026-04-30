@@ -4,14 +4,13 @@ description: "Recently I’ve read Hidden Potential by Adam Grant. The book offe
 date: 2025-01-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Strategy
-  - Productivity
-  - Management
   - Business
   - Book
 

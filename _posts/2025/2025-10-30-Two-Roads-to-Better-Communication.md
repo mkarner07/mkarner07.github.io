@@ -4,12 +4,14 @@ description: "In the last two posts, we explored two powerful books on communica
 date: 2025-10-30
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
+  - Personal Operating Systems
 
 tags:
   - Psychology
   - Productivity
-  - Leadership
+  - Leadership as a System
+  - Personal Operating Systems
   - Books
 
 ---

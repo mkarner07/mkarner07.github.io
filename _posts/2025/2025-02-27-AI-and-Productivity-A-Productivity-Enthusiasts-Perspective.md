@@ -4,12 +4,13 @@ description: "If you’re like me - constantly looking for ways to work smarter,
 date: 2025-02-27
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Tools in the Real World
 
 tags:
+  - Personal Operating Systems
   - Productivity
-  - Digital Transformation
-  - Digitalization
+  - Tools in the Real World
   - Artificial Intelligence
 
 

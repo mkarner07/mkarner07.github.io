@@ -4,13 +4,11 @@ description: "When you hear the word power, what comes to mind? Many people thin
 date: 2025-03-06
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
-  - Productivity
-  - Management
   - Business
   - 300 words
 

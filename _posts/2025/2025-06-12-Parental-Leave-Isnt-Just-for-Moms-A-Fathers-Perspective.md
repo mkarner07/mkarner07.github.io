@@ -8,8 +8,7 @@ categories:
 
 tags:
   - Parenting
-  - Leadership
-  - Productivity
+  - Leadership as a System
   - My Journey
 
 ---

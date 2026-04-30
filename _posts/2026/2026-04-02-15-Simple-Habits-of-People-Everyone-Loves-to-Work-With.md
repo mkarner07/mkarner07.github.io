@@ -4,11 +4,11 @@ description: "There are certain people everyone loves working with. When they wa
 date: 2026-04-02
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Communication
   - 300 words
 

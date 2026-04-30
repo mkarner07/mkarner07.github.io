@@ -4,11 +4,10 @@ description: "If you're anything like me, you sometimes fall into the trap of th
 date: 2025-05-15
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Leadership
-  - Productivity
+  - Leadership as a System
   - Psychology
   - 300 words
   - Book

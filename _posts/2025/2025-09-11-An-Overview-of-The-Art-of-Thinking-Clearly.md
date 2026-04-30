@@ -4,13 +4,13 @@ description: "If you’ve ever made a decision that felt right in the moment but
 date: 2025-09-11
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
   - Psychology
   - Productivity
-  - Leadership
+  - Leadership as a System
   - Books
 
 ---

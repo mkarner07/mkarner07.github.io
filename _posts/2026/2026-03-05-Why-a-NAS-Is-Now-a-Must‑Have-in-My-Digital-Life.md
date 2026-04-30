@@ -4,9 +4,10 @@ description: "Where do you store your digital life? Are you on Team Cloud, or ar
 date: 2026-03-05
 excerpt_separator: "<!--more-->"
 categories:
-  - Tech
+  - Tools in the Real World
 
 tags:
+  - Tools in the Real World
   - Digitalization
   - My Journey
   - Tech

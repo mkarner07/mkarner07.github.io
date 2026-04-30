@@ -4,12 +4,12 @@ description: "Every once in a while, I come across a piece of content that stick
 date: 2025-07-31
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Leadership
-  - Productivity
-  - Management
+  - Leadership as a System
+  - Methods
+
 
 
 ---

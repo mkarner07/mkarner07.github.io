@@ -4,11 +4,10 @@ description: "Great leadership isn’t about barking orders. It’s about inspir
 date: 2025-12-11
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Leadership as a System
   - Communication
 
 ---

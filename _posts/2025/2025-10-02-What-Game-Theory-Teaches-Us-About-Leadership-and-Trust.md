@@ -4,12 +4,12 @@ description: "In the world of game theory, few models are as simple and revealin
 date: 2025-10-02
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
   - Psychology
   - Productivity
-  - Leadership
+  - Leadership as a System
 
 ---
 
