@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "matthiaskarner.com"
+title: "Thinking about work, systems, and responsibility"
 author_profile: true
 ---
 
