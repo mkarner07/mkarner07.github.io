@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "Thinking about work, systems, and responsibility"
+title: "Thoughts from working with systems and people"
 author_profile: true
 ---
 
