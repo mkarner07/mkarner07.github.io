@@ -4,9 +4,9 @@ description: "Efficiency and effectiveness are becoming more and more important 
 date: 2023-11-06
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Methods
   - Guide

@@ -4,9 +4,9 @@ description: "Notetaking is a crucial step in retaining information, storing val
 date: 2023-11-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Methods
 

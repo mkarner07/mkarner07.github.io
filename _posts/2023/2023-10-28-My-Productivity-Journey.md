@@ -4,9 +4,9 @@ description: "In this article I want to share my productivity journey with you: 
 date: 2023-10-28
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - My Journey
 

@@ -4,10 +4,10 @@ description: "As the year draws to a close, it's that special time when we pause
 date: 2023-12-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Designing Your Life
   - Guide
   - Career Advice

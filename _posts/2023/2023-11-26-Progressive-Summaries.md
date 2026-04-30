@@ -4,9 +4,9 @@ description: "In a recent article I delved into why you need to engage with your
 date: 2023-11-26
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Writing
   - Second Brain

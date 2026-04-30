@@ -4,14 +4,13 @@ description: "Let's dive into the secrets of our minds, especially the part that
 date: 2023-12-10
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
 tags:
   - Psychology
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
 

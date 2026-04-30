@@ -4,9 +4,10 @@ description: "According to The New York Times, the average person consumes a sta
 date: 2023-10-13
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Second Brain
   - Reading

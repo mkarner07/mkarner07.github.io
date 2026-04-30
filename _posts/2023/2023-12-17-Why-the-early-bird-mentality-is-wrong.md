@@ -4,10 +4,10 @@ description: "In the past years and month I've read a lot of books and articles 
 date: 2023-12-17
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Opinion
   - My Journey
 

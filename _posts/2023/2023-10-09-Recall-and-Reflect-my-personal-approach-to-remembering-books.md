@@ -4,10 +4,10 @@ description: "Reading is fun. You can dive into the minds of great scientists, e
 date: 2023-10-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Reading
 

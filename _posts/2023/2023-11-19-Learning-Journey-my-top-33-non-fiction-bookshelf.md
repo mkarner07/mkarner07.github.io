@@ -4,12 +4,11 @@ description: "The landscape of non-fiction books is vast. In this post I want to
 date: 2023-11-19
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
 

@@ -4,13 +4,14 @@ description: "My name is Matthias Karner and what you are reading is my very fir
 date: 2023-10-05
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
-  - Digital Transformation
+  - Personal Operating Systems
+  - Leadership as a System
+  - Tools in the Real World
+
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Digital Transformation
+  - Personal Operating Systems
+  - Leadership as a System
+  - Tools in the Real World
   - My Journey
 
 ---

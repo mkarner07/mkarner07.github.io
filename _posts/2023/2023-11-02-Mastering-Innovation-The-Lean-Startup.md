@@ -4,10 +4,10 @@ description: "Agile project management, has reshaped the software development la
 date: 2023-11-02
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Lean
   - Entrepreneurship
   - Book

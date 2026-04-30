@@ -4,14 +4,13 @@ description: "The workings of the human mind can be quite mysterious, particular
 date: 2023-12-14
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
 tags:
   - Psychology
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
 

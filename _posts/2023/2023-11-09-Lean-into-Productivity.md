@@ -4,9 +4,9 @@ description: "In the recent decades lean manufacturing has established itself as
 date: 2023-11-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Lean
   - Methods
 

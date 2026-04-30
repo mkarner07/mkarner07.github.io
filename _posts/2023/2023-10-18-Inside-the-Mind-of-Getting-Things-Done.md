@@ -4,10 +4,10 @@ description: "The demands of work and personal life can often feel overwhelming,
 date: 2023-10-18
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Reading
   - Recall

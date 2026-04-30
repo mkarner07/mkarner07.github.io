@@ -4,12 +4,11 @@ description: "Academia and the corporate world can vary significantly across var
 date: 2023-11-30
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Notetaking
   - My Journey

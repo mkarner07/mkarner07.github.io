@@ -4,11 +4,10 @@ description: "After the positive reception of my latest piece on productivity li
 date: 2023-12-03
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
   - List of References

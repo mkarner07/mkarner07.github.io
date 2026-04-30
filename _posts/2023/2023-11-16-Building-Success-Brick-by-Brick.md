@@ -4,13 +4,12 @@ description: "In this article I want to share what I learnt so far about the pow
 date: 2023-11-16
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Reading
   - Career Advice

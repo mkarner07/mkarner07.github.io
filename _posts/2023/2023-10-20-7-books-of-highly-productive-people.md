@@ -4,10 +4,10 @@ description: "There are tons of books about personal productivity out there. In 
 date: 2023-10-20
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Reading
   - Book
   - List of References

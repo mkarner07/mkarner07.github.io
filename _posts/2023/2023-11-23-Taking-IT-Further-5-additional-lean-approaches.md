@@ -4,9 +4,9 @@ description: "In a recent article, I delved into the exciting realm of translati
 date: 2023-11-23
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Lean
   - Methods
 

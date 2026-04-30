@@ -40,10 +40,9 @@ My writing focuses on the in‑between space:
 - between individual productivity and team outcomes
 
 You’ll mostly find reflections on:
-
-- **Personal operating systems**: how individuals stay effective under complexity
-- **Leadership and team systems**: how work moves through people
-- **Digital and AI systems**: how technology reshapes decisions, accountability, and execution
+- **Personal Operating Systems**: How individuals stay effective when work becomes complex, ambiguous and constrained (without relying on hacks). [Read more ...](https://matthiaskarner.com/categories/#personal-operating-systems)
+- **Leadership as a System**: How decisions, communication and responsibility scale through teams and why leadership is less about traits and more about structure. [Read more ...](https://matthiaskarner.com/categories/#leadership-as-a-system)
+- **Tools in the Real World**: How digital systems, IT, and AI actually behave once they meet organizations [Read more ...](https://matthiaskarner.com/categories/#tools-in-the-real-world)
 
 Many posts are influenced by books, research, and conversations, but always filtered through practical experience.
 

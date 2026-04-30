@@ -5,13 +5,11 @@ In this piece, I aim to introduce seven captivating books from this realm that I
 date: 2023-11-12
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
-  - Management
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
   - List of References

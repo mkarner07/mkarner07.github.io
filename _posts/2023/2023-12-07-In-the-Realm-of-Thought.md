@@ -4,14 +4,13 @@ description: "In the recent years I read many non-fiction books, but one truly s
 date: 2023-12-07
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
 tags:
   - Psychology
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
 

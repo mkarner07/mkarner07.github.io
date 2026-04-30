@@ -4,10 +4,10 @@ description: "In the fast-paced world of career development, we can find ourselv
 date: 2023-12-31
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Designing Your Life
   - Career Advice
 

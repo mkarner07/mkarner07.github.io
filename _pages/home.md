@@ -28,18 +28,14 @@ journey → lessons → workflows → judgment → personal system
 If you prefer browsing, you can explore the full archive [here](https://matthiaskarner.com/archive/).
 
 ## Core themes
-- **Personal operating systems**: how individuals stay effective under complexity [Read more ...](https://matthiaskarner.com/categories/#personal-productivity)
-- **Leadership and team systems**: how work moves through people [Read more ...](https://matthiaskarner.com/categories/#management-and-leadership)
-- **Digital and AI systems**: how technology reshapes decisions, accountability, and execution [Read more ...](https://matthiaskarner.com/categories/#digital-transformation)
+- **Personal Operating Systems**: How individuals stay effective when work becomes complex, ambiguous and constrained (without relying on hacks). [Read more ...](https://matthiaskarner.com/categories/#personal-operating-systems)
+- **Leadership as a System**: How decisions, communication and responsibility scale through teams and why leadership is less about traits and more about structure. [Read more ...](https://matthiaskarner.com/categories/#leadership-as-a-system)
+- **Tools in the Real World**: How digital systems, IT, and AI actually behave once they meet organizations [Read more ...](https://matthiaskarner.com/categories/#tools-in-the-real-world)
 
 {% comment %} 
-✅ Section 4: Short personal context (not the full About)
-This is just orientation, not biography.
-Example:
+## Matthias Karner
 
 I lead a department responsible for Information Technology in an international organization. Earlier in my career, I worked in applied research while completing a PhD in engineering. This site is where I reflect on what I’ve learned about making systems work: technically and socially.
-→ Read more about me
-
-That’s enough.
+→ [Read more about me](https://matthiaskarner.com/about/)
 
 {% endcomment %}
