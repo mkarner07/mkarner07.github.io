@@ -7,8 +7,8 @@ author_profile: true
 
 I write about Productivity, Leadership and Digitalization from the perspective of someone who has to make systems work in real organizations.
 
-### Start here
-Here's the thing: *Most advice breaks once it meets real constraints.* That's something I found out the hard way after my transition from academia into the corporate world. And it's a lesson I keep relearning every time I try to actually use something new.
+### What to expect
+Most advice breaks once it meets real constraints. That's something I found out the hard way after my transition from academia into the corporate world. And it's a lesson I keep relearning every time I try to actually implement something new.
 
 On this site, I look into what truly works when you try it out for real.
 
