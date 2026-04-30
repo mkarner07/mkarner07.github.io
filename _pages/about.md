@@ -5,7 +5,7 @@ title: "About"
 
 Hi, I’m Matthias.
 
-I write about productivity, leadership, and digitalization from the perspective of someone who has to make systems work in real organizations.
+I write about Productivity, Leadership and Digitalization from the perspective of someone who has to make systems work in real organizations.
 
 This website is my place to think in public (calmly, practically, and without hype) about how work actually gets done when technology, people, and constraints collide.
 
@@ -45,7 +45,7 @@ You’ll mostly find reflections on:
 - **Leadership and team systems**: how work moves through people
 - **Digital and AI systems**: how technology reshapes decisions, accountability, and execution
 
-Many posts are influenced by books, research, and conversations — but always filtered through practical experience.
+Many posts are influenced by books, research, and conversations, but always filtered through practical experience.
 
 ### Why I write
 The reason I write is to clarify my own thinking.
@@ -57,7 +57,10 @@ If you’re interested in how modern work really functions (especially in digita
 {% comment %} 
 
 You can find a curated starting point on the homepage.
-Some readers use this site as a reference, others as a place to think along — both are welcome.
+
+Some readers use this site as a reference, others as a place to think along: both are welcome (:
+
+If I spark ideas or you want to get personally in touch with me, please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/matthiaskarner/).
 
 
 ### Why did I create this website?
