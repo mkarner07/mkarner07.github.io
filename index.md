@@ -23,7 +23,7 @@ Order matters: journey → lessons → workflows → judgment → personal syste
 
 [The Unexpected Impact of Handing Your Decisions to AI (It’s Not What You Think)](https://matthiaskarner.com/2026/03/The-Unexpected-Impact-of-Handing-Your-Decisions-to-AI/): How I use AI as a thinking tool (structure, clarity, reflection) without outsourcing judgment or responsibility.
 
-[Craft Your Ideal Week: a User-Friendly Guide](https://matthiaskarner.com/2024/01/User-Friendly-Guide-to-the-Ideal-Week/): A practical planning approach that aims for effectiveness without pretending life is predictable. [Craft Your...ias Karner]
+[Craft Your Ideal Week: a User-Friendly Guide](https://matthiaskarner.com/2024/01/User-Friendly-Guide-to-the-Ideal-Week/): A practical planning approach that aims for effectiveness without pretending life is predictable.
 
 If you prefer browsing, you can explore the full archive [here](https://matthiaskarner.com/archive/).
 
