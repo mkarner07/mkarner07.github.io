@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "matthiaskarner.com"
 author_profile: true
 ---
 
