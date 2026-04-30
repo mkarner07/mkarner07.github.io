@@ -13,15 +13,14 @@ Here's the thing:*Most advice breaks once it meets real constraints.* That's som
 On this site, I look into what truly works when you try it out for real.
 
 {% comment %} 
-Order matters (you chose a great arc). Keep it exactly in this sequence:
-journey → lessons → workflows → judgment → personal system
+Order matters: journey → lessons → workflows → judgment → personal system
 {% endcomment %}
 [Unveiling My Journey in Digital Transformation Management](https://matthiaskarner.com/2024/03/Unveiling-My-Journey-in-Digital-Transformation-Management/): A personal starting point: how I entered digital transformation and what “digital transformation” means in practice (beyond buzzwords).
 
 [5 Learnings from A Head of Digital Transformation Management](https://matthiaskarner.com/2024/03/5-Learnings-from-A-Head-of-Digital-Transformation-Management/): Five lessons that only become obvious once you’re responsible for running digital solutions over time.
 
 [Powerful Copilot Workflows That Save Me Hours as a Department Head](https://matthiaskarner.com/2026/01/Powerful-Copilot-Workflows/): Concrete Copilot workflows I actually use day-to-day: not theory, but what helps when your calendar is full and the stakes are real.
-<<<<w>>>>
+
 [The Unexpected Impact of Handing Your Decisions to AI (It’s Not What You Think)](https://matthiaskarner.com/2026/03/The-Unexpected-Impact-of-Handing-Your-Decisions-to-AI/): How I use AI as a thinking tool (structure, clarity, reflection) without outsourcing judgment or responsibility.
 
 [Craft Your Ideal Week: a User-Friendly Guide](https://matthiaskarner.com/2024/01/User-Friendly-Guide-to-the-Ideal-Week/): A practical planning approach that aims for effectiveness without pretending life is predictable. [Craft Your...ias Karner]
