@@ -26,7 +26,7 @@ If you prefer browsing, you can explore the full archive [here](https://matthias
 
 
 ## That's me
-I am Matthias. I lead IT and digitalizationin an international organization, hold a PhD in engineering and have spent years figuring out where good ideas go to die in real organizations. This site is where I think out loud. [Read more about me](https://matthiaskarner.com/about/)
+I am Matthias. I lead IT and digitalization in an international organization, hold a PhD in engineering and have spent years figuring out where good ideas go to die in real organizations. This site is where I think out loud. [Read more about me](https://matthiaskarner.com/about/)
 
 {% comment %}
 I write about Productivity, Leadership and Digitalization from the perspective of someone who has to make systems work in real organizations.
