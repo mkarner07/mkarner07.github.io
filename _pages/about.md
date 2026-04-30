@@ -13,8 +13,6 @@ This website is my place to think in public (calmly, practically, and without hy
 |:--:|
 | *Image created in cooperation with DALL·E 3* |
 
-
-
 ### Where this perspective comes from
 I started my career in engineering and applied research.
 
