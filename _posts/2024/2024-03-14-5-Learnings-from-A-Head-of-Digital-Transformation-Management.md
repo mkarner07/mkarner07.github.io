@@ -1,5 +1,5 @@
 ---
-title: "5 Learnings from A Head of Digital Transformation Management"
+title: "5 Valuable Insights in Digital Transformation Management"
 description: "For more than four years now, I've been in responsible for [Digital Transformation Management] at my company. In this article I want to share some of my learnings with you."
 date: 2024-03-14
 excerpt_separator: "<!--more-->"

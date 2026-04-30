@@ -1,5 +1,5 @@
 ---
-title: "7 Valuable Insights in Digital Transformation Management"
+title: "7 Learnings from A Head of Digital Transformation Management"
 description: "The ever-evolving landscape of the digital realm never fails to captivate me. For over four exciting years, I've been steering the ship as the Head of Digital Transformation Management at my company. In this article, I want to share some of my key learnings."
 date: 2024-03-28
 excerpt_separator: "<!--more-->"

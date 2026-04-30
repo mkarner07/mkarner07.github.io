@@ -17,7 +17,7 @@ Order matters: journey → lessons → workflows → judgment → personal syste
 {% endcomment %}
 [Unveiling My Journey in Digital Transformation Management](https://matthiaskarner.com/2024/03/Unveiling-My-Journey-in-Digital-Transformation-Management/): A personal starting point: how I entered digital transformation and what “digital transformation” means in practice (beyond buzzwords).
 
-[5 Learnings from A Head of Digital Transformation Management](https://matthiaskarner.com/2024/03/5-Learnings-from-A-Head-of-Digital-Transformation-Management/): Five lessons that only become obvious once you’re responsible for running digital solutions over time.
+[7 Learnings from A Head of Digital Transformation Management](https://matthiaskarner.com/2024/03/7-Valuable-Insights-in-Digital-Transformation-Management/): Seven lessons that only become obvious once you’re responsible for running digital solutions over time.
 
 [Powerful Copilot Workflows That Save Me Hours as a Department Head](https://matthiaskarner.com/2026/01/Powerful-Copilot-Workflows/): Concrete Copilot workflows I actually use day-to-day: not theory, but what helps when your calendar is full and the stakes are real.
 
