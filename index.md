@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "Thoughts from working with systems and people"
+title: "Making systems work: in theory and in practice"
 author_profile: true
 ---
 
