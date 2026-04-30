@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: "/"
-#  - title: "All Posts"
-#    url: /all-posts/
+  - title: "Blog"
+    url: /blog/
   - title: "Archive"
     url: /archive/
   - title: "About"

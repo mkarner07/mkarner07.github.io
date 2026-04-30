@@ -1,6 +1,7 @@
 ---
-permalink: /home/
+permalink: /
 title: ""
+author_profile: true
 ---
 
 **I write about Productivity, Leadership and Digitalization from the perspective of someone who has to make systems work in real organizations.**
