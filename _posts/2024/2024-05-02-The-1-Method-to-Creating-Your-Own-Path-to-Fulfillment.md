@@ -4,10 +4,10 @@ description: "Did you ever wonder where life might take you within the next 5 
 date: 2024-05-02
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Designing Your Life
   - Career Advice
   - Guide

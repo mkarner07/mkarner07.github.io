@@ -4,13 +4,12 @@ description: "Have you ever wondered what sets great leaders apart? I did. And f
 date: 2024-08-22
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
-  - Management
   - Business
   - Book
   - Entrepreneurship

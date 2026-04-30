@@ -4,7 +4,7 @@ description: "I’ve read many books about investing, personal finance, and mone
 date: 2024-08-29
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership 
+  - Leadership as a System
 
 tags:
   - Business

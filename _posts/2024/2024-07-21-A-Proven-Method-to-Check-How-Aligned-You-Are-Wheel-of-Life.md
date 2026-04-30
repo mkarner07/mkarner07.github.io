@@ -4,13 +4,12 @@ description: "Have you ever asked yourself how aligned your life is with your va
 date: 2024-07-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Designing Your Life
-  - Management
   - Effective
   - Methods
   - Gamification

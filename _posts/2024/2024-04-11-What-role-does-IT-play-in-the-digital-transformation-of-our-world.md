@@ -4,13 +4,12 @@ description: "In some of my recent article, I unveiled my journey in becoming h
 date: 2024-04-11
 excerpt_separator: "<!--more-->"
 categories:
-  - Digital Transformation
-  - Management and Leadership
+  - Leadership as a System
+  - Tools in the Real World
 tags:
-  - Digital Transformation
   - Digitalization
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
+  - Tools in the Real World
   - Business
 
 ---

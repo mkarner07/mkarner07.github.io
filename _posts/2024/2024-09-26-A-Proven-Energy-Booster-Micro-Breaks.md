@@ -4,11 +4,11 @@ description: "Productivity is a matter of optimizing energy, not just time. Micr
 date: 2024-09-26
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Methods
   - 150 words

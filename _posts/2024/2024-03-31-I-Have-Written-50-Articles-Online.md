@@ -4,14 +4,14 @@ description: "It's amazing how quickly time flies. It seems like just a few week
 date: 2024-03-31
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Writing
 tags:
   - My Journey
   - Writing
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 
 ---
 It's amazing how quickly time flies.

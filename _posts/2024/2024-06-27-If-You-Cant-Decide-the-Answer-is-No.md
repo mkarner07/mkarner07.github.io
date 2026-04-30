@@ -4,12 +4,12 @@ description: "Improve your Decision Making"
 date: 2024-06-27
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
 
 tags:
-  - Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Methods
   - Decision Making

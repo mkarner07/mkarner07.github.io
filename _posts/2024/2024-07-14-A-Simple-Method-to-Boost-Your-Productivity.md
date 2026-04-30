@@ -4,12 +4,11 @@ description: "There are many strategies, methods, and guidelines to increase you
 date: 2024-07-14
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Leadership
-  - Management
+  - Personal Operating Systems
+  - Leadership as a System
   - Effective
   - Methods
   - Gamification

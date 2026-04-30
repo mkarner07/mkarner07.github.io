@@ -9,8 +9,8 @@ categories:
 tags:
   - My Journey
   - Writing
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 
 ---
 

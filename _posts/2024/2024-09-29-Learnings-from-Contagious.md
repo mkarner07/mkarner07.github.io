@@ -4,12 +4,11 @@ description: "Some weeks ago I published an article on the STEPPS framework, sum
 date: 2024-09-29
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
   - Psychology
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Methods
   - Marketing
   - Entrepreneurship

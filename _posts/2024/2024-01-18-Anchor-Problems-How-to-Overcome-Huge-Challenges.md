@@ -4,12 +4,10 @@ description: "In life there are challenges - some are easy to deal with, som
 date: 2024-01-18
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
   - Business
   - Designing Your Life
   - Methods

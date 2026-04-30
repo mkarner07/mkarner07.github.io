@@ -4,11 +4,11 @@ description: "There is a limit to how efficiently you can use your time: your en
 date: 2024-06-16
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Methods
   - Opinion

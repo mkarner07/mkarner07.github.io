@@ -4,11 +4,11 @@ description: "This year, I've learned a lot about mental models and systems. Usi
 date: 2024-06-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Methods
   - Models

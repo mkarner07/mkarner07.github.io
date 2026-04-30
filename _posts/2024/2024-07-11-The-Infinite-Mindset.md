@@ -4,13 +4,12 @@ description: "What do successful companies such as Apple, Microsoft (in its earl
 date: 2024-07-11
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership 
+  - Leadership as a System
   - Book Summary
   
 tags:
-  - Leadership
-  - Personal Productivity
-  - Management
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Book
 

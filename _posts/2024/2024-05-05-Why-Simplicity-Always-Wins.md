@@ -4,11 +4,10 @@ description: "Simplicity > Complexity"
 date: 2024-05-05
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Business
   - Methods
   - Opinion

@@ -4,12 +4,11 @@ description: "Making effective decisions is one of the most important things a l
 date: 2024-10-31
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
-  - Management
   - Business
   - 150 words
 

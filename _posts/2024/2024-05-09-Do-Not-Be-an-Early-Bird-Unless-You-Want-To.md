@@ -4,10 +4,9 @@ description: "A common theme among productivity enthusiasts seems to be the waki
 date: 2024-05-09
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Opinion
   - My Journey
   - 300 words

@@ -4,12 +4,11 @@ description: "On the roots of gravity problems and which strategies to apply to 
 date: 2024-02-25
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Designing Your Life
   - Methods
   - 300 words

@@ -4,12 +4,11 @@ description: "In the past four years, I’ve read well over 50 books on the to
 date: 2024-06-06
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
   
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
   - Effective
   - Notetaking
   - Methods

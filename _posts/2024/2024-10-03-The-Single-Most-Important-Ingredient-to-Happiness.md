@@ -4,12 +4,11 @@ description: "What makes people happy? When asked about their life goals, millen
 date: 2024-10-03
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
   - Happiness
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Psychology
   - 300 words
 

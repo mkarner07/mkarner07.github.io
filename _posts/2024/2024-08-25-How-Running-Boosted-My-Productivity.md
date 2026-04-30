@@ -4,10 +4,10 @@ description: "Energy and (physical) fitness are closely linked. If you are fit, 
 date: 2024-08-25
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Productivity
+  - Personal Operating Systems
   - Energy
   - Health
   - Running

@@ -4,10 +4,10 @@ description: "Why do we work? Is it just for the money? Do we want to do somethi
 date: 2024-04-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Opinion
   - Money
   - Career Advice

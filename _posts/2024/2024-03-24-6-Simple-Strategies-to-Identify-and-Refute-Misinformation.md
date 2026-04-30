@@ -4,12 +4,10 @@ description: "In today's world, it's hard to escape the term fake news. It becam
 date: 2024-03-24
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
   - Business
   - Psychology
   - Methods

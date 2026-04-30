@@ -4,14 +4,13 @@ description: "When I think back, I always had the goal of becoming successful. B
 date: 2024-01-07
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Digital Transformation
+  - Leadership as a System
+  - Tools in the Real World
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Digital Transformation
+  - Personal Operating Systems
+  - Leadership as a System
+  - Tools in the Real World
   - Digitalization
-  - Leadership
   - Business
   - My Journey
 

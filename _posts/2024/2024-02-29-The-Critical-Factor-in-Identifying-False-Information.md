@@ -4,12 +4,11 @@ description: "How grasping the concept of the prosecutor's fallacy illuminates t
 date: 2024-02-29
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Psychology
   - Methods

@@ -4,13 +4,12 @@ description: "What Does a Good Strategy Look Like? Is a good strategy a detailed
 date: 2024-08-01
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
-  - Management
   - Business
   - Entrepreneurship
   - Book

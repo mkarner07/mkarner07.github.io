@@ -4,12 +4,11 @@ description: "As an avid reader and productivity enthusiast I’ve curated a lis
 date: 2024-07-25
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
   - List of References

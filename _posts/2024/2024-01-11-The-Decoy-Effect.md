@@ -4,14 +4,14 @@ description: "There are many cognitive biases we have to watch out for - in a re
 date: 2024-01-11
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
 
 tags:
   - Psychology
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
+  - Tools in the Real World
   - Methods
   - 300 words
 

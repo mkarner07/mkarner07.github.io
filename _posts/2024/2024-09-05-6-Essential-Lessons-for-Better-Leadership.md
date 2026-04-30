@@ -4,12 +4,11 @@ description: "There are countless leadership lessons to help you become a better
 date: 2024-09-05
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
-  - Management
   - Business
   - Entrepreneurship
   - 300 words

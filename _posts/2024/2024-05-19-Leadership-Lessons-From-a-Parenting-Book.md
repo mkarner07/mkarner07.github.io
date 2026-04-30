@@ -4,14 +4,13 @@ description: "This sounds awkward, right? How can you draw lessons for leaders
 date: 2024-05-19
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Parenting
   - Book

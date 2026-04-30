@@ -4,11 +4,10 @@ description: "Happiness is something we all want, but sometimes it feels like it
 date: 2024-03-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Psychology
   - Entrepreneurship
   - Book

@@ -4,11 +4,10 @@ description: "Feedback is a powerful tool for leaders. Positive and constructive
 date: 2024-07-28
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Business
   - 300 words
 

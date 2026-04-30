@@ -4,11 +4,11 @@ description: "From early childhood, we are often told that talent is the key to 
 date: 2024-02-11
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Designing Your Life
   - Book
 

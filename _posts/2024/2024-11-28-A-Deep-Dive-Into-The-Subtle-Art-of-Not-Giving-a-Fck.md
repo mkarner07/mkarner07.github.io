@@ -6,14 +6,13 @@ With his articles, he created a big following. However, his major leap was his b
 date: 2024-11-28
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 
 tags:
-  - Leadership
   - Strategy
-  - Productivity
-  - Management
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Book
 

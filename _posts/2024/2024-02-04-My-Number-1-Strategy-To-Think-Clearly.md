@@ -4,12 +4,11 @@ description: "An elaboration why writing is a great strategy to think clearly."
 date: 2024-02-01
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Writing
   - My Journey
 

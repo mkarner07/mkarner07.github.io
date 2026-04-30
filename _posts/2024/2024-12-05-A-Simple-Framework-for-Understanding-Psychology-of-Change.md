@@ -4,11 +4,10 @@ description: "Change is difficult. When humans face a changing environment their
 date: 2024-12-05
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-
+  - Leadership as a System
 tags:
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Communication
   - Psychology
   - Strategy

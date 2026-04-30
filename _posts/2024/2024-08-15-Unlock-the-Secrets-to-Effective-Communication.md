@@ -4,11 +4,10 @@ description: "Everyone communicates differently. But have you ever wondered why?
 date: 2024-08-15
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Communication
   - Psychology
   - Strategy

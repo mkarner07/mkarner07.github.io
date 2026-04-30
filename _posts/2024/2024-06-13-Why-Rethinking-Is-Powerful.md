@@ -4,14 +4,13 @@ description: "Somehow this year I’ve read a lot on motivation, mental mode
 date: 2024-06-13
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Personal Productivity
-  - Leadership
-  - Management
+  - Personal Operating Systems
+  - Leadership as a System
   - Effective
   - Methods
   - Decision Making

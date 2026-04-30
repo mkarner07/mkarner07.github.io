@@ -4,13 +4,12 @@ description: "The digital world is fascinating. Think about how the world looked
 date: 2024-03-10
 excerpt_separator: "<!--more-->"
 categories:
-  - Digital Transformation
-  - Management and Leadership
+  - Leadership as a System
+  - Tools in the Real World
 tags:
-  - Digital Transformation
   - Digitalization
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
+  - Tools in the Real World
   - Business
   - My Journey
 

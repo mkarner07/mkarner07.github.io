@@ -5,11 +5,10 @@ description: "The landscape of leadership literature is vast: At Medium alone th
 date: 2024-01-04
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
 
 ---

@@ -4,12 +4,12 @@ description: "One of the greatest psychology researchers just died. Daniel Kahne
 date: 2024-04-04
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
   - Psychology
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Tribute
 

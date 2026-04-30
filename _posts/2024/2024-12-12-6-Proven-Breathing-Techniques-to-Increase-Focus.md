@@ -4,10 +4,10 @@ description: "Breathing techniques are a powerful way to boost your alertness, i
 date: 2024-12-12
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Productivity
+  - Personal Operating Systems
   - Energy
   - Health
   - Business

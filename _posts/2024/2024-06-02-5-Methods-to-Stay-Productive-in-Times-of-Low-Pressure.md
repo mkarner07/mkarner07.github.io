@@ -4,12 +4,11 @@ description: "There are times when we are stressed out - we don’t know what
 date: 2024-06-02
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Methods
   - Writing

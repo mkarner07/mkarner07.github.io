@@ -4,11 +4,11 @@ description: "In the past years, I’ve read many books on career advice. Some
 date: 2024-04-25
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
   
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Designing Your Life
   - Career Advice
   - Guide

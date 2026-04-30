@@ -5,12 +5,12 @@ date: 2024-10-10
 excerpt_separator: "<!--more-->"
 categories:
   - Writing
-  - Management and Leadership
+  - Tools in the Real World
   - Book Summary
 
 tags:
   - Writing
-  - Management
+  - Tools in the Real World
   - Business
   - Entrepreneurship
   - Book

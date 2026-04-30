@@ -4,10 +4,10 @@ description: "How do you become lucky in your life?"
 date: 2024-05-12
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
+  - Leadership as a System
   - Designing Your Life
   - Reading
   - Happiness

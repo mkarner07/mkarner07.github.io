@@ -4,10 +4,10 @@ description: "No matter how many productivity hacks you try, there’s always a 
 date: 2024-09-01
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Energy
   - Health
   - Business

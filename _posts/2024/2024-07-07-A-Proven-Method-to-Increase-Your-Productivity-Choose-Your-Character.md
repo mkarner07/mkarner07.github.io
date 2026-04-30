@@ -4,12 +4,10 @@ description: "Last month, I read Feel-Good Productivity by Ali Abdaal. One idea 
 date: 2024-07-07
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Leadership
-  - Management
+  - Leadership as a System
   - Effective
   - Methods
   - Gamification

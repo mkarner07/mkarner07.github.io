@@ -4,11 +4,11 @@ description: "The human brain is great at having ideas, but it is terrible at re
 date: 2024-01-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
   
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Methods
 

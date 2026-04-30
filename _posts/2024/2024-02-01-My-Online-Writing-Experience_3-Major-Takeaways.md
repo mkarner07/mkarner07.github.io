@@ -4,15 +4,14 @@ description: "In the last few weeks, I wrote 34 articles, and I must say, it was
 date: 2024-02-01
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Writing
 tags:
   - My Journey
   - Writing
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 
 ---
 

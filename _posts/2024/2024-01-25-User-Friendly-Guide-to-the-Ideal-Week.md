@@ -4,9 +4,9 @@ description: "A key element of personal productivity is managing our time effici
 date: 2024-01-25
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Time-Management
   - Methods

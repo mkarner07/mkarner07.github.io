@@ -4,12 +4,12 @@ description: "Why stress and pressure are not inherently bad and how they can be
 date: 2024-01-14
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
+  - Tools in the Real World
   - Business
   - Writing
   - My Journey

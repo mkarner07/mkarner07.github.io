@@ -4,12 +4,11 @@ description: "In the past few years, I have been reading a lot of books on the t
 date: 2024-03-17
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Psychology
   - Entrepreneurship
   - Money

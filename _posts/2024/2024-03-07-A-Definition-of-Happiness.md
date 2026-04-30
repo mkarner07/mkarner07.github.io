@@ -4,11 +4,10 @@ description: "What does happiness actually mean?"
 date: 2024-03-07
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Designing Your Life
   - Reading
   - Happiness

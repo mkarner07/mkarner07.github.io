@@ -4,13 +4,12 @@ description: "The ever-evolving landscape of the digital realm never fails to ca
 date: 2024-03-28
 excerpt_separator: "<!--more-->"
 categories:
-  - Digital Transformation
-  - Management and Leadership
+  - Leadership as a System
+  - Tools in the Real World
 tags:
-  - Digital Transformation
+  - Leadership as a System
+  - Tools in the Real World
   - Digitalization
-  - Management and Leadership
-  - Leadership
   - Business
 
 ---

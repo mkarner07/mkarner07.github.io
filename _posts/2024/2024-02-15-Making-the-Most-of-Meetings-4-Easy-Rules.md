@@ -5,13 +5,12 @@ date: 2024-02-15
 excerpt: "According to Forbes there are 55 million meetings each day - and half of them are a waste of time."
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Lean
   - Communication

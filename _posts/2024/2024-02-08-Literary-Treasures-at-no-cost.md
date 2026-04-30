@@ -4,11 +4,10 @@ description: "..."
 date: 2024-02-08
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   
 tags:
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Reading
   - Book
   - List of References

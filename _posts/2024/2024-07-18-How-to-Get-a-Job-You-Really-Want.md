@@ -4,10 +4,11 @@ description: "How do you find or design your dream job? There is the classic way
 date: 2024-07-18
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Designing Your Life
   - Career Advice
   - Guide

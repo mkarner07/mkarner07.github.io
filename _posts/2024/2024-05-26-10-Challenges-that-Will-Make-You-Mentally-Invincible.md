@@ -4,12 +4,13 @@ description: "A book that ranked particularly high on my reading list this year 
 date: 2024-05-26
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Book Summary
   
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Motivation
   - Book
 

@@ -4,12 +4,11 @@ description: "Are you curious about what makes a strategy truly effective? In Go
 date: 2024-08-04
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership 
+  - Leadership as a System
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
-  - Management
   - Business
   - Methods
   - Entrepreneurship

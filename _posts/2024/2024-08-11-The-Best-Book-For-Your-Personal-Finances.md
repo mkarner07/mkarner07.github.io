@@ -4,10 +4,11 @@ description: "There are many books about money, investing, financial success, â€
 date: 2024-08-11
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership 
+  - Leadership as a System
   - Book Summary
 
 tags:
+  - Leadership as a System
   - Business
   - Psychology
   - Money

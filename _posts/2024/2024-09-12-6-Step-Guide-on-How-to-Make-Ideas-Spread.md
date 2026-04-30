@@ -4,13 +4,12 @@ description: "Have you ever wondered why certain ideas are shared more than othe
 date: 2024-09-12
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
   - Psychology
-  - Management and Leadership
-  - Leadership
+  - Leadership as a System
   - Methods
   - Marketing
   - Entrepreneurship

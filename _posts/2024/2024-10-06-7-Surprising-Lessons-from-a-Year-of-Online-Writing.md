@@ -4,15 +4,15 @@ description: "I always thought that the concept of writing about writing was a b
 date: 2024-10-06
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Writing
   
 tags:
   - My Journey
   - Writing
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 
 ---
 

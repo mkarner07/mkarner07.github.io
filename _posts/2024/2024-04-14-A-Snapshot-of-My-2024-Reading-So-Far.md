@@ -4,11 +4,11 @@ description: "I’ve always enjoyed reading. Until some years ago I mostly read 
 date: 2024-04-14
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
 tags:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Reading
   - Book
   - List of References

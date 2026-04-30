@@ -4,9 +4,9 @@ description: "As a confessed productivity enthusiast I’ve tried out many 
 date: 2024-05-23
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Opinion
   - Methods
   - 150 words

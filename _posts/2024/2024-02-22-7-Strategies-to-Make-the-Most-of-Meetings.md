@@ -4,13 +4,12 @@ description: "According to Forbes there are 55 million meetings each day - and h
 date: 2024-02-22
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
-  - Management and Leadership
+  - Personal Operating Systems
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Business
   - Lean
   - Meetings

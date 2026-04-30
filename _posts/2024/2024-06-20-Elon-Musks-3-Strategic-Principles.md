@@ -4,11 +4,11 @@ description: "These days, any article with Elon Musk in the title feels like 
 date: 2024-06-20
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Personal Productivity
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Strategy
   - Business
   - Methods

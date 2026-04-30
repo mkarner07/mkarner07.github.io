@@ -4,10 +4,10 @@ description: "In the realm of productivity we are eager to fill even the tiniest
 date: 2024-02-18
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - My Journey
   - Methods
 

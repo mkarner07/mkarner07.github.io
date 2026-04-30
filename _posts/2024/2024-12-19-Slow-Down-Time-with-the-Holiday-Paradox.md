@@ -4,10 +4,10 @@ description: "How can you slow down time? Some might say that doing something bo
 date: 2024-12-19
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Psychology
   - Motivation
   - 300 words

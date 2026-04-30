@@ -4,13 +4,12 @@ description: "Don’t we all want to be effective in what we do? In The Effectiv
 date: 2024-09-08
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
-  - Management
   - Business
   - Book
 

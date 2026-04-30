@@ -4,9 +4,9 @@ description: "Managing time efficiently is key to personal productivity. By alig
 date: 2024-05-30
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Notetaking
   - Methods
   - Time-Management

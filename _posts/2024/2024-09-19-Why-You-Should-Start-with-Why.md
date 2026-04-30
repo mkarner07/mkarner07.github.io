@@ -4,14 +4,13 @@ description: "Why? This simple question packs a punch. It’s more powerful than
 date: 2024-09-19
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
   - Book Summary
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
   - Motivation
-  - Management
   - Business
   - Entrepreneurship
 

@@ -4,10 +4,11 @@ description: "Our world sometimes seems to be obsessed with talent. The thing is
 date: 2024-05-16
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
+  - Leadership as a System
   - Designing Your Life
   - 300 words
 

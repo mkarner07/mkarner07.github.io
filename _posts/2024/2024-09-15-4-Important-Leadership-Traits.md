@@ -4,12 +4,11 @@ description: "A short article on important leadership traits."
 date: 2024-09-15
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Leadership
+  - Leadership as a System
   - Strategy
-  - Management
   - Business
   - Entrepreneurship
   - 150 words

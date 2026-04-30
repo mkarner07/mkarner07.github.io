@@ -4,11 +4,11 @@ description: "..."
 date: 2024-04-28
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
   - Book Summary
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Designing Your Life
   - Career Advice
   - Guide

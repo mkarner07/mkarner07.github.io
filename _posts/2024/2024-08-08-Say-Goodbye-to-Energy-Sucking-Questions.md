@@ -4,12 +4,11 @@ description: "Did you hear of the concept of an emotional vampire? There exists 
 date: 2024-08-08
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
-  - Management and Leadership
-  - Leadership
+  - Personal Operating Systems
+  - Leadership as a System
   - Methods
   - 300 words
 

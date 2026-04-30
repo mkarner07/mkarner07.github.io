@@ -4,14 +4,13 @@ description: "If you have heard about the CHAOS Framework, you most likely heard
 date: 2024-11-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
-  - Personal Productivity
+  - Personal Operating Systems
   - Entrepreneurship
   - Business
   - Leadership
-  - Management
   - Methods
 
 ---

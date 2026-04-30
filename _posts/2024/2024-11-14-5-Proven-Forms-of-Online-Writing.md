@@ -8,7 +8,6 @@ categories:
 
 tags:
   - Writing
-  - Management
   - Business
   - Entrepreneurship
   - 150 words
