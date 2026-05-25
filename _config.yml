@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle: "Making systems work: in theory and in practice"
 name                     : "Matthias Karner"
 description: >- # this means to ignore newlines until "baseurl:"
-  Productivity, Personal Productivity, Management, Leadership, Digitlization,
+  Productivity, Personal Productivity, Management, Leadership, Digitalization,
   Digital Transformation, Digital.
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Matthias Karner"
   avatar           : "/assets/images/MatthiasKarner.jpg"
-  bio              : "Engineering PhD. Led IT & digital transformation in industrial manufactoring. I write about what actually wokrs: under real organizational constraints."
+  bio              : "Engineering PhD. Led IT & digital transformation in industrial manufacturing. I write about what actually works: under real organizational constraints."
   #location         : "Europe"
   #email            : "matthias.karner@gmx.at"
   links:
