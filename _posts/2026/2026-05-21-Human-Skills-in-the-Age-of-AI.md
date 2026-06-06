@@ -4,14 +4,16 @@ description: "Are you afraid of losing your job to AI? Maybe you aren’t. But h
 date: 2026-05-21
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal Productivity
+  - Personal Operating Systems
 
 tags:
+  - Personal Operating Systems
   - Personal Productivity
   - Digital Transformation
   - Digitalization
   - generative AI
   - Methods
+  - Artificial Intelligence
 
 ---
 

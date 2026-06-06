@@ -4,10 +4,10 @@ description: "No one tells you that becoming a leader also means letting go of w
 date: 2026-05-07
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
-  - Management and Leadership
+  - Leadership as a System
   - Leadership
   - Career Advice
   - My Journey

@@ -4,10 +4,11 @@ description: "Morgan Housel has a rare talent: he writes about money in a way th
 date: 2026-04-30
 excerpt_separator: "<!--more-->"
 categories:
-  - Management and Leadership 
+  - Leadership as a System
   - Book Summary
 
 tags:
+  - Leadership as a System
   - Business
   - Psychology
   - Money

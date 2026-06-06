@@ -11,6 +11,7 @@ tags:
   - Leadership as a System
   - Digitalization
   - generative AI
+  - Artificial Intelligence
 
 ---
 

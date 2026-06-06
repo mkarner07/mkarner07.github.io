@@ -13,6 +13,7 @@ tags:
   - Digitalization
   - generative AI
   - Psychology
+  - Artificial Intelligence
 
 
 ---

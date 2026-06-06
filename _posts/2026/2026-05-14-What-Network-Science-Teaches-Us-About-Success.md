@@ -5,11 +5,11 @@ date: 2026-05-14
 excerpt_separator: "<!--more-->"
 categories:
   - Book Summary
-  - Management and Leadership
+  - Leadership as a System
 
 tags:
   - Leadership
-  - Management and Leadership
+  - Leadership as a System
   - Motivation
   - Career Advice
   - Books
