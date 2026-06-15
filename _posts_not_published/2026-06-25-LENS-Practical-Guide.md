@@ -1,7 +1,7 @@
 ---
 title: "LENS: A Practical Guide to Building a System That Actually Supports Decisions"
 description: "In the previous article, I described how my productivity system gradually evolved into what I now call LENS — a shift away from capturing everything and toward staying clear on priorities, decisions, and next steps. This article picks up from there."
-date: 2026-x-x
+date: 2026-06-25
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Operating Systems
@@ -20,9 +20,6 @@ This article picks up from there.
 | ![image](/assets/images/LENS.png) |
 |:--:|
 | *Image by the author created in cooperation with MS Copilot* |
-
-
-
 
 Instead of focusing on the idea behind LENS, the goal here is to show how it works in practice. Not as a rigid framework, but as a set of habits and structures that make everyday work a bit less noisy and a bit more understandable.
 
