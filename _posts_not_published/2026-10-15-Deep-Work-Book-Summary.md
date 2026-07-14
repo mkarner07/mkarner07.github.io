@@ -18,8 +18,8 @@ tags:
 
 ...
 
-| ![image](/assets/images/MS_Copilot_What-Network-Science-Teaches-Us-About-Success-1.png) |
+| ![image](/assets/imagesavi-richards-working_on_the_roof-unsplash.jpg) |
 |:--:|
-| *Image created in cooperation with MS Copilot* |
+| *Photo by Avi Richards on Unsplash* |
 
 ...

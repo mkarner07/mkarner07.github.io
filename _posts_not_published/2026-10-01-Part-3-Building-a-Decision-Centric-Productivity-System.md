@@ -7,9 +7,10 @@ categories:
   - Personal Operating Systems
 tags:
   - Personal Operating Systems
+  - Leadership as a System
   - Notetaking
+  - Decision
   - Methods
-  - Guide
 
 ---
 
