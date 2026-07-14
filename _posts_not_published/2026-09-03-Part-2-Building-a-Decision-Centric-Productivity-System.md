@@ -1,7 +1,7 @@
 ---
-title: "..."
+title: "Part 2: Building a Decision-Centric Productivity System - Workflows & Weekly Synthesis"
 description: "..."
-date: 2026-06-28
+date: 2026-08-20
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Operating Systems
