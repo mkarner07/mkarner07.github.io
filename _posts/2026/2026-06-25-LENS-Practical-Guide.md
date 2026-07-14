@@ -13,7 +13,7 @@ tags:
 
 ---
 
-In the previous article, I described how my productivity system gradually evolved into what I now call LENS — a shift away from capturing everything and toward staying clear on priorities, decisions, and next steps.
+In the previous article, I described how my productivity system gradually evolved into what I now call LENS — a shift away from capturing everything and toward staying clear on priorities, decisions and next steps.
 
 This article picks up from there.
 
@@ -37,7 +37,7 @@ LENS is not meant to capture your work. It’s meant to help you stay oriented w
 
 Most of what happens during the day never becomes part of the system. Meetings happen, emails come and go, conversations move on. LENS only touches a small subset of that flow — the parts that continue to matter beyond the moment they appear.
 
-In the first article, I described this as a shift from _recall_ to _clarity_. In practice, that simply means asking one question more often:
+In the first [article](https://matthiaskarner.com/2026/05/LENS/), I described this as a shift from _recall_ to _clarity_. In practice, that simply means asking one question more often:
 
 Does this change how I think about a topic or how I’m likely to decide in the future?
 

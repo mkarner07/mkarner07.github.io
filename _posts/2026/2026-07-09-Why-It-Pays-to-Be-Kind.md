@@ -1,7 +1,7 @@
 ---
 title: "Why It Pays to Be Kind (And Why That's a Good Thing)"
 description: "There's a quote I keep coming back to: In a world where you can be anything, be kind. I used to read it as a moral instruction. Now I read it differently. I think it's also just good advice."
-date: 2026-07-16
+date: 2026-07-09
 excerpt_separator: "<!--more-->"
 categories:
   - Leadership as a System

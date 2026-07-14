@@ -1,7 +1,7 @@
 ---
 title: "Why I Restructured My Website"
 description: "I launched this site in fall 2023. Since then I've written almost 200 articles. That's more than I expected when I started. Initially the site was basically a stream: a new post went on top and old posts slided down ..."
-date: 2026-07-23
+date: 2026-07-16
 excerpt_separator: "<!--more-->"
 categories:
   - Writing
