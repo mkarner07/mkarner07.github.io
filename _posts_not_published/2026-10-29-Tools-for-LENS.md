@@ -8,18 +8,20 @@ categories:
 
 tags:
   - Tools in the Real World
-  - My Journey
+  - Leadership as a System
+  - Notetaking
+  - Decision
+  - Methods
   - Digitalization
   - Tech
   - AI
-  
 
 ---
 
 ...
 
-| ![image](/assets/images/new-data-services-3D-printer-unsplash.jpg) |
+| ![image](/assets/images/diego-ph-lightbulb-unsplash.jpg) |
 |:--:|
-| *Photo by New Data Services on Unsplash* |
+| *Photo by Diego Ph on Unsplash* |
 
 ...
