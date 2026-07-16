@@ -49,7 +49,7 @@ I'll keep updating this page as that settles, but I don't expect the core descri
 
 ## Origins
 
-LENS didn't arrive fully formed. This two earlier posts are where I first worked out the concept and wrote a first practical guide (to write a guide to my future self actually). It's usful, if you want to read about the origin story of how the thinking developed, but the system has moved on since then in ways the three-part series above reflects more accurately.
+LENS didn't arrive fully formed. This two earlier posts are where I first worked out the concept and wrote a first practical guide (to write a guide to my future self actually). It's useful, if you want to read about the origin story of how the thinking developed, but the system has moved on since then in ways the three-part series above reflects more accurately.
 
 - [What LENS Is](https://matthiaskarner.com/2026/05/LENS/) - the original concept and why I moved away from a pure recall-based system.
 - [The Practical Guide](https://matthiaskarner.com/2026/06/LENS-Practical-Guide/) - my first attempt at a practical build, since refined into the series above.
