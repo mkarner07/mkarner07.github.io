@@ -20,7 +20,7 @@ There's a quote I keep coming back to: "In a world where you can be anything, be
 |:--:|
 | *Photo by Jonny Caspari on Unsplash* |
 
-Here's the thing about kindness as a leader: it's usually framed as a cost. You give your time, your patience, your energy, and you get nothing back except the warm feeling of having done the right thing. Nice, but expensive.
+Here's the thing about kindness as a leader: it's usually framed as a cost. You give your time, your patience, your energy and you get nothing back except the warm feeling of having done the right thing. Nice, but expensive.
 
 I don't think that's the full picture.
 
