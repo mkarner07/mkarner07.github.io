@@ -1,7 +1,7 @@
 ---
 title: "What I'd Teach a New Department Head in Their First 30 Days"
 description: "So far in my career, I’ve stepped into the role of department head three times. Each transition meant taking over a team and a set of processes I didn’t fully understand yet and each time, I learned a little more about where to focus in these critical first weeks. In my very first leadership role, I made some mistakes early on. I believed I had to lead primarily through technical excellence, setting the example by doing. But leadership isn’t simply a promotion. It’s a transformation."
-date: 2026-07-30
+date: 2026-07-23
 excerpt_separator: "<!--more-->"
 categories:
   - Leadership as a System
