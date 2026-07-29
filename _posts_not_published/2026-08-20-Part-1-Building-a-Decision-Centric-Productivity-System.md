@@ -88,6 +88,10 @@ The system consists of layers - with different levels of aggregation. This helps
 - **Knowledge elements**: distilled knowledge extracted from raw information
 - **Logs**: knowledge evolution and changes over time
 
+| ![image](/assets/images/LENS/LENS_Visualization.png) |
+|:--:|
+| *LENS document hierarchy, visualization by the author by* |
+
 ### 2.1. Home: the operational cockpit
 
 At the top (as it is the case with most websites) there is a **Home Page**. This is the control center that is actively curated.
@@ -163,6 +167,7 @@ Depending on the type of information, I use different classes of knowledge eleme
 - **Decision**: Similar to risks, knowledge elements that mainly revolve around a decision are labeled as decisions.
 - **Guide**: These knowledge elements are a bit different. They are more explanatory in nature and are used when knowledge exists in a process-oriented form that may need to be applied again in the future. They are essentially how-to guides.
 - **Concept**: These are knowledge elements that are more idea-like and exploratory.
+- **Pattern**: These are knowledge elements that combine knowledge and information from multiple other elements and/or describe if patterns are emerging
 
 Another important aspect of knowledge elements is their inherent structure. Every element contains the following sections:
 
@@ -192,6 +197,8 @@ With my new system, I (re-)introduced weekly tracking. Every week, I do a short 
 These logs are extremely powerful. They are essentially a snapshot of a particular week. If you revisit them later, you can quickly reload what the situation was back then: which decisions were still open, what the key challenges were and which topics were emerging. As a result, they become an effective progress tracker, allowing you to compare different weeks and see what actually changed.
 
 They have another benefit as well: when summarized at the end of the week, they become an excellent starting point for Monday morning, helping you boot up your RAM with the latest developments and context.
+
+Having the system some months operational, I learned that an additional log-level is beneficial and I introduced a quarterly-review. It similar to the weekly-review, but it gives a more aggregated overview and comes in handy in quarterly and yeary management meetings.
 
 The question the logs answer is: **"How did things evolve?"**
 

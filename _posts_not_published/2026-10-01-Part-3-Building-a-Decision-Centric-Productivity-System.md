@@ -21,3 +21,8 @@ tags:
 | *Image by the author created in cooperation with MS Copilot* |
 
 ...
+
+
+| ![image](/assets/images/LENS/LENS_Visualization_2.png) |
+|:--:|
+| *LENS document hierarchy including the agentic layer, visualization by the author by* |
