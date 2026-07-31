@@ -1,5 +1,5 @@
 ---
-title: "Here's How I Use Power Automate Across My Role"
+title: "Here's How I Use Power Automate Across My Role as Head of Information Technology"
 description: "I sit in about 30-40 meetings a week. On top of that, dozens of emails land in my inbox every day, most of them repetitive, plain, admin-style stuff. Many don't creativity - it just needs to get done."
 date: 2026-07-30
 excerpt_separator: "<!--more-->"
