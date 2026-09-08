@@ -206,4 +206,4 @@ The question the logs answer is: **"How did things evolve?"**
 
 That's the skeleton of the system: five layers, each answering a different question, from "what matters right now" down to "how did things evolve." On its own, though, a structure like this is just an empty shelf. What actually fills it (and keeps it alive week to week) is the set of workflows around it.
 
-That's what I'll walk through in [Part 2]({% post_url 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System %}): how information actually gets captured from meetings and emails, how it gets turned into knowledge elements and how a brief Friday review turns the whole thing into something much closer to a decision-support system than a note archive.
+That's what I'll walk through in Part 2: how information actually gets captured from meetings and emails, how it gets turned into knowledge elements and how a brief Friday review turns the whole thing into something much closer to a decision-support system than a note archive.
