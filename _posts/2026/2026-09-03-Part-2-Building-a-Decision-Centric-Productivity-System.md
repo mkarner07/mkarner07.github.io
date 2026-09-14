@@ -1,7 +1,7 @@
 ---
 title: "Part 2: Building a Decision-Centric Productivity System - Workflows & Weekly Synthesis"
 description: "In Part 1, I walked through the core principles behind my decision-centric productivity system and the five layers it's built on: Home, Meta pages, Projects, Knowledge elements, and Logs. That structure is really just scaffolding, though. What makes it useful is what flows through it. In this post, I'll get into the mechanics"
-date: 2026-08-20
+date: 2026-09-03
 excerpt_separator: "<!--more-->"
 categories:
   - Personal Operating Systems
