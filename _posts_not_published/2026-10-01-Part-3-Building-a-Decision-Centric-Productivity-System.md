@@ -125,9 +125,9 @@ Here's roughly how my files break down:
 | Home | 1 |
 | Inbox | max. 20 |
 | Meta-Pages | 3 |
-| Projects | 4 |
+| Projects | 5 |
 | Agent Documents | ~7 |
-| Logs | 12 (growing) |
+| Logs | 20 (growing) |
 | Knowledge elements | 200+ |
 | Documents | 20+ |
 
