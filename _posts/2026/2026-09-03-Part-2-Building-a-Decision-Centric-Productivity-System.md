@@ -194,6 +194,6 @@ This system helps you:
 
 ---
 
-That covers the system as I run it manually today - structure in Part 1, workflow here in Part 2.
+That covers the system as I run it manually today - structure in [Part 1]({% post_url 2026-08-20-Part-1-Building-a-Decision-Centric-Productivity-System %}), workflow here in [Part 2]({% 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System %}).
 
 There's a third piece I'm still building: making the system AI-ready, with an agent that can sit across the knowledge elements, logs and stakeholder context and actually help with decisions rather than just retrieving notes. It's not there yet, so I'll save that for its own post once it's actually working rather than just sketched out.

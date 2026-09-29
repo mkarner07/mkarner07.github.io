@@ -16,7 +16,7 @@ tags:
 
 In the first two parts of this series, I described how LENS works as a personal knowledge system.
 
-[Part 1]({% post_url 2026-08-20-Part-1-Building-a-Decision-Centric-Productivity-System %}) covered the core idea: a shift away from capturing everything and toward staying clear on what actually matters. [Part 2]({% 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System.md %}) went into the mechanics: how information enters the system, why small notes beat long summaries, and why linking beats sorting.
+[Part 1]({% post_url 2026-08-20-Part-1-Building-a-Decision-Centric-Productivity-System %}) covered the core idea: a shift away from capturing everything and toward staying clear on what actually matters. [Part 2]({% 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System %}) went into the mechanics: how information enters the system, why small notes beat long summaries, and why linking beats sorting.
 
 Both pieces deliberately left one question open: where does AI fit in?
 
