@@ -35,7 +35,7 @@ I used OneNote first. An honestly, it is a great piece of software: it seamlessl
 
 I moved to Obsidian and kept the vault files in my M365 OneDrive. The upside is actually boring in a good way: no server to run, sync just works, and it sits inside an supported environment. The downside: the Obsidian app on my phone doesn't support it. If I want to work with my notes on my phone, I must use a different markdown-writing app. 
 
-The agent layer lives on OneDrive too. I use Microsoft Copilot Studio at work, and it has access to the LENS vault. That's the whole trick: the structure from [Part 1]({% post_url 2026-08-20-Part-1-Building-a-Decision-Centric-Productivity-System %}) and [Part 2]({% 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System %}) is what makes it useful. Copilot is just what my employer gives me. Any other AI assistant that can read your files would do the same job. [Part 3]({% 2026-10-01-Part-3-Building-a-Decision-Centric-Productivity-System %}) covers the details, so I won't repeat them.
+The agent layer lives on OneDrive too. I use Microsoft Copilot Studio at work, and it has access to the LENS vault. That's the whole trick: the structure from [Part 1]({% post_url 2026-08-20-Part-1-Building-a-Decision-Centric-Productivity-System %}) and [Part 2]({% post_url 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System %}) is what makes it useful. Copilot is just what my employer gives me. Any other AI assistant that can read your files would do the same job. [Part 3]({% post_url 2026-10-01-Part-3-Building-a-Decision-Centric-Productivity-System %}) covers the details, so I won't repeat them.
 
 ### A few Python scripts
 
