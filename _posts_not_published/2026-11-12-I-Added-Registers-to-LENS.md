@@ -1,6 +1,6 @@
 ---
 title: "I added Registers to LENS"
-description: "..."
+description: "I recently added another piece to LENS: Registers. Meta, Projects, Logs and Knowledge Elements gave me a solid foundation, and it has worked well for months. Then I had a few calls with potential suppliers. I took notes and captured information that will become very useful later, for example when an issue hits and I need an external partner to resolve it."
 date: 2026-11-12
 excerpt_separator: "<!--more-->"
 categories:
