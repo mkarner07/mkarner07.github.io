@@ -4,8 +4,8 @@ title: "matthiaskarner.com"
 author_profile: true
 ---
 
-LinkedIn: https://linkedin.com/in/matthiaskarner
+[LinkedIn](https://linkedin.com/in/matthiaskarner)
 
-Research Gate: https://www.researchgate.net/profile/Matthias-Karner-3
+[Research Gate](https://www.researchgate.net/profile/Matthias-Karner-3)
 
-Website: https://matthiaskarner.com/
+[Website](https://matthiaskarner.com/)
