@@ -1,5 +1,5 @@
 ---
-title: "An Update to my 3D Printing Ambitions: 3D Printed Planes"
+title: "An Update to my 3D Printing Journey: 3D Printed Planes"
 description: "..."
 date: 2026-11-26
 excerpt_separator: "<!--more-->"
