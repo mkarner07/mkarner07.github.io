@@ -108,7 +108,7 @@ I added a dedicated folder to my LENS structure called **Agent Documents**. It c
 
 | ![image](/assets/images/LENS/LENS_Visualization_2.png) |
 |:--:|
-| *LENS document hierarchy including the agentic layer, visualization by the author by* |
+| *LENS document hierarchy including the agentic layer, visualization by the author* |
 
 Without something like this, retrieval works, but reasoning doesn't. The agent produces output that's technically grounded but contextually off. The Agent Operating Model closes that gap.
 

@@ -117,7 +117,7 @@ Here I wanted full control, so I sync with Obsidian LiveSync against a CouchDB i
 
 Was it worth it? 
 
-Yes, it was. I now have a local setupan am not reliant on a cloud service. I wasn't afraid of "losing" the data, but I do like the knowledge of my files living on my own storage much more. But it was not all sunshine and rainbows. It took some time to set up (but there are many good tutorials on how to setup LiveSync) and the sync only works when all devices are on the same network. So when I am on the go my notes from my phone will stay on my phone until it logs back into my home wifi.
+Yes, it was. I now have a local setup an am not reliant on a cloud service. I wasn't afraid of "losing" the data, but I do like the knowledge of my files living on my own storage much more. But it was not all sunshine and rainbows. It took some time to set up (but there are many good tutorials on how to setup LiveSync) and the sync only works when all devices are on the same network. So when I am on the go my notes from my phone will stay on my phone until it logs back into my home wifi.
 
 If you don't care where your notes live, the (paid) built-in Obsidian sync is the sane choice.
 
@@ -136,16 +136,11 @@ OneNote and Notion both struggled with at least one of these - OneNote notes are
 
 ## What didn't work
 
-In my private setup I iterated a lot between different ideas for syncing. At first I thought of just using Obsidian on my private PC, but it seemed off in the age of AI to not even have synchronization between devices. But I didn't want to pay for Obsidian sync, because I wasn't sure if I'd stay with Obsidian. Therefore, I researched a bit and found the plugin LiveSync. I implemented it - it wasn't to hard, but I had to set aside about an hour to get it running on my NAS. The plugin works fine (most of the time), but it is not perfect as there is no synchronization from my phone when I am not in my home Wi-Fi. But it will sync as soon as my phone logs into my home Wi-Fi.
+In my private setup I iterated a lot between different ideas for syncing. At first I thought of just using Obsidian on my private PC, but it seemed off in the age of AI to not even have synchronization between devices. But I didn't want to pay for Obsidian sync, because I wasn't sure if I'd stay with Obsidian. Therefore, I researched a bit and found the plugin LiveSync. I implemented it - it wasn't too hard, but I had to set aside about an hour to get it running on my NAS. The plugin works fine (most of the time), but it is not perfect as there is no synchronization from my phone when I am not in my home Wi-Fi. But it will sync as soon as my phone logs into my home Wi-Fi.
 
 And the syncing works quite well. Even if there pops up a conflict within a note (because it was changed from different systems at the same time) it can be easily resolved. And honestly, that doesn't happen all too often for the system.
 
 At work the agent-based functionalities were first very limited to the "simple" agents you can build with the Microsoft Copilot Pro version. The issue was that it is limited to about 50 different files - with a vault of 250+ files that's not covered. There are workarounds (as I closed with my Python script), but it is not optimal. But since I moved over to a more powerful agent provided from Microsoft Copilot Studio it unveiled the true power of an agent-supported working style.
-
-In my private setup I went back and forth a lot on syncing. At first, I thought about just using Obsidian on my private PC, but in the age of AI it felt off to have no synchronization between devices. I didn't want to pay for Obsidian Sync either, because I wasn't sure I'd stay with Obsidian. So, I did some research and found the LiveSync plugin. It wasn't too hard, but I had to set aside about an hour to get it running on my NAS.
-The plugin works fine, most of the time. The catch: my phone doesn't sync when I'm outside my home Wi-Fi. It catches up as soon as it's back on it. And the sync itself works quite well. If a note gets changed on two systems at once, the conflict is easy to resolve. Honestly, that doesn't happen all that often.
-
-At work, the agent side was very limited at first. The simple agents you can build with Copilot Pro handle about 50 files, and my vault has 250+. There are workarounds (as I closed with my Python script shown above), but they're not optimal. Then I moved to a more powerful agent in Microsoft Copilot Studio, and that showed me what an agent-supported way of working can really do.
 
 ## If you're starting tomorrow
 
@@ -155,7 +150,7 @@ Install Obsidian, make three note types, no plugins, no sync server, no agent.
 
 Use it for two weeks.
 
-Once your notes have a consistent structure, a small script or an AI assistant becomes useful almost immediately (but not before). Add a tool only when a specific pain shows up and not because a blog post mentioned it (including this one). If your company has already given you OneDrive, that's a fine place to start.
+Once your notes have a consistent structure, a small script or an AI assistant becomes useful almost immediately (but not before). Add a tool only when a specific pain shows up and not because a blog post mentioned it (including this one). If your company has already given you OneDrive, that's a great place to start.
 
 ---
 
