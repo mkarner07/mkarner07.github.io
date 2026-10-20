@@ -1,6 +1,6 @@
 ---
 permalink: /Advanced+Generative+AI/
-title: "matthiaskarner.com"
+title: "Advanced & Generative AI"
 author_profile: true
 ---
 
