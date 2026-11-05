@@ -155,4 +155,4 @@ Once your notes have a consistent structure, a small script or an AI assistant b
 ---
 
 #### More about LENS
-You can find the full system on the [LENS hub]({% 2026-10-01-LENS-a decision-centric-approach-to-knowledge-and-productivity %}). [Part 3]({% 2026-10-01-Part-3-Building-a-Decision-Centric-Productivity-System %}) covers the agent layer. In the next post I'll write about the "LENS Register" - an addition to LENS for list-like data (e.g. supplier lists).
+You can find the full system on the [LENS hub]({% post_url 2026-10-01-LENS-a decision-centric-approach-to-knowledge-and-productivity %}). [Part 3]({% post_url 2026-10-01-Part-3-Building-a-Decision-Centric-Productivity-System %}) covers the agent layer. In the next post I'll write about the "LENS Register" - an addition to LENS for list-like data (e.g. supplier lists).
