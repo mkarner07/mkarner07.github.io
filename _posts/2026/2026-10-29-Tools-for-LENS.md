@@ -47,7 +47,7 @@ Nothing clever. They save me time for repetitive steps.
 
 The following example is a script that combines all *.md files from a SOURCE_FOLDER and pastes their content in one file (OUTPUT_FILE) to be saved in the TARGET_FOLDER.
 
-```python
+{% highlight python %}
 from pathlib import Path
 
 # ==========================================
@@ -104,7 +104,7 @@ except PermissionError:
 
 except Exception as e:
     print(f"Error: {e}")
-```
+{% endhighlight %}
 
 
 If you can't code, this is a good place to start with AI help. Describe what you want, get a script, test it on a copy of your vault. I did do a lot of Python programming some years ago, but I am not very fast anymore, so I did create the scripts with AI-support, and it worked well (and saved me one or two hours).
