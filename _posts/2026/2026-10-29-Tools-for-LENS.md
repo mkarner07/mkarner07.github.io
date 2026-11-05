@@ -31,9 +31,9 @@ LENS is built around decisions, not software. If you can't say which decision a 
 
 LENS started here.
 
-I used OneNote first. An honestly, it is a great piece of software: it seamlessly syncs between devices, gives you a lot of freedom on how to structure your notes and supports many different media types (even good handwriting support). But I, nevertheless, switched to Obsidian. You might ask why and the answer is simple: proprietary of notes and lack of AI-support (there is within OneNote, but the information cannot be accessed from outside of OneNote).
+I used OneNote first. And honestly, it is a great piece of software: it seamlessly syncs between devices, gives you a lot of freedom on how to structure your notes and supports many different media types (even good handwriting support). But I, nevertheless, switched to Obsidian. You might ask why and the answer is simple: proprietary format of notes and lack of AI-support (there is within OneNote, but the information cannot be accessed from outside of OneNote).
 
-I moved to Obsidian and kept the vault files in my M365 OneDrive. The upside is actually boring in a good way: no server to run, sync just works, and it sits inside an supported environment. The downside: the Obsidian app on my phone doesn't support it. If I want to work with my notes on my phone, I must use a different markdown-writing app. 
+I moved to Obsidian and kept the vault files in my M365 OneDrive. The upside is actually boring in a good way: no server to run, sync just works, and it sits inside a supported environment. The downside: the Obsidian app on my phone doesn't support it. If I want to work with my notes on my phone, I must use a different markdown-writing app. 
 
 The agent layer lives on OneDrive too. I use Microsoft Copilot Studio at work, and it has access to the LENS vault. That's the whole trick: the structure from [Part 1]({% post_url 2026-08-20-Part-1-Building-a-Decision-Centric-Productivity-System %}) and [Part 2]({% post_url 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System %}) is what makes it useful. Copilot is just what my employer gives me. Any other AI assistant that can read your files would do the same job. [Part 3]({% post_url 2026-10-01-Part-3-Building-a-Decision-Centric-Productivity-System %}) covers the details, so I won't repeat them.
 
@@ -47,7 +47,7 @@ Nothing clever. They save me time for repetitive steps.
 
 The following example is a script that combines all *.md files from a SOURCE_FOLDER and pastes their content in one file (OUTPUT_FILE) to be saved in the TARGET_FOLDER.
 
-{% highlight bash %}
+```python
 from pathlib import Path
 
 # ==========================================
@@ -104,7 +104,7 @@ except PermissionError:
 
 except Exception as e:
     print(f"Error: {e}")
-{% endhighlight %}
+```
 
 
 If you can't code, this is a good place to start with AI help. Describe what you want, get a script, test it on a copy of your vault. I did do a lot of Python programming some years ago, but I am not very fast anymore, so I did create the scripts with AI-support, and it worked well (and saved me one or two hours).
@@ -117,7 +117,7 @@ Here I wanted full control, so I sync with Obsidian LiveSync against a CouchDB i
 
 Was it worth it? 
 
-Yes, it was. I now have a local setup an am not reliant on a cloud service. I wasn't afraid of "losing" the data, but I do like the knowledge of my files living on my own storage much more. But it was not all sunshine and rainbows. It took some time to set up (but there are many good tutorials on how to setup LiveSync) and the sync only works when all devices are on the same network. So when I am on the go my notes from my phone will stay on my phone until it logs back into my home wifi.
+Yes, it was. I now have a local setup an am not reliant on a cloud service. I wasn't afraid of "losing" the data, but I do like the knowledge of my files living on my own storage much more. But it was not all sunshine and rainbows.
 
 If you don't care where your notes live, the (paid) built-in Obsidian sync is the sane choice.
 
@@ -132,7 +132,7 @@ Two setups, same requirements:
 - It works on your phone, because decisions don't wait for your desk.
 - An AI assistant can read it. Which one is secondary, as the structure is what matters.
 
-OneNote and Notion both struggled with at least one of these - OneNote notes aren't really portable and, Notion is only cloud-based and both lack AI connectivity (both have integrated AI, though). Obsidian meets all requirements in both environments.
+OneNote and Notion both struggled with at least one of these - OneNote notes aren't really portable and, Notion is only cloud-based and both lack AI connectivity (both have integrated AI, though). Obsidian meets all requirements in both environments (with the least restrictions).
 
 ## What didn't work
 
