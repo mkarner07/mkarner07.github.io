@@ -62,6 +62,19 @@ For people who are not interested in AI privately, it can be hard to grasp the c
 
 After a "click-moment" many privious non-AI users overshoot and try to apply AI on everything. Therefore, it is also important to provide them also with information on what AI cannot (yet) do and what you shouldn't do with AI. I think you don't have to send very employee of an organization to a multi-day seminar on AI, but a basic AI literacy is important to bring AI to the people in an organization.
 
-Experimentation: Let people discover use cases in their own work.
+## Experimentation
+
+Let people discover use cases in their own work.
+
+This is where I think you need AI power users in larger organizations. People who are genuinly interested in the AI topic and are willing to (i) dive deeper into the topic and (ii) also serve as knowledge-transfering agent within the departments.
+
+They should get more AI tools / capabilities than the average user and should be encouraged to experiment.
+
+This has to effects:
+- learning and improving AI literacy
+- creating solutions for the departments that show the average user what is possible with the technology and therefore gain more (and broader) interest in the topic.
+
+
+
 Integration: Move from prompts to flows, agents, data and actual processes.
 Transformation: Redesign work instead of simply making existing tasks 10% faster.
