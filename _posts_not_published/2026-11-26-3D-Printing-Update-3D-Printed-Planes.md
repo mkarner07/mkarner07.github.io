@@ -1,6 +1,6 @@
 ---
 title: "An Update to my 3D Printing Journey: 3D Printed Planes"
-description: "..."
+description: "As of the time of writing this article, I have printed 350 objects on my 3D printer (and most likely 500+ plates). So since April I printed an additional 150 parts. While that's still a lot, my pace has come down a bit."
 date: 2026-11-26
 excerpt_separator: "<!--more-->"
 categories:
