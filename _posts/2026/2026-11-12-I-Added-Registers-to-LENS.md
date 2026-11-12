@@ -63,4 +63,4 @@ When I talk to a business partner (supplier or customer) and a Knowledge Element
 
 ---
 
-New to LENS? Start with the [LENS hub]({% post_url 2026-10-01-LENS-a decision-centric-approach-to-knowledge-and-productivity %}).
+New to LENS? Start with the [LENS hub]({% post_url 2026-10-01-LENS-a-decision-centric-approach-to-knowledge-and-productivity %}).
