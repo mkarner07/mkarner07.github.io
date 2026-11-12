@@ -49,8 +49,8 @@ My supplier Register has three columns: company, category, and one *fat* column 
 
 | Company | Category | Notes, contacts, links |
 |---|---|---|
-| Example MES GmbH | MES | Strong on discrete manufacturing, weak on reporting. Contact: Anna Beispiel (sales), Max Muster (technical lead). Call 2026-09: open to a pilot on one line. See \[\[MES Interface Limits\]\] |
-| Example Analytics | AI | Small team, fast delivery, no 24/7 support. Contact: Jane Doe. Referred by a peer in the industry. See \[\[Predictive Maintenance Data Requirements\]\] |
+| Example MES GmbH | MES | Strong on discrete manufacturing, weak on reporting. Contact: Anna Beispiel (sales), Max Muster (technical lead). Call 2026-09: open to a pilot on one line. See  [[MES Interface Limits]] |
+| Example Analytics | AI | Small team, fast delivery, no 24/7 support. Contact: Jane Doe. Referred by a peer in the industry. See [[Predictive Maintenance Data Requirements]] |
 | Example Engineering AG | R&D | Good for one-off prototypes, expensive for anything recurring. Contact: John Roe. Link: company website, reference project PDF |
 
 (All names are made up, obviously.)
@@ -63,4 +63,4 @@ When I talk to a business partner (supplier or customer) and a Knowledge Element
 
 ---
 
-New to LENS? Start with the [LENS hub]({% 2026-10-01-LENS-a decision-centric-approach-to-knowledge-and-productivity %}).
+New to LENS? Start with the [LENS hub]({% post_url 2026-10-01-LENS-a decision-centric-approach-to-knowledge-and-productivity %}).
