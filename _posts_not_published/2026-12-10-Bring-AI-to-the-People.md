@@ -36,7 +36,7 @@ But, people are not broadly using AI on a deeper level.
 
 And perhaps that is one of the biggest challenges of AI adoption today. Giving people access to AI is not the same as enabling them to actually use it.
 
-The real shift happens when we start integrating AI into the way we actually work: combining it with [automated flows](https://matthiaskarner.com/2026/07/Here-is-How-I-Use-Power-Automate-Across-My-Role/), connecting it to [our information and processes](https://matthiaskarner.com/2026/10/Part-3-Building-a-Decision-Centric-Productivity-System/), or introducing agents that can take on parts of a workflow as members of a virtual workforce.
+The real shift happens when we start integrating AI into the way we actually work: combining it with [automated flows](https://matthiaskarner.com/2026/07/Here-is-How-I-Use-Power-Automate-Across-My-Role/), connecting it to [our information and processes](https://matthiaskarner.com/2026/10/Part-3-Building-a-Decision-Centric-Productivity-System/), or introducing agents that can take on parts of a workflow on their own or even become members of your (virtual) team.
 
 It is not about turning everyone into an AI expert. It is about showing people what is possible and giving them enough understanding to become curious to identify the opportunities hidden in their own daily work.
 
@@ -44,11 +44,24 @@ That is what I want to explore in this article.
 
 ...
 
+## Access
 
-Structure
+Give people safe and easy access to capable AI tools. This is what many organizations already do. Bigger comapnies usually govern what AI can be used by employees. For my current organization, for example, it is Microsoft Copilot. Other AI tools are shut out from use to keep sure that no confidential information wanders off by a not so careful employee.
 
-Access: Give people safe, easy access to capable AI tools.
-Understanding: Show what AI can and cannot do.
+And yes that can become a problem. There are dozens examples on when an employee used critical information within a chat and information got publicly available.
+
+So yes governance is a good thing. However, it is a fine line between keeping confidential information within an organization and limiting the true potential.
+
+In my opinion it is important that there is governance and simultaneously clear information on (i) why that governance exists, but also on (ii) what is possible within the governance (beyond a simple use of chat).
+
+## Understanding
+
+Show what AI can and cannot do.
+
+For people who are not interested in AI privately, it can be hard to grasp the capabilities of AI. Therefore, it is a good practice to show them the capabilities of AI in a context they already understand. In my experience this works well. Show them how they can integrate AI in the existing workflows and how they can safe time.
+
+After a "click-moment" many privious non-AI users overshoot and try to apply AI on everything. Therefore, it is also important to provide them also with information on what AI cannot (yet) do and what you shouldn't do with AI. I think you don't have to send very employee of an organization to a multi-day seminar on AI, but a basic AI literacy is important to bring AI to the people in an organization.
+
 Experimentation: Let people discover use cases in their own work.
 Integration: Move from prompts to flows, agents, data and actual processes.
 Transformation: Redesign work instead of simply making existing tasks 10% faster.
