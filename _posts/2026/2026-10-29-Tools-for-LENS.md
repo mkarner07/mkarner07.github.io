@@ -60,7 +60,7 @@ TARGET_FOLDER = ...
 OUTPUT_FILE = "knowledge-elements-combined.txt"
 
 # ==========================================
-# Verarbeitung
+# Computing
 # ==========================================
 
 source_path = Path(SOURCE_FOLDER)
@@ -73,10 +73,10 @@ temp_file = target_path / f"{OUTPUT_FILE}.tmp"
 
 try:
 
-    # Zuerst in temporäre Datei schreiben
+    # First write in a temporary files
     with open(temp_file, "w", encoding="utf-8") as outfile:
 
-        # Dateien alphabetisch verarbeiten
+        # Sort files alphabetically
         for index, md_file in enumerate(sorted(source_path.glob("*.md"))):
 
             if index > 0:
@@ -84,17 +84,17 @@ try:
             else:
                 outfile.write("# ")
 
-            # Dateiname ohne Endung
+            # Create file
             outfile.write(f"{md_file.stem}\n\n")
 
-            # Read-Only Zugriff auf Quelldatei
+            # Read-Only access to the source-file
             with open(md_file, "r", encoding="utf-8") as infile:
                 outfile.write(infile.read().strip())
 
-    # Bestehende Datei atomar ersetzen
+    # Replace initial file
     temp_file.replace(output_file)
 
-    print(f"Datei erstellt: {output_file}")
+    print(f"File created: {output_file}")
 
 except PermissionError:
     print(
