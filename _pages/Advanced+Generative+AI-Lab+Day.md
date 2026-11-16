@@ -1,5 +1,5 @@
 ---
-permalink: /Advanced+Generative+AI-Lab+Day/
+permalink: /Advanced+Generative+AI+Lab+Day/
 title: "Lab Day: AI-Assisted Fault Report Triage"
 author_profile: true
 ---
