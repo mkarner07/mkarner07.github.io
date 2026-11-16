@@ -9,3 +9,6 @@ Here are the links to ...
 - [LinkedIn](https://linkedin.com/in/matthiaskarner)
 - [Research Gate](https://www.researchgate.net/profile/Matthias-Karner-3)
 - [Website](https://matthiaskarner.com/)
+
+For the lecture "Advanced and Generative AI":
+- [Use-Case-Canvas](https://matthiaskarner.com/use-case-canvas/)
