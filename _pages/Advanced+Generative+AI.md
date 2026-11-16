@@ -11,6 +11,9 @@ This page is for my students in the lecture "Advanced and Generative AI". Everyt
 **[Use-Case-Canvas](/use-case-canvas/)**
 The canvas we use to sketch out AI use cases. Runs in the browser, nothing to install.
 
+**[Sequenz-Spielwiese](/sequenz-spielwiese/)**
+A playground for production sequencing. Try different optimization algorithms on a demo modelled on a real industrial setting and see how they compare.
+
 ## Stay in touch
 
 Questions after the lecture, or just curious what I do the rest of the week:

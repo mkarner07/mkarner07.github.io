@@ -1,0 +1,1756 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sequenz-Spielwiese</title>
+<style>
+  :root {
+    --bg: #f4f5f7;
+    --panel: #ffffff;
+    --text: #111418;
+    --muted: #4a5260;
+    --border: #c3c8d0;
+    --accent: #0b5cad;
+    --accent-text: #ffffff;
+    --error: #b00020;
+    --error-bg: #fdecee;
+    --setup: #8a8f98;
+    --late: #d00000;
+    --best-bg: #d6f0df;
+    --best-border: #1e7b45;
+    --grid: #e2e5e9;
+    --radius: 6px;
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  html { font-size: 18px; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.4;
+  }
+  h1 { font-size: 1.6rem; margin: 0; }
+  h2 { font-size: 1.2rem; margin: 0 0 0.6rem; }
+  h3 { font-size: 1.05rem; margin: 1rem 0 0.4rem; }
+  button {
+    font: inherit;
+    font-size: 0.9rem;
+    padding: 0.35rem 0.8rem;
+    border: 2px solid var(--accent);
+    border-radius: var(--radius);
+    background: var(--panel);
+    color: var(--accent);
+    cursor: pointer;
+  }
+  button:hover:not(:disabled) { background: var(--accent); color: var(--accent-text); }
+  button:disabled { opacity: 0.45; cursor: not-allowed; }
+  input, select { font: inherit; font-size: 0.95rem; }
+  input[type="number"] { width: 4.6rem; padding: 0.15rem 0.3rem; text-align: right; }
+  input[type="text"] { padding: 0.15rem 0.4rem; }
+  input.invalid { outline: 3px solid var(--error); background: var(--error-bg); }
+  input:disabled { background: #eceef1; color: var(--muted); border: 1px solid #d5d9de; }
+
+  .topbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 2rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.8rem 1.2rem;
+    background: var(--panel);
+    border-bottom: 2px solid var(--border);
+  }
+  .topbar p { margin: 0.15rem 0 0; color: var(--muted); }
+  .source-tag {
+    display: inline-block;
+    margin-left: 0.4rem;
+    padding: 0 0.4rem;
+    border-radius: var(--radius);
+    background: #fff3cd;
+    color: #5c4400;
+    font-size: 0.85rem;
+  }
+  .controls { display: flex; flex-wrap: wrap; gap: 0.8rem 1.4rem; align-items: center; }
+  .mode { border: 2px solid var(--border); border-radius: var(--radius); padding: 0.2rem 0.7rem; margin: 0; }
+  .mode legend { font-size: 0.8rem; color: var(--muted); padding: 0 0.3rem; }
+  .mode label { margin-right: 0.8rem; cursor: pointer; }
+  .mode label.disabled { color: #9aa1ab; cursor: not-allowed; text-decoration: line-through; }
+  .mode label:has(input[type="checkbox"]) { white-space: nowrap; }
+
+  .comparison th, .comparison td { padding: 0.35rem 0.7rem; }
+  .comparison td.method { font-weight: 600; white-space: nowrap; }
+  .comparison td.best { background: var(--best-bg); font-weight: 700; box-shadow: inset 0 0 0 2px var(--best-border); }
+  .unit { font-weight: 400; font-size: 0.75rem; }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 0.3rem 1.2rem; margin-bottom: 0.6rem; font-size: 0.9rem; }
+  .swatch.setup-swatch { background: var(--setup); }
+  .swatch.late-swatch { background: transparent; border: 3px solid var(--late); }
+  .gantt { margin-bottom: 1rem; }
+  .gantt h3 { display: flex; flex-wrap: wrap; gap: 0.2rem 1rem; align-items: baseline; margin: 0.6rem 0 0.2rem; }
+  .gantt .sequence { font-weight: 400; font-size: 0.85rem; color: var(--muted); }
+  .gantt svg { display: block; }
+  .gantt svg text { font-family: inherit; }
+  .gantt .row-label { font-size: 15px; font-weight: 600; fill: var(--text); }
+  .gantt .tick { font-size: 13px; fill: var(--muted); }
+  .gantt .grid { stroke: var(--grid); stroke-width: 1; }
+  .gantt .setup { fill: var(--setup); }
+  .gantt .job { stroke: rgba(0, 0, 0, 0.5); stroke-width: 1; }
+  .gantt .job.late { stroke: var(--late); stroke-width: 4; }
+  .gantt .bar-label { font-size: 14px; font-weight: 700; pointer-events: none; }
+  .gantt g.op { cursor: default; }
+
+  .sa-controls { display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: 0.4rem 1.2rem; }
+  .sa-controls label { display: flex; gap: 0.4rem; align-items: center; }
+  .sa-controls input[type="range"] { flex: 1; min-width: 6rem; }
+  .sa-controls output { min-width: 3.6rem; text-align: right; font-variant-numeric: tabular-nums; }
+  .sa-buttons { margin: 0.4rem 0 0.6rem; }
+  #sa-canvas { display: block; border: 1px solid var(--grid); border-radius: var(--radius); }
+  .sa-stats { display: flex; flex-wrap: wrap; gap: 0.2rem 1.4rem; margin-top: 0.5rem; font-variant-numeric: tabular-nums; }
+  .sa-stats .better { color: var(--best-border); font-weight: 700; }
+  .sa-stats .worse { color: #8a4b00; font-weight: 700; }
+
+  .tooltip {
+    position: fixed;
+    z-index: 10;
+    pointer-events: none;
+    max-width: 24rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: var(--radius);
+    background: var(--text);
+    color: var(--panel);
+    font-size: 0.9rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  }
+  .tooltip .late-text { color: #ff8a8a; font-weight: 700; }
+  .buttons { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .home-link { color: var(--accent); font-weight: 600; }
+  .help {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-left: 0.3rem;
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    color: var(--accent);
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: 0.1rem;
+  }
+  .help:hover { background: var(--accent); color: var(--accent-text); }
+
+  main {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 1rem;
+    padding: 1rem 1.2rem;
+  }
+  .column { display: flex; flex-direction: column; gap: 1rem; min-width: 0; }
+  .panel {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 0.9rem 1rem;
+    overflow-x: auto;
+  }
+  .hint { margin: 0 0 0.5rem; color: var(--muted); font-size: 0.85rem; }
+  .placeholder { color: var(--muted); }
+
+  .generator { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: center; margin-bottom: 0.8rem; }
+  .generator label { display: flex; gap: 0.35rem; align-items: center; }
+  .generator output { min-width: 2rem; font-variant-numeric: tabular-nums; }
+
+  table { border-collapse: collapse; font-variant-numeric: tabular-nums; }
+  th, td { padding: 0.2rem 0.45rem; text-align: left; border-bottom: 1px solid #e2e5e9; }
+  th { font-size: 0.85rem; color: var(--muted); font-weight: 600; }
+  td.num, th.num { text-align: right; }
+  .swatch {
+    display: inline-block;
+    width: 0.9rem;
+    height: 0.9rem;
+    border-radius: 3px;
+    vertical-align: -0.1rem;
+    margin-right: 0.35rem;
+    border: 1px solid rgba(0, 0, 0, 0.35);
+  }
+  .delete-btn { padding: 0 0.5rem; border-width: 1px; }
+  .table-actions { margin-top: 0.6rem; }
+  .matrix-name { font-weight: 600; width: 16rem; }
+  .matrix td.row-head, .matrix th.row-head { font-weight: 600; color: var(--text); }
+  .bottleneck { font-weight: 700; }
+  .badge { font-size: 0.8rem; padding: 0 0.35rem; border-radius: var(--radius); background: var(--text); color: var(--panel); margin-left: 0.4rem; }
+
+  .error-box {
+    margin: 1rem 1.2rem;
+    padding: 1rem 1.2rem;
+    border: 2px solid var(--error);
+    border-radius: var(--radius);
+    background: var(--error-bg);
+  }
+  .error-box h2 { color: var(--error); }
+  .error-box li { font-family: ui-monospace, Consolas, monospace; font-size: 0.9rem; }
+
+  @media (max-width: 1100px) {
+    main { grid-template-columns: minmax(0, 1fr); }
+  }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div>
+    <h1>Sequenz-Spielwiese</h1>
+    <p id="scenario-line"></p>
+  </div>
+  <div class="controls">
+    <fieldset class="mode">
+      <legend>Modus</legend>
+      <label><input type="radio" name="mode" value="single"> Eine Maschine</label>
+      <label><input type="radio" name="mode" value="line"> Linie</label>
+    </fieldset>
+    <fieldset class="mode" id="method-select">
+      <legend>Verfahren <a class="help" href="dokumentation.html#verfahren" target="_blank" rel="noopener" title="Erklärung: Verfahren" aria-label="Erklärung: Verfahren">?</a></legend>
+    </fieldset>
+    <div class="buttons">
+      <button id="btn-reset" title="Alle Änderungen verwerfen und stammdaten.js neu laden">Zurücksetzen</button>
+      <button id="btn-save" title="Aktuellen Stand als stammdaten.js herunterladen">Stammdaten speichern</button>
+      <button id="btn-mini-single" title="Prüfbeispiel: 5 Aufträge, 2 Familien, 1 Maschine">Mini-Beispiel 1 Maschine</button>
+      <button id="btn-mini-line" title="Prüfbeispiel: 4 Aufträge, 2 Familien, 2 Maschinen">Mini-Beispiel Linie</button>
+    </div>
+    <a class="home-link" href="dokumentation.html" target="_blank" rel="noopener">Dokumentation</a>
+    <a id="home-link" class="home-link" hidden></a>
+  </div>
+</header>
+
+<section id="load-error" class="error-box" hidden></section>
+
+<main id="app" hidden>
+  <div class="column">
+    <section class="panel">
+      <h2>Aufträge <a class="help" href="dokumentation.html#datenmodell" target="_blank" rel="noopener" title="Erklärung: Datenmodell" aria-label="Erklärung: Datenmodell">?</a></h2>
+      <div class="generator">
+        <label>Seed <input id="gen-seed" type="number" step="1"></label>
+        <label>Anzahl <input id="gen-count" type="number" min="1" max="50" step="1"></label>
+        <label title="Wie eng die Fälligkeitstermine im Verhältnis zur Arbeitslast liegen">
+          Termindruck <input id="gen-pressure" type="range" min="0" max="1" step="0.1">
+          <output id="gen-pressure-out"></output><a class="help" href="dokumentation.html#termindruck" target="_blank" rel="noopener" title="Erklärung: Termindruck" aria-label="Erklärung: Termindruck">?</a>
+        </label>
+        <button id="btn-generate">Aufträge erzeugen</button>
+      </div>
+      <p class="hint">Bearbeitungszeit und Termin in Minuten ab Start (t = 0).</p>
+      <table id="job-table"></table>
+      <div class="table-actions"><button id="btn-add-job">+ Auftrag</button></div>
+    </section>
+
+    <section class="panel">
+      <h2>Produktfamilien</h2>
+      <table id="family-table"></table>
+    </section>
+
+    <section class="panel">
+      <h2>Rüstzeiten (Minuten) <a class="help" href="dokumentation.html#ruestzeiten" target="_blank" rel="noopener" title="Erklärung: Rüstzeiten" aria-label="Erklärung: Rüstzeiten">?</a></h2>
+      <p class="hint">Zeile = von, Spalte = nach. „leer“ ist der Ausgangszustand vor dem ersten Auftrag.</p>
+      <div id="setup-matrices"></div>
+    </section>
+  </div>
+
+  <div class="column">
+    <section class="panel">
+      <h2>Übersicht</h2>
+      <div id="summary"></div>
+    </section>
+    <section class="panel">
+      <h2>Vergleich der Verfahren <a class="help" href="dokumentation.html#kennzahlen" target="_blank" rel="noopener" title="Erklärung: Kennzahlen" aria-label="Erklärung: Kennzahlen">?</a></h2>
+      <div id="comparison"></div>
+    </section>
+    <section class="panel">
+      <h2>Simulated Annealing <a class="help" href="dokumentation.html#sa" target="_blank" rel="noopener" title="Erklärung: Simulated Annealing" aria-label="Erklärung: Simulated Annealing">?</a></h2>
+      <div class="sa-controls">
+        <label>Zielfunktion
+          <select id="sa-objective">
+            <option value="makespan">Makespan</option>
+            <option value="tardiness">Σ Verspätung</option>
+            <option value="weighted">Gewichtet</option>
+          </select>
+        </label>
+        <label id="sa-alpha-wrap" title="Gewicht des Makespans; 1 − α ist das Gewicht der Verspätung">α
+          <input id="sa-alpha" type="range" min="0" max="1" step="0.05"> <output id="sa-alpha-out"></output>
+        </label>
+        <label title="Hohe Temperatur: auch deutliche Verschlechterungen werden anfangs oft akzeptiert">Starttemperatur
+          <input id="sa-temperature" type="range" min="1" max="500" step="1"> <output id="sa-temperature-out"></output>
+        </label>
+        <label title="Faktor, mit dem die Temperatur nach jeder Iteration multipliziert wird">Abkühlrate
+          <input id="sa-cooling" type="range" min="0.99" max="0.9995" step="0.0005"> <output id="sa-cooling-out"></output>
+        </label>
+        <label>Iterationen
+          <input id="sa-iterations" type="range" min="500" max="20000" step="500"> <output id="sa-iterations-out"></output>
+        </label>
+        <label title="Startwert für die zufällige Startreihenfolge und die Zufallszüge">Seed
+          <input id="sa-seed" type="number" step="1">
+        </label>
+      </div>
+      <p class="hint" id="sa-formula"></p>
+      <div class="buttons sa-buttons">
+        <button id="sa-play">▶ Animation starten</button>
+        <button id="sa-end">Zum Ende</button>
+      </div>
+      <canvas id="sa-canvas" role="img" aria-label="Konvergenzkurve Simulated Annealing"></canvas>
+      <div id="sa-stats" class="sa-stats"></div>
+    </section>
+    <section class="panel">
+      <h2>Gantt-Charts <a class="help" href="dokumentation.html#zeitplan" target="_blank" rel="noopener" title="Erklärung: Zeitplan" aria-label="Erklärung: Zeitplan">?</a></h2>
+      <div id="gantt-legend" class="legend"></div>
+      <div id="gantts"></div>
+    </section>
+  </div>
+</main>
+
+<div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+
+<script>
+  // Collects load problems of stammdaten.js before the app script runs.
+  window.__masterDataErrors = [];
+  window.__masterDataMissing = false;
+  window.addEventListener("error", function (e) {
+    if (e.filename && /stammdaten\.js$/.test(e.filename)) {
+      window.__masterDataErrors.push("Zeile " + e.lineno + ": " + e.message);
+    }
+  });
+</script>
+<script src="stammdaten.js" onerror="window.__masterDataMissing = true"></script>
+<script>
+"use strict";
+
+/* ============================== data ============================== */
+
+const EMPTY = "empty";
+const FAMILY_LIMITS = [2, 8];
+const MACHINE_LIMITS = [1, 5];
+const JOB_COUNT_LIMITS = [1, 50];
+const MAX_SHOWN_ERRORS = 30;
+
+// Okabe-Ito based, distinguishable for common colour vision deficiencies; red and grey stay reserved.
+const FAMILY_COLORS = ["#0072B2", "#E69F00", "#009E73", "#CC79A7", "#56B4E9", "#F0E442", "#8C5A2B", "#1B3A6B"];
+
+const MINI_SINGLE = {
+  scenario: { name: "Mini-Beispiel: eine Maschine", description: "5 Aufträge, 2 Familien – Kennzahlen von Hand nachrechenbar" },
+  families: [
+    { id: "A", name: "Familie A" },
+    { id: "B", name: "Familie B" }
+  ],
+  machines: [
+    { id: "m1", name: "Maschine 1", setup: { empty: { A: 2, B: 3 }, A: { A: 0, B: 4 }, B: { A: 6, B: 0 } } }
+  ],
+  singleMachine: "m1",
+  jobs: [
+    { id: 1, family: "A", processingTimes: { m1: 5 }, dueDate: 10 },
+    { id: 2, family: "B", processingTimes: { m1: 3 }, dueDate: 12 },
+    { id: 3, family: "A", processingTimes: { m1: 4 }, dueDate: 30 },
+    { id: 4, family: "B", processingTimes: { m1: 6 }, dueDate: 20 },
+    { id: 5, family: "A", processingTimes: { m1: 2 }, dueDate: 25 }
+  ],
+  generator: { seed: 1, jobCount: 5, dueDatePressure: 0.5, processingTimeRanges: { m1: { min: 2, max: 6 } } }
+};
+
+const MINI_LINE = {
+  scenario: { name: "Mini-Beispiel: Linie", description: "4 Aufträge, 2 Familien, 2 Maschinen – Kennzahlen von Hand nachrechenbar" },
+  families: [
+    { id: "A", name: "Familie A" },
+    { id: "B", name: "Familie B" }
+  ],
+  machines: [
+    { id: "m1", name: "Maschine 1", setup: { empty: { A: 1, B: 2 }, A: { A: 0, B: 3 }, B: { A: 2, B: 0 } } },
+    { id: "m2", name: "Maschine 2", setup: { empty: { A: 2, B: 1 }, A: { A: 0, B: 2 }, B: { A: 4, B: 0 } } }
+  ],
+  singleMachine: "m2",
+  jobs: [
+    { id: 1, family: "A", processingTimes: { m1: 3, m2: 4 }, dueDate: 12 },
+    { id: 2, family: "B", processingTimes: { m1: 2, m2: 5 }, dueDate: 16 },
+    { id: 3, family: "A", processingTimes: { m1: 4, m2: 2 }, dueDate: 28 },
+    { id: 4, family: "B", processingTimes: { m1: 3, m2: 3 }, dueDate: 24 }
+  ],
+  generator: { seed: 1, jobCount: 4, dueDatePressure: 0.5, processingTimeRanges: { m1: { min: 2, max: 5 }, m2: { min: 2, max: 5 } } }
+};
+
+const SOURCES = {
+  file: { label: null, data: () => window.MASTER_DATA, mode: "single", lockMode: false },
+  // Hand-calculated reference values only hold for the mode the example was built for.
+  miniSingle: { label: "Prüfbeispiel", data: () => MINI_SINGLE, mode: "single", lockMode: true },
+  miniLine: { label: "Prüfbeispiel", data: () => MINI_LINE, mode: "line", lockMode: true }
+};
+
+const state = {
+  data: null,      // working copy in the shape of MASTER_DATA
+  source: "file",
+  mode: "single",  // "single" | "line"
+  dirty: false,
+  selectedMethods: new Set(["fifo", "spt", "edd", "nn", "sa"]),
+  results: [],     // [{ method, label, sequence, metrics }] for the selected methods
+  saParams: { objective: "weighted", alpha: 0.5, startTemperature: 100, coolingRate: 0.998, iterations: 5000, seed: 1 },
+  // Animation replays the precomputed run; shown = number of iterations revealed so far.
+  saView: { shown: Infinity, playing: false, frame: 0 }
+};
+
+function clone(value) {
+  return JSON.parse(JSON.stringify(value));
+}
+
+function mulberry32(seed) {
+  let a = seed >>> 0;
+  return function () {
+    a = (a + 0x6D2B79F5) >>> 0;
+    let t = a;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function randomInt(rng, min, max) {
+  return min + Math.floor(rng() * (max - min + 1));
+}
+
+const isObject = v => v !== null && typeof v === "object" && !Array.isArray(v);
+const isText = v => typeof v === "string" && v.trim() !== "";
+const isInt = v => Number.isInteger(v);
+const show = v => JSON.stringify(v) ?? "nichts";
+
+function validateMasterData(d) {
+  const errors = [];
+  const err = (path, message) => errors.push(path + ": " + message);
+
+  if (!isObject(d)) {
+    err("MASTER_DATA", "fehlt oder ist kein Objekt");
+    return errors;
+  }
+
+  if (!isObject(d.scenario)) err("scenario", "Objekt erwartet");
+  else {
+    if (!isText(d.scenario.name)) err("scenario.name", "Text erwartet");
+    if (d.scenario.description !== undefined && typeof d.scenario.description !== "string") err("scenario.description", "Text erwartet");
+  }
+  if (d.homeLink !== undefined && !(isObject(d.homeLink) && isText(d.homeLink.url) && isText(d.homeLink.label))) {
+    err("homeLink", "Objekt mit url und label erwartet");
+  }
+
+  const familyIds = [];
+  if (!Array.isArray(d.families)) err("families", "Liste erwartet");
+  else {
+    if (d.families.length < FAMILY_LIMITS[0] || d.families.length > FAMILY_LIMITS[1]) {
+      err("families", `${FAMILY_LIMITS[0]} bis ${FAMILY_LIMITS[1]} Familien erwartet, gefunden: ${d.families.length}`);
+    }
+    d.families.forEach((f, i) => {
+      const p = `families[${i}]`;
+      if (!isObject(f)) return err(p, "Objekt erwartet");
+      if (!isText(f.id)) err(p + ".id", "Text erwartet");
+      else if (f.id === EMPTY) err(p + ".id", `"${EMPTY}" ist für den Ausgangszustand reserviert`);
+      else if (familyIds.includes(f.id)) err(p + ".id", `"${f.id}" kommt doppelt vor`);
+      else familyIds.push(f.id);
+      if (!isText(f.name)) err(p + ".name", "Text erwartet");
+      if (f.details !== undefined && typeof f.details !== "string") err(p + ".details", "Text erwartet");
+    });
+  }
+
+  const machineIds = [];
+  if (!Array.isArray(d.machines)) err("machines", "Liste erwartet");
+  else {
+    if (d.machines.length < MACHINE_LIMITS[0] || d.machines.length > MACHINE_LIMITS[1]) {
+      err("machines", `${MACHINE_LIMITS[0]} bis ${MACHINE_LIMITS[1]} Maschinen erwartet, gefunden: ${d.machines.length}`);
+    }
+    d.machines.forEach((m, i) => {
+      const p = `machines[${i}]`;
+      if (!isObject(m)) return err(p, "Objekt erwartet");
+      if (!isText(m.id)) err(p + ".id", "Text erwartet");
+      else if (machineIds.includes(m.id)) err(p + ".id", `"${m.id}" kommt doppelt vor`);
+      else machineIds.push(m.id);
+      if (!isText(m.name)) err(p + ".name", "Text erwartet");
+      validateSetup(m.setup, familyIds, p + ".setup", err);
+    });
+  }
+
+  if (!machineIds.includes(d.singleMachine)) err("singleMachine", `unbekannte Maschine ${show(d.singleMachine)}`);
+
+  if (!Array.isArray(d.jobs)) err("jobs", "Liste erwartet");
+  else {
+    if (d.jobs.length === 0) err("jobs", "mindestens ein Auftrag erwartet");
+    const seen = new Set();
+    d.jobs.forEach((j, i) => {
+      const p = `jobs[${i}]`;
+      if (!isObject(j)) return err(p, "Objekt erwartet");
+      if (!isInt(j.id) || j.id < 1) err(p + ".id", `positive ganze Zahl erwartet, gefunden: ${show(j.id)}`);
+      else if (seen.has(j.id)) err(p + ".id", `${j.id} kommt doppelt vor`);
+      else seen.add(j.id);
+      if (!familyIds.includes(j.family)) err(p + ".family", `unbekannte Familie ${show(j.family)}`);
+      if (!isObject(j.processingTimes)) err(p + ".processingTimes", "Objekt erwartet");
+      else {
+        for (const key of Object.keys(j.processingTimes)) {
+          if (!machineIds.includes(key)) err(`${p}.processingTimes.${key}`, "unbekannte Maschine");
+        }
+        for (const id of machineIds) {
+          const v = j.processingTimes[id];
+          if (v === undefined) err(`${p}.processingTimes.${id}`, "Wert fehlt");
+          else if (!isInt(v) || v < 1) err(`${p}.processingTimes.${id}`, `ganze Zahl ≥ 1 erwartet, gefunden: ${show(v)}`);
+        }
+      }
+      if (!isInt(j.dueDate) || j.dueDate < 0) err(p + ".dueDate", `ganze Zahl ≥ 0 erwartet, gefunden: ${show(j.dueDate)}`);
+    });
+  }
+
+  const g = d.generator;
+  if (!isObject(g)) err("generator", "Objekt erwartet");
+  else {
+    if (!isInt(g.seed)) err("generator.seed", `ganze Zahl erwartet, gefunden: ${show(g.seed)}`);
+    if (!isInt(g.jobCount) || g.jobCount < JOB_COUNT_LIMITS[0] || g.jobCount > JOB_COUNT_LIMITS[1]) {
+      err("generator.jobCount", `ganze Zahl von ${JOB_COUNT_LIMITS[0]} bis ${JOB_COUNT_LIMITS[1]} erwartet`);
+    }
+    if (typeof g.dueDatePressure !== "number" || !(g.dueDatePressure >= 0 && g.dueDatePressure <= 1)) {
+      err("generator.dueDatePressure", "Zahl von 0 bis 1 erwartet");
+    }
+    if (!isObject(g.processingTimeRanges)) err("generator.processingTimeRanges", "Objekt erwartet");
+    else {
+      for (const key of Object.keys(g.processingTimeRanges)) {
+        if (!machineIds.includes(key)) err(`generator.processingTimeRanges.${key}`, "unbekannte Maschine");
+      }
+      for (const id of machineIds) {
+        const r = g.processingTimeRanges[id];
+        if (!isObject(r) || !isInt(r.min) || !isInt(r.max) || r.min < 1 || r.max < r.min) {
+          err(`generator.processingTimeRanges.${id}`, "{ min, max } mit 1 ≤ min ≤ max erwartet");
+        }
+      }
+    }
+  }
+
+  return errors;
+}
+
+function validateSetup(setup, familyIds, p, err) {
+  if (!isObject(setup)) return err(p, "Objekt erwartet");
+  const rows = [EMPTY, ...familyIds];
+  for (const key of Object.keys(setup)) {
+    if (!rows.includes(key)) err(`${p}.${key}`, "unbekannte Familie");
+  }
+  for (const from of rows) {
+    const row = setup[from];
+    if (!isObject(row)) {
+      err(`${p}.${from}`, "Zeile fehlt");
+      continue;
+    }
+    for (const key of Object.keys(row)) {
+      if (!familyIds.includes(key)) err(`${p}.${from}.${key}`, "unbekannte Familie");
+    }
+    for (const to of familyIds) {
+      const v = row[to];
+      if (v === undefined) err(`${p}.${from}.${to}`, "Wert fehlt");
+      else if (!isInt(v) || v < 0) err(`${p}.${from}.${to}`, `ganze Zahl ≥ 0 erwartet, gefunden: ${show(v)}`);
+      else if (from === to && v !== 0) err(`${p}.${from}.${to}`, "Diagonale muss 0 sein");
+    }
+  }
+}
+
+function activeMachines(data, mode) {
+  return mode === "line" ? data.machines : data.machines.filter(m => m.id === data.singleMachine);
+}
+
+function familyColor(data, familyId) {
+  const index = data.families.findIndex(f => f.id === familyId);
+  return FAMILY_COLORS[index % FAMILY_COLORS.length];
+}
+
+function averageSetup(machine, familyIds) {
+  let total = 0;
+  for (const from of familyIds) for (const to of familyIds) total += machine.setup[from][to];
+  return total / (familyIds.length * familyIds.length);
+}
+
+// Due dates follow the usual scheme for tardiness test instances: uniform in
+// [L·(1 − τ − R/2), L·(1 − τ + R/2)] with load estimate L, pressure τ and spread R.
+function generateJobs(data, seed, count, pressure) {
+  const rng = mulberry32(seed);
+  const familyIds = data.families.map(f => f.id);
+  const ranges = data.generator.processingTimeRanges;
+  const spread = 0.6;
+
+  const jobs = [];
+  for (let i = 0; i < count; i++) {
+    const family = familyIds[randomInt(rng, 0, familyIds.length - 1)];
+    const processingTimes = {};
+    for (const m of data.machines) {
+      processingTimes[m.id] = randomInt(rng, ranges[m.id].min, ranges[m.id].max);
+    }
+    jobs.push({ id: i + 1, family, processingTimes, dueDate: 0 });
+  }
+
+  const load = Math.max(...data.machines.map(m =>
+    jobs.reduce((sum, j) => sum + j.processingTimes[m.id], 0) + count * averageSetup(m, familyIds)
+  ));
+  const step = load >= 200 ? 10 : 1;
+  const low = load * (1 - pressure - spread / 2);
+  const high = load * (1 - pressure + spread / 2);
+  for (const job of jobs) {
+    const raw = low + rng() * (high - low);
+    const ownWork = data.machines.reduce((sum, m) => sum + job.processingTimes[m.id], 0);
+    job.dueDate = Math.max(ownWork, Math.round(raw / step) * step);
+  }
+  return jobs;
+}
+
+function newJob(data) {
+  const id = data.jobs.reduce((max, j) => Math.max(max, j.id), 0) + 1;
+  const processingTimes = {};
+  for (const m of data.machines) {
+    const r = data.generator.processingTimeRanges[m.id];
+    processingTimes[m.id] = Math.round((r.min + r.max) / 2);
+  }
+  const dueDate = data.jobs.reduce((max, j) => Math.max(max, j.dueDate), 0);
+  return { id, family: data.families[0].id, processingTimes, dueDate };
+}
+
+function inlineJson(value) {
+  if (value === null || typeof value !== "object") return JSON.stringify(value);
+  if (Array.isArray(value)) return "[" + value.map(inlineJson).join(", ") + "]";
+  const entries = Object.entries(value);
+  if (entries.length === 0) return "{}";
+  return "{ " + entries.map(([k, v]) => JSON.stringify(k) + ": " + inlineJson(v)).join(", ") + " }";
+}
+
+// Short values on one line, longer ones expanded: keeps matrices and jobs readable.
+function formatJson(value, indent = "") {
+  const inline = inlineJson(value);
+  if (value === null || typeof value !== "object" || indent.length + inline.length <= 120) return inline;
+  const inner = indent + "  ";
+  if (Array.isArray(value)) {
+    return "[\n" + value.map(v => inner + formatJson(v, inner)).join(",\n") + "\n" + indent + "]";
+  }
+  return "{\n" + Object.entries(value)
+    .map(([k, v]) => inner + JSON.stringify(k) + ": " + formatJson(v, inner))
+    .join(",\n") + "\n" + indent + "}";
+}
+
+function masterDataFileText(data) {
+  const stamp = new Date().toLocaleString("de-DE");
+  return [
+    "// Stammdaten der Sequenz-Spielwiese",
+    `// Gespeichert aus der App am ${stamp}. Aufbau siehe spec.md, Abschnitt „Stammdaten“.`,
+    "// Zeiten in Minuten, ganzzahlig. Die Datei setzt nur window.MASTER_DATA; der Inhalt ist in JSON-Schreibweise.",
+    "// setup[von][nach]: Rüstzeit beim Wechsel zwischen Familien, Zeile \"empty\" = Ausgangszustand.",
+    "window.MASTER_DATA = " + formatJson(data) + ";",
+    ""
+  ].join("\n");
+}
+
+/* =========================== algorithms =========================== */
+
+const processingAcross = (job, machines) => machines.reduce((sum, m) => sum + job.processingTimes[m.id], 0);
+const setupAcross = (machines, from, to) => machines.reduce((sum, m) => sum + m.setup[from][to], 0);
+
+// Arrival order = order of the job table.
+function fifo(jobs) {
+  return jobs.map(j => j.id);
+}
+
+function spt(jobs, machines) {
+  return [...jobs]
+    .sort((a, b) => processingAcross(a, machines) - processingAcross(b, machines) || a.id - b.id)
+    .map(j => j.id);
+}
+
+function edd(jobs) {
+  return [...jobs].sort((a, b) => a.dueDate - b.dueDate || a.id - b.id).map(j => j.id);
+}
+
+// Ties: earlier due date, then smaller ID.
+function nearestNeighbour(jobs, machines) {
+  const open = [...jobs];
+  const sequence = [];
+  let current = EMPTY;
+  while (open.length > 0) {
+    let best = open[0];
+    let bestCost = setupAcross(machines, current, best.family);
+    for (const job of open.slice(1)) {
+      const cost = setupAcross(machines, current, job.family);
+      const better = cost < bestCost
+        || (cost === bestCost && (job.dueDate < best.dueDate || (job.dueDate === best.dueDate && job.id < best.id)));
+      if (better) {
+        best = job;
+        bestCost = cost;
+      }
+    }
+    sequence.push(best.id);
+    open.splice(open.indexOf(best), 1);
+    current = best.family;
+  }
+  return sequence;
+}
+
+const SA_OBJECTIVES = {
+  makespan: { label: "Makespan" },
+  tardiness: { label: "Σ Verspätung" },
+  weighted: { label: "gewichtet" }
+};
+
+function objectiveValue(totals, params) {
+  if (params.objective === "makespan") return totals.makespan;
+  if (params.objective === "tardiness") return totals.totalTardiness;
+  return params.alpha * totals.makespan + (1 - params.alpha) * totals.totalTardiness;
+}
+
+// Lean copy of buildSchedule for the SA inner loop (no allocations); the tests compare both.
+function scheduleTotals(sequence, jobById, machines) {
+  const free = machines.map(() => 0);
+  const family = machines.map(() => EMPTY);
+  let makespan = 0;
+  let totalTardiness = 0;
+  for (const id of sequence) {
+    const job = jobById.get(id);
+    let arrival = 0;
+    for (let k = 0; k < machines.length; k++) {
+      const m = machines[k];
+      const start = Math.max(free[k] + m.setup[family[k]][job.family], arrival);
+      arrival = start + job.processingTimes[m.id];
+      free[k] = arrival;
+      family[k] = job.family;
+    }
+    makespan = Math.max(makespan, arrival);
+    totalTardiness += Math.max(0, arrival - job.dueDate);
+  }
+  return { makespan, totalTardiness };
+}
+
+function shuffle(items, rng) {
+  const result = items.slice();
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = randomInt(rng, 0, i);
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
+// Swap two jobs or move one job to another position, with equal probability.
+function neighbour(sequence, rng) {
+  const next = sequence.slice();
+  if (next.length < 2) return next;
+  const i = randomInt(rng, 0, next.length - 1);
+  let j = randomInt(rng, 0, next.length - 2);
+  if (j >= i) j++;
+  if (rng() < 0.5) {
+    [next[i], next[j]] = [next[j], next[i]];
+  } else {
+    const [job] = next.splice(i, 1);
+    next.splice(j, 0, job);
+  }
+  return next;
+}
+
+// Full run including history, so the animation can replay exactly this run.
+function runAnnealing(jobs, machines, params) {
+  const rng = mulberry32(params.seed);
+  const jobById = new Map(jobs.map(j => [j.id, j]));
+  const cost = sequence => objectiveValue(scheduleTotals(sequence, jobById, machines), params);
+  const n = params.iterations;
+
+  let current = shuffle(jobs.map(j => j.id), rng);
+  let currentValue = cost(current);
+  let best = current;
+  let bestValue = currentValue;
+  const start = { sequence: current, value: currentValue };
+  const currentHistory = new Float64Array(n + 1);
+  const bestHistory = new Float64Array(n + 1);
+  currentHistory[0] = bestHistory[0] = currentValue;
+  const improvements = [{ iteration: 0, sequence: best, value: bestValue }];
+
+  let temperature = params.startTemperature;
+  for (let i = 1; i <= n; i++) {
+    const candidate = neighbour(current, rng);
+    const value = cost(candidate);
+    const delta = value - currentValue;
+    if (delta <= 0 || rng() < Math.exp(-delta / temperature)) {
+      current = candidate;
+      currentValue = value;
+      if (currentValue < bestValue) {
+        best = current;
+        bestValue = currentValue;
+        improvements.push({ iteration: i, sequence: best, value: bestValue });
+      }
+    }
+    currentHistory[i] = currentValue;
+    bestHistory[i] = bestValue;
+    temperature *= params.coolingRate;
+  }
+  return { start, best, bestValue, currentHistory, bestHistory, improvements };
+}
+
+function simulatedAnnealing(jobs, machines, params) {
+  return runAnnealing(jobs, machines, params).best;
+}
+
+const METHODS = [
+  { id: "fifo", name: "FIFO", rule: "Reihenfolge des Auftragseingangs (Tabellenreihenfolge)", run: fifo },
+  { id: "spt", name: "SPT", rule: "Kürzeste Bearbeitungszeit zuerst (Linie: Summe über alle Maschinen)", run: spt },
+  { id: "edd", name: "EDD", rule: "Frühester Fälligkeitstermin zuerst", run: edd },
+  { id: "nn", name: "Nearest Neighbour", rule: "Immer der Auftrag mit der kleinsten Rüstzeit (Linie: Summe über alle Maschinen)", run: nearestNeighbour },
+  { id: "sa", name: "Simulated Annealing", rule: "Verbessert eine zufällige Startreihenfolge schrittweise (Swap und Insert)", run: simulatedAnnealing }
+];
+
+/* ============================= metrics ============================ */
+
+// Permutation flow shop: a machine sets up as soon as it is free; the job starts once
+// the setup is done and the job has left the previous machine.
+function buildSchedule(sequence, jobs, machines) {
+  const jobById = new Map(jobs.map(j => [j.id, j]));
+  const rows = machines.map(machine => ({ machine, free: 0, family: EMPTY, operations: [] }));
+  const completion = {};
+  for (const id of sequence) {
+    const job = jobById.get(id);
+    let arrival = 0;
+    for (const row of rows) {
+      const setup = row.machine.setup[row.family][job.family];
+      const setupStart = row.free;
+      const start = Math.max(setupStart + setup, arrival);
+      const end = start + job.processingTimes[row.machine.id];
+      row.operations.push({ jobId: id, family: job.family, previousFamily: row.family, setup, setupStart, start, end });
+      row.free = end;
+      row.family = job.family;
+      arrival = end;
+    }
+    completion[id] = arrival;
+  }
+  return { rows: rows.map(r => ({ machine: r.machine, operations: r.operations })), completion };
+}
+
+function evaluate(sequence, jobs, machines) {
+  const schedule = buildSchedule(sequence, jobs, machines);
+  const tardiness = {};
+  let totalTardiness = 0;
+  let lateCount = 0;
+  for (const job of jobs) {
+    const t = Math.max(0, schedule.completion[job.id] - job.dueDate);
+    tardiness[job.id] = t;
+    totalTardiness += t;
+    if (t > 0) lateCount++;
+  }
+  const makespan = Math.max(0, ...Object.values(schedule.completion));
+  const totalSetup = schedule.rows.reduce((sum, r) => sum + r.operations.reduce((s, op) => s + op.setup, 0), 0);
+  const setupShare = makespan > 0 ? (100 * totalSetup) / (makespan * machines.length) : 0;
+  return { makespan, totalSetup, totalTardiness, lateCount, setupShare, tardiness, schedule };
+}
+
+const KPIS = [
+  { key: "makespan", label: "Makespan", unit: "min" },
+  { key: "totalSetup", label: "Gesamtrüstzeit", unit: "min" },
+  { key: "totalTardiness", label: "Σ Verspätung", unit: "min" },
+  { key: "lateCount", label: "Verspätete Aufträge", unit: "" },
+  { key: "setupShare", label: "Rüstanteil", unit: "%" }
+];
+
+// Compare on the displayed precision so that visually equal values count as a tie.
+const kpiValue = (key, value) => key === "setupShare" ? Math.round(value * 10) / 10 : value;
+
+/* ============================= render ============================= */
+
+function el(tag, attrs = {}, ...children) {
+  const node = document.createElement(tag);
+  for (const [key, value] of Object.entries(attrs)) {
+    if (key === "class") node.className = value;
+    else if (key === "text") node.textContent = value;
+    else if (key.startsWith("on")) node.addEventListener(key.slice(2), value);
+    else if (value !== false && value !== undefined && value !== null) node.setAttribute(key, value === true ? "" : value);
+  }
+  for (const child of children) if (child !== null && child !== undefined) node.append(child);
+  return node;
+}
+
+function swatch(color) {
+  return el("span", { class: "swatch", style: `background:${color}`, "aria-hidden": "true" });
+}
+
+function formatDuration(minutes) {
+  const h = Math.floor(minutes / 60);
+  const m = String(minutes % 60).padStart(2, "0");
+  return `${minutes} min (${h}:${m} h)`;
+}
+
+// Integer input that only writes valid values and falls back to the last valid one on blur.
+function intInput(value, min, label, onValid) {
+  let last = value;
+  const input = el("input", { type: "number", min: String(min), step: "1", value: String(value), "aria-label": label });
+  input.addEventListener("input", () => {
+    const v = Number(input.value);
+    const ok = input.value.trim() !== "" && Number.isInteger(v) && v >= min;
+    input.classList.toggle("invalid", !ok);
+    if (ok) {
+      last = v;
+      onValid(v);
+      onDataChanged();
+    }
+  });
+  input.addEventListener("change", () => {
+    if (input.classList.contains("invalid")) {
+      input.value = String(last);
+      input.classList.remove("invalid");
+    }
+  });
+  return input;
+}
+
+function textInput(value, label, className, onValid) {
+  let last = value;
+  const input = el("input", { type: "text", value, "aria-label": label, class: className });
+  input.addEventListener("input", () => {
+    const ok = input.value.trim() !== "";
+    input.classList.toggle("invalid", !ok);
+    if (ok) {
+      last = input.value.trim();
+      onValid(last);
+      state.dirty = true;
+    }
+  });
+  input.addEventListener("change", () => {
+    input.value = last;
+    input.classList.remove("invalid");
+  });
+  return input;
+}
+
+function renderHeader() {
+  const { data } = state;
+  const line = document.getElementById("scenario-line");
+  line.textContent = data.scenario.name + (data.scenario.description ? " – " + data.scenario.description : "");
+  const label = SOURCES[state.source].label;
+  if (label) line.append(el("span", { class: "source-tag", text: label }));
+
+  const locked = SOURCES[state.source].lockMode;
+  for (const radio of document.querySelectorAll('input[name="mode"]')) {
+    radio.checked = radio.value === state.mode;
+    let reason = "";
+    if (radio.value === "line" && data.machines.length < 2) reason = "Nur eine Maschine in den Daten";
+    else if (locked && radio.value !== state.mode) reason = "Das Prüfbeispiel gilt nur für den gewählten Modus";
+    radio.disabled = reason !== "";
+    radio.parentElement.classList.toggle("disabled", radio.disabled);
+    radio.parentElement.title = reason;
+  }
+
+  const home = document.getElementById("home-link");
+  home.hidden = !data.homeLink;
+  if (data.homeLink) {
+    home.href = data.homeLink.url;
+    home.textContent = data.homeLink.label;
+  }
+}
+
+function renderGenerator() {
+  const g = state.data.generator;
+  document.getElementById("gen-seed").value = String(g.seed);
+  document.getElementById("gen-count").value = String(g.jobCount);
+  document.getElementById("gen-pressure").value = String(g.dueDatePressure);
+  document.getElementById("gen-pressure-out").textContent = g.dueDatePressure.toFixed(1);
+}
+
+function renderJobTable() {
+  const { data } = state;
+  const machines = activeMachines(data, state.mode);
+  const table = document.getElementById("job-table");
+  table.replaceChildren();
+
+  table.append(el("thead", {}, el("tr", {},
+    el("th", { class: "num", text: "Nr." }),
+    el("th", { text: "Familie" }),
+    ...machines.map(m => el("th", { class: "num", "data-machine-name": m.id, text: m.name })),
+    el("th", { class: "num", text: "Termin" }),
+    el("th", { "aria-label": "Löschen" })
+  )));
+
+  const body = el("tbody");
+  for (const job of data.jobs) {
+    const color = swatch(familyColor(data, job.family));
+    const select = el("select", { "aria-label": `Familie von Auftrag ${job.id}` },
+      ...data.families.map(f => el("option", { value: f.id, "data-family-option": f.id, text: `${f.id} – ${f.name}` }))
+    );
+    select.value = job.family;
+    select.addEventListener("change", () => {
+      job.family = select.value;
+      color.style.background = familyColor(data, job.family);
+      onDataChanged();
+    });
+
+    body.append(el("tr", {},
+      el("td", { class: "num", text: String(job.id) }),
+      el("td", {}, color, select),
+      ...machines.map(m => el("td", { class: "num" },
+        intInput(job.processingTimes[m.id], 1, `Bearbeitungszeit Auftrag ${job.id} auf ${m.name}`, v => { job.processingTimes[m.id] = v; })
+      )),
+      el("td", { class: "num" },
+        intInput(job.dueDate, 0, `Termin Auftrag ${job.id}`, v => { job.dueDate = v; })
+      ),
+      el("td", {}, el("button", {
+        class: "delete-btn",
+        title: `Auftrag ${job.id} löschen`,
+        "aria-label": `Auftrag ${job.id} löschen`,
+        disabled: data.jobs.length <= 1,
+        text: "✕",
+        onclick: () => {
+          data.jobs = data.jobs.filter(j => j !== job);
+          renderJobTable();
+          onDataChanged();
+        }
+      }))
+    ));
+  }
+  table.append(body);
+}
+
+function renderFamilyTable() {
+  const { data } = state;
+  const table = document.getElementById("family-table");
+  table.replaceChildren(el("thead", {}, el("tr", {},
+    el("th", { text: "ID" }), el("th", { text: "Name" }), el("th", { text: "Merkmale" })
+  )));
+  const body = el("tbody");
+  for (const family of data.families) {
+    body.append(el("tr", {},
+      el("td", {}, swatch(familyColor(data, family.id)), family.id),
+      el("td", {}, textInput(family.name, `Name der Familie ${family.id}`, "", v => {
+        family.name = v;
+        for (const option of document.querySelectorAll(`[data-family-option="${CSS.escape(family.id)}"]`)) {
+          option.textContent = `${family.id} – ${v}`;
+        }
+        renderLegend();
+      })),
+      el("td", { class: "hint", text: family.details || "" })
+    ));
+  }
+  table.append(body);
+}
+
+function renderSetupMatrices() {
+  const { data } = state;
+  const container = document.getElementById("setup-matrices");
+  container.replaceChildren();
+  const familyIds = data.families.map(f => f.id);
+
+  for (const machine of activeMachines(data, state.mode)) {
+    const nameInput = textInput(machine.name, `Name der Maschine ${machine.id}`, "matrix-name", v => {
+      machine.name = v;
+      for (const cell of document.querySelectorAll(`[data-machine-name="${CSS.escape(machine.id)}"]`)) cell.textContent = v;
+      renderSummary();
+      renderGantts();
+    });
+
+    const head = el("tr", {}, el("th", { text: "von \\ nach" }),
+      ...familyIds.map(id => el("th", { class: "num" }, swatch(familyColor(data, id)), id)));
+    const body = el("tbody");
+    for (const from of [EMPTY, ...familyIds]) {
+      const row = el("tr", {}, el("td", { class: "row-head", text: from === EMPTY ? "leer" : from }));
+      for (const to of familyIds) {
+        const label = `Rüstzeit ${machine.name} von ${from === EMPTY ? "leer" : from} nach ${to}`;
+        const input = from === to
+          ? el("input", { type: "number", value: "0", disabled: true, "aria-label": label })
+          : intInput(machine.setup[from][to], 0, label, v => { machine.setup[from][to] = v; });
+        row.append(el("td", { class: "num" }, input));
+      }
+      body.append(row);
+    }
+    container.append(
+      el("h3", {}, nameInput),
+      el("table", { class: "matrix" }, el("thead", {}, head), body)
+    );
+  }
+}
+
+function renderSummary() {
+  const { data } = state;
+  const machines = activeMachines(data, state.mode);
+  const familyIds = data.families.map(f => f.id);
+  const loads = machines.map(m => data.jobs.reduce((sum, j) => sum + j.processingTimes[m.id], 0));
+  const maxLoad = Math.max(...loads);
+  const dueDates = data.jobs.map(j => j.dueDate);
+
+  const machineTable = el("table", {},
+    el("thead", {}, el("tr", {},
+      el("th", { text: "Maschine" }),
+      el("th", { class: "num", text: "Σ Bearbeitungszeit" }),
+      el("th", { class: "num", text: "Ø Rüstzeit je Wechsel" })
+    )),
+    el("tbody", {}, ...machines.map((m, i) => {
+      const isBottleneck = machines.length > 1 && loads[i] === maxLoad;
+      return el("tr", { class: isBottleneck ? "bottleneck" : "" },
+        el("td", {}, m.name, isBottleneck ? el("span", { class: "badge", text: "höchste Last" }) : null),
+        el("td", { class: "num", text: formatDuration(loads[i]) }),
+        el("td", { class: "num", text: averageChangeover(m, familyIds).toFixed(1) + " min" })
+      );
+    }))
+  );
+
+  const counts = familyIds.map(id => data.jobs.filter(j => j.family === id).length);
+  const familyLine = el("p", {}, "Aufträge je Familie: ",
+    ...data.families.flatMap((f, i) => [swatch(familyColor(data, f.id)), `${f.id}: ${counts[i]}`, i < familyIds.length - 1 ? "   " : ""])
+  );
+
+  document.getElementById("summary").replaceChildren(
+    el("p", { text: `${data.jobs.length} Aufträge · Modus: ${state.mode === "line" ? `Linie mit ${machines.length} Maschinen` : `eine Maschine (${machines[0].name})`}` }),
+    machineTable,
+    familyLine,
+    el("p", { text: `Termine von ${Math.min(...dueDates)} bis ${Math.max(...dueDates)} min` })
+  );
+}
+
+function averageChangeover(machine, familyIds) {
+  let total = 0;
+  for (const from of familyIds) for (const to of familyIds) if (from !== to) total += machine.setup[from][to];
+  return total / (familyIds.length * (familyIds.length - 1));
+}
+
+const GANTT = { labelWidth: 185, rowHeight: 40, barHeight: 28, axisHeight: 30, rightPad: 12, minWidth: 520, labelMaxFont: 14, labelMinFont: 8 };
+const SVG_NS = "http://www.w3.org/2000/svg";
+
+function svgEl(tag, attrs = {}, text) {
+  const node = document.createElementNS(SVG_NS, tag);
+  for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, value);
+  if (text !== undefined) node.textContent = text;
+  return node;
+}
+
+const formatNumber = (value, digits = 0) =>
+  value.toLocaleString("de-DE", { minimumFractionDigits: digits, maximumFractionDigits: digits });
+
+function formatKpi(key, value) {
+  return key === "setupShare" ? formatNumber(value, 1) : formatNumber(value);
+}
+
+// Black or white label, whichever has the higher contrast against the bar colour.
+function labelColor(hex) {
+  const channel = i => {
+    const c = parseInt(hex.slice(i, i + 2), 16) / 255;
+    return c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4;
+  };
+  const lum = 0.2126 * channel(1) + 0.7152 * channel(3) + 0.0722 * channel(5);
+  return (lum + 0.05) / 0.05 >= 1.05 / (lum + 0.05) ? "#000000" : "#ffffff";
+}
+
+function tickStep(horizon, plotWidth) {
+  const maxTicks = Math.max(2, Math.floor(plotWidth / 70));
+  const steps = [1, 2, 5, 10, 15, 20, 30, 60, 120, 180, 240, 480];
+  return steps.find(s => horizon / s <= maxTicks) ?? Math.ceil(horizon / maxTicks);
+}
+
+function familyLabel(data, familyId) {
+  if (familyId === EMPTY) return "leer";
+  const family = data.families.find(f => f.id === familyId);
+  return family ? `${family.id} – ${family.name}` : familyId;
+}
+
+let annealingCache = { key: "", run: null };
+
+// Same inputs → same run, so sliders, table, Gantt and animation share one computation.
+function currentAnnealing() {
+  const machines = activeMachines(state.data, state.mode);
+  const key = JSON.stringify([state.data.jobs, machines, state.saParams]);
+  if (key !== annealingCache.key) {
+    annealingCache = { key, run: runAnnealing(state.data.jobs, machines, state.saParams) };
+  }
+  return annealingCache.run;
+}
+
+function improvementAt(run, shown) {
+  let found = run.improvements[0];
+  for (const imp of run.improvements) {
+    if (imp.iteration > shown) break;
+    found = imp;
+  }
+  return found;
+}
+
+function computeResults() {
+  const { data } = state;
+  const machines = activeMachines(data, state.mode);
+  return METHODS.filter(m => state.selectedMethods.has(m.id)).map(method => {
+    const isSa = method.id === "sa";
+    const sequence = isSa
+      ? improvementAt(currentAnnealing(), state.saView.shown).sequence
+      : method.run(data.jobs, machines, state.saParams);
+    const label = isSa ? `SA (${SA_OBJECTIVES[state.saParams.objective].label})` : method.name;
+    return { method, label, sequence, metrics: evaluate(sequence, data.jobs, machines) };
+  });
+}
+
+function renderResults() {
+  if (!state.data) return;
+  state.results = computeResults();
+  renderComparison();
+  renderGantts();
+  renderSaView();
+}
+
+const CURVE = { current: "#8fb3d9", best: "#0b5cad", reference: "#b35900", grid: "#e2e5e9", text: "#4a5260" };
+const ANIMATION_SECONDS = 5;
+
+const formatValue = v => Number.isInteger(v) ? formatNumber(v) : formatNumber(v, 1);
+const formatTemperature = t => t >= 0.01 ? formatNumber(t, 2) : t.toExponential(1).replace(".", ",");
+
+function niceStep(range, count) {
+  const raw = range / count;
+  const magnitude = 10 ** Math.floor(Math.log10(raw));
+  const norm = raw / magnitude;
+  return (norm <= 1 ? 1 : norm <= 2 ? 2 : norm <= 5 ? 5 : 10) * magnitude;
+}
+
+function renderSaControls() {
+  const p = state.saParams;
+  document.getElementById("sa-objective").value = p.objective;
+  document.getElementById("sa-alpha").value = String(p.alpha);
+  document.getElementById("sa-temperature").value = String(p.startTemperature);
+  document.getElementById("sa-cooling").value = String(p.coolingRate);
+  document.getElementById("sa-iterations").value = String(p.iterations);
+  document.getElementById("sa-seed").value = String(p.seed);
+  document.getElementById("sa-alpha-wrap").hidden = p.objective !== "weighted";
+  document.getElementById("sa-alpha-out").textContent = formatNumber(p.alpha, 2);
+  document.getElementById("sa-temperature-out").textContent = formatNumber(p.startTemperature);
+  document.getElementById("sa-cooling-out").textContent = formatNumber(p.coolingRate, 4);
+  document.getElementById("sa-iterations-out").textContent = formatNumber(p.iterations);
+
+  const formula = p.objective === "makespan" ? "Zielwert = Makespan"
+    : p.objective === "tardiness" ? "Zielwert = Σ Verspätung"
+    : `Zielwert = ${formatNumber(p.alpha, 2)} · Makespan + ${formatNumber(1 - p.alpha, 2)} · Σ Verspätung`;
+  const endTemperature = p.startTemperature * p.coolingRate ** p.iterations;
+  document.getElementById("sa-formula").textContent =
+    `${formula} (kleiner ist besser) · Endtemperatur ≈ ${formatTemperature(endTemperature)}`;
+}
+
+function heuristicReference(machines) {
+  let best = null;
+  for (const method of METHODS.filter(m => m.id !== "sa")) {
+    const sequence = method.run(state.data.jobs, machines, {});
+    const value = objectiveValue(evaluate(sequence, state.data.jobs, machines), state.saParams);
+    if (!best || value < best.value) best = { name: method.name, value };
+  }
+  return best;
+}
+
+function renderSaView() {
+  if (!state.data) return;
+  const run = currentAnnealing();
+  const p = state.saParams;
+  const view = state.saView;
+  const shown = Math.min(view.shown, p.iterations);
+  const reference = heuristicReference(activeMachines(state.data, state.mode));
+  drawConvergence(run, shown, reference);
+
+  const bestValue = run.bestHistory[shown];
+  const diff = reference.value - bestValue;
+  const verdict = diff > 0 ? el("span", { class: "better", text: `SA besser um ${formatValue(diff)}` })
+    : diff < 0 ? el("span", { class: "worse", text: `SA schlechter um ${formatValue(-diff)}` })
+    : el("span", { text: "gleichauf" });
+  document.getElementById("sa-stats").replaceChildren(
+    el("span", { text: `Iteration ${formatNumber(shown)} / ${formatNumber(p.iterations)}` }),
+    el("span", { text: `Temperatur ${formatTemperature(p.startTemperature * p.coolingRate ** shown)}` }),
+    el("span", { text: `Start (zufällig) ${formatValue(run.start.value)}` }),
+    el("span", { text: `aktuell ${formatValue(run.currentHistory[shown])}` }),
+    el("span", {}, el("strong", { text: `bester ${formatValue(bestValue)}` })),
+    el("span", { text: `beste Heuristik (${reference.name}) ${formatValue(reference.value)}` }),
+    verdict
+  );
+
+  const play = document.getElementById("sa-play");
+  play.textContent = view.playing ? "⏸ Pause" : shown < p.iterations ? "▶ Fortsetzen" : "▶ Animation starten";
+}
+
+function drawConvergence(run, shown, reference) {
+  const canvas = document.getElementById("sa-canvas");
+  const width = Math.max(320, (canvas.parentElement.clientWidth || 800) - 4);
+  const height = 260;
+  const ratio = window.devicePixelRatio || 1;
+  canvas.width = Math.round(width * ratio);
+  canvas.height = Math.round(height * ratio);
+  canvas.style.width = `${width}px`;
+  canvas.style.height = `${height}px`;
+  const ctx = canvas.getContext("2d");
+  ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
+  ctx.clearRect(0, 0, width, height);
+
+  const pad = { left: 66, right: 16, top: 30, bottom: 36 };
+  const n = run.currentHistory.length - 1;
+  // Axis range from the complete run, so it stays fixed during the animation.
+  let yMax = Math.max(...run.currentHistory);
+  let yMin = Math.min(run.bestValue, reference.value);
+  if (yMax === yMin) yMax = yMin + 1;
+  const margin = (yMax - yMin) * 0.06;
+  yMin = Math.max(0, yMin - margin);
+  yMax += margin;
+  const X = i => pad.left + (n > 0 ? i / n : 0) * (width - pad.left - pad.right);
+  const Y = v => pad.top + (1 - (v - yMin) / (yMax - yMin)) * (height - pad.top - pad.bottom);
+
+  ctx.font = "13px system-ui, sans-serif";
+  ctx.lineWidth = 1;
+  ctx.strokeStyle = CURVE.grid;
+  ctx.fillStyle = CURVE.text;
+  ctx.textAlign = "right";
+  ctx.textBaseline = "middle";
+  const yStep = niceStep(yMax - yMin, 5);
+  for (let v = Math.ceil(yMin / yStep) * yStep; v <= yMax; v += yStep) {
+    ctx.beginPath();
+    ctx.moveTo(pad.left, Y(v));
+    ctx.lineTo(width - pad.right, Y(v));
+    ctx.stroke();
+    ctx.fillText(formatValue(Math.round(v * 10) / 10), pad.left - 8, Y(v));
+  }
+  ctx.textAlign = "center";
+  ctx.textBaseline = "top";
+  const xStep = niceStep(Math.max(n, 1), 6);
+  for (let i = 0; i <= n; i += xStep) {
+    ctx.beginPath();
+    ctx.moveTo(X(i), pad.top);
+    ctx.lineTo(X(i), height - pad.bottom);
+    ctx.stroke();
+    ctx.fillText(formatNumber(i), X(i), height - pad.bottom + 6);
+  }
+  ctx.textAlign = "left";
+  ctx.fillText("Iteration", pad.left, height - 14);
+
+  ctx.setLineDash([7, 5]);
+  ctx.strokeStyle = CURVE.reference;
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(pad.left, Y(reference.value));
+  ctx.lineTo(width - pad.right, Y(reference.value));
+  ctx.stroke();
+  ctx.setLineDash([]);
+
+  const step = Math.max(1, Math.floor(n / (width * 2)));
+  const drawSeries = (series, color, lineWidth) => {
+    ctx.strokeStyle = color;
+    ctx.lineWidth = lineWidth;
+    ctx.beginPath();
+    ctx.moveTo(X(0), Y(series[0]));
+    for (let i = step; i < shown; i += step) ctx.lineTo(X(i), Y(series[i]));
+    ctx.lineTo(X(shown), Y(series[shown]));
+    ctx.stroke();
+  };
+  drawSeries(run.currentHistory, CURVE.current, 1.5);
+  drawSeries(run.bestHistory, CURVE.best, 3);
+
+  const legend = [
+    [CURVE.current, "aktuelle Lösung", false],
+    [CURVE.best, "beste bisher", false],
+    [CURVE.reference, `beste Heuristik (${reference.name})`, true]
+  ];
+  ctx.textBaseline = "middle";
+  let lx = pad.left;
+  for (const [color, text, dashed] of legend) {
+    ctx.strokeStyle = color;
+    ctx.lineWidth = 3;
+    ctx.setLineDash(dashed ? [7, 5] : []);
+    ctx.beginPath();
+    ctx.moveTo(lx, 14);
+    ctx.lineTo(lx + 24, 14);
+    ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.fillStyle = CURVE.text;
+    ctx.fillText(text, lx + 30, 14);
+    lx += 30 + ctx.measureText(text).width + 22;
+  }
+}
+
+function stopAnimation() {
+  const view = state.saView;
+  cancelAnimationFrame(view.frame);
+  view.playing = false;
+  view.shown = Infinity;
+}
+
+function togglePlay() {
+  const view = state.saView;
+  if (view.playing) {
+    view.playing = false;
+    cancelAnimationFrame(view.frame);
+    renderSaView();
+    return;
+  }
+  const run = currentAnnealing();
+  const n = state.saParams.iterations;
+  if (view.shown >= n) view.shown = 0;
+  view.playing = true;
+  const perFrame = Math.max(1, Math.ceil(n / (60 * ANIMATION_SECONDS)));
+  let lastImprovement = improvementAt(run, view.shown);
+  renderResults();
+  const tick = () => {
+    if (!view.playing) return;
+    view.shown = Math.min(n, view.shown + perFrame);
+    if (view.shown >= n) view.playing = false;
+    // Table and Gantt only change when SA finds a new best solution.
+    const improvement = improvementAt(run, view.shown);
+    if (improvement !== lastImprovement || !view.playing) {
+      lastImprovement = improvement;
+      renderResults();
+    } else {
+      renderSaView();
+    }
+    if (view.playing) view.frame = requestAnimationFrame(tick);
+  };
+  view.frame = requestAnimationFrame(tick);
+}
+
+function renderComparison() {
+  const box = document.getElementById("comparison");
+  const results = state.results;
+  if (results.length === 0) {
+    box.replaceChildren(el("p", { class: "hint", text: "Kein Verfahren ausgewählt." }));
+    return;
+  }
+  const highlight = results.length > 1;
+  const best = KPIS.map(k => Math.min(...results.map(r => kpiValue(k.key, r.metrics[k.key]))));
+
+  const table = el("table", { class: "comparison" },
+    el("thead", {}, el("tr", {},
+      el("th", { text: "Verfahren" }),
+      ...KPIS.map(k => el("th", { class: "num" }, k.label, k.unit ? el("div", { class: "unit", text: k.unit }) : null))
+    )),
+    el("tbody", {}, ...results.map(r => el("tr", {},
+      el("td", { class: "method", title: r.method.rule, text: r.label }),
+      ...KPIS.map((k, i) => {
+        const isBest = highlight && kpiValue(k.key, r.metrics[k.key]) === best[i];
+        return el("td", { class: "num" + (isBest ? " best" : ""), text: formatKpi(k.key, r.metrics[k.key]) });
+      })
+    )))
+  );
+  box.replaceChildren(table,
+    highlight ? el("p", { class: "hint", text: "Grün umrandet: bester Wert je Spalte (bei Gleichstand mehrfach). Kleiner ist überall besser." }) : null
+  );
+}
+
+function renderLegend() {
+  const { data } = state;
+  document.getElementById("gantt-legend").replaceChildren(
+    ...data.families.map(f => el("span", {}, swatch(familyColor(data, f.id)), `${f.id} – ${f.name}`)),
+    el("span", {}, el("span", { class: "swatch setup-swatch", "aria-hidden": "true" }), "Rüsten"),
+    el("span", {}, el("span", { class: "swatch late-swatch", "aria-hidden": "true" }), "verspätet")
+  );
+}
+
+function renderGantts() {
+  renderLegend();
+  const container = document.getElementById("gantts");
+  const results = state.results;
+  if (results.length === 0) {
+    container.replaceChildren();
+    return;
+  }
+  const width = Math.max(GANTT.minWidth, container.clientWidth || 900);
+  // Shared time axis so that bar lengths are comparable across methods.
+  const horizon = Math.max(1, ...results.map(r => r.metrics.makespan));
+  container.replaceChildren(...results.map(r => ganttBlock(r, width, horizon)));
+}
+
+function ganttBlock(result, width, horizon) {
+  const { data } = state;
+  const rows = result.metrics.schedule.rows;
+  const plotWidth = width - GANTT.labelWidth - GANTT.rightPad;
+  const x = t => GANTT.labelWidth + (t / horizon) * plotWidth;
+  const plotHeight = rows.length * GANTT.rowHeight;
+  const svg = svgEl("svg", {
+    width, height: plotHeight + GANTT.axisHeight, viewBox: `0 0 ${width} ${plotHeight + GANTT.axisHeight}`,
+    role: "img", "aria-label": `Gantt-Chart ${result.label}`
+  });
+
+  const step = tickStep(horizon, plotWidth);
+  for (let t = 0; t <= horizon; t += step) {
+    svg.append(
+      svgEl("line", { class: "grid", x1: x(t), x2: x(t), y1: 0, y2: plotHeight }),
+      svgEl("text", { class: "tick", x: x(t), y: plotHeight + 20, "text-anchor": "middle" }, String(t))
+    );
+  }
+  svg.append(svgEl("text", { class: "tick", x: 0, y: plotHeight + 20 }, "Zeit in min"));
+
+  rows.forEach((row, k) => {
+    const y = k * GANTT.rowHeight + (GANTT.rowHeight - GANTT.barHeight) / 2;
+    const isLastMachine = k === rows.length - 1;
+    svg.append(svgEl("text", { class: "row-label", x: 0, y: y + GANTT.barHeight / 2 + 5 }, row.machine.name));
+
+    for (const op of row.operations) {
+      const job = data.jobs.find(j => j.id === op.jobId);
+      if (op.setup > 0) {
+        const setupRect = svgEl("rect", {
+          class: "setup", x: x(op.setupStart), y: y + 5,
+          width: Math.max(1, x(op.setupStart + op.setup) - x(op.setupStart)), height: GANTT.barHeight - 10
+        });
+        attachTooltip(setupRect, () => [
+          `Rüsten · ${row.machine.name}`,
+          `von ${familyLabel(data, op.previousFamily)}`,
+          `nach ${familyLabel(data, op.family)}`,
+          `${op.setup} min (t = ${op.setupStart} bis ${op.setupStart + op.setup})`
+        ]);
+        svg.append(setupRect);
+      }
+
+      const late = isLastMachine && result.metrics.tardiness[op.jobId] > 0;
+      const color = familyColor(data, op.family);
+      const barWidth = Math.max(1, x(op.end) - x(op.start));
+      const group = svgEl("g", { class: "op" });
+      group.append(svgEl("rect", {
+        class: late ? "job late" : "job", x: x(op.start), y, width: barWidth, height: GANTT.barHeight, fill: color
+      }));
+      // Shrink the label to fit narrow bars; a bold digit is roughly 0.62 em wide.
+      const label = String(op.jobId);
+      const fontSize = Math.min(GANTT.labelMaxFont, (barWidth - 3) / (label.length * 0.62));
+      if (fontSize >= GANTT.labelMinFont) {
+        group.append(svgEl("text", {
+          class: "bar-label", x: x(op.start) + barWidth / 2, y: y + GANTT.barHeight / 2 + fontSize * 0.36,
+          "text-anchor": "middle", fill: labelColor(color), style: `font-size:${fontSize.toFixed(1)}px`
+        }, label));
+      }
+      attachTooltip(group, () => {
+        const completion = result.metrics.schedule.completion[op.jobId];
+        const tardiness = result.metrics.tardiness[op.jobId];
+        return [
+          `Auftrag ${op.jobId} · ${familyLabel(data, op.family)}`,
+          `${row.machine.name}: t = ${op.start} bis ${op.end} (${op.end - op.start} min)`,
+          op.setup > 0 ? `davor Rüsten ${op.setup} min` : "kein Rüsten davor",
+          `Termin ${job.dueDate} · fertig ${completion}`,
+          tardiness > 0 ? { text: `verspätet um ${tardiness} min`, late: true } : "pünktlich"
+        ];
+      });
+      svg.append(group);
+    }
+  });
+
+  return el("div", { class: "gantt" },
+    el("h3", {}, result.label, el("span", { class: "sequence", text: "Reihenfolge: " + result.sequence.join(" → ") })),
+    svg
+  );
+}
+
+function attachTooltip(node, linesFn) {
+  const tip = document.getElementById("tooltip");
+  node.addEventListener("mouseenter", e => {
+    tip.replaceChildren(...linesFn().map((line, i) => {
+      if (typeof line === "object") return el("div", { class: line.late ? "late-text" : "", text: line.text });
+      return el(i === 0 ? "strong" : "div", { text: line });
+    }));
+    tip.hidden = false;
+    moveTooltip(e);
+  });
+  node.addEventListener("mousemove", moveTooltip);
+  node.addEventListener("mouseleave", () => { tip.hidden = true; });
+}
+
+function moveTooltip(e) {
+  const tip = document.getElementById("tooltip");
+  const offset = 16;
+  const left = Math.min(e.clientX + offset, window.innerWidth - tip.offsetWidth - 8);
+  const top = e.clientY + offset + tip.offsetHeight > window.innerHeight ? e.clientY - tip.offsetHeight - offset : e.clientY + offset;
+  tip.style.left = `${Math.max(8, left)}px`;
+  tip.style.top = `${Math.max(8, top)}px`;
+}
+
+function renderAll() {
+  stopAnimation();
+  renderHeader();
+  renderSaControls();
+  renderGenerator();
+  renderJobTable();
+  renderFamilyTable();
+  renderSetupMatrices();
+  renderSummary();
+  renderResults();
+}
+
+function showLoadError(title, details) {
+  const box = document.getElementById("load-error");
+  const shown = details.slice(0, MAX_SHOWN_ERRORS);
+  box.replaceChildren(
+    el("h2", { text: title }),
+    el("ul", {}, ...shown.map(d => el("li", { text: d }))),
+    details.length > shown.length ? el("p", { text: `… und ${details.length - shown.length} weitere.` }) : null,
+    el("p", { text: "Bitte stammdaten.js im Texteditor korrigieren und die Seite neu laden. Die Mini-Beispiele oben funktionieren trotzdem." })
+  );
+  box.hidden = false;
+  document.getElementById("app").hidden = true;
+  document.getElementById("scenario-line").textContent = "Stammdaten konnten nicht geladen werden";
+  document.getElementById("btn-reset").disabled = true;
+  document.getElementById("btn-save").disabled = true;
+  for (const radio of document.querySelectorAll('input[name="mode"]')) {
+    radio.disabled = true;
+    radio.parentElement.classList.add("disabled");
+  }
+}
+
+/* =============================== ui =============================== */
+
+function onDataChanged() {
+  state.dirty = true;
+  stopAnimation();
+  renderSummary();
+  renderResults();
+}
+
+function loadSource(source) {
+  state.data = clone(SOURCES[source].data());
+  state.source = source;
+  state.mode = state.data.machines.length > 1 ? SOURCES[source].mode : "single";
+  state.dirty = false;
+  document.getElementById("load-error").hidden = true;
+  document.getElementById("app").hidden = false;
+  document.getElementById("btn-save").disabled = false;
+  renderAll();
+}
+
+function confirmDiscard() {
+  return !state.dirty || confirm("Ungespeicherte Änderungen gehen verloren. Fortfahren?");
+}
+
+function readGeneratorInputs() {
+  const seedInput = document.getElementById("gen-seed");
+  const countInput = document.getElementById("gen-count");
+  const seed = Number(seedInput.value);
+  const count = Number(countInput.value);
+  const seedOk = seedInput.value.trim() !== "" && Number.isInteger(seed);
+  const countOk = Number.isInteger(count) && count >= JOB_COUNT_LIMITS[0] && count <= JOB_COUNT_LIMITS[1];
+  seedInput.classList.toggle("invalid", !seedOk);
+  countInput.classList.toggle("invalid", !countOk);
+  if (!seedOk || !countOk) return null;
+  return { seed, count, pressure: Number(document.getElementById("gen-pressure").value) };
+}
+
+function saveMasterData() {
+  const errors = validateMasterData(state.data);
+  if (errors.length) {
+    alert("Die Stammdaten sind nicht gültig und werden nicht gespeichert:\n\n" + errors.slice(0, 10).join("\n"));
+    return;
+  }
+  const blob = new Blob([masterDataFileText(state.data)], { type: "text/javascript" });
+  const url = URL.createObjectURL(blob);
+  const link = el("a", { href: url, download: "stammdaten.js" });
+  document.body.append(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 0);
+  state.dirty = false;
+}
+
+function bindUi() {
+  const methodBox = document.getElementById("method-select");
+  for (const method of METHODS) {
+    const checkbox = el("input", { type: "checkbox", value: method.id });
+    checkbox.checked = state.selectedMethods.has(method.id);
+    checkbox.addEventListener("change", () => {
+      if (checkbox.checked) state.selectedMethods.add(method.id);
+      else state.selectedMethods.delete(method.id);
+      renderResults();
+    });
+    methodBox.append(el("label", { title: method.rule }, checkbox, " " + method.name));
+  }
+
+  let resizeFrame = 0;
+  window.addEventListener("resize", () => {
+    if (!state.data) return;
+    cancelAnimationFrame(resizeFrame);
+    resizeFrame = requestAnimationFrame(() => {
+      renderGantts();
+      renderSaView();
+    });
+  });
+
+  const p = state.saParams;
+  const saInputs = [
+    ["sa-objective", "change", v => { p.objective = v; }],
+    ["sa-alpha", "input", v => { p.alpha = Number(v); }],
+    ["sa-temperature", "input", v => { p.startTemperature = Number(v); }],
+    ["sa-cooling", "input", v => { p.coolingRate = Number(v); }],
+    ["sa-iterations", "input", v => { p.iterations = Number(v); }]
+  ];
+  for (const [id, eventName, apply] of saInputs) {
+    document.getElementById(id).addEventListener(eventName, e => {
+      apply(e.target.value);
+      stopAnimation();
+      renderSaControls();
+      renderResults();
+    });
+  }
+  const seedInput = document.getElementById("sa-seed");
+  seedInput.addEventListener("input", () => {
+    const v = Number(seedInput.value);
+    const ok = seedInput.value.trim() !== "" && Number.isInteger(v);
+    seedInput.classList.toggle("invalid", !ok);
+    if (!ok) return;
+    p.seed = v;
+    stopAnimation();
+    renderSaControls();
+    renderResults();
+  });
+  seedInput.addEventListener("change", () => {
+    seedInput.value = String(p.seed);
+    seedInput.classList.remove("invalid");
+  });
+  document.getElementById("sa-play").addEventListener("click", togglePlay);
+  document.getElementById("sa-end").addEventListener("click", () => {
+    stopAnimation();
+    renderResults();
+  });
+
+  for (const radio of document.querySelectorAll('input[name="mode"]')) {
+    radio.addEventListener("change", () => {
+      state.mode = radio.value;
+      renderAll();
+    });
+  }
+
+  document.getElementById("gen-pressure").addEventListener("input", e => {
+    document.getElementById("gen-pressure-out").textContent = Number(e.target.value).toFixed(1);
+  });
+
+  document.getElementById("btn-generate").addEventListener("click", () => {
+    const params = readGeneratorInputs();
+    if (!params) return;
+    state.data.jobs = generateJobs(state.data, params.seed, params.count, params.pressure);
+    Object.assign(state.data.generator, { seed: params.seed, jobCount: params.count, dueDatePressure: params.pressure });
+    state.dirty = true;
+    renderAll();
+  });
+
+  document.getElementById("btn-add-job").addEventListener("click", () => {
+    state.data.jobs.push(newJob(state.data));
+    renderJobTable();
+    onDataChanged();
+  });
+
+  document.getElementById("btn-reset").addEventListener("click", () => {
+    if (confirmDiscard()) loadSource("file");
+  });
+  document.getElementById("btn-save").addEventListener("click", saveMasterData);
+  document.getElementById("btn-mini-single").addEventListener("click", () => {
+    if (confirmDiscard()) loadSource("miniSingle");
+  });
+  document.getElementById("btn-mini-line").addEventListener("click", () => {
+    if (confirmDiscard()) loadSource("miniLine");
+  });
+
+  window.addEventListener("beforeunload", e => {
+    if (state.dirty) e.preventDefault();
+  });
+}
+
+function init() {
+  bindUi();
+  if (window.__masterDataMissing) {
+    return showLoadError("stammdaten.js wurde nicht gefunden.", ["Die Datei muss im selben Ordner wie index.html liegen."]);
+  }
+  if (window.__masterDataErrors.length) {
+    return showLoadError("stammdaten.js enthält einen Syntaxfehler.", window.__masterDataErrors);
+  }
+  if (window.MASTER_DATA === undefined) {
+    return showLoadError("stammdaten.js setzt kein window.MASTER_DATA.", [
+      "Die Datei fehlt, enthält einen Syntaxfehler oder weist das Objekt nicht window.MASTER_DATA zu. Details in der Browser-Konsole (F12)."
+    ]);
+  }
+  const errors = validateMasterData(window.MASTER_DATA);
+  if (errors.length) return showLoadError("stammdaten.js enthält ungültige Werte.", errors);
+  loadSource("file");
+}
+
+init();
+</script>
+</body>
+</html>
