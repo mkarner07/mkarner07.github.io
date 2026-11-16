@@ -2,8 +2,6 @@
 permalink: /Advanced+Generative+AI+Lab+Day/
 title: "Lab Day: AI-Assisted Fault Report Triage"
 author_profile: true
----
-
 description: "A hands-on case for building an LLM triage workflow in n8n + Gemini or Power Automate + Copilot."
 ---
 
