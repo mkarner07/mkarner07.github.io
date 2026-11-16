@@ -1,5 +1,5 @@
 ---
-permalink: /Advanced+Generative+AI-Lab+Day/
+permalink: /Advanced+Generative+AI+Lab+Day/
 title: "Advanced & Generative AI"
 author_profile: true
 ---
