@@ -1,23 +1,23 @@
-// Stammdaten der Sequenz-Spielwiese
-// Aufbau siehe spec.md, Abschnitt „Stammdaten“. Zeiten in Minuten, ganzzahlig.
-// Die Datei setzt nur window.MASTER_DATA; der Inhalt ist in JSON-Schreibweise.
-// setup[von][nach]: Rüstzeit beim Wechsel zwischen Familien, Zeile "empty" = Ausgangszustand.
+// Master data of the Sequence Playground
+// Structure: see the README, section "Configure the scenario". Times in whole minutes.
+// The file only sets window.MASTER_DATA; the content is written in JSON notation.
+// setup[from][to]: setup time when changing between families, row "empty" = initial state.
 window.MASTER_DATA = {
   "scenario": {
-    "name": "Blechbearbeitung Musterwerk",
-    "description": "Laserschneiden → Abkanten → Pulverbeschichten, zwei Schichten (960 min)"
+    "name": "Sample Sheet Metal Works",
+    "description": "Laser cutting → bending → powder coating, two shifts (960 min)"
   },
   "families": [
-    { "id": "A", "name": "Schaltschranktür", "details": "1,5 mm · Biegewerkzeug S1 · RAL 7035 Lichtgrau" },
-    { "id": "B", "name": "Gerätegehäuse", "details": "1,0 mm · Biegewerkzeug S2 · RAL 9016 Verkehrsweiß" },
-    { "id": "C", "name": "Kabelkanal", "details": "1,25 mm · Biegewerkzeug S2 · RAL 5010 Enzianblau" },
-    { "id": "D", "name": "Maschinenkonsole", "details": "3,0 mm · Biegewerkzeug S3 · RAL 7016 Anthrazitgrau" },
-    { "id": "E", "name": "Frontblende", "details": "2,0 mm · Biegewerkzeug S1 · RAL 9005 Tiefschwarz" }
+    { "id": "A", "name": "Control cabinet door", "details": "1.5 mm · bending tool S1 · RAL 7035 light grey" },
+    { "id": "B", "name": "Device housing", "details": "1.0 mm · bending tool S2 · RAL 9016 traffic white" },
+    { "id": "C", "name": "Cable duct", "details": "1.25 mm · bending tool S2 · RAL 5010 gentian blue" },
+    { "id": "D", "name": "Machine console", "details": "3.0 mm · bending tool S3 · RAL 7016 anthracite grey" },
+    { "id": "E", "name": "Front panel", "details": "2.0 mm · bending tool S1 · RAL 9005 jet black" }
   ],
   "machines": [
     {
       "id": "laser",
-      "name": "Laserschneidanlage",
+      "name": "Laser cutter",
       "setup": {
         "empty": { "A": 10, "B": 10, "C": 10, "D": 15, "E": 10 },
         "A": { "A": 0, "B": 8, "C": 6, "D": 15, "E": 10 },
@@ -29,7 +29,7 @@ window.MASTER_DATA = {
     },
     {
       "id": "bending",
-      "name": "Abkantpresse",
+      "name": "Press brake",
       "setup": {
         "empty": { "A": 20, "B": 20, "C": 20, "D": 25, "E": 20 },
         "A": { "A": 0, "B": 25, "C": 25, "D": 35, "E": 10 },
@@ -41,7 +41,7 @@ window.MASTER_DATA = {
     },
     {
       "id": "coating",
-      "name": "Pulverbeschichtung",
+      "name": "Powder coating line",
       "setup": {
         "empty": { "A": 10, "B": 10, "C": 15, "D": 15, "E": 15 },
         "A": { "A": 0, "B": 35, "C": 20, "D": 15, "E": 15 },

@@ -18,7 +18,7 @@ I lecture at a local university of applied sciences. This is the link collection
 **[Use-Case-Canvas](/use-case-canvas/)**
 A mini web app to sketch out a use case on a single canvas. Runs in the browser, nothing to install.
 
-**[Sequenz-Spielwiese](/sequenz-spielwiese/)**
+**[Sequence-Playground](/sequence-playground/)**
 A playground for production sequencing. Try different optimization algorithms on a demo modelled on a real industrial setting and see how they compare.
 
 ## Just for fun

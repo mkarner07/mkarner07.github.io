@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sequenz-Spielwiese</title>
+<title>Sequence Playground</title>
 <style>
   :root {
     --bg: #f4f5f7;
@@ -204,25 +204,25 @@
 
 <header class="topbar">
   <div>
-    <h1>Sequenz-Spielwiese</h1>
+    <h1>Sequence Playground</h1>
     <p id="scenario-line"></p>
   </div>
   <div class="controls">
     <fieldset class="mode">
-      <legend>Modus</legend>
-      <label><input type="radio" name="mode" value="single"> Eine Maschine</label>
-      <label><input type="radio" name="mode" value="line"> Linie</label>
+      <legend>Mode</legend>
+      <label><input type="radio" name="mode" value="single"> Single machine</label>
+      <label><input type="radio" name="mode" value="line"> Line</label>
     </fieldset>
     <fieldset class="mode" id="method-select">
-      <legend>Verfahren <a class="help" href="dokumentation.html#verfahren" target="_blank" rel="noopener" title="Erklärung: Verfahren" aria-label="Erklärung: Verfahren">?</a></legend>
+      <legend>Methods <a class="help" href="documentation.html#methods" target="_blank" rel="noopener" title="Explanation: methods" aria-label="Explanation: methods">?</a></legend>
     </fieldset>
     <div class="buttons">
-      <button id="btn-reset" title="Alle Änderungen verwerfen und stammdaten.js neu laden">Zurücksetzen</button>
-      <button id="btn-save" title="Aktuellen Stand als stammdaten.js herunterladen">Stammdaten speichern</button>
-      <button id="btn-mini-single" title="Prüfbeispiel: 5 Aufträge, 2 Familien, 1 Maschine">Mini-Beispiel 1 Maschine</button>
-      <button id="btn-mini-line" title="Prüfbeispiel: 4 Aufträge, 2 Familien, 2 Maschinen">Mini-Beispiel Linie</button>
+      <button id="btn-reset" title="Discard all changes and reload master-data.js">Reset</button>
+      <button id="btn-save" title="Download the current state as master-data.js">Save master data</button>
+      <button id="btn-mini-single" title="Test example: 5 jobs, 2 families, 1 machine">Mini example: 1 machine</button>
+      <button id="btn-mini-line" title="Test example: 4 jobs, 2 families, 2 machines">Mini example: line</button>
     </div>
-    <a class="home-link" href="dokumentation.html" target="_blank" rel="noopener">Dokumentation</a>
+    <a class="home-link" href="documentation.html" target="_blank" rel="noopener">Documentation</a>
     <a id="home-link" class="home-link" hidden></a>
   </div>
 </header>
@@ -232,78 +232,78 @@
 <main id="app" hidden>
   <div class="column">
     <section class="panel">
-      <h2>Aufträge <a class="help" href="dokumentation.html#datenmodell" target="_blank" rel="noopener" title="Erklärung: Datenmodell" aria-label="Erklärung: Datenmodell">?</a></h2>
+      <h2>Jobs <a class="help" href="documentation.html#data-model" target="_blank" rel="noopener" title="Explanation: data model" aria-label="Explanation: data model">?</a></h2>
       <div class="generator">
         <label>Seed <input id="gen-seed" type="number" step="1"></label>
-        <label>Anzahl <input id="gen-count" type="number" min="1" max="50" step="1"></label>
-        <label title="Wie eng die Fälligkeitstermine im Verhältnis zur Arbeitslast liegen">
-          Termindruck <input id="gen-pressure" type="range" min="0" max="1" step="0.1">
-          <output id="gen-pressure-out"></output><a class="help" href="dokumentation.html#termindruck" target="_blank" rel="noopener" title="Erklärung: Termindruck" aria-label="Erklärung: Termindruck">?</a>
+        <label>Count <input id="gen-count" type="number" min="1" max="50" step="1"></label>
+        <label title="How tight the due dates are relative to the total workload">
+          Due-date pressure <input id="gen-pressure" type="range" min="0" max="1" step="0.1">
+          <output id="gen-pressure-out"></output><a class="help" href="documentation.html#due-date-pressure" target="_blank" rel="noopener" title="Explanation: due-date pressure" aria-label="Explanation: due-date pressure">?</a>
         </label>
-        <button id="btn-generate">Aufträge erzeugen</button>
+        <button id="btn-generate">Generate jobs</button>
       </div>
-      <p class="hint">Bearbeitungszeit und Termin in Minuten ab Start (t = 0).</p>
+      <p class="hint">Processing time and due date in minutes from start (t = 0).</p>
       <table id="job-table"></table>
-      <div class="table-actions"><button id="btn-add-job">+ Auftrag</button></div>
+      <div class="table-actions"><button id="btn-add-job">+ Job</button></div>
     </section>
 
     <section class="panel">
-      <h2>Produktfamilien</h2>
+      <h2>Product families</h2>
       <table id="family-table"></table>
     </section>
 
     <section class="panel">
-      <h2>Rüstzeiten (Minuten) <a class="help" href="dokumentation.html#ruestzeiten" target="_blank" rel="noopener" title="Erklärung: Rüstzeiten" aria-label="Erklärung: Rüstzeiten">?</a></h2>
-      <p class="hint">Zeile = von, Spalte = nach. „leer“ ist der Ausgangszustand vor dem ersten Auftrag.</p>
+      <h2>Setup times (minutes) <a class="help" href="documentation.html#setup-times" target="_blank" rel="noopener" title="Explanation: setup times" aria-label="Explanation: setup times">?</a></h2>
+      <p class="hint">Row = from, column = to. “empty” is the initial state before the first job.</p>
       <div id="setup-matrices"></div>
     </section>
   </div>
 
   <div class="column">
     <section class="panel">
-      <h2>Übersicht</h2>
+      <h2>Overview</h2>
       <div id="summary"></div>
     </section>
     <section class="panel">
-      <h2>Vergleich der Verfahren <a class="help" href="dokumentation.html#kennzahlen" target="_blank" rel="noopener" title="Erklärung: Kennzahlen" aria-label="Erklärung: Kennzahlen">?</a></h2>
+      <h2>Method comparison <a class="help" href="documentation.html#kpis" target="_blank" rel="noopener" title="Explanation: KPIs" aria-label="Explanation: KPIs">?</a></h2>
       <div id="comparison"></div>
     </section>
     <section class="panel">
-      <h2>Simulated Annealing <a class="help" href="dokumentation.html#sa" target="_blank" rel="noopener" title="Erklärung: Simulated Annealing" aria-label="Erklärung: Simulated Annealing">?</a></h2>
+      <h2>Simulated Annealing <a class="help" href="documentation.html#sa" target="_blank" rel="noopener" title="Explanation: simulated annealing" aria-label="Explanation: simulated annealing">?</a></h2>
       <div class="sa-controls">
-        <label>Zielfunktion
+        <label>Objective
           <select id="sa-objective">
             <option value="makespan">Makespan</option>
-            <option value="tardiness">Σ Verspätung</option>
-            <option value="weighted">Gewichtet</option>
+            <option value="tardiness">Σ tardiness</option>
+            <option value="weighted">Weighted</option>
           </select>
         </label>
-        <label id="sa-alpha-wrap" title="Gewicht des Makespans; 1 − α ist das Gewicht der Verspätung">α
+        <label id="sa-alpha-wrap" title="Weight of the makespan; 1 − α is the weight of tardiness">α
           <input id="sa-alpha" type="range" min="0" max="1" step="0.05"> <output id="sa-alpha-out"></output>
         </label>
-        <label title="Hohe Temperatur: auch deutliche Verschlechterungen werden anfangs oft akzeptiert">Starttemperatur
+        <label title="High temperature: even clearly worse solutions are often accepted at first">Start temperature
           <input id="sa-temperature" type="range" min="1" max="500" step="1"> <output id="sa-temperature-out"></output>
         </label>
-        <label title="Faktor, mit dem die Temperatur nach jeder Iteration multipliziert wird">Abkühlrate
+        <label title="Factor the temperature is multiplied by after each iteration">Cooling rate
           <input id="sa-cooling" type="range" min="0.99" max="0.9995" step="0.0005"> <output id="sa-cooling-out"></output>
         </label>
-        <label>Iterationen
+        <label>Iterations
           <input id="sa-iterations" type="range" min="500" max="20000" step="500"> <output id="sa-iterations-out"></output>
         </label>
-        <label title="Startwert für die zufällige Startreihenfolge und die Zufallszüge">Seed
+        <label title="Seed for the random start sequence and the random moves">Seed
           <input id="sa-seed" type="number" step="1">
         </label>
       </div>
       <p class="hint" id="sa-formula"></p>
       <div class="buttons sa-buttons">
-        <button id="sa-play">▶ Animation starten</button>
-        <button id="sa-end">Zum Ende</button>
+        <button id="sa-play">▶ Start animation</button>
+        <button id="sa-end">Skip to end</button>
       </div>
-      <canvas id="sa-canvas" role="img" aria-label="Konvergenzkurve Simulated Annealing"></canvas>
+      <canvas id="sa-canvas" role="img" aria-label="Simulated annealing convergence curve"></canvas>
       <div id="sa-stats" class="sa-stats"></div>
     </section>
     <section class="panel">
-      <h2>Gantt-Charts <a class="help" href="dokumentation.html#zeitplan" target="_blank" rel="noopener" title="Erklärung: Zeitplan" aria-label="Erklärung: Zeitplan">?</a></h2>
+      <h2>Gantt charts <a class="help" href="documentation.html#schedule" target="_blank" rel="noopener" title="Explanation: schedule" aria-label="Explanation: schedule">?</a></h2>
       <div id="gantt-legend" class="legend"></div>
       <div id="gantts"></div>
     </section>
@@ -313,16 +313,16 @@
 <div id="tooltip" class="tooltip" role="tooltip" hidden></div>
 
 <script>
-  // Collects load problems of stammdaten.js before the app script runs.
+  // Collects load problems of master-data.js before the app script runs.
   window.__masterDataErrors = [];
   window.__masterDataMissing = false;
   window.addEventListener("error", function (e) {
-    if (e.filename && /stammdaten\.js$/.test(e.filename)) {
-      window.__masterDataErrors.push("Zeile " + e.lineno + ": " + e.message);
+    if (e.filename && /master-data\.js$/.test(e.filename)) {
+      window.__masterDataErrors.push("Line " + e.lineno + ": " + e.message);
     }
   });
 </script>
-<script src="stammdaten.js" onerror="window.__masterDataMissing = true"></script>
+<script src="master-data.js" onerror="window.__masterDataMissing = true"></script>
 <script>
 "use strict";
 
@@ -338,13 +338,13 @@ const MAX_SHOWN_ERRORS = 30;
 const FAMILY_COLORS = ["#0072B2", "#E69F00", "#009E73", "#CC79A7", "#56B4E9", "#F0E442", "#8C5A2B", "#1B3A6B"];
 
 const MINI_SINGLE = {
-  scenario: { name: "Mini-Beispiel: eine Maschine", description: "5 Aufträge, 2 Familien – Kennzahlen von Hand nachrechenbar" },
+  scenario: { name: "Mini example: single machine", description: "5 jobs, 2 families – KPIs can be checked by hand" },
   families: [
-    { id: "A", name: "Familie A" },
-    { id: "B", name: "Familie B" }
+    { id: "A", name: "Family A" },
+    { id: "B", name: "Family B" }
   ],
   machines: [
-    { id: "m1", name: "Maschine 1", setup: { empty: { A: 2, B: 3 }, A: { A: 0, B: 4 }, B: { A: 6, B: 0 } } }
+    { id: "m1", name: "Machine 1", setup: { empty: { A: 2, B: 3 }, A: { A: 0, B: 4 }, B: { A: 6, B: 0 } } }
   ],
   singleMachine: "m1",
   jobs: [
@@ -358,14 +358,14 @@ const MINI_SINGLE = {
 };
 
 const MINI_LINE = {
-  scenario: { name: "Mini-Beispiel: Linie", description: "4 Aufträge, 2 Familien, 2 Maschinen – Kennzahlen von Hand nachrechenbar" },
+  scenario: { name: "Mini example: line", description: "4 jobs, 2 families, 2 machines – KPIs can be checked by hand" },
   families: [
-    { id: "A", name: "Familie A" },
-    { id: "B", name: "Familie B" }
+    { id: "A", name: "Family A" },
+    { id: "B", name: "Family B" }
   ],
   machines: [
-    { id: "m1", name: "Maschine 1", setup: { empty: { A: 1, B: 2 }, A: { A: 0, B: 3 }, B: { A: 2, B: 0 } } },
-    { id: "m2", name: "Maschine 2", setup: { empty: { A: 2, B: 1 }, A: { A: 0, B: 2 }, B: { A: 4, B: 0 } } }
+    { id: "m1", name: "Machine 1", setup: { empty: { A: 1, B: 2 }, A: { A: 0, B: 3 }, B: { A: 2, B: 0 } } },
+    { id: "m2", name: "Machine 2", setup: { empty: { A: 2, B: 1 }, A: { A: 0, B: 2 }, B: { A: 4, B: 0 } } }
   ],
   singleMachine: "m2",
   jobs: [
@@ -380,8 +380,8 @@ const MINI_LINE = {
 const SOURCES = {
   file: { label: null, data: () => window.MASTER_DATA, mode: "single", lockMode: false },
   // Hand-calculated reference values only hold for the mode the example was built for.
-  miniSingle: { label: "Prüfbeispiel", data: () => MINI_SINGLE, mode: "single", lockMode: true },
-  miniLine: { label: "Prüfbeispiel", data: () => MINI_LINE, mode: "line", lockMode: true }
+  miniSingle: { label: "Test example", data: () => MINI_SINGLE, mode: "single", lockMode: true },
+  miniLine: { label: "Test example", data: () => MINI_LINE, mode: "line", lockMode: true }
 };
 
 const state = {
@@ -418,108 +418,108 @@ function randomInt(rng, min, max) {
 const isObject = v => v !== null && typeof v === "object" && !Array.isArray(v);
 const isText = v => typeof v === "string" && v.trim() !== "";
 const isInt = v => Number.isInteger(v);
-const show = v => JSON.stringify(v) ?? "nichts";
+const show = v => JSON.stringify(v) ?? "nothing";
 
 function validateMasterData(d) {
   const errors = [];
   const err = (path, message) => errors.push(path + ": " + message);
 
   if (!isObject(d)) {
-    err("MASTER_DATA", "fehlt oder ist kein Objekt");
+    err("MASTER_DATA", "missing or not an object");
     return errors;
   }
 
-  if (!isObject(d.scenario)) err("scenario", "Objekt erwartet");
+  if (!isObject(d.scenario)) err("scenario", "object expected");
   else {
-    if (!isText(d.scenario.name)) err("scenario.name", "Text erwartet");
-    if (d.scenario.description !== undefined && typeof d.scenario.description !== "string") err("scenario.description", "Text erwartet");
+    if (!isText(d.scenario.name)) err("scenario.name", "text expected");
+    if (d.scenario.description !== undefined && typeof d.scenario.description !== "string") err("scenario.description", "text expected");
   }
   if (d.homeLink !== undefined && !(isObject(d.homeLink) && isText(d.homeLink.url) && isText(d.homeLink.label))) {
-    err("homeLink", "Objekt mit url und label erwartet");
+    err("homeLink", "object with url and label expected");
   }
 
   const familyIds = [];
-  if (!Array.isArray(d.families)) err("families", "Liste erwartet");
+  if (!Array.isArray(d.families)) err("families", "list expected");
   else {
     if (d.families.length < FAMILY_LIMITS[0] || d.families.length > FAMILY_LIMITS[1]) {
-      err("families", `${FAMILY_LIMITS[0]} bis ${FAMILY_LIMITS[1]} Familien erwartet, gefunden: ${d.families.length}`);
+      err("families", `${FAMILY_LIMITS[0]} to ${FAMILY_LIMITS[1]} families expected, found: ${d.families.length}`);
     }
     d.families.forEach((f, i) => {
       const p = `families[${i}]`;
-      if (!isObject(f)) return err(p, "Objekt erwartet");
-      if (!isText(f.id)) err(p + ".id", "Text erwartet");
-      else if (f.id === EMPTY) err(p + ".id", `"${EMPTY}" ist für den Ausgangszustand reserviert`);
-      else if (familyIds.includes(f.id)) err(p + ".id", `"${f.id}" kommt doppelt vor`);
+      if (!isObject(f)) return err(p, "object expected");
+      if (!isText(f.id)) err(p + ".id", "text expected");
+      else if (f.id === EMPTY) err(p + ".id", `"${EMPTY}" is reserved for the initial state`);
+      else if (familyIds.includes(f.id)) err(p + ".id", `"${f.id}" appears twice`);
       else familyIds.push(f.id);
-      if (!isText(f.name)) err(p + ".name", "Text erwartet");
-      if (f.details !== undefined && typeof f.details !== "string") err(p + ".details", "Text erwartet");
+      if (!isText(f.name)) err(p + ".name", "text expected");
+      if (f.details !== undefined && typeof f.details !== "string") err(p + ".details", "text expected");
     });
   }
 
   const machineIds = [];
-  if (!Array.isArray(d.machines)) err("machines", "Liste erwartet");
+  if (!Array.isArray(d.machines)) err("machines", "list expected");
   else {
     if (d.machines.length < MACHINE_LIMITS[0] || d.machines.length > MACHINE_LIMITS[1]) {
-      err("machines", `${MACHINE_LIMITS[0]} bis ${MACHINE_LIMITS[1]} Maschinen erwartet, gefunden: ${d.machines.length}`);
+      err("machines", `${MACHINE_LIMITS[0]} to ${MACHINE_LIMITS[1]} machines expected, found: ${d.machines.length}`);
     }
     d.machines.forEach((m, i) => {
       const p = `machines[${i}]`;
-      if (!isObject(m)) return err(p, "Objekt erwartet");
-      if (!isText(m.id)) err(p + ".id", "Text erwartet");
-      else if (machineIds.includes(m.id)) err(p + ".id", `"${m.id}" kommt doppelt vor`);
+      if (!isObject(m)) return err(p, "object expected");
+      if (!isText(m.id)) err(p + ".id", "text expected");
+      else if (machineIds.includes(m.id)) err(p + ".id", `"${m.id}" appears twice`);
       else machineIds.push(m.id);
-      if (!isText(m.name)) err(p + ".name", "Text erwartet");
+      if (!isText(m.name)) err(p + ".name", "text expected");
       validateSetup(m.setup, familyIds, p + ".setup", err);
     });
   }
 
-  if (!machineIds.includes(d.singleMachine)) err("singleMachine", `unbekannte Maschine ${show(d.singleMachine)}`);
+  if (!machineIds.includes(d.singleMachine)) err("singleMachine", `unknown machine ${show(d.singleMachine)}`);
 
-  if (!Array.isArray(d.jobs)) err("jobs", "Liste erwartet");
+  if (!Array.isArray(d.jobs)) err("jobs", "list expected");
   else {
-    if (d.jobs.length === 0) err("jobs", "mindestens ein Auftrag erwartet");
+    if (d.jobs.length === 0) err("jobs", "at least one job expected");
     const seen = new Set();
     d.jobs.forEach((j, i) => {
       const p = `jobs[${i}]`;
-      if (!isObject(j)) return err(p, "Objekt erwartet");
-      if (!isInt(j.id) || j.id < 1) err(p + ".id", `positive ganze Zahl erwartet, gefunden: ${show(j.id)}`);
-      else if (seen.has(j.id)) err(p + ".id", `${j.id} kommt doppelt vor`);
+      if (!isObject(j)) return err(p, "object expected");
+      if (!isInt(j.id) || j.id < 1) err(p + ".id", `positive integer expected, found: ${show(j.id)}`);
+      else if (seen.has(j.id)) err(p + ".id", `${j.id} appears twice`);
       else seen.add(j.id);
-      if (!familyIds.includes(j.family)) err(p + ".family", `unbekannte Familie ${show(j.family)}`);
-      if (!isObject(j.processingTimes)) err(p + ".processingTimes", "Objekt erwartet");
+      if (!familyIds.includes(j.family)) err(p + ".family", `unknown family ${show(j.family)}`);
+      if (!isObject(j.processingTimes)) err(p + ".processingTimes", "object expected");
       else {
         for (const key of Object.keys(j.processingTimes)) {
-          if (!machineIds.includes(key)) err(`${p}.processingTimes.${key}`, "unbekannte Maschine");
+          if (!machineIds.includes(key)) err(`${p}.processingTimes.${key}`, "unknown machine");
         }
         for (const id of machineIds) {
           const v = j.processingTimes[id];
-          if (v === undefined) err(`${p}.processingTimes.${id}`, "Wert fehlt");
-          else if (!isInt(v) || v < 1) err(`${p}.processingTimes.${id}`, `ganze Zahl ≥ 1 erwartet, gefunden: ${show(v)}`);
+          if (v === undefined) err(`${p}.processingTimes.${id}`, "value missing");
+          else if (!isInt(v) || v < 1) err(`${p}.processingTimes.${id}`, `integer ≥ 1 expected, found: ${show(v)}`);
         }
       }
-      if (!isInt(j.dueDate) || j.dueDate < 0) err(p + ".dueDate", `ganze Zahl ≥ 0 erwartet, gefunden: ${show(j.dueDate)}`);
+      if (!isInt(j.dueDate) || j.dueDate < 0) err(p + ".dueDate", `integer ≥ 0 expected, found: ${show(j.dueDate)}`);
     });
   }
 
   const g = d.generator;
-  if (!isObject(g)) err("generator", "Objekt erwartet");
+  if (!isObject(g)) err("generator", "object expected");
   else {
-    if (!isInt(g.seed)) err("generator.seed", `ganze Zahl erwartet, gefunden: ${show(g.seed)}`);
+    if (!isInt(g.seed)) err("generator.seed", `integer expected, found: ${show(g.seed)}`);
     if (!isInt(g.jobCount) || g.jobCount < JOB_COUNT_LIMITS[0] || g.jobCount > JOB_COUNT_LIMITS[1]) {
-      err("generator.jobCount", `ganze Zahl von ${JOB_COUNT_LIMITS[0]} bis ${JOB_COUNT_LIMITS[1]} erwartet`);
+      err("generator.jobCount", `integer from ${JOB_COUNT_LIMITS[0]} to ${JOB_COUNT_LIMITS[1]} expected`);
     }
     if (typeof g.dueDatePressure !== "number" || !(g.dueDatePressure >= 0 && g.dueDatePressure <= 1)) {
-      err("generator.dueDatePressure", "Zahl von 0 bis 1 erwartet");
+      err("generator.dueDatePressure", "number from 0 to 1 expected");
     }
-    if (!isObject(g.processingTimeRanges)) err("generator.processingTimeRanges", "Objekt erwartet");
+    if (!isObject(g.processingTimeRanges)) err("generator.processingTimeRanges", "object expected");
     else {
       for (const key of Object.keys(g.processingTimeRanges)) {
-        if (!machineIds.includes(key)) err(`generator.processingTimeRanges.${key}`, "unbekannte Maschine");
+        if (!machineIds.includes(key)) err(`generator.processingTimeRanges.${key}`, "unknown machine");
       }
       for (const id of machineIds) {
         const r = g.processingTimeRanges[id];
         if (!isObject(r) || !isInt(r.min) || !isInt(r.max) || r.min < 1 || r.max < r.min) {
-          err(`generator.processingTimeRanges.${id}`, "{ min, max } mit 1 ≤ min ≤ max erwartet");
+          err(`generator.processingTimeRanges.${id}`, "{ min, max } with 1 ≤ min ≤ max expected");
         }
       }
     }
@@ -529,25 +529,25 @@ function validateMasterData(d) {
 }
 
 function validateSetup(setup, familyIds, p, err) {
-  if (!isObject(setup)) return err(p, "Objekt erwartet");
+  if (!isObject(setup)) return err(p, "object expected");
   const rows = [EMPTY, ...familyIds];
   for (const key of Object.keys(setup)) {
-    if (!rows.includes(key)) err(`${p}.${key}`, "unbekannte Familie");
+    if (!rows.includes(key)) err(`${p}.${key}`, "unknown family");
   }
   for (const from of rows) {
     const row = setup[from];
     if (!isObject(row)) {
-      err(`${p}.${from}`, "Zeile fehlt");
+      err(`${p}.${from}`, "row missing");
       continue;
     }
     for (const key of Object.keys(row)) {
-      if (!familyIds.includes(key)) err(`${p}.${from}.${key}`, "unbekannte Familie");
+      if (!familyIds.includes(key)) err(`${p}.${from}.${key}`, "unknown family");
     }
     for (const to of familyIds) {
       const v = row[to];
-      if (v === undefined) err(`${p}.${from}.${to}`, "Wert fehlt");
-      else if (!isInt(v) || v < 0) err(`${p}.${from}.${to}`, `ganze Zahl ≥ 0 erwartet, gefunden: ${show(v)}`);
-      else if (from === to && v !== 0) err(`${p}.${from}.${to}`, "Diagonale muss 0 sein");
+      if (v === undefined) err(`${p}.${from}.${to}`, "value missing");
+      else if (!isInt(v) || v < 0) err(`${p}.${from}.${to}`, `integer ≥ 0 expected, found: ${show(v)}`);
+      else if (from === to && v !== 0) err(`${p}.${from}.${to}`, "diagonal must be 0");
     }
   }
 }
@@ -632,12 +632,12 @@ function formatJson(value, indent = "") {
 }
 
 function masterDataFileText(data) {
-  const stamp = new Date().toLocaleString("de-DE");
+  const stamp = new Date().toLocaleString("en-GB");
   return [
-    "// Stammdaten der Sequenz-Spielwiese",
-    `// Gespeichert aus der App am ${stamp}. Aufbau siehe spec.md, Abschnitt „Stammdaten“.`,
-    "// Zeiten in Minuten, ganzzahlig. Die Datei setzt nur window.MASTER_DATA; der Inhalt ist in JSON-Schreibweise.",
-    "// setup[von][nach]: Rüstzeit beim Wechsel zwischen Familien, Zeile \"empty\" = Ausgangszustand.",
+    "// Master data of the Sequence Playground",
+    `// Saved from the app on ${stamp}. Structure: see the README, section "Configure the scenario".`,
+    "// Times in whole minutes. The file only sets window.MASTER_DATA; the content is written in JSON notation.",
+    "// setup[from][to]: setup time when changing between families, row \"empty\" = initial state.",
     "window.MASTER_DATA = " + formatJson(data) + ";",
     ""
   ].join("\n");
@@ -689,8 +689,8 @@ function nearestNeighbour(jobs, machines) {
 
 const SA_OBJECTIVES = {
   makespan: { label: "Makespan" },
-  tardiness: { label: "Σ Verspätung" },
-  weighted: { label: "gewichtet" }
+  tardiness: { label: "Σ tardiness" },
+  weighted: { label: "weighted" }
 };
 
 function objectiveValue(totals, params) {
@@ -789,11 +789,11 @@ function simulatedAnnealing(jobs, machines, params) {
 }
 
 const METHODS = [
-  { id: "fifo", name: "FIFO", rule: "Reihenfolge des Auftragseingangs (Tabellenreihenfolge)", run: fifo },
-  { id: "spt", name: "SPT", rule: "Kürzeste Bearbeitungszeit zuerst (Linie: Summe über alle Maschinen)", run: spt },
-  { id: "edd", name: "EDD", rule: "Frühester Fälligkeitstermin zuerst", run: edd },
-  { id: "nn", name: "Nearest Neighbour", rule: "Immer der Auftrag mit der kleinsten Rüstzeit (Linie: Summe über alle Maschinen)", run: nearestNeighbour },
-  { id: "sa", name: "Simulated Annealing", rule: "Verbessert eine zufällige Startreihenfolge schrittweise (Swap und Insert)", run: simulatedAnnealing }
+  { id: "fifo", name: "FIFO", rule: "Order of arrival (table order)", run: fifo },
+  { id: "spt", name: "SPT", rule: "Shortest processing time first (line: sum over all machines)", run: spt },
+  { id: "edd", name: "EDD", rule: "Earliest due date first", run: edd },
+  { id: "nn", name: "Nearest Neighbour", rule: "Always the job with the smallest setup time next (line: sum over all machines)", run: nearestNeighbour },
+  { id: "sa", name: "Simulated Annealing", rule: "Improves a random start sequence step by step (swap and insert)", run: simulatedAnnealing }
 ];
 
 /* ============================= metrics ============================ */
@@ -841,10 +841,10 @@ function evaluate(sequence, jobs, machines) {
 
 const KPIS = [
   { key: "makespan", label: "Makespan", unit: "min" },
-  { key: "totalSetup", label: "Gesamtrüstzeit", unit: "min" },
-  { key: "totalTardiness", label: "Σ Verspätung", unit: "min" },
-  { key: "lateCount", label: "Verspätete Aufträge", unit: "" },
-  { key: "setupShare", label: "Rüstanteil", unit: "%" }
+  { key: "totalSetup", label: "Total setup", unit: "min" },
+  { key: "totalTardiness", label: "Σ tardiness", unit: "min" },
+  { key: "lateCount", label: "Late jobs", unit: "" },
+  { key: "setupShare", label: "Setup share", unit: "%" }
 ];
 
 // Compare on the displayed precision so that visually equal values count as a tie.
@@ -927,8 +927,8 @@ function renderHeader() {
   for (const radio of document.querySelectorAll('input[name="mode"]')) {
     radio.checked = radio.value === state.mode;
     let reason = "";
-    if (radio.value === "line" && data.machines.length < 2) reason = "Nur eine Maschine in den Daten";
-    else if (locked && radio.value !== state.mode) reason = "Das Prüfbeispiel gilt nur für den gewählten Modus";
+    if (radio.value === "line" && data.machines.length < 2) reason = "Only one machine in the data";
+    else if (locked && radio.value !== state.mode) reason = "The test example only applies to the selected mode";
     radio.disabled = reason !== "";
     radio.parentElement.classList.toggle("disabled", radio.disabled);
     radio.parentElement.title = reason;
@@ -957,17 +957,17 @@ function renderJobTable() {
   table.replaceChildren();
 
   table.append(el("thead", {}, el("tr", {},
-    el("th", { class: "num", text: "Nr." }),
-    el("th", { text: "Familie" }),
+    el("th", { class: "num", text: "No." }),
+    el("th", { text: "Family" }),
     ...machines.map(m => el("th", { class: "num", "data-machine-name": m.id, text: m.name })),
-    el("th", { class: "num", text: "Termin" }),
-    el("th", { "aria-label": "Löschen" })
+    el("th", { class: "num", text: "Due date" }),
+    el("th", { "aria-label": "Delete" })
   )));
 
   const body = el("tbody");
   for (const job of data.jobs) {
     const color = swatch(familyColor(data, job.family));
-    const select = el("select", { "aria-label": `Familie von Auftrag ${job.id}` },
+    const select = el("select", { "aria-label": `Family of job ${job.id}` },
       ...data.families.map(f => el("option", { value: f.id, "data-family-option": f.id, text: `${f.id} – ${f.name}` }))
     );
     select.value = job.family;
@@ -981,15 +981,15 @@ function renderJobTable() {
       el("td", { class: "num", text: String(job.id) }),
       el("td", {}, color, select),
       ...machines.map(m => el("td", { class: "num" },
-        intInput(job.processingTimes[m.id], 1, `Bearbeitungszeit Auftrag ${job.id} auf ${m.name}`, v => { job.processingTimes[m.id] = v; })
+        intInput(job.processingTimes[m.id], 1, `Processing time of job ${job.id} on ${m.name}`, v => { job.processingTimes[m.id] = v; })
       )),
       el("td", { class: "num" },
-        intInput(job.dueDate, 0, `Termin Auftrag ${job.id}`, v => { job.dueDate = v; })
+        intInput(job.dueDate, 0, `Due date of job ${job.id}`, v => { job.dueDate = v; })
       ),
       el("td", {}, el("button", {
         class: "delete-btn",
-        title: `Auftrag ${job.id} löschen`,
-        "aria-label": `Auftrag ${job.id} löschen`,
+        title: `Delete job ${job.id}`,
+        "aria-label": `Delete job ${job.id}`,
         disabled: data.jobs.length <= 1,
         text: "✕",
         onclick: () => {
@@ -1007,13 +1007,13 @@ function renderFamilyTable() {
   const { data } = state;
   const table = document.getElementById("family-table");
   table.replaceChildren(el("thead", {}, el("tr", {},
-    el("th", { text: "ID" }), el("th", { text: "Name" }), el("th", { text: "Merkmale" })
+    el("th", { text: "ID" }), el("th", { text: "Name" }), el("th", { text: "Details" })
   )));
   const body = el("tbody");
   for (const family of data.families) {
     body.append(el("tr", {},
       el("td", {}, swatch(familyColor(data, family.id)), family.id),
-      el("td", {}, textInput(family.name, `Name der Familie ${family.id}`, "", v => {
+      el("td", {}, textInput(family.name, `Name of family ${family.id}`, "", v => {
         family.name = v;
         for (const option of document.querySelectorAll(`[data-family-option="${CSS.escape(family.id)}"]`)) {
           option.textContent = `${family.id} – ${v}`;
@@ -1033,20 +1033,20 @@ function renderSetupMatrices() {
   const familyIds = data.families.map(f => f.id);
 
   for (const machine of activeMachines(data, state.mode)) {
-    const nameInput = textInput(machine.name, `Name der Maschine ${machine.id}`, "matrix-name", v => {
+    const nameInput = textInput(machine.name, `Name of machine ${machine.id}`, "matrix-name", v => {
       machine.name = v;
       for (const cell of document.querySelectorAll(`[data-machine-name="${CSS.escape(machine.id)}"]`)) cell.textContent = v;
       renderSummary();
       renderGantts();
     });
 
-    const head = el("tr", {}, el("th", { text: "von \\ nach" }),
+    const head = el("tr", {}, el("th", { text: "from \\ to" }),
       ...familyIds.map(id => el("th", { class: "num" }, swatch(familyColor(data, id)), id)));
     const body = el("tbody");
     for (const from of [EMPTY, ...familyIds]) {
-      const row = el("tr", {}, el("td", { class: "row-head", text: from === EMPTY ? "leer" : from }));
+      const row = el("tr", {}, el("td", { class: "row-head", text: from === EMPTY ? "empty" : from }));
       for (const to of familyIds) {
-        const label = `Rüstzeit ${machine.name} von ${from === EMPTY ? "leer" : from} nach ${to}`;
+        const label = `Setup time ${machine.name} from ${from === EMPTY ? "empty" : from} to ${to}`;
         const input = from === to
           ? el("input", { type: "number", value: "0", disabled: true, "aria-label": label })
           : intInput(machine.setup[from][to], 0, label, v => { machine.setup[from][to] = v; });
@@ -1071,14 +1071,14 @@ function renderSummary() {
 
   const machineTable = el("table", {},
     el("thead", {}, el("tr", {},
-      el("th", { text: "Maschine" }),
-      el("th", { class: "num", text: "Σ Bearbeitungszeit" }),
-      el("th", { class: "num", text: "Ø Rüstzeit je Wechsel" })
+      el("th", { text: "Machine" }),
+      el("th", { class: "num", text: "Σ processing time" }),
+      el("th", { class: "num", text: "Ø setup per changeover" })
     )),
     el("tbody", {}, ...machines.map((m, i) => {
       const isBottleneck = machines.length > 1 && loads[i] === maxLoad;
       return el("tr", { class: isBottleneck ? "bottleneck" : "" },
-        el("td", {}, m.name, isBottleneck ? el("span", { class: "badge", text: "höchste Last" }) : null),
+        el("td", {}, m.name, isBottleneck ? el("span", { class: "badge", text: "highest load" }) : null),
         el("td", { class: "num", text: formatDuration(loads[i]) }),
         el("td", { class: "num", text: averageChangeover(m, familyIds).toFixed(1) + " min" })
       );
@@ -1086,15 +1086,15 @@ function renderSummary() {
   );
 
   const counts = familyIds.map(id => data.jobs.filter(j => j.family === id).length);
-  const familyLine = el("p", {}, "Aufträge je Familie: ",
+  const familyLine = el("p", {}, "Jobs per family: ",
     ...data.families.flatMap((f, i) => [swatch(familyColor(data, f.id)), `${f.id}: ${counts[i]}`, i < familyIds.length - 1 ? "   " : ""])
   );
 
   document.getElementById("summary").replaceChildren(
-    el("p", { text: `${data.jobs.length} Aufträge · Modus: ${state.mode === "line" ? `Linie mit ${machines.length} Maschinen` : `eine Maschine (${machines[0].name})`}` }),
+    el("p", { text: `${data.jobs.length} jobs · Mode: ${state.mode === "line" ? `line with ${machines.length} machines` : `single machine (${machines[0].name})`}` }),
     machineTable,
     familyLine,
-    el("p", { text: `Termine von ${Math.min(...dueDates)} bis ${Math.max(...dueDates)} min` })
+    el("p", { text: `Due dates from ${Math.min(...dueDates)} to ${Math.max(...dueDates)} min` })
   );
 }
 
@@ -1115,7 +1115,7 @@ function svgEl(tag, attrs = {}, text) {
 }
 
 const formatNumber = (value, digits = 0) =>
-  value.toLocaleString("de-DE", { minimumFractionDigits: digits, maximumFractionDigits: digits });
+  value.toLocaleString("en-US", { minimumFractionDigits: digits, maximumFractionDigits: digits });
 
 function formatKpi(key, value) {
   return key === "setupShare" ? formatNumber(value, 1) : formatNumber(value);
@@ -1138,7 +1138,7 @@ function tickStep(horizon, plotWidth) {
 }
 
 function familyLabel(data, familyId) {
-  if (familyId === EMPTY) return "leer";
+  if (familyId === EMPTY) return "empty";
   const family = data.families.find(f => f.id === familyId);
   return family ? `${family.id} – ${family.name}` : familyId;
 }
@@ -1189,7 +1189,7 @@ const CURVE = { current: "#8fb3d9", best: "#0b5cad", reference: "#b35900", grid:
 const ANIMATION_SECONDS = 5;
 
 const formatValue = v => Number.isInteger(v) ? formatNumber(v) : formatNumber(v, 1);
-const formatTemperature = t => t >= 0.01 ? formatNumber(t, 2) : t.toExponential(1).replace(".", ",");
+const formatTemperature = t => t >= 0.01 ? formatNumber(t, 2) : t.toExponential(1);
 
 function niceStep(range, count) {
   const raw = range / count;
@@ -1212,12 +1212,12 @@ function renderSaControls() {
   document.getElementById("sa-cooling-out").textContent = formatNumber(p.coolingRate, 4);
   document.getElementById("sa-iterations-out").textContent = formatNumber(p.iterations);
 
-  const formula = p.objective === "makespan" ? "Zielwert = Makespan"
-    : p.objective === "tardiness" ? "Zielwert = Σ Verspätung"
-    : `Zielwert = ${formatNumber(p.alpha, 2)} · Makespan + ${formatNumber(1 - p.alpha, 2)} · Σ Verspätung`;
+  const formula = p.objective === "makespan" ? "Objective value = makespan"
+    : p.objective === "tardiness" ? "Objective value = Σ tardiness"
+    : `Objective value = ${formatNumber(p.alpha, 2)} · makespan + ${formatNumber(1 - p.alpha, 2)} · Σ tardiness`;
   const endTemperature = p.startTemperature * p.coolingRate ** p.iterations;
   document.getElementById("sa-formula").textContent =
-    `${formula} (kleiner ist besser) · Endtemperatur ≈ ${formatTemperature(endTemperature)}`;
+    `${formula} (lower is better) · end temperature ≈ ${formatTemperature(endTemperature)}`;
 }
 
 function heuristicReference(machines) {
@@ -1241,21 +1241,21 @@ function renderSaView() {
 
   const bestValue = run.bestHistory[shown];
   const diff = reference.value - bestValue;
-  const verdict = diff > 0 ? el("span", { class: "better", text: `SA besser um ${formatValue(diff)}` })
-    : diff < 0 ? el("span", { class: "worse", text: `SA schlechter um ${formatValue(-diff)}` })
-    : el("span", { text: "gleichauf" });
+  const verdict = diff > 0 ? el("span", { class: "better", text: `SA better by ${formatValue(diff)}` })
+    : diff < 0 ? el("span", { class: "worse", text: `SA worse by ${formatValue(-diff)}` })
+    : el("span", { text: "tied" });
   document.getElementById("sa-stats").replaceChildren(
     el("span", { text: `Iteration ${formatNumber(shown)} / ${formatNumber(p.iterations)}` }),
-    el("span", { text: `Temperatur ${formatTemperature(p.startTemperature * p.coolingRate ** shown)}` }),
-    el("span", { text: `Start (zufällig) ${formatValue(run.start.value)}` }),
-    el("span", { text: `aktuell ${formatValue(run.currentHistory[shown])}` }),
-    el("span", {}, el("strong", { text: `bester ${formatValue(bestValue)}` })),
-    el("span", { text: `beste Heuristik (${reference.name}) ${formatValue(reference.value)}` }),
+    el("span", { text: `Temperature ${formatTemperature(p.startTemperature * p.coolingRate ** shown)}` }),
+    el("span", { text: `Start (random) ${formatValue(run.start.value)}` }),
+    el("span", { text: `current ${formatValue(run.currentHistory[shown])}` }),
+    el("span", {}, el("strong", { text: `best ${formatValue(bestValue)}` })),
+    el("span", { text: `best heuristic (${reference.name}) ${formatValue(reference.value)}` }),
     verdict
   );
 
   const play = document.getElementById("sa-play");
-  play.textContent = view.playing ? "⏸ Pause" : shown < p.iterations ? "▶ Fortsetzen" : "▶ Animation starten";
+  play.textContent = view.playing ? "⏸ Pause" : shown < p.iterations ? "▶ Resume" : "▶ Start animation";
 }
 
 function drawConvergence(run, shown, reference) {
@@ -1333,9 +1333,9 @@ function drawConvergence(run, shown, reference) {
   drawSeries(run.bestHistory, CURVE.best, 3);
 
   const legend = [
-    [CURVE.current, "aktuelle Lösung", false],
-    [CURVE.best, "beste bisher", false],
-    [CURVE.reference, `beste Heuristik (${reference.name})`, true]
+    [CURVE.current, "current solution", false],
+    [CURVE.best, "best so far", false],
+    [CURVE.reference, `best heuristic (${reference.name})`, true]
   ];
   ctx.textBaseline = "middle";
   let lx = pad.left;
@@ -1397,7 +1397,7 @@ function renderComparison() {
   const box = document.getElementById("comparison");
   const results = state.results;
   if (results.length === 0) {
-    box.replaceChildren(el("p", { class: "hint", text: "Kein Verfahren ausgewählt." }));
+    box.replaceChildren(el("p", { class: "hint", text: "No method selected." }));
     return;
   }
   const highlight = results.length > 1;
@@ -1405,7 +1405,7 @@ function renderComparison() {
 
   const table = el("table", { class: "comparison" },
     el("thead", {}, el("tr", {},
-      el("th", { text: "Verfahren" }),
+      el("th", { text: "Method" }),
       ...KPIS.map(k => el("th", { class: "num" }, k.label, k.unit ? el("div", { class: "unit", text: k.unit }) : null))
     )),
     el("tbody", {}, ...results.map(r => el("tr", {},
@@ -1417,7 +1417,7 @@ function renderComparison() {
     )))
   );
   box.replaceChildren(table,
-    highlight ? el("p", { class: "hint", text: "Grün umrandet: bester Wert je Spalte (bei Gleichstand mehrfach). Kleiner ist überall besser." }) : null
+    highlight ? el("p", { class: "hint", text: "Green outline: best value per column (several on a tie). Lower is better everywhere." }) : null
   );
 }
 
@@ -1425,8 +1425,8 @@ function renderLegend() {
   const { data } = state;
   document.getElementById("gantt-legend").replaceChildren(
     ...data.families.map(f => el("span", {}, swatch(familyColor(data, f.id)), `${f.id} – ${f.name}`)),
-    el("span", {}, el("span", { class: "swatch setup-swatch", "aria-hidden": "true" }), "Rüsten"),
-    el("span", {}, el("span", { class: "swatch late-swatch", "aria-hidden": "true" }), "verspätet")
+    el("span", {}, el("span", { class: "swatch setup-swatch", "aria-hidden": "true" }), "Setup"),
+    el("span", {}, el("span", { class: "swatch late-swatch", "aria-hidden": "true" }), "late")
   );
 }
 
@@ -1452,7 +1452,7 @@ function ganttBlock(result, width, horizon) {
   const plotHeight = rows.length * GANTT.rowHeight;
   const svg = svgEl("svg", {
     width, height: plotHeight + GANTT.axisHeight, viewBox: `0 0 ${width} ${plotHeight + GANTT.axisHeight}`,
-    role: "img", "aria-label": `Gantt-Chart ${result.label}`
+    role: "img", "aria-label": `Gantt chart ${result.label}`
   });
 
   const step = tickStep(horizon, plotWidth);
@@ -1462,7 +1462,7 @@ function ganttBlock(result, width, horizon) {
       svgEl("text", { class: "tick", x: x(t), y: plotHeight + 20, "text-anchor": "middle" }, String(t))
     );
   }
-  svg.append(svgEl("text", { class: "tick", x: 0, y: plotHeight + 20 }, "Zeit in min"));
+  svg.append(svgEl("text", { class: "tick", x: 0, y: plotHeight + 20 }, "Time in min"));
 
   rows.forEach((row, k) => {
     const y = k * GANTT.rowHeight + (GANTT.rowHeight - GANTT.barHeight) / 2;
@@ -1477,10 +1477,10 @@ function ganttBlock(result, width, horizon) {
           width: Math.max(1, x(op.setupStart + op.setup) - x(op.setupStart)), height: GANTT.barHeight - 10
         });
         attachTooltip(setupRect, () => [
-          `Rüsten · ${row.machine.name}`,
-          `von ${familyLabel(data, op.previousFamily)}`,
-          `nach ${familyLabel(data, op.family)}`,
-          `${op.setup} min (t = ${op.setupStart} bis ${op.setupStart + op.setup})`
+          `Setup · ${row.machine.name}`,
+          `from ${familyLabel(data, op.previousFamily)}`,
+          `to ${familyLabel(data, op.family)}`,
+          `${op.setup} min (t = ${op.setupStart} to ${op.setupStart + op.setup})`
         ]);
         svg.append(setupRect);
       }
@@ -1505,11 +1505,11 @@ function ganttBlock(result, width, horizon) {
         const completion = result.metrics.schedule.completion[op.jobId];
         const tardiness = result.metrics.tardiness[op.jobId];
         return [
-          `Auftrag ${op.jobId} · ${familyLabel(data, op.family)}`,
-          `${row.machine.name}: t = ${op.start} bis ${op.end} (${op.end - op.start} min)`,
-          op.setup > 0 ? `davor Rüsten ${op.setup} min` : "kein Rüsten davor",
-          `Termin ${job.dueDate} · fertig ${completion}`,
-          tardiness > 0 ? { text: `verspätet um ${tardiness} min`, late: true } : "pünktlich"
+          `Job ${op.jobId} · ${familyLabel(data, op.family)}`,
+          `${row.machine.name}: t = ${op.start} to ${op.end} (${op.end - op.start} min)`,
+          op.setup > 0 ? `setup before: ${op.setup} min` : "no setup before",
+          `Due ${job.dueDate} · completed ${completion}`,
+          tardiness > 0 ? { text: `late by ${tardiness} min`, late: true } : "on time"
         ];
       });
       svg.append(group);
@@ -1517,7 +1517,7 @@ function ganttBlock(result, width, horizon) {
   });
 
   return el("div", { class: "gantt" },
-    el("h3", {}, result.label, el("span", { class: "sequence", text: "Reihenfolge: " + result.sequence.join(" → ") })),
+    el("h3", {}, result.label, el("span", { class: "sequence", text: "Sequence: " + result.sequence.join(" → ") })),
     svg
   );
 }
@@ -1563,12 +1563,12 @@ function showLoadError(title, details) {
   box.replaceChildren(
     el("h2", { text: title }),
     el("ul", {}, ...shown.map(d => el("li", { text: d }))),
-    details.length > shown.length ? el("p", { text: `… und ${details.length - shown.length} weitere.` }) : null,
-    el("p", { text: "Bitte stammdaten.js im Texteditor korrigieren und die Seite neu laden. Die Mini-Beispiele oben funktionieren trotzdem." })
+    details.length > shown.length ? el("p", { text: `… and ${details.length - shown.length} more.` }) : null,
+    el("p", { text: "Please fix master-data.js in a text editor and reload the page. The mini examples above still work." })
   );
   box.hidden = false;
   document.getElementById("app").hidden = true;
-  document.getElementById("scenario-line").textContent = "Stammdaten konnten nicht geladen werden";
+  document.getElementById("scenario-line").textContent = "Master data could not be loaded";
   document.getElementById("btn-reset").disabled = true;
   document.getElementById("btn-save").disabled = true;
   for (const radio of document.querySelectorAll('input[name="mode"]')) {
@@ -1598,7 +1598,7 @@ function loadSource(source) {
 }
 
 function confirmDiscard() {
-  return !state.dirty || confirm("Ungespeicherte Änderungen gehen verloren. Fortfahren?");
+  return !state.dirty || confirm("Unsaved changes will be lost. Continue?");
 }
 
 function readGeneratorInputs() {
@@ -1617,12 +1617,12 @@ function readGeneratorInputs() {
 function saveMasterData() {
   const errors = validateMasterData(state.data);
   if (errors.length) {
-    alert("Die Stammdaten sind nicht gültig und werden nicht gespeichert:\n\n" + errors.slice(0, 10).join("\n"));
+    alert("The master data is not valid and will not be saved:\n\n" + errors.slice(0, 10).join("\n"));
     return;
   }
   const blob = new Blob([masterDataFileText(state.data)], { type: "text/javascript" });
   const url = URL.createObjectURL(blob);
-  const link = el("a", { href: url, download: "stammdaten.js" });
+  const link = el("a", { href: url, download: "master-data.js" });
   document.body.append(link);
   link.click();
   link.remove();
@@ -1735,18 +1735,18 @@ function bindUi() {
 function init() {
   bindUi();
   if (window.__masterDataMissing) {
-    return showLoadError("stammdaten.js wurde nicht gefunden.", ["Die Datei muss im selben Ordner wie index.html liegen."]);
+    return showLoadError("master-data.js was not found.", ["The file must be in the same folder as index.html."]);
   }
   if (window.__masterDataErrors.length) {
-    return showLoadError("stammdaten.js enthält einen Syntaxfehler.", window.__masterDataErrors);
+    return showLoadError("master-data.js contains a syntax error.", window.__masterDataErrors);
   }
   if (window.MASTER_DATA === undefined) {
-    return showLoadError("stammdaten.js setzt kein window.MASTER_DATA.", [
-      "Die Datei fehlt, enthält einen Syntaxfehler oder weist das Objekt nicht window.MASTER_DATA zu. Details in der Browser-Konsole (F12)."
+    return showLoadError("master-data.js does not set window.MASTER_DATA.", [
+      "The file is missing, contains a syntax error or does not assign the object to window.MASTER_DATA. Details in the browser console (F12)."
     ]);
   }
   const errors = validateMasterData(window.MASTER_DATA);
-  if (errors.length) return showLoadError("stammdaten.js enthält ungültige Werte.", errors);
+  if (errors.length) return showLoadError("master-data.js contains invalid values.", errors);
   loadSource("file");
 }
 

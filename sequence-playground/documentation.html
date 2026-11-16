@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sequence Playground – Documentation</title>
+<style>
+  :root {
+    --bg: #f4f5f7;
+    --panel: #ffffff;
+    --text: #111418;
+    --muted: #4a5260;
+    --border: #c3c8d0;
+    --accent: #0b5cad;
+    --setup: #8a8f98;
+    --late: #d00000;
+    --grid: #e2e5e9;
+    --code-bg: #eef1f5;
+    --radius: 6px;
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  html { font-size: 18px; scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.55;
+  }
+  a { color: var(--accent); }
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 2rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.7rem 1.2rem;
+    background: var(--panel);
+    border-bottom: 2px solid var(--border);
+  }
+  .topbar h1 { font-size: 1.4rem; margin: 0; }
+  .back { font-weight: 600; }
+  .layout {
+    display: grid;
+    grid-template-columns: 15rem minmax(0, 1fr);
+    gap: 1.5rem;
+    max-width: 78rem;
+    margin: 0 auto;
+    padding: 1.2rem;
+  }
+  nav.toc {
+    position: sticky;
+    top: 4.5rem;
+    align-self: start;
+    font-size: 0.9rem;
+  }
+  nav.toc ol { margin: 0; padding-left: 1.2rem; }
+  nav.toc li { margin: 0.2rem 0; }
+  nav.toc ol ol { padding-left: 1rem; font-size: 0.85rem; }
+  main section {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1rem 1.4rem;
+    margin-bottom: 1.2rem;
+    scroll-margin-top: 4.5rem;
+  }
+  main h2 { font-size: 1.35rem; margin: 0.2rem 0 0.6rem; }
+  main h3 { font-size: 1.1rem; margin: 1.3rem 0 0.4rem; scroll-margin-top: 4.5rem; }
+  p, li { max-width: 52rem; }
+  .lead { font-size: 1.05rem; }
+  .formula {
+    display: block;
+    margin: 0.6rem 0;
+    padding: 0.5rem 0.8rem;
+    background: var(--code-bg);
+    border-left: 4px solid var(--accent);
+    border-radius: var(--radius);
+    font-family: "Cambria Math", "STIX Two Math", Georgia, serif;
+    font-size: 1.05rem;
+    overflow-x: auto;
+  }
+  code, pre { font-family: ui-monospace, Consolas, monospace; font-size: 0.88rem; }
+  code { background: var(--code-bg); padding: 0 0.25rem; border-radius: 3px; }
+  pre { background: var(--code-bg); padding: 0.7rem 0.9rem; border-radius: var(--radius); overflow-x: auto; line-height: 1.4; }
+  table { border-collapse: collapse; margin: 0.6rem 0; font-variant-numeric: tabular-nums; }
+  th, td { padding: 0.3rem 0.7rem; border-bottom: 1px solid var(--grid); text-align: left; }
+  th { font-size: 0.85rem; color: var(--muted); }
+  td.num, th.num { text-align: right; }
+  td.best { background: #d6f0df; font-weight: 700; }
+  .table-wrap { overflow-x: auto; }
+  .note {
+    padding: 0.6rem 0.9rem;
+    border-radius: var(--radius);
+    background: #fff3cd;
+    color: #3d2e00;
+  }
+  .method-card { border-left: 4px solid var(--border); padding-left: 0.9rem; margin: 1rem 0; }
+  .method-card h3 { margin-top: 0.4rem; }
+  .pro-con { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem 1.5rem; }
+  .pro-con div > strong { display: block; font-size: 0.85rem; color: var(--muted); }
+  figure { margin: 0.8rem 0; }
+  figcaption { font-size: 0.85rem; color: var(--muted); margin-top: 0.3rem; }
+  svg.gantt { width: 100%; max-width: 900px; height: auto; display: block; }
+  svg.gantt text { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+  .swatch { display: inline-block; width: 0.9rem; height: 0.9rem; border-radius: 3px; vertical-align: -0.1rem; margin-right: 0.3rem; border: 1px solid rgba(0,0,0,0.35); }
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: minmax(0, 1fr); }
+    nav.toc { position: static; }
+    .pro-con { grid-template-columns: 1fr; }
+  }
+  @media print {
+    .topbar { position: static; }
+    nav.toc { display: none; }
+    .layout { display: block; }
+    main section { break-inside: avoid-page; border: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <h1>Sequence Playground · Documentation</h1>
+  <a class="back" href="index.html">← Back to the playground</a>
+</header>
+
+<div class="layout">
+  <nav class="toc" aria-label="Contents">
+    <ol>
+      <li><a href="#background">The shop floor</a></li>
+      <li><a href="#problem">The problem</a></li>
+      <li><a href="#data-model">Data model</a>
+        <ol>
+          <li><a href="#setup-times">Setup times</a></li>
+          <li><a href="#due-date-pressure">Due-date pressure</a></li>
+        </ol>
+      </li>
+      <li><a href="#schedule">From sequence to schedule</a></li>
+      <li><a href="#kpis">KPIs</a></li>
+      <li><a href="#methods">Methods</a>
+        <ol>
+          <li><a href="#fifo">FIFO</a></li>
+          <li><a href="#spt">SPT</a></li>
+          <li><a href="#edd">EDD</a></li>
+          <li><a href="#nn">Nearest Neighbour</a></li>
+          <li><a href="#sa">Simulated Annealing</a></li>
+        </ol>
+      </li>
+      <li><a href="#examples">Mini examples to check by hand</a></li>
+      <li><a href="#usage">Using the app</a></li>
+      <li><a href="#own-scenario">Your own scenario</a></li>
+      <li><a href="#limits">Limits of the model</a></li>
+      <li><a href="#teaching">Ideas for teaching</a></li>
+    </ol>
+  </nav>
+
+  <main>
+    <section id="background">
+      <h2>1 The shop floor</h2>
+      <p class="lead">
+        The <strong>Sample Sheet Metal Works</strong> makes sheet-metal parts for control cabinets and machine building. Every job
+        (a batch of identical parts) passes three stations in a fixed order:
+        <strong>laser cutting → bending → powder coating</strong>. The plant runs two shifts, so about 960 minutes per day.
+      </p>
+      <p>The jobs belong to five product families. Within a family, sheet thickness, bending tool and colour are the same:</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Family</th><th>Product</th><th>Sheet</th><th>Bending tool</th><th>Colour</th></tr></thead>
+          <tbody>
+            <tr><td><span class="swatch" style="background:#0072B2"></span>A</td><td>Control cabinet door</td><td>1.5 mm</td><td>S1</td><td>RAL 7035 light grey</td></tr>
+            <tr><td><span class="swatch" style="background:#E69F00"></span>B</td><td>Device housing</td><td>1.0 mm</td><td>S2</td><td>RAL 9016 traffic white</td></tr>
+            <tr><td><span class="swatch" style="background:#009E73"></span>C</td><td>Cable duct</td><td>1.25 mm</td><td>S2</td><td>RAL 5010 gentian blue</td></tr>
+            <tr><td><span class="swatch" style="background:#CC79A7"></span>D</td><td>Machine console</td><td>3.0 mm</td><td>S3</td><td>RAL 7016 anthracite grey</td></tr>
+            <tr><td><span class="swatch" style="background:#56B4E9"></span>E</td><td>Front panel</td><td>2.0 mm</td><td>S1</td><td>RAL 9005 jet black</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>When a station switches from one family to another, it has to be <strong>set up</strong>:</p>
+      <ul>
+        <li><strong>Laser cutting:</strong> sheet thickness and cutting parameters change. This is quick, 5 to 18 minutes.</li>
+        <li><strong>Bending:</strong> a different tool set is mounted. Between families that share a tool (A and E, B and C) this takes only 10 minutes; the heavy set S3 for D takes up to 35.</li>
+        <li><strong>Powder coating:</strong> the booth is cleaned for the colour change. Light to dark takes 15 to 20 minutes; dark to light needs thorough cleaning, up to 60 minutes.</li>
+      </ul>
+      <p>
+        Powder coating is therefore the <strong>bottleneck</strong>: it has the longest processing times and the most expensive changeovers.
+        The colour changes are also <strong>asymmetric</strong>. Whether white runs before black or the other way round makes a big difference.
+      </p>
+      <p class="note">
+        The colours in the app's Gantt charts are only there to tell the families apart and remain distinguishable with colour vision deficiencies.
+        They do not match the families' RAL colours.
+      </p>
+    </section>
+
+    <section id="problem">
+      <h2>2 The problem</h2>
+      <p>
+        The question for production control is: <strong>in which order should the jobs be processed?</strong>
+        The sequence decides how often and how long the stations are set up, when the jobs are finished and whether the due dates hold.
+      </p>
+      <p>Two goals often conflict:</p>
+      <ul>
+        <li><strong>Little setup:</strong> jobs of the same family are grouped, which shortens the total duration (makespan).</li>
+        <li><strong>Meeting due dates:</strong> urgent jobs go first, even if that means more changeovers.</li>
+      </ul>
+      <p>
+        With <em>n</em> jobs there are <em>n</em>! possible sequences. For 12 jobs that is already
+        <strong>479,001,600</strong>; for 20 jobs about 2.4 · 10<sup>18</sup>.
+        Trying them all is practically impossible. That is why planners use <strong>priority rules</strong>
+        (fast and easy to follow) and <strong>metaheuristics</strong> such as simulated annealing (more thorough, but with no guarantee of the optimum).
+      </p>
+      <p>The app looks at two cases:</p>
+      <ul>
+        <li><strong>Single machine:</strong> only the bottleneck, powder coating. This is the classic single-machine problem with sequence-dependent setup times.</li>
+        <li><strong>Line:</strong> all three stations. All jobs pass the stations in the same order and are processed in the same sequence on every station.
+          Technical term: <em>permutation flow shop</em>.</li>
+      </ul>
+    </section>
+
+    <section id="data-model">
+      <h2>3 Data model</h2>
+      <p>All times are whole minutes. The schedule starts at t = 0.</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Object</th><th>Attributes</th><th>Meaning</th></tr></thead>
+          <tbody>
+            <tr><td>Job <em>j</em></td><td>Number, family, processing time <em>p<sub>j,m</sub></em> per machine, due date <em>d<sub>j</sub></em></td><td>A batch that passes all stations</td></tr>
+            <tr><td>Family</td><td>Letter, name, details</td><td>Jobs of the same family need no changeover between them</td></tr>
+            <tr><td>Machine <em>m</em></td><td>Name, setup time matrix</td><td>Station in the line; the order of the list is the station order</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3 id="setup-times">Setup times</h3>
+      <p>
+        Each machine has a setup time matrix <em>s<sub>m</sub>(from, to)</em>. The row is the family of the previous job,
+        the column the family of the next one. The matrix is <strong>asymmetric</strong>: <em>s(A, B)</em> and <em>s(B, A)</em> may differ.
+        The diagonal is 0, because there is no setup within a family.
+      </p>
+      <p>
+        The additional row <strong>“empty”</strong> describes the initial state at the start of the shift,
+        i.e. the setup time before the very first job.
+      </p>
+
+      <h3 id="due-date-pressure">Due-date pressure (random generator)</h3>
+      <p>
+        For a given <strong>seed</strong>, the generator always creates the same jobs. This makes results repeatable and comparable.
+        Families and processing times are drawn uniformly, the processing times within the ranges from the master data.
+      </p>
+      <p>
+        The <strong>due-date pressure τ</strong> slider (0 to 1) controls how tight the due dates are.
+        First the workload <em>L</em> of the most heavily loaded machine is estimated: the sum of its processing times plus one average setup per job.
+        Each due date is then drawn uniformly from
+      </p>
+      <span class="formula">d<sub>j</sub> ∈ [ L · (1 − τ − R/2) ,  L · (1 − τ + R/2) ] with R = 0.6</span>
+      <p>
+        and rounded to 10 minutes. No due date lies before the job's own processing time.
+        This scheme is common in the literature for test instances of tardiness problems.
+      </p>
+      <ul>
+        <li><strong>τ = 0:</strong> the due dates lie around the total workload. Almost any sequence meets them.</li>
+        <li><strong>τ ≈ 0.4:</strong> some jobs are urgent. The sequence decides about tardiness. This is the most interesting range for comparisons.</li>
+        <li><strong>τ = 1:</strong> almost all due dates are very early. Tardiness cannot be avoided.</li>
+      </ul>
+    </section>
+
+    <section id="schedule">
+      <h2>4 From sequence to schedule</h2>
+      <p>
+        Each method only returns a <strong>sequence</strong> of jobs. From it, the app computes the schedule using fixed rules.
+      </p>
+      <h3>Single machine</h3>
+      <p>The jobs run back to back without gaps. Before each job there is a setup if the family changes:</p>
+      <span class="formula">Start<sub>j</sub> = End<sub>prev</sub> + s(family<sub>prev</sub>, family<sub>j</sub>)     End<sub>j</sub> = Start<sub>j</sub> + p<sub>j</sub></span>
+
+      <h3>Line</h3>
+      <p>
+        A station can only start a job once it has finished its own setup <em>and</em> the job has left the previous station.
+        The setup starts as soon as the station is free, even if the job is still running on the previous station:
+      </p>
+      <span class="formula">Start<sub>j,m</sub> = max( End<sub>prev,m</sub> + s<sub>m</sub>(family<sub>prev</sub>, family<sub>j</sub>) ,  End<sub>j,m−1</sub> )</span>
+      <p>
+        This creates <strong>waiting times</strong>: a station is idle because the next job is not yet finished upstream.
+        The completion time <em>C<sub>j</sub></em> is the end on the last station.
+      </p>
+      <figure>
+        <svg class="gantt" viewBox="0 0 1000 120" role="img" aria-label="Gantt chart of the line mini example, Nearest Neighbour">
+          <g stroke="#e2e5e9">
+            <line x1="130" y1="0" x2="130" y2="90"/><line x1="320" y1="0" x2="320" y2="90"/><line x1="510" y1="0" x2="510" y2="90"/><line x1="700" y1="0" x2="700" y2="90"/><line x1="890" y1="0" x2="890" y2="90"/>
+          </g>
+          <g font-size="13" fill="#4a5260" text-anchor="middle">
+            <text x="130" y="110">0</text><text x="320" y="110">5</text><text x="510" y="110">10</text><text x="700" y="110">15</text><text x="890" y="110">20</text>
+          </g>
+          <text x="0" y="110" font-size="13" fill="#4a5260">Time in min</text>
+          <text x="0" y="30" font-size="15" font-weight="600">Machine 1</text>
+          <text x="0" y="75" font-size="15" font-weight="600">Machine 2</text>
+          <!-- M1: setup 0-1, J1 1-4, J3 4-8, setup 8-11, J2 11-13, J4 13-16 (38 px/min) -->
+          <rect x="130" y="13" width="38" height="18" fill="#8a8f98"/>
+          <rect x="168" y="8" width="114" height="28" fill="#0072B2" stroke="#000" stroke-opacity="0.5"/><text x="225" y="27" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+          <rect x="282" y="8" width="152" height="28" fill="#0072B2" stroke="#000" stroke-opacity="0.5"/><text x="358" y="27" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+          <rect x="434" y="13" width="114" height="18" fill="#8a8f98"/>
+          <rect x="548" y="8" width="76" height="28" fill="#E69F00" stroke="#000" stroke-opacity="0.5"/><text x="586" y="27" font-size="14" font-weight="700" fill="#000" text-anchor="middle">2</text>
+          <rect x="624" y="8" width="114" height="28" fill="#E69F00" stroke="#000" stroke-opacity="0.5"/><text x="681" y="27" font-size="14" font-weight="700" fill="#000" text-anchor="middle">4</text>
+          <!-- M2: setup 0-2, J1 4-8, J3 8-10, setup 10-12, J2 13-18 (late), J4 18-21 -->
+          <rect x="130" y="58" width="76" height="18" fill="#8a8f98"/>
+          <rect x="282" y="53" width="152" height="28" fill="#0072B2" stroke="#000" stroke-opacity="0.5"/><text x="358" y="72" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+          <rect x="434" y="53" width="76" height="28" fill="#0072B2" stroke="#000" stroke-opacity="0.5"/><text x="472" y="72" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+          <rect x="510" y="58" width="76" height="18" fill="#8a8f98"/>
+          <rect x="624" y="53" width="190" height="28" fill="#E69F00" stroke="#d00000" stroke-width="4"/><text x="719" y="72" font-size="14" font-weight="700" fill="#000" text-anchor="middle">2</text>
+          <rect x="814" y="53" width="114" height="28" fill="#E69F00" stroke="#000" stroke-opacity="0.5"/><text x="871" y="72" font-size="14" font-weight="700" fill="#000" text-anchor="middle">4</text>
+        </svg>
+        <figcaption>
+          Line mini example, sequence 1 → 3 → 2 → 4. Machine 2 sets up right away (0–2), but then waits until t = 4 for job 1.
+          Before job 2 it has finished its setup at t = 12, but has to wait until t = 13 for machine 1 to hand the job over.
+          Job 2 is only completed at t = 18; its due date was 16: late (red).
+        </figcaption>
+      </figure>
+    </section>
+
+    <section id="kpis">
+      <h2>5 KPIs</h2>
+      <p>For all KPIs, <strong>lower is better</strong>. In the app's comparison table, the best value per column has a green outline.</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>KPI</th><th>Definition</th><th>What it tells you</th></tr></thead>
+          <tbody>
+            <tr><td>Makespan</td><td><em>C</em> of the last job</td><td>When is everything done? Short = capacity well used</td></tr>
+            <tr><td>Total setup</td><td>Sum of all setups across all machines</td><td>How much time is lost to changeovers and cleaning?</td></tr>
+            <tr><td>Σ tardiness</td><td>Σ <em>T<sub>j</sub></em> with <em>T<sub>j</sub></em> = max(0, <em>C<sub>j</sub></em> − <em>d<sub>j</sub></em>)</td><td>How far are due dates exceeded in total? Finishing early does not count</td></tr>
+            <tr><td>Late jobs</td><td>Number of jobs with <em>T<sub>j</sub></em> &gt; 0</td><td>How many customers are waiting?</td></tr>
+            <tr><td>Setup share</td><td>Total setup / (makespan × number of machines) in %</td><td>What share of the available machine time is spent on setup?</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        The KPIs often point in different directions. A method with the shortest makespan can have many late jobs, and vice versa.
+        Which KPI matters is a <strong>business decision</strong>, not a mathematical one.
+      </p>
+    </section>
+
+    <section id="methods">
+      <h2>6 Methods</h2>
+      <p>
+        All methods work on the same data and return a sequence.
+        On the line, SPT and Nearest Neighbour use the <strong>sum</strong> of processing or setup times across all machines.
+        The examples refer to the <a href="#examples">single-machine mini example</a>.
+      </p>
+
+      <div class="method-card" id="fifo">
+        <h3>FIFO – First In, First Out</h3>
+        <p><strong>Rule:</strong> process jobs in the order they arrived. In the app this is the order of the job table.</p>
+        <p><strong>Example:</strong> 1 → 2 → 3 → 4 → 5. The families alternate all the time (A, B, A, B, A), so there is a setup before every job.</p>
+        <div class="pro-con">
+          <div><strong>Strengths</strong>Simple, fair, needs no calculation. A good baseline.</div>
+          <div><strong>Weaknesses</strong>Ignores setup times and due dates completely.</div>
+        </div>
+      </div>
+
+      <div class="method-card" id="spt">
+        <h3>SPT – Shortest Processing Time</h3>
+        <p><strong>Rule:</strong> the job with the shortest processing time first. On a tie, the smaller job number wins.</p>
+        <p><strong>Example:</strong> 5 (2 min) → 2 (3) → 3 (4) → 1 (5) → 4 (6).</p>
+        <div class="pro-con">
+          <div><strong>Strengths</strong>Without setup times it minimises the mean flow time; many jobs finish early.</div>
+          <div><strong>Weaknesses</strong>Long jobs wait; due dates and setup times play no role.</div>
+        </div>
+      </div>
+
+      <div class="method-card" id="edd">
+        <h3>EDD – Earliest Due Date</h3>
+        <p><strong>Rule:</strong> the job with the earliest due date first. On a tie, the smaller job number wins.</p>
+        <p><strong>Example:</strong> 1 (due 10) → 2 (12) → 4 (20) → 5 (25) → 3 (30).</p>
+        <div class="pro-con">
+          <div><strong>Strengths</strong>Without setup times it minimises the maximum tardiness; usually good for total tardiness.</div>
+          <div><strong>Weaknesses</strong>Ignores setup times; with many family changes this costs capacity.</div>
+        </div>
+      </div>
+
+      <div class="method-card" id="nn">
+        <h3>Nearest Neighbour – smallest setup next</h3>
+        <p>
+          <strong>Rule:</strong> starting from the “empty” state, always pick the job with the smallest setup time.
+          On a tie, the earlier due date wins, then the smaller number.
+          The method comes from the travelling salesman problem: the families are the “cities”, the setup times the “distances”.
+        </p>
+        <p><strong>Example:</strong> empty → A costs 2, empty → B costs 3, so an A job comes first (1, earliest due date). Then 5 and 3 (both A) without setup, then one change A → B and 2, 4. Result 1 → 5 → 3 → 2 → 4 with only two setups.</p>
+        <div class="pro-con">
+          <div><strong>Strengths</strong>Groups families, little setup time, often a short makespan.</div>
+          <div><strong>Weaknesses</strong>“Greedy”: good first steps can force expensive changes later. Due dates only count on a tie.</div>
+        </div>
+      </div>
+
+      <div class="method-card" id="sa">
+        <h3>Simulated Annealing</h3>
+        <p>
+          <strong>Idea:</strong> the method imitates the slow cooling of metal. At a high temperature the atoms can still rearrange freely;
+          as the metal cools they settle into a low-energy, stable structure. Translated to scheduling: at first, even
+          <strong>worse solutions</strong> are accepted, so the method does not get stuck in the first local optimum it finds.
+          As the temperature drops, it becomes more and more selective.
+        </p>
+        <pre>s  ← random start sequence              T ← start temperature
+repeat N times (iterations):
+    s' ← neighbour of s                  (swap: exchange two jobs
+                                          or insert: move one job)
+    Δ  ← f(s') − f(s)                     (f = objective value, lower is better)
+    if Δ ≤ 0 or random number &lt; e^(−Δ / T):  s ← s'
+    remember the best sequence found so far
+    T  ← T · cooling rate
+result: best sequence found</pre>
+        <p><strong>Probability of accepting a deterioration of Δ = 20:</strong></p>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Temperature T</th><th class="num">100</th><th class="num">20</th><th class="num">5</th><th class="num">1</th></tr></thead>
+            <tbody><tr><td>e<sup>−20/T</sup></td><td class="num">82%</td><td class="num">37%</td><td class="num">1.8%</td><td class="num">≈ 0%</td></tr></tbody>
+          </table>
+        </div>
+        <p><strong>Objective</strong> (selectable in the app):</p>
+        <ul>
+          <li><strong>Makespan:</strong> finish everything as early as possible</li>
+          <li><strong>Σ tardiness:</strong> meet the due dates as well as possible</li>
+          <li><strong>Weighted:</strong> <span class="formula" style="display:inline-block;margin:0.2rem 0">f = α · makespan + (1 − α) · Σ tardiness</span>
+            α weights the trade-off explicitly. α = 1 is pure makespan, α = 0 pure tardiness.</li>
+        </ul>
+        <p><strong>Parameters</strong> (sliders in the app):</p>
+        <ul>
+          <li><strong>Start temperature:</strong> how generously the method accepts worse solutions at first. A sensible value is in the range of typical differences Δ.</li>
+          <li><strong>Cooling rate:</strong> factor per iteration, for example 0.998. Closer to 1 means cooling more slowly and searching longer.</li>
+          <li><strong>Iterations:</strong> number of neighbourhood steps. The app shows the resulting <em>end temperature</em> = start temperature · cooling rate<sup>iterations</sup>.</li>
+          <li><strong>Seed:</strong> controls the start sequence and the random moves. The same seed gives the same run.</li>
+        </ul>
+        <p>
+          <strong>Convergence curve:</strong> the light blue line shows the objective value of the current solution. At high temperature it jumps a lot.
+          The dark blue line shows the best value found so far and can only go down.
+          The dashed line is the best priority rule for the same objective.
+        </p>
+        <p class="note">
+          Simulated annealing does not guarantee the optimum. Depending on parameters and seed, it can even do worse than a simple rule.
+          That is exactly what you can try out in the app.
+        </p>
+      </div>
+    </section>
+
+    <section id="examples">
+      <h2>7 Mini examples to check by hand</h2>
+      <p>Both examples are built into the app and can be loaded with the buttons in the header. All values can be checked by hand.</p>
+
+      <h3>Single machine: 5 jobs, 2 families</h3>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Job</th><th>Family</th><th class="num">Processing time</th><th class="num">Due date</th></tr></thead>
+          <tbody>
+            <tr><td>1</td><td>A</td><td class="num">5</td><td class="num">10</td></tr>
+            <tr><td>2</td><td>B</td><td class="num">3</td><td class="num">12</td></tr>
+            <tr><td>3</td><td>A</td><td class="num">4</td><td class="num">30</td></tr>
+            <tr><td>4</td><td>B</td><td class="num">6</td><td class="num">20</td></tr>
+            <tr><td>5</td><td>A</td><td class="num">2</td><td class="num">25</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Setup times: empty → A 2, empty → B 3, A → B 4, B → A 6.</p>
+      <p><strong>FIFO step by step:</strong></p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Job</th><th>Setup</th><th class="num">Setup time</th><th class="num">Start</th><th class="num">End C</th><th class="num">Due d</th><th class="num">Tardiness T</th></tr></thead>
+          <tbody>
+            <tr><td>1 (A)</td><td>empty → A</td><td class="num">2</td><td class="num">2</td><td class="num">7</td><td class="num">10</td><td class="num">0</td></tr>
+            <tr><td>2 (B)</td><td>A → B</td><td class="num">4</td><td class="num">11</td><td class="num">14</td><td class="num">12</td><td class="num">2</td></tr>
+            <tr><td>3 (A)</td><td>B → A</td><td class="num">6</td><td class="num">20</td><td class="num">24</td><td class="num">30</td><td class="num">0</td></tr>
+            <tr><td>4 (B)</td><td>A → B</td><td class="num">4</td><td class="num">28</td><td class="num">34</td><td class="num">20</td><td class="num">14</td></tr>
+            <tr><td>5 (A)</td><td>B → A</td><td class="num">6</td><td class="num">40</td><td class="num">42</td><td class="num">25</td><td class="num">17</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Makespan 42, total setup 22, Σ tardiness 33, three late jobs, setup share 22 / 42 = 52.4%.</p>
+      <figure>
+        <svg class="gantt" viewBox="0 0 1000 75" role="img" aria-label="Gantt chart of the single-machine mini example, FIFO">
+          <g stroke="#e2e5e9">
+            <line x1="130" y1="0" x2="130" y2="45"/><line x1="335" y1="0" x2="335" y2="45"/><line x1="540" y1="0" x2="540" y2="45"/><line x1="745" y1="0" x2="745" y2="45"/><line x1="950" y1="0" x2="950" y2="45"/>
+          </g>
+          <g font-size="13" fill="#4a5260" text-anchor="middle">
+            <text x="130" y="65">0</text><text x="335" y="65">10</text><text x="540" y="65">20</text><text x="745" y="65">30</text><text x="950" y="65">40</text>
+          </g>
+          <text x="0" y="28" font-size="15" font-weight="600">Machine 1</text>
+          <!-- 20.5 px/min -->
+          <rect x="130" y="13" width="41" height="18" fill="#8a8f98"/>
+          <rect x="171" y="8" width="102.5" height="28" fill="#0072B2" stroke="#000" stroke-opacity="0.5"/><text x="222" y="27" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+          <rect x="273.5" y="13" width="82" height="18" fill="#8a8f98"/>
+          <rect x="355.5" y="8" width="61.5" height="28" fill="#E69F00" stroke="#d00000" stroke-width="4"/><text x="386" y="27" font-size="14" font-weight="700" fill="#000" text-anchor="middle">2</text>
+          <rect x="417" y="13" width="123" height="18" fill="#8a8f98"/>
+          <rect x="540" y="8" width="82" height="28" fill="#0072B2" stroke="#000" stroke-opacity="0.5"/><text x="581" y="27" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+          <rect x="622" y="13" width="82" height="18" fill="#8a8f98"/>
+          <rect x="704" y="8" width="123" height="28" fill="#E69F00" stroke="#d00000" stroke-width="4"/><text x="765" y="27" font-size="14" font-weight="700" fill="#000" text-anchor="middle">4</text>
+          <rect x="827" y="13" width="123" height="18" fill="#8a8f98"/>
+          <rect x="950" y="8" width="41" height="28" fill="#0072B2" stroke="#d00000" stroke-width="4"/><text x="970" y="27" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+        </svg>
+        <figcaption>FIFO in the mini example: five setups (grey) take up more than half of the time, three jobs are late (red).</figcaption>
+      </figure>
+      <p><strong>All methods compared</strong> (green = best value):</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Method</th><th>Sequence</th><th class="num">Makespan</th><th class="num">Setup</th><th class="num">Σ tardiness</th><th class="num">Late</th><th class="num">Setup share</th></tr></thead>
+          <tbody>
+            <tr><td>FIFO</td><td>1-2-3-4-5</td><td class="num">42</td><td class="num">22</td><td class="num">33</td><td class="num">3</td><td class="num">52.4%</td></tr>
+            <tr><td>SPT</td><td>5-2-3-1-4</td><td class="num">36</td><td class="num">16</td><td class="num">32</td><td class="num best">2</td><td class="num">44.4%</td></tr>
+            <tr><td>EDD</td><td>1-2-4-5-3</td><td class="num">32</td><td class="num">12</td><td class="num best">7</td><td class="num">3</td><td class="num">37.5%</td></tr>
+            <tr><td>Nearest Neighbour</td><td>1-5-3-2-4</td><td class="num best">26</td><td class="num best">6</td><td class="num">14</td><td class="num best">2</td><td class="num best">23.1%</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        Nearest Neighbour reaches the optimal makespan: 20 min of processing plus at least 2 + 4 min of setup.
+        EDD, on the other hand, has the lowest tardiness. This is the <a href="#problem">trade-off</a> in miniature.
+      </p>
+
+      <h3>Line: 4 jobs, 2 families, 2 machines</h3>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Job</th><th>Family</th><th class="num">p on machine 1</th><th class="num">p on machine 2</th><th class="num">Due date</th></tr></thead>
+          <tbody>
+            <tr><td>1</td><td>A</td><td class="num">3</td><td class="num">4</td><td class="num">12</td></tr>
+            <tr><td>2</td><td>B</td><td class="num">2</td><td class="num">5</td><td class="num">16</td></tr>
+            <tr><td>3</td><td>A</td><td class="num">4</td><td class="num">2</td><td class="num">28</td></tr>
+            <tr><td>4</td><td>B</td><td class="num">3</td><td class="num">3</td><td class="num">24</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        Setup times machine 1: empty → A 1, empty → B 2, A → B 3, B → A 2.
+        Machine 2: empty → A 2, empty → B 1, A → B 2, B → A 4.
+      </p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Method</th><th>Sequence</th><th class="num">Makespan</th><th class="num">Setup</th><th class="num">Σ tardiness</th><th class="num">Late</th><th class="num">Setup share</th></tr></thead>
+          <tbody>
+            <tr><td>FIFO</td><td>1-2-3-4</td><td class="num">26</td><td class="num">19</td><td class="num">2</td><td class="num">1</td><td class="num">36.5%</td></tr>
+            <tr><td>SPT</td><td>3-4-1-2</td><td class="num">29</td><td class="num">19</td><td class="num">23</td><td class="num">2</td><td class="num">32.8%</td></tr>
+            <tr><td>EDD</td><td>1-2-4-3</td><td class="num">24</td><td class="num">14</td><td class="num best">0</td><td class="num best">0</td><td class="num">29.2%</td></tr>
+            <tr><td>Nearest Neighbour</td><td>1-3-2-4</td><td class="num best">21</td><td class="num best">8</td><td class="num">2</td><td class="num">1</td><td class="num best">19.0%</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        Here the setup share refers to two machines: 8 / (21 · 2) = 19.0%.
+        The Nearest Neighbour schedule is shown as a Gantt chart in the section <a href="#schedule">From sequence to schedule</a>.
+      </p>
+    </section>
+
+    <section id="usage">
+      <h2>8 Using the app</h2>
+      <h3>Header</h3>
+      <ul>
+        <li><strong>Mode:</strong> “Single machine” looks only at the bottleneck machine, “Line” at all machines. For the mini examples, the matching mode is fixed.</li>
+        <li><strong>Methods:</strong> switch on and off with the checkboxes. Only selected methods appear in the table and the Gantt charts.</li>
+        <li><strong>Reset:</strong> discards all changes and reloads <code>master-data.js</code>.</li>
+        <li><strong>Save master data:</strong> downloads the current state as a file (see <a href="#own-scenario">Your own scenario</a>).</li>
+        <li><strong>Mini examples:</strong> load the examples from section 7.</li>
+      </ul>
+      <h3>Left column: data</h3>
+      <ul>
+        <li><strong>Jobs:</strong> change values directly in the table, add jobs with “+ Job” and delete them with ✕. Invalid entries are marked red and not applied.</li>
+        <li><strong>Generator:</strong> choose seed, count and <a href="#due-date-pressure">due-date pressure</a>, then “Generate jobs”. Machines and setup times stay as they are.</li>
+        <li><strong>Product families and setup times:</strong> names and setup times can be edited. Every change is recalculated immediately.</li>
+      </ul>
+      <h3>Right column: results</h3>
+      <ul>
+        <li><strong>Overview:</strong> load per machine. The machine with the highest load is marked; it is usually the bottleneck.</li>
+        <li><strong>Method comparison:</strong> the <a href="#kpis">KPIs</a> per method; the best value per column has a green outline.</li>
+        <li><strong>Simulated Annealing:</strong> set the objective and parameters. “Start animation” replays the run in about five seconds; meanwhile the table and Gantt charts show the best solution found so far.</li>
+        <li><strong>Gantt charts:</strong> one chart per method on a shared time axis, one row per machine. Setup is grey, late jobs have a red outline. Hovering with the mouse shows the job data.</li>
+      </ul>
+      <p class="note">
+        Changes in the app only last until the page is reloaded. To keep a scenario, use “Save master data”.
+      </p>
+    </section>
+
+    <section id="own-scenario">
+      <h2>9 Your own scenario</h2>
+      <p>
+        The demo scenario lives in the file <code>master-data.js</code> in the same folder as the app.
+        You can edit it in any text editor, or put it together in the app and download it with “Save master data”.
+        The downloaded file replaces the old one in the folder; after reloading, the app starts with the new state.
+        If you download several times, the browser may add a number to the file name, for example <code>master-data(1).js</code>. In that case, rename the file.
+      </p>
+      <p>Structure, shortened:</p>
+      <pre>window.MASTER_DATA = {
+  "scenario": { "name": "Sample Sheet Metal Works", "description": "…" },
+  "homeLink": { "url": "/", "label": "Back to the website" },  (optional)
+  "families": [ { "id": "A", "name": "Control cabinet door", "details": "…" }, … ],
+  "machines": [
+    { "id": "laser", "name": "Laser cutter",
+      "setup": { "empty": { "A": 10, … }, "A": { "A": 0, "B": 8, … }, … } }, …
+  ],
+  "singleMachine": "coating",
+  "jobs": [ { "id": 1, "family": "A", "processingTimes": { "laser": 35, … }, "dueDate": 300 }, … ],
+  "generator": { "seed": 42, "jobCount": 12, "dueDatePressure": 0.4,
+                 "processingTimeRanges": { "laser": { "min": 20, "max": 50 }, … } }
+};</pre>
+      <ul>
+        <li>2 to 8 families and 1 to 5 machines. The order of the machines is the station order of the line.</li>
+        <li><code>singleMachine</code> sets which machine the “Single machine” mode shows.</li>
+        <li>Each setup matrix needs one row per family plus <code>empty</code>, each with one value per family. The diagonal is 0.</li>
+        <li>All times are whole minutes.</li>
+      </ul>
+      <p>
+        On start, the app checks the file. If there is an error, it shows the affected place,
+        for example <code>machines[2].setup.C.C: diagonal must be 0</code>. The mini examples still work in that case.
+      </p>
+      <p>
+        Why <code>.js</code> and not <code>.json</code>? Browsers do not let a page opened by double-click load JSON files.
+        A script file, on the other hand, works everywhere, even offline. The content is still written in JSON notation.
+      </p>
+    </section>
+
+    <section id="limits">
+      <h2>10 Limits of the model</h2>
+      <p>The model is deliberately simple, so the effect of the sequence stays visible. In practice, further factors come into play:</p>
+      <ul>
+        <li><strong>All jobs are available from t = 0.</strong> Material that arrives later is not modelled.</li>
+        <li><strong>No disruptions:</strong> there are no machine breakdowns, scrap or varying times. All times are fixed.</li>
+        <li><strong>No shift boundaries or breaks:</strong> time runs continuously.</li>
+        <li><strong>Unlimited buffers</strong> between the stations of the line. A job can wait for any length of time.</li>
+        <li><strong>One sequence for all stations</strong> (permutation flow shop). Overtaking between stations is not possible, nor are different routes (job shop) or parallel machines.</li>
+        <li><strong>Batches are not split:</strong> a job only moves to the next station once it is complete; there is no overlapping production.</li>
+        <li><strong>Unweighted tardiness:</strong> every customer and every minute counts the same.</li>
+        <li><strong>Unlimited setup staff:</strong> all stations can be set up at the same time.</li>
+      </ul>
+    </section>
+
+    <section id="teaching">
+      <h2>11 Ideas for teaching</h2>
+      <ol>
+        <li><strong>Start with the mini example:</strong> work through FIFO on the board and compare with the app. Then ask: which sequence would you choose?</li>
+        <li><strong>Make the trade-off visible:</strong> compare EDD and Nearest Neighbour in the demo scenario. Which KPI matters more to the plant, and who decides that?</li>
+        <li><strong>Experience asymmetry:</strong> in powder coating, lower the “dark → light” setup times to the level of “light → dark”. How much do the results change?</li>
+        <li><strong>Vary the due-date pressure:</strong> with the same seed, generate τ = 0, 0.4 and 1. From which point do the methods differ in tardiness?</li>
+        <li><strong>Understand the bottleneck:</strong> switch between “Single machine” and “Line”. Why is the makespan longer on the line, even though the same jobs run?</li>
+        <li><strong>Explore the SA parameters:</strong> compare start temperature 1 with 500, and cooling rate 0.990 with 0.9995. When does the method get stuck, and when does it search randomly for too long?</li>
+        <li><strong>Randomness and repeatability:</strong> try several SA seeds. How much does the result vary? What does that mean for use in practice?</li>
+        <li><strong>Discuss the weighting:</strong> move α from 0 to 1 and watch how the SA solution moves between “little setup” and “meeting due dates”.</li>
+      </ol>
+    </section>
+  </main>
+</div>
+
+</body>
+</html>
