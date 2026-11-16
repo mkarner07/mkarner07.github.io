@@ -1,5 +1,5 @@
 ---
-permalink: /pages/
+permalink: /projects/
 title: "Pages and Projects"
 author_profile: true
 ---
