@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Pages and Projects"
+title: "Projects"
 author_profile: true
 ---
 
