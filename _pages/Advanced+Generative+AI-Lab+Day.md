@@ -9,6 +9,10 @@ A hands-on lab built around one realistic industrial case, with two interchangea
 
 [Download the guide (PDF)]({{ '/assets/pdf/lab-day-fault-triage.pdf' | relative_url }})
 
+Download the data:
+- [in CSV]({{ '/assets/data/lab-day-fault-triage-tickets.csv' | relative_url }})
+- [in JSON]({{ '/assets/data/lab-day-fault-triage-tickets.json' | relative_url }})
+
 ## The case
 
 It is 02:10 on the night shift. The grinding belt on line 3 runs unevenly, and the operator posts a one-line message to the maintenance group chat. Nobody reads it before 06:00. By then the planner faces 41 messages: real faults, duplicates, questions, and a complaint about the coffee machine. Sorting them into tickets takes about two hours.
