@@ -8,11 +8,14 @@ This page is for my students in the lecture "Advanced and Generative AI". Everyt
 
 ## For the lecture
 
-**[Use-Case-Canvas](/use-case-canvas/)**
-The canvas we use to sketch out AI use cases. Runs in the browser, nothing to install.
-
 **[Sequence-Playground](/sequence-playground/)**
 A playground for production sequencing. Try different optimization algorithms on a demo modelled on a real industrial setting and see how they compare.
+
+**[Governance Check](/governance-check/)**
+Check an AI use case against typical corporate governance criteria and find the blockers before your IT department does.
+
+**Optional: [Use-Case-Canvas](/use-case-canvas/)**
+The canvas we use to sketch out AI use cases. Runs in the browser, nothing to install.
 
 **[Lab Day: AI-Assisted Fault Report Triage](/Advanced+Generative+AI+Lab+Day/)**
 The case we build in the lab: turning free-text fault reports into structured tickets with an LLM and a small workflow. You choose one of two stacks, n8n + Gemini or Power Automate + Copilot. The page has the case story, the build guide and the prerequisites.
