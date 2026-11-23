@@ -134,17 +134,21 @@ That is also where the transformation happens. AI stops making existing tasks 10
 
 ## What we are doing to bring AI to the people
 
-In my organization we defined AI power users and are training them, especially on the tools available within our limited corporate AI stack. Each department nominated one or two people for our AI peer program.
+In my organization, we identified AI power users and started training them, with a strong focus on the tools available within our rather limited corporate AI stack. Each department nominated one or two people to join our AI peer program.
 
-The first workshop was about understanding. We presented our AI governance, showed a few use cases and motivated the participants to try more on their own. It worked. They were interested not only in the AI tools themselves, but also in surrounding tools such as workflow automation that can be combined with AI.
+The first workshop was all about **understanding and curiosity**. We introduced our AI governance, demonstrated a few practical use cases and encouraged participants to experiment on their own.
 
-We then prepared a second workshop, with a hands-on approach. With external support and moderation, we worked on real AI use cases together. Now after that, the participants are on their own: they develop use cases in their departments, and we set an incentive for it.
+It worked.
 
-<!-- 
-- Woran habt ihr konkret gearbeitet, und was ist dabei entstanden?
-- Was hat euch überrascht, zum Beispiel Fragen, Hürden oder Tools, die besser oder schlechter ankamen als gedacht?
-- Wie viele Teilnehmer haben schon angefangen, eigene Use Cases anzugehen?
--->
+People were interested not only in the AI tools themselves, but also in the ecosystem around them, especially workflow automation and how it can be combined with AI.
+
+The second workshop was much more hands-on with external support from werchota.ai. After a great (and some might say slightly controversial) take on how to prompt and communicate with AI agents, we moved into practical topics: Why can an HTML/JS dashboard sometimes be a much better AI output than plain text? Where can AI actually help in everyday office work?
+
+Then we let people work on their own use cases. What followed were dashboards coming to life, optimized workflows and plenty of ideas about what to try next.
+
+And now comes the important part: **the participants take it back into their departments**. They develop their own use cases and share what they learn. We also created an incentive to keep that momentum going.
+
+And it seems to work. The level of engagement around AI across the organization feels noticeably different today. AI is becoming less of a central IT initiative and more of something people explore, apply, and develop themselves.
 
 ## Conclusion
 
