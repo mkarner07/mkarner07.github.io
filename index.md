@@ -5,9 +5,9 @@ title: "Making systems work: in theory and in practice"
 author_profile: true
 ---
 
-Most advice breaks once it meets real constraints. I've spent years learning that the hard way: first in applied research, then as a department head for IT and digital transformation in a complex international organization. The five articles below are the distilled version of what actually works. If you read only one, start with [LENS](https://matthiaskarner.com/2026/10/LENS-a-decision-centric-approach-to-knowledge-and-productivity/).
+Most advice breaks once it meets real constraints. I've spent years learning that the hard way: first in applied research, then as a department head for IT and digital transformation in a complex international organization. The five articles below are the distilled version of what actually works. If you read only one, start with [LENS](/lens/).
 
-[LENS: A Decision-Centric Approach to Knowledge and Productivity](https://matthiaskarner.com/2026/10/LENS-a-decision-centric-approach-to-knowledge-and-productivity/): Why I organize notes around the decisions they support instead of topics and how that system holds up in a real work week.
+[LENS: A Decision-Centric Approach to Knowledge and Productivity](/lens/): Why I organize notes around the decisions they support instead of topics and how that system holds up in a real work week.
 
 [The Unexpected Impact of Handing Your Decisions to AI (It’s Not What You Think)](https://matthiaskarner.com/2026/03/The-Unexpected-Impact-of-Handing-Your-Decisions-to-AI/): How I use AI as a thinking tool (structure, clarity, reflection) without outsourcing judgment or responsibility.
 
