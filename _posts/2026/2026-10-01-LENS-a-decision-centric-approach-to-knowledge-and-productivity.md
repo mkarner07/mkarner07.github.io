@@ -1,10 +1,17 @@
 ---
 title: "LENS - a decision-centric approach to knowledge and productivity"
-#layout: single
-permalink: /lens/
-#redirect_from:
-# - 2026/10/LENS-a-decision-centric-approach-to-knowledge-and-productivity/
-last_modified_at: 2026-11-27
+description: "LENS is the system I use to turn the flood of meetings, emails and documents in my day-to-day work into something I can actually act on. It grew out of my earlier attempt at a remeber everything system, once I realized that recall wasn't the bottleneck anymore. Decisions were."
+date: 2026-10-01
+excerpt_separator: "<!--more-->"
+categories:
+  - Personal Operating Systems
+tags:
+  - Personal Operating Systems
+  - Leadership as a System
+  - Notetaking
+  - Decision
+  - Methods
+
 ---
 
 LENS is the system I use to turn the flood of meetings, emails and documents in my day-to-day work into something I can actually act on. It grew out of [TORP](https://matthiaskarner.com/2023/11/The-Total-Recall-Productivity-Method/), my earlier attempt at a "remeber everything" system, once I realized that recall wasn't the bottleneck anymore. Decisions were.
@@ -26,9 +33,9 @@ What's still evolving is the outside: how information gets in, how AI fits into 
 ## Start here
 
 This is the system as it stands today - the clearest and most current descriptionof how it works.
-- Building a Decision-Centric Productivity System, [Part 1: Principles & Structure](https://matthiaskarner.com/2026/10/LENS-a-decision-centric-approach-to-knowledge-and-productivity/)
-- Building a Decision-Centric Productivity System, [Part 2: Workflows & Weekly Synthesis](https://matthiaskarner.com/2026/09/Part-2-Building-a-Decision-Centric-Productivity-System/)
-- Building a Decision-Centric Productivity System, [Part 3: The Agentic Layer](https://matthiaskarner.com/2026/10/Part-3-Building-a-Decision-Centric-Productivity-System/)
+- Building a Decision-Centric Productivity System, [Part 1: Principles & Structure]({% post_url 2026-08-20-Part-1-Building-a-Decision-Centric-Productivity-System %})
+- Building a Decision-Centric Productivity System, [Part 2: Workflows & Weekly Synthesis]({% post_url 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System %})
+- Building a Decision-Centric Productivity System, [Part 3: The Agentic Layer]({% post_url 2026-10-01-Part-3-Building-a-Decision-Centric-Productivity-System %})
 
 More applied posts will get added here as I write them - particular problems I ran into, how I adapted the system for specific parts of my role, that kind of thing.
 
