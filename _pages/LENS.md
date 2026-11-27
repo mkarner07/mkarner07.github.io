@@ -27,8 +27,8 @@ This is the system as it stands today - the clearest and most current descriptio
 - Building a Decision-Centric Productivity System, [Part 1: Principles & Structure]({% post_url 2026-08-20-Part-1-Building-a-Decision-Centric-Productivity-System %})
 - Building a Decision-Centric Productivity System, [Part 2: Workflows & Weekly Synthesis]({% post_url 2026-09-03-Part-2-Building-a-Decision-Centric-Productivity-System %})
 - Building a Decision-Centric Productivity System, [Part 3: The Agentic Layer]({% post_url 2026-10-01-Part-3-Building-a-Decision-Centric-Productivity-System %})
-- How to implement LENS and what [Software-Tools](% post_url 2026-10-29-Tools-for-LENS) to use 
-- A way to work with list-like knowledge: [Registers](% post_url 2026-11-12-I-Added-Registers-to-LENS)
+- How to implement LENS and what [Software-Tools]({% post_url 2026-10-29-Tools-for-LENS %}) to use 
+- A way to work with list-like knowledge: [Registers]({% post_url 2026-11-12-I-Added-Registers-to-LENS %})
 
 More applied posts will get added here as I write them - particular problems I ran into, how I adapted the system for specific parts of my role, that kind of thing.
 
