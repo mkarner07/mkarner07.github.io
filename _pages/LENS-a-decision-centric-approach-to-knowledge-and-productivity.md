@@ -1,9 +1,9 @@
 ---
 title: "LENS - a decision-centric approach to knowledge and productivity"
-layout: single
+#layout: single
 permalink: /lens/
-redirect_from:
- - 2026/10/LENS-a-decision-centric-approach-to-knowledge-and-productivity/
+#redirect_from:
+# - 2026/10/LENS-a-decision-centric-approach-to-knowledge-and-productivity/
 last_modified_at: 2026-11-27
 ---
 
